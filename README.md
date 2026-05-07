@@ -122,3 +122,10 @@ The pipeline generates highly structured deterministic outputs:
 - `dashboard/data/` — Browser-ready static snapshots.
 
 > **Maintenance Note**: The repository purposefully keeps generated chapter data and assets committed because the dashboard reads them directly. Scratch and backup material stay outside the public workflow.
+---
+
+## 🤝 Contributors
+
+<a href="https://github.com/yutuknown/neet-bio-scrapper/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yutuknown/neet-bio-scrapper" />
+</a>
