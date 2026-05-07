@@ -1,0 +1,30 @@
+[
+  {
+    "html_path": "/home/everarpitraj/neet-bio-scrapper/fixtures/edurev/NEET-Previous-Year-Questions-2016-22-Principles-o.html",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/principles-of-inheritance-and-variation.json",
+    "expected_question_count": 56,
+    "scraped_question_count": 54,
+    "schema_error_count": 0,
+    "structural_accuracy": 1.0,
+    "completeness_accuracy": 0.7776,
+    "semantic_accuracy": 0.4948,
+    "schema_gap_risk": 0.025,
+    "anomaly_score": 0.0137,
+    "final_accuracy": 0.7201,
+    "risk": "medium"
+  },
+  {
+    "html_path": "/home/everarpitraj/neet-bio-scrapper/fixtures/edurev/NEET-Previous-Year-Questions-2016-20-Sexual-Repr.html",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/sexual-reproduction-in-flowering-plants.json",
+    "expected_question_count": 51,
+    "scraped_question_count": 49,
+    "schema_error_count": 0,
+    "structural_accuracy": 1.0,
+    "completeness_accuracy": 0.7128,
+    "semantic_accuracy": 0.4261,
+    "schema_gap_risk": 0.0275,
+    "anomaly_score": 0.011,
+    "final_accuracy": 0.6699,
+    "risk": "medium"
+  }
+]

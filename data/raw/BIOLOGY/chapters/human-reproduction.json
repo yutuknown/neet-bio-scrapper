@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "Q1",
+    "sourceQuestionNumber": 1,
+    "text": "The first menstruation is called",
+    "options": {
+      "A": "Diapause",
+      "B": "Ovulation",
+      "C": "Menopause",
+      "D": "Menarche"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Menarche is the first occurrence of menstruation in a female, marking the onset of reproductive capability.Menopause is the permanent cessation of menstruation at the end of the reproductive period.Ovulation is the release of an egg from the ovary.Diapause is a delayed developmental phase seen in some animals, not related to menstruation.",
+      "others": ""
+    },
+    "year": "2025",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "sourceQuestionNumber": 2,
+    "text": "Find the correct statements: A. In the human pregnancy, the major organ systems are formed at the end of 12 weeks. B. In human pregnancy the major organ systems are formed at the end of 8 weeks. C. In human pregnancy heart is formed after one month of gestation. D. In human pregnancy, limbs and digits develop by the end of second month. E. In human pregnancy the appearance of hair is usually observed in the fifth month",
+    "options": {
+      "A": "B, C, D and E only",
+      "B": "A, C, D and E Only",
+      "C": "A and E Only",
+      "D": "B and C Only"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "A. Correct - By the end of 12 weeks (first trimester), all major organ systems are formed and start functioning.B. Incorrect - While organ formation begins earlier, full development of organ systems completes around 12 weeks, not 8.C. Correct - The heart develops and begins to beat by the end of the first month.D. Correct - Limbs and digits form by the end of the second month (8 weeks).E. Correct - Fine hair called lanugo appears around the fifth month of gestation.",
+      "others": ""
+    },
+    "year": "2025",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "sourceQuestionNumber": 3,
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-IV, C-II, D-I",
+      "B": "A-III, B-II, C-I, D-IV",
+      "C": "A-IV, B-III, C-I, D-II",
+      "D": "A-IV, B-III, C-II, D-I"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "A. Head → IV. Genetic materials The head of the sperm contains the nucleus, which holds genetic material (DNA).B. Middle piece → III. Energy The middle piece contains mitochondria, which provide energy (ATP) for movement.C. Acrosome → I. Enzymes The acrosome is a cap-like structure over the sperm head that contains enzymes (like hyaluronidase) to penetrate the egg.D. Tail → II. Sperm motility The tail (flagellum) helps in motility, allowing the sperm to swim.",
+      "others": ""
+    },
+    "year": "2025",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/human-reproduction/reproduction-2025_B12_Q3-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "sourceQuestionNumber": 4,
+    "text": "Consider the following: A. The reductive division for the human female gametogenesis starts earlier than that of the male gametogenesis. B. The gap between the first meiotic division and the second meiotic division is much shorter for males compared to females. C. The first polar body is associated with the formation of the primary oocyte. D. Luteinizing Hormone (LH) surge leads to disintegration of the endometrium and onset of menstrual bleeding",
+    "options": {
+      "A": "B and D are true",
+      "B": "B and C are true",
+      "C": "A and B are true",
+      "D": "A and C are true"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "A. True In females, meiosis (reductive division) begins during fetal life (in the form of primary oocytes). In males, meiosis starts at puberty.B. True In males, meiosis I and II occur rapidly in succession. In females, meiosis I completes at ovulation (after years of arrest), and meiosis II completes only after fertilization-hence, a much longer gap.C. False The first polar body is formed after the completion of meiosis I, which occurs from the primary oocyte, not during its formation.D. False The LH surge triggers ovulation, not menstrual bleeding. Menstruation occurs due to drop in progesterone and estrogen when the corpus luteum degenerates.",
+      "others": ""
+    },
+    "year": "2025",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is not a component of Fallopian tube?",
+    "options": {
+      "A": "Uterine fundus",
+      "B": "Isthmus",
+      "C": "Infundibulum",
+      "D": "Ampulla"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "The Fallopian tubes, also known as oviducts or uterine tubes, are structures in the female reproductive system that stretch from the uterus to the ovaries. These tubes play a crucial role in the journey of the egg from the ovary to the uterus. The primary components of the Fallopian tubes include the infundibulum, ampulla, and isthmus: When examining the options provided, Option A mentions the \"Uterine fundus\". The fundus is actually the top part of the uterus, situated above the openings of the Fallopian tubes into the uterine cavity. The fundus of the uterus is not a part of the Fallopian tubes; instead, it is a region of the uterus itself. Therefore, the correct answer is: Option A: Uterine fundus",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "sourceQuestionNumber": 2,
+    "text": "Given below are two statements: Statement I: The presence or absence of hymen is not a reliable indicator of virginity. Statement II: The hymen is torn during the first coitus only. In the light of the above above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are true",
+      "B": "Both Statement I and Statement II are false",
+      "C": "Statement I is true but Statement II is false",
+      "D": "Statement I is false but Statement II is true"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "To answer this question correctly, we need to evaluate the facts around each statement individually before making a comparison: Statement I: The presence or absence of hymen is not a reliable indicator of virginity. This statement is true. The hymen is a thin, elastic membrane located at the entrance to the vagina. Contrary to common belief, the hymen is not an impermeable barrier that is always torn when virginity is lost via sexual intercourse. It can vary greatly in shape and size from person to person. Some girls are born without a hymen, some have small hymenal tissue, and others have hymens that are very elastic. Moreover, the hymen can be stretched or torn during a variety of non-sexual activities such as tampon use, physical exercise (e.g., biking, gymnastics), or medical examinations. Therefore, the state of the hymen is not a definite indicator of virginity, making statement I true. Statement II: The hymen is torn during the first coitus only. This statement is false. As previously mentioned, the hymen can be stretched or torn by activities that are not sexual in nature. Additionally, many women may not experience tearing of the hymen at all during their first sexual intercourse. In cases where the hymen is more elastic or resilient, it may not tear during sexual activity. Furthermore, there are practices and surgeries, such as hymenoplasty, that can restore or create a hymen-like structure, indicating that the hymen can be altered multiple times throughout a woman's life. Thus, the claim that the hymen is torn only during the first coitus is incorrect. Based on the explanations provided: Option C (Statement I is true but Statement II is false) is the correct answer.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "sourceQuestionNumber": 3,
+    "text": "Identify the correct option (A), (B), (C), (D) with respect to spermatogenesis",
+    "options": {
+      "A": "FSH, Leydig cells, Sertoli cells, spermiogenesis.",
+      "B": "ICSH, Interstitial cells, Leydig cells, spermiogenesis.",
+      "C": "FSH, Sertoli cells, Leydig cells, spermatogenesis.",
+      "D": "ICSH, Leydig cells, Sertoli cells, spermatogenesis."
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Sol: The correct answer is option no. (A) as Role of Hormones and Cells in Spermatogenesis:FSH (Follicle-stimulating hormone) acts on the Sertoli cells to promote spermatogenesis (the production of sperm).Leydig cells are responsible for producing testosterone, which supports the process of spermatogenesis.Spermiogenesis is the final stage of spermatogenesis where spermatids mature into sperm.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/human-reproduction/reproduction-2024_B12_Q7-main.png",
+      "BIOLOGY/chapters/human-reproduction/reproduction-2024_B12_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "sourceQuestionNumber": 4,
+    "text": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R: Assertion A: Breast-feeding during initial period of infant growth is recommended by doctors for bringing a healthy baby. Reason R: Colostrum contains several antibodies absolutely essential to develop resistance for the new born baby",
+    "options": {
+      "A": "Both A and R are correct and R is the correct explanation of A",
+      "B": "Both A and R are correct but R is NOT the correct explanation of A",
+      "C": "A is correct but R is not correct",
+      "D": "A is not correct but R is correct"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Assertion A states that breast-feeding during the initial period of infant growth is recommended by doctors to bring up a healthy baby. This statement is indeed correct. Breast-feeding is universally recommended by health professionals because mother's milk contains the perfect balance of nutrients essential for the newborn's growth and development. Additionally, breastfeeding promotes better health outcomes for the mother and infant, strengthening the immune system of the baby. Reason R explains that colostrum, the first form of milk produced immediately following the delivery of the newborn, contains several antibodies absolutely essential to develop resistance for the newborn baby. This statement is also correct. Colostrum is rich in immunoglobulins, particularly IgA, which provide passive immunity to the baby by forming a protective layer in the baby's intestine, thereby preventing infection. Since both Assertion A and Reason R are correct, and Reason R directly explains why breastfeeding is beneficial - particularly highlighting the role of colostrum in providing immunity which is crucial for the newborn's health, the correct option herein is: Option A: Both A and R are correct and R is the correct explanation of A.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following is not a steroid hormone?",
+    "options": {
+      "A": "Testosterone",
+      "B": "Progesterone",
+      "C": "Glucagon",
+      "D": "Cortisol"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "(a) Testosterone: A steroid hormone produced in the testes and adrenal glands, involved in male characteristics. (b) Progesterone: A steroid hormone important for regulating the menstrual cycle and maintaining pregnancy. (c) Glucagon: Not a steroid hormone; it is a peptide hormone produced by the pancreas that raises blood glucose levels. (d) Cortisol: A steroid hormone produced by the adrenal glands, involved in stress response and metabolism.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "sourceQuestionNumber": 6,
+    "text": "Arrange in a proper sequence the pathway of sperms from testis to outside in human male reproductive system. A. Vas deferens B. Rete testis C. Seminiferous tubules D. Vasa efferentia E. Urethra F. Epididymis",
+    "options": {
+      "A": "F→A→B→D→E→C",
+      "B": "C→A→B→D→F→E",
+      "C": "B→A→D→C→F→E",
+      "D": "C→B→D→F→A→E"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "C. Seminiferous tubules: Site of sperm production in the testes. B. Rete testis: Network of tubules that collect sperm from seminiferous tubules. D. Vasa efferentia: Tubes that carry sperm from the rete testis to the epididymis. F. Epididymis: Site where sperm mature and are stored. A. Vas deferens: Duct that transports sperm from the epididymis to the ejaculatory duct. E. Urethra: Final pathway for sperm to exit the body.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "sourceQuestionNumber": 7,
+    "text": "Match List-I with List-II relating to major features of embryonic development at different timings of pregnancy",
+    "options": {
+      "A": "A-III, B-IV, C-I, D-II",
+      "B": "A-II, B-I, C-III, D-IV",
+      "C": "A-II, B-IV, C-I, D-III",
+      "D": "A-III, B-IV, C-II, D-I"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "A. After 4 weeks: II. Heart is formed. B. After 12 weeks: IV. External genital organs are well developed. C. After 24 weeks: I. Eye-lids separate and eyelashes are formed. D. After 8 weeks: III. Limbs and digits are developed.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/human-reproduction/reproduction-2024_B12_Q11-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "sourceQuestionNumber": 8,
+    "text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R): Assertion (A): FSH acts upon ovarian follicles in female and Leydig cells in male. Reason (R): Growing ovarian follicles secrete estrogen in female while interstitial cells secrete androgen in male human being",
+    "options": {
+      "A": "Both (A) and (R) are True but (R) is not the correct explanation of (A)",
+      "B": "(A) is True but (R) is False",
+      "C": "(A) is False but (R) is True",
+      "D": "Both (A) and (R) are True and (R) is the correct explanation of (A)"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "(A) FSH acts on ovarian follicles but not on Leydig cells; Leydig cells are stimulated by LH. (R) The statement about ovarian follicles secreting estrogen is true.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "sourceQuestionNumber": 9,
+    "text": "Given below are two statements: Statement I: Degeneration of corpus luteum in the absence of fertilization is the cause for disintegration of endometrium. Statement II: Cyclic menstruation indicates normal reproductive phase in human females and extends between menarche and menopause",
+    "options": {
+      "A": "Both Statement I and Statement II are True.",
+      "B": "Both Statement I and Statement II are False.",
+      "C": "Statement I is True but Statement II is False.",
+      "D": "Statement I is False but Statement II is True."
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Statement I is true as the degeneration of the corpus luteum leads to a drop in progesterone, causing the endometrium to disintegrate. - Statement II is also true as cyclic menstruation indicates a normal reproductive phase in females.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "sourceQuestionNumber": 10,
+    "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): During menstrual cycle, the ovulation takes place approximately on 14th day. Reason (R): Rapid secretion of LH in the middle of menstrual cycle induces rupture of Graafian follicle and thereby the release of ovum",
+    "options": {
+      "A": "(A) is True but (R) is False",
+      "B": "(A) is False but (R) is True",
+      "C": "Both (A) and (R) are True and (R) is the correct explanation of (A)",
+      "D": "Both (A) and (R) are True but (R) is not the correct explanation of (A)"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "(A) is true as ovulation typically occurs around the 14th day of the cycle. (R) correctly explains that the LH surge induces ovulation.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "sourceQuestionNumber": 11,
+    "text": "Match List-I with List-II relating to human female external genitalia",
+    "options": {
+      "A": "A-II, B-III, C-IV, D-I",
+      "B": "A-IV, B-III, C-II, D-I",
+      "C": "A-I, B-IV, C-III, D-II",
+      "D": "A-II, B-III, C-I, D-IV"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "A-II: Mons pubis is a fatty cushion of cells covered by skin and hair.B-III: Clitoris is a tiny finger-like structure located above the labia minora.C-IV: Hymen is a thin membrane-like structure that partially covers the vaginal opening.D-I: Labia majora are fleshy folds of tissue that surround the vaginal opening.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/human-reproduction/reproduction-2024_B12_Q15-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "sourceQuestionNumber": 12,
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III,B-IV,C-I,D-II",
+      "B": "A-I,B-IV,C-II,D-III",
+      "C": "A-II,B-III,C-IV,D-I",
+      "D": "A-III,B-IV,C-II,D-I"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "A-III: Parturition refers to the foetal ejection reflex during childbirth.B-IV: The placenta is responsible for the secretion of the hormone hCG.C-I: Colostrum contains several antibodies that are crucial for newborn babies.D-II: Fimbriae are involved in the collection of ovum after ovulation.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/human-reproduction/reproduction-2024_B12_Q16-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "sourceQuestionNumber": 1,
+    "text": "Given below are two statements: Statement I: Vas deferens receives a duct from seminal vesicle and opens into urethra as the ejaculatory duct. Statement Il: The cavity of the cervix is called cervical canal which along with vagina forms birth canal",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is correct but Statement II is false.",
+      "D": "Statement I is incorrect but Statement II is true."
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Option (a) is the correct answer to this question because statement I and statement II both are correct. Vas deferens receives a duct from seminal vesicle and opens into urethra as the ejaculatory duct. The cavity of cervix is called cervical canal which along with vagina forms the birth canal.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "sourceQuestionNumber": 2,
+    "text": "Which of the following statements are correct regarding female reproductive cycle?",
+    "options": {
+      "A": "In non-primate mammals cyclical changes during reproduction are called oestrus cycle.",
+      "B": "First menstrual cycle begins at puberty and is called menopause.",
+      "C": "Lack of menstruation may be indicative of pregnancy.",
+      "D": "Cyclic menstruation extends between menarche and menopause."
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "The correct answer is option (d) as first menstrual cycle that begins at puberty is called menarche. Cyclic menstruation is an indicator of normal reproductive phase and extends between menarche and menopause. In primates, cyclical changes during reproduction are called menstrual cycle.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "sourceQuestionNumber": 3,
+    "text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Endometrium is necessary for implantation of blastocyst. Reason R: In the absence of fertilization, the corpus luteum degenerates that causes disintegration of endometrium",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A.",
+      "B": "Both A and R are true but R is NOT the correct explanation of A.",
+      "C": "A is true but R is false.",
+      "D": "A is false but R is true."
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Option (b) is the correct answer because both Assertion and Reason are true. Implantation is embedding of the blastocyst into endometrium of uterus. Correct explanation of reason is Corpus luteum secretes large amount of progesterone which is essential for maintenance of endometrium of uterus. In absence of fertilisation, the corpus luteum degenerates hence the decrease in the level of progesterone hormone will cause disintegration of endometrium leading to menstruation.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "sourceQuestionNumber": 4,
+    "text": "Arrange the sequence of different hormones for their role during gametogenesis: A. Gonadotropin LH stimulates synthesis and secretion of Androgen B. Gonadotropin releasing hormone from hypothalamus C. Androgen stimulates spermatogenesis D. Gonadotropin FSH helps in the process of spermiogenesis E. Gonadotropins from anterior pituitary gland",
+    "options": {
+      "A": "(E), (A), (D), (B), (C)",
+      "B": "(C), (A), (D), (E), (B)",
+      "C": "(B), (E), (A), (C), (D)",
+      "D": "(D), (B), (A), (C), (E)"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "(B) Gonadotropin releasing hormone from hypothalamus: This hormone initiates the process by stimulating the anterior pituitary gland to release gonadotropins. (E) Gonadotropins from anterior pituitary gland: These include LH and FSH, which are crucial for the regulation of gonadal function. (A) Gonadotropin LH stimulates synthesis and secretion of Androgen: LH acts on Leydig cells in the testes to produce androgens, which are essential for male gametogenesis. (C) Androgen stimulates spermatogenesis: The androgens produced promote the development of sperm cells from spermatogonia. (D) Gonadotropin FSH helps in the process of spermiogenesis: FSH supports the maturation of sperm cells into fully developed spermatozoa.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "sourceQuestionNumber": 5,
+    "text": "Given below are two statements regarding oogenesis. Statement I: The primary follicles get surrounded by more layers of granulosa cells, a theca and shows fluid filled cavity antrum. Now it is called secondary follicle. Statement II: Graafian follicle ruptures to release the secondary oocyte from the ovary by the process called ovulation",
+    "options": {
+      "A": "Statement I is correct but Statement II is false",
+      "B": "Statement I is incorrect but Statement II is true",
+      "C": "Both Statement I and Statement II are true",
+      "D": "Both Statement I and Statement II are false"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Statement I: is incorrect because the primary follicles, when surrounded by more layers of granulosa cells and a theca, are called secondary follicles. However, the secondary follicles then transform into tertiary follicles, which is characterized by a fluid-filled cavity called antrum. Statement II: is correct as the Graafian follicle does rupture to release the secondary oocyte from the ovary, a process known as ovulation. So, the correct answer is Option B : Statement I is incorrect but Statement II is true.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "sourceQuestionNumber": 1,
+    "text": "Given below are two statements: Statement I: The release of sperms into the seminiferous tubules is called spermiation. Statement II: Spermiogenesis is the process of formation of sperms from spermatogonia",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect",
+      "B": "Statement I is incorrect but Statement II is correct",
+      "C": "Both Statement I and Statement II are correct",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "The process of spermatogenesis occurs in testis, in which the immature male germ cells or spermatogonia are converted to sperms. The spermatogonia present on the inside wall of seminiferous tubules undergoes mitosis. Some spermatogonia periodically undergo meiosis. These spermatogonia are called as primary spermatocytes (2n). A primary spermatocyte completes the first meiotic division and forms secondary spermatocytes (n). The secondary spermatocytes undergo the second meiotic division to produce spermatids.The spermatids are then, transformed into spermatozoa or sperms by the process called spermiogenesis. After spermiogenesis, sperm heads become embedded in the Sertoli cells. These spermatozoa are finally released from the seminiferous tubules by the process called spermiation.",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/human-reproduction/reproduction-2022_B12_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "sourceQuestionNumber": 2,
+    "text": "At which stage of life the oogenesis process is initiated?",
+    "options": {
+      "A": "Birth",
+      "B": "Adult",
+      "C": "Puberty",
+      "D": "Embryonic development stage"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Oogenesis starts at embryonic development stage in females. Process of Oogenesis",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/human-reproduction/reproduction-2022_B12_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following statements are true for spermatogenesis but do not hold true for Oogenesis?",
+    "options": {
+      "A": "It results in the formation of haploid gametes",
+      "B": "Differentiation of gamete occurs after the completion of meiosis",
+      "C": "Meiosis occurs continuously in a mitotically dividing stem cell population",
+      "D": "It is controlled by the Luteinising Hormone (LH) and Follicle Stimulating Hormone (FSH) secreted by the anterior pituitary"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Concept:The process of formation of the male gamete (sperm) is called spermatogenesis.The process of formation of the female gamete (ovum) is called oogenesis.Explanation:Let us see some similarities and differences between oogenesis and spermatogenesis: So, the correct answer is option A .",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [
+      [
+        [
+          "Sl.No",
+          "Spermatogenesis",
+          "Oogenesis"
+        ],
+        [
+          "1",
+          "It is initiated at puberty.",
+          "It begins during fetal development. Oogonia undergo mitosis division in the fetal development stage and form primary oocytes. No more primary oocytes are added after that."
+        ],
+        [
+          "2",
+          "The male germ cells undergo mitosis to form primary spermatocytes, which divide into secondary spermatocytes by meiosis. The secondary spermatocytes undergo second meiotic division to form spermatids. The spermatids undergo differentiation to form sperms.",
+          "Primary oocytes undergo the first meiotic division to form the first polar body and the secondary oocyte. A secondary oocyte is contained in the Graafian follicle."
+        ],
+        [
+          "3",
+          "Meiosis occurs continuously in a mitotically dividing stem cell population.",
+          "Mitosis occurs only during the embryonic development stage."
+        ],
+        [
+          "4",
+          "Differentiation of gamete occurs after the completion of meiosis.",
+          "The Graafian follicle ruptures to release the secondary oocyte called the ovum. There is no differentiation of secondary oocytes."
+        ],
+        [
+          "5",
+          "It is controlled by the Luteinising hormone (LH) and Follicle Stimulating Hormone (FSH) secreted by the anterior pituitary.",
+          "It is controlled by the Luteinising hormone (LH) and Follicle Stimulating Hormone (FSH) secreted by the anterior pituitary."
+        ],
+        [
+          "6",
+          "It results in the formation of haploid gametes.",
+          "It results in the formation of haploid gametes."
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "sourceQuestionNumber": 4,
+    "text": "How many secondary spermatocytes are required to form 400 million spermatozoa? [NEET 2022 Phase 2]",
+    "options": {
+      "A": "400 million",
+      "B": "50 million",
+      "C": "100 million",
+      "D": "200 million"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Option (d) is the correct answer because one primary spermatocyte produces two secondary spermatocytes by meiosis I and one secondary spermatocyte produces two spermatozoa via meiosis 2. So, 200 million secondary spermatocytes will produce 400 million spermatozoa.",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "sourceQuestionNumber": 5,
+    "text": "Arrange the components of mammary gland. (from proximal to distal). [NEET 2022 Phase 2]",
+    "options": {
+      "A": "Mammary duct",
+      "B": "Lactiferous duct",
+      "C": "Alveoli",
+      "D": "Mammary ampulla"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Option (d) is the correct answer because the components of mammary gland (from proximal to distal) is: (c) → (e) → (a) → (d) → (b) Alveoli→Mammarytubules→Mammaryduct→Mammaryampulla→Lactiferousduct Each mammary lobule is composed of a number of alveoli which open into mammary tubules. The tubules of each lobule join to form a mammary duct. Near the nipple, mammary ducts expand to form mammary ampullae where some milk is stored before going to lactiferous duct which is present at distal end through which milk is sucked out.",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "sourceQuestionNumber": 6,
+    "text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). [NEET 2022 Phase 2] Assertion (A): During pregnancy the level of thyroxine is increased in the maternal blood. Reason (R): Pregnancy is characterised by metabolic changes in the mother",
+    "options": {
+      "A": "(A) is not correct but (R) is correct",
+      "B": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "C": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+      "D": "(A) is correct but (R) is not correct"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Option (b) is the correct answer because thyroxine is the main hormone that increases the basal metabolic rate in our body. A high metabolic rate is required during pregnancy, so levels of thyroxine increase in pregnant females along with other hormones such as cortisol, progesterone, etc.",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "sourceQuestionNumber": 1,
+    "text": "Receptors for sperm binding in mammals are present on",
+    "options": {
+      "A": "Perivitelline space",
+      "B": "Zona pellucida",
+      "C": "Corona radiata",
+      "D": "Vitelline membrane"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Option B. is correct because zona pellucida has receptors for sperm binding (ZP3 receptors) in mammals.Corona radiata is a layer of radially arranged cells of membrana granulosa.Perivitelline space is present in between vitelline membrane and zona pellucida.",
+      "others": ""
+    },
+    "year": "2021",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "sourceQuestionNumber": 2,
+    "text": "Which of the following secretes the hormone, relaxin, during the later phase of pregnancy?",
+    "options": {
+      "A": "Foetus",
+      "B": "Uterus",
+      "C": "Graafian follicle",
+      "D": "Corpus luteum"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Corpus luteum is formed in ovary after the ovulation and degenerates if pregnancy does not occur. In later phase of pregnancy the corpus luteum secretes relaxin hormone.Relaxin dilates the cervix and helps in parturition. Graafian follicle, uterus and foetus has no role in relaxin secretion.",
+      "others": ""
+    },
+    "year": "2021",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "sourceQuestionNumber": 3,
+    "text": "Which of these is not an important component of initiation of parturition in humans?",
+    "options": {
+      "A": "Release of Oxytocin",
+      "B": "Release of Prolactin",
+      "C": "Increase in estrogen and progesterone ratio",
+      "D": "Synthesis of prostaglandins"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "At the end of gestation, the completely developed foetus is expelled out. This process is called parturition.Parturition is controlled by a complex neuroendocrine mechanism.Estrogen and progesterone ratio increases as estrogen levels rise significantly.Prostaglandins, which stimulate uterine contractions are also produced that act on myometrium.Oxytocin, the main hormone, also called as birth hormone is released by maternal pituitary, which brings about strong uterine contractions.Prolactin is a lactation hormone that has no role in initiation of parturition.",
+      "others": ""
+    },
+    "year": "2021",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "sourceQuestionNumber": 1,
+    "text": "Match the following columns and select the correct option A. (a) (iii), (b) (ii), (c) (iv), (d) (i) B. (a) (ii), (b) (iii), (c) (iv), (d) (i) C. (a) (iv), (b) (iii), (c) (i), (d) (ii) D",
+    "options": {
+      "A": "(i),",
+      "B": "(iv),",
+      "C": "(ii),",
+      "D": "(iii)"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Placenta secretes human chorionic gonadotropin (hCG). Zona pellucida is a primary egg membrane secreted by the secondary oocyte. The secretions of bulbourethral glands help in lubrication of the penis Leydig cells synthesise and secrete testicular hormones called androgens.",
+      "others": ""
+    },
+    "year": "2020",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/human-reproduction/reproduction-2020_B12_Q31-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "sourceQuestionNumber": 2,
+    "text": "Meiotic division of the secondary oocyte is completed",
+    "options": {
+      "A": "After zygote formation",
+      "B": "At the time of fusion of a sperm with an ovum",
+      "C": "Prior to ovulation",
+      "D": "At the time of copulation"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Meiotic division of secondary oocyte is completed after the entry of sperm in secondary oocyte which lead to the formation of a large ovum and a tiny 2nd polar body.",
+      "others": ""
+    },
+    "year": "2020",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following hormone levels will cause release of ovum (ovulation) from the graffian follicle?",
+    "options": {
+      "A": "Low concentration of LH",
+      "B": "Low concentration of FSH",
+      "C": "High concentration of Estrogen",
+      "D": "High concentration of Progesterone"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "• High level of estrogen will send positive feedback to anterior pituitary for release of LH.• LH surge leads to ovulation.• FSH, LH and estrogen are at peak level during mid of menstrual cycle (28 day cycle).",
+      "others": ""
+    },
+    "year": "2020",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "sourceQuestionNumber": 1,
+    "text": "Extrusion of second polar body from egg occurs",
+    "options": {
+      "A": "Simultaneously with first cleavage",
+      "B": "After entry of sperm but before fertilisation",
+      "C": "After fertilisation",
+      "D": "Before entry of sperm into ovum."
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Sperms enters into 2o oocytes which breaks metaphase promoting factor and activates anaphase promoting complex which causes extrusion of second polar body by completing meiosis-II.",
+      "others": ""
+    },
+    "year": "2019",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "sourceQuestionNumber": 2,
+    "text": "Select the correct sequence for transport of sperm cells in male reproductive system",
+    "options": {
+      "A": "Testis → Epididymis → Vasa efferentia Vas deferens → Ejaculatoiy duct → Inguinal canal → Urethra → Urethral meatus",
+      "B": "Testis → Epididymis → Vasa efferentia → Rete testis → Inguinal canal Urethra",
+      "C": "Seminiferous tubules → Rete testis → Vasa efferentia → Epididymis → Vas deferens → Ejaculatory duct → Urethra → Urethral meatus",
+      "D": "Seminiferous tubules → Vasa efferentia → Epididymis → Inguinal canal → Urethra"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "The correct sequence for transport of sperm cells in male reproductive system is : Seminiferous tubules → Rete testis → Vasa efferentia → Epididymis → Vas deferens → Ejaculatory duct → Urethra → Urethral meatus.",
+      "others": ""
+    },
+    "year": "2019",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "sourceQuestionNumber": 1,
+    "text": "Hormones secreted by the placenta to maintain pregnancy are",
+    "options": {
+      "A": "HCG, hPL, progestogens, prolactin",
+      "B": "HCG, hPL, estrogens, relaxin, oxytocin",
+      "C": "HCG, hPL, progestogens, estrogens",
+      "D": "HCG, progestogens, estrogens, glucocorticoids"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Placenta is temporary organ that helps in exchange of gases, nutrients and waste materials between mother and fetus. During pregnancy, placenta acts as an endocrine gland and secretes some hormones such as estrogen, progesterone, human chorionic gonadotropin (hCG), human placental lactogen (hPL), chorionic thyrotropin, chorionic corticotropin and relaxin.",
+      "others": ""
+    },
+    "year": "2018",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "sourceQuestionNumber": 2,
+    "text": "The difference between spermiogenesis and spermiation is",
+    "options": {
+      "A": "In spermiogenesis spermatids are formed, while in spermiation spermatozoa are formed",
+      "B": "In spermiogenesis spermatozoa are formed, while in spermiation spermatids are formed",
+      "C": "In spermiogenesis spermatozoa from Sertoli cells are released into the cavity of seminiferous tubules, while in spermiation spermatozoa are formed",
+      "D": "In spermiogenesis spermatozoa are formed, while in spermiation spermatozoa are released from Sertoli cells into the cavity of seminiferous tubules"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "The spermatids are transformed into spermatozoa (sperms) by the process called spermiogenesis. After spermiogenesis, sperm heads become embedded in the Sertoli calls, and are finally released from the seminiferous tubules by the process called spermiation.",
+      "others": ""
+    },
+    "year": "2018",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "sourceQuestionNumber": 3,
+    "text": "Match the items given in column I with those in column II and select the correct option given below. Column I Column II A. Proliferative phase (i) Breakdown of endometrial B. Secretory phase (ii) Follicular phase C. Menstruation (iii) Luteal phase A B C(a) (iii) (ii) (i)(b) (i) (iii) (ii)(c) (ii) (iii) (i)(d) (iii) (i) (ii)",
+    "options": {
+      "A": "(iii) (ii) (i)",
+      "B": "(i) (iii) (ii)",
+      "C": "(ii) (iii) (i)",
+      "D": "(iii) (i) (ii)"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Menstruation is a phase of bleeding by breakdown of endometrial long, Proliferate phase is follicular phase where as secretary phase is lacteal phase.",
+      "others": ""
+    },
+    "year": "2018",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [
+      [
+        [
+          "Column I",
+          "Column II"
+        ],
+        [
+          "A. Proliferative phase",
+          "(i) Breakdown of endometrial"
+        ],
+        [
+          "B. Secretory phase",
+          "(ii) Follicular phase"
+        ],
+        [
+          "C. Menstruation",
+          "(iii) Luteal phase"
+        ]
+      ],
+      [
+        [
+          "",
+          "A",
+          "B",
+          "C"
+        ],
+        [
+          "(a)",
+          "(iii)",
+          "(ii)",
+          "(i)"
+        ],
+        [
+          "(b)",
+          "(i)",
+          "(iii)",
+          "(ii)"
+        ],
+        [
+          "(c)",
+          "(ii)",
+          "(iii)",
+          "(i)"
+        ],
+        [
+          "(d)",
+          "(iii)",
+          "(i)",
+          "(ii)"
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "table",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "sourceQuestionNumber": 1,
+    "text": "Changes in GnRH pulse frequency in females is controlled by circulating levels of",
+    "options": {
+      "A": "Progesterone only",
+      "B": "Progesterone and inhibin",
+      "C": "Estrogen and progesterone",
+      "D": "Estrogen and inhibin."
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "At the pituitary, GnRH stimulates the synthesis and secretion of the gonadotropins, follicle-stimulating hormone (FSH), and luteinizing hormone (LH). These processes are controlled by the size and frequency of GnRH pulses, as well as by feedback from progesterone and estrogens. Lowfrequency GnRH pulses are required for FSH release, whereas high-frequency GnRH pulses stimulate LH pulses in a one to one manner",
+      "others": ""
+    },
+    "year": "2016",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "sourceQuestionNumber": 2,
+    "text": "Fertilisation in humans is practically feasible only if",
+    "options": {
+      "A": "The ovum and sperms are transported simultaneously to ampullary-isthmic junction of the cervix",
+      "B": "The sperms are transported into cervix within 48 hrs of release of ovum in uterus",
+      "C": "The sperms are transported into vagina just after the release of ovum in Fallopian tube",
+      "D": "The ovum and sperms are transported simultaneously to ampullary-isthmic junction of the Fallopian tube"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "The word ampulla is derived from the Latin word 'flask'. Being the second portion of the fallopian tube, it is the intermediate dilated portion which immediately curves over the ovary. This is the common site of human fertilization as both the ovum and sperms are simultaneously transported here.",
+      "others": ""
+    },
+    "year": "2016",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "sourceQuestionNumber": 3,
+    "text": "Select the incorrect statement",
+    "options": {
+      "A": "LH and FSH decrease gradually during the follicular phase.",
+      "B": "LH triggers secretion of androgens from the Leydig cells.",
+      "C": "FSH stimulates the Sertoli cells which help in spermiogenesis.",
+      "D": "LH triggers ovulation in ovary."
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Considering the female reproductive endocrinology, ovulation is the process of the monthly release of the viable oocyte from the ovary between the time of menarche and menopause. During this time, there is a surge in the production of LH and FSH, termed as gonadotropins, thereby initiating estradiol and progesterone secretion from the ovary. Both these hormones are very important for the menstrual cycle.",
+      "others": ""
+    },
+    "year": "2016",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "sourceQuestionNumber": 4,
+    "text": "Identify the correct statement on 'inhibin'",
+    "options": {
+      "A": "Is produced by granulosa cells in ovary and inhibits the secretion of LH",
+      "B": "Is produced by nurse cells in testes and inhibits the secretion of LH",
+      "C": "Inhibits the secretion of LH, FSH and prolactin",
+      "D": "Is produced by granulosa cells in ovary and inhibits the secretion of FSH"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "In both females and males, inhibin inhibits FSH production. In females, FSH stimulates the secretion of inhibin from the granulosa cells of the ovarian follicles in the ovaries. In turn, inhibin suppresses FSH. In males, androgens stimulate inhibin production. It is secreted from the Sertoli cells, located in the seminiferous tubules inside the testes.",
+      "others": ""
+    },
+    "year": "2016",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following depicts the correct pathway of transport of sperms?",
+    "options": {
+      "A": "Rete testis → Efferent ductules → Epididymis → Vas deferens",
+      "B": "Rete testis → Epididymis → Efferent ductules → Vas deferens",
+      "C": "Rete testis → Vas deferens → Efferent ductules → Epididymis",
+      "D": "Efferent ductules → Rete testis → Vas deferens → Epididymis"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "The correct sequence for transport of sperm cells in male reproductive system is : Seminiferous tubules → Rete testis → Vasa efferentia → Epididymis → Vas deferens → Ejaculatory duct → Urethra → Urethral meatus.",
+      "others": ""
+    },
+    "year": "2016",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "sourceQuestionNumber": 6,
+    "text": "Several hormones like hCG, hPL, estrogen, progesterone are produced by",
+    "options": {
+      "A": "Ovary",
+      "B": "Placenta",
+      "C": "Fallopian tube",
+      "D": "Pituitary"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Placenta is temporary organ that helps in exchange of gases, nutrients and waste materials between mother and fetus. During pregnancy, placenta acts as an endocrine gland and secretes some hormones such as estrogen, progesterone, human chorionic gonadotropin (hCG), human placenta] lactogen (liPL), chorionic thyrotropin, chorionic corticotropin and relaxin. .saq-container{background:#fff;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:30px;box-shadow:0 1px 4px #0000001a;padding:15px 20px 20px}.saq-label{display:inline-block;font-size:11px;font-weight:600;letter-spacing:0.07em;color:#64748b;border:1px solid #cbd5e1;border-radius:20px;padding:2px 10px;margin-bottom:14px;text-transform:uppercase;background:#fff}.saq-textarea{width:100%;box-sizing:border-box;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:14px;color:#374151;resize:vertical;outline:none;transition:border-color 0.2s;background:#fff;min-height:90px;margin-top:10px;margin-bottom:20px;height:50px}.saq-textarea:focus{border-color:#3b82f6;box-shadow:0 0 0 3px rgba(59,130,246,0.12)}.saq-textarea::placeholder{font-style:italic}.saq-view-btn{padding:9px 12px;background:#F7FCFF;color:#000 !important;border-radius:10px;font-size:18px !important;font-weight:700;cursor:pointer;transition:background .15s ease;letter-spacing:.01em;text-align:center;border:none}.saq-view-btn:hover{background:#193f68;color:#fff !important;border:none}.saq-input-wrap .saq-view-btn{width:100%;background:#193f68;color:white !important}.saq- -panel{background:#f0f7ff;border-radius:8px;padding:14px 16px;margin:-20px;margin-top:-15px}.saq- -title{font-size:14px;font-weight:700;color:#043899!important;margin-bottom:7px}.saq- -body{font-size:14px;color:#1a202c;line-height:1.65}.saq- -body strong,.saq- -body b{font-weight:700}.saq- -body img{max-width:100%;height:auto}.saq- -body p{margin:6px 0}.saq-btn-wrapper{display:flex;gap:20px;margin-bottom:30px;margin-top:20px}.saq-btn-wrapper .saq-view-btn{width:50%}@media (max-width:500px){.saq-btn-wrapper .saq-view-btn{font-size:16px !important}} (function(){function showContainer(qid){document.getElementById('saq-wrap-'+qid).style.display='block';document.getElementById('saq-btn-wrap-'+qid).style.display='none';} window.saqTry=function(qid){showContainer(qid);document.getElementById('saq-input-'+qid).style.display='block';};window.saqShow =function(qid){showContainer(qid);var panel=document.getElementById('saq-sol-'+qid);var input=document.getElementById('saq-input-'+qid);var ta=document.getElementById('saq-ta-'+qid);var bottomBtn=document.getElementById('saq-view-bottom-'+qid);if(bottomBtn)bottomBtn.style.display='none';if(panel){panel.style.display='block';} if(ta&&ta.value.trim()===''){if(input)input.style.display='none';}else if(ta){ta.disabled=true;if(panel){panel.style.marginTop='0px';}}};})();",
+      "others": ""
+    },
+    "year": "2016",
+    "chapter": "Human Reproduction",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

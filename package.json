@@ -1,0 +1,30 @@
+{
+  "name": "neet-bio-scraper",
+  "version": "1.0.0",
+  "description": "EduRev NEET previous-year-question scraper with structured JSON output and downloaded diagram assets.",
+  "main": "scraper/standalone_scraper.js",
+  "scripts": {
+    "scrape": "node scraper/standalone_scraper.js",
+    "scrape:single": "node scraper/standalone_scraper.js --pyq",
+    "scrape:chapters": "node scraper/course_chapter_links.js",
+    "scrape:pyq-links": "node scraper/pyq_links.js",
+    "scrape:multi": "node scraper/multi_chapter_scraper.js",
+    "audit:options": "python3 audit/scan_option_anomalies.py",
+    "audit": "python3 audit/run_audit.py",
+    "dashboard:build": "node dashboard/build_data.js",
+    "dashboard:serve": "python3 -m http.server 4173"
+  },
+  "keywords": [
+    "neet",
+    "scraper",
+    "edurev",
+    "cheerio",
+    "education"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

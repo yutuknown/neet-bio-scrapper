@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-05-07T05:44:00.724Z",
+  "commands": [
+    {
+      "id": "scrape-chapters",
+      "label": "Discover course chapters",
+      "command": "npm run scrape:chapters",
+      "output": "data/raw/chapter-links.json",
+      "description": "Refresh the ordered chapter inventory from the Biology course page."
+    },
+    {
+      "id": "scrape-pyq-links",
+      "label": "Verify chapter PYQ links",
+      "command": "npm run scrape:pyq-links",
+      "output": "data/raw/pyq-links.json",
+      "description": "Refresh the chapter-to-PYQ document mapping used by batch scraping."
+    },
+    {
+      "id": "scrape-multi",
+      "label": "Scrape all chapter PYQs",
+      "command": "npm run scrape:multi",
+      "output": "data/raw/BIOLOGY/chapters/*.json",
+      "description": "Regenerate chapter question JSON and diagram assets for every verified PYQ page."
+    },
+    {
+      "id": "audit",
+      "label": "Run benchmark audit",
+      "command": "npm run audit",
+      "output": "audit/reports/*.json",
+      "description": "Recompute structural, completeness, semantic, and schema-gap audit reports."
+    },
+    {
+      "id": "dashboard-build",
+      "label": "Rebuild dashboard data",
+      "command": "npm run dashboard:build",
+      "output": "dashboard/data/*",
+      "description": "Regenerate dashboard-ready snapshots from the latest scraper and audit artifacts."
+    },
+    {
+      "id": "dashboard-serve",
+      "label": "Serve dashboard locally",
+      "command": "npm run dashboard:serve",
+      "output": "http://localhost:4173/dashboard/",
+      "description": "Serve the repo root so the static dashboard and image assets are available in a browser."
+    }
+  ],
+  "workflow": [
+    "Run chapter discovery when the course inventory changes.",
+    "Refresh PYQ links before multi-chapter scraping.",
+    "Scrape all verified chapter PYQ pages to update raw chapter JSON and assets.",
+    "Run the audit to refresh benchmark risk metrics.",
+    "Rebuild dashboard data so the UI reflects the latest artifacts.",
+    "Open /dashboard/ in a browser to inspect tracking, questions, and audit drilldowns."
+  ]
+}

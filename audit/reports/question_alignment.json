@@ -1,0 +1,963 @@
+[
+  {
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/principles-of-inheritance-and-variation.json",
+    "alignments": [
+      {
+        "source_index": 0,
+        "scraped_index": 0,
+        "score": 0.5313,
+        "matched": false,
+        "source_year": "2025",
+        "scraped_year": "2025",
+        "scraped_id": "Q1"
+      },
+      {
+        "source_index": 1,
+        "scraped_index": 1,
+        "score": 0.652,
+        "matched": true,
+        "source_year": "2025",
+        "scraped_year": "2025",
+        "scraped_id": "Q2"
+      },
+      {
+        "source_index": 2,
+        "scraped_index": 2,
+        "score": 0.6456,
+        "matched": true,
+        "source_year": "2025",
+        "scraped_year": "2025",
+        "scraped_id": "Q3"
+      },
+      {
+        "source_index": 3,
+        "scraped_index": 3,
+        "score": 0.7175,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q4"
+      },
+      {
+        "source_index": 4,
+        "scraped_index": 4,
+        "score": 0.6411,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q5"
+      },
+      {
+        "source_index": 5,
+        "scraped_index": 5,
+        "score": 0.6934,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q6"
+      },
+      {
+        "source_index": 6,
+        "scraped_index": 6,
+        "score": 0.5197,
+        "matched": false,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q7"
+      },
+      {
+        "source_index": 7,
+        "scraped_index": 7,
+        "score": 0.4594,
+        "matched": false,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q8"
+      },
+      {
+        "source_index": 8,
+        "scraped_index": 8,
+        "score": 0.5192,
+        "matched": false,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q9"
+      },
+      {
+        "source_index": 9,
+        "scraped_index": 9,
+        "score": 0.5725,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q10"
+      },
+      {
+        "source_index": 10,
+        "scraped_index": 10,
+        "score": 0.6654,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q11"
+      },
+      {
+        "source_index": 11,
+        "scraped_index": 11,
+        "score": 0.602,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q12"
+      },
+      {
+        "source_index": 12,
+        "scraped_index": 12,
+        "score": 0.5722,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q13"
+      },
+      {
+        "source_index": 13,
+        "scraped_index": 13,
+        "score": 0.7009,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q14"
+      },
+      {
+        "source_index": 14,
+        "scraped_index": 14,
+        "score": 0.6219,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q15"
+      },
+      {
+        "source_index": 15,
+        "scraped_index": 15,
+        "score": 0.7121,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q16"
+      },
+      {
+        "source_index": 16,
+        "scraped_index": 16,
+        "score": 0.6386,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q17"
+      },
+      {
+        "source_index": 17,
+        "scraped_index": 17,
+        "score": 0.5105,
+        "matched": false,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q18"
+      },
+      {
+        "source_index": 18,
+        "scraped_index": 18,
+        "score": 0.7591,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q19"
+      },
+      {
+        "source_index": 19,
+        "scraped_index": 19,
+        "score": 0.7769,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q20"
+      },
+      {
+        "source_index": 20,
+        "scraped_index": 20,
+        "score": 0.6879,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q21"
+      },
+      {
+        "source_index": 21,
+        "scraped_index": 21,
+        "score": 0.7026,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q22"
+      },
+      {
+        "source_index": 22,
+        "scraped_index": 22,
+        "score": 0.7237,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q23"
+      },
+      {
+        "source_index": 23,
+        "scraped_index": 23,
+        "score": 0.6271,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q24"
+      },
+      {
+        "source_index": 24,
+        "scraped_index": 24,
+        "score": 0.783,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q25"
+      },
+      {
+        "source_index": 25,
+        "scraped_index": 25,
+        "score": 0.6107,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q26"
+      },
+      {
+        "source_index": 26,
+        "scraped_index": 26,
+        "score": 0.8362,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q27"
+      },
+      {
+        "source_index": 27,
+        "scraped_index": 27,
+        "score": 0.6877,
+        "matched": true,
+        "source_year": "2021",
+        "scraped_year": "2021",
+        "scraped_id": "Q28"
+      },
+      {
+        "source_index": 28,
+        "scraped_index": 28,
+        "score": 0.7298,
+        "matched": true,
+        "source_year": "2021",
+        "scraped_year": "2021",
+        "scraped_id": "Q29"
+      },
+      {
+        "source_index": 29,
+        "scraped_index": 29,
+        "score": 0.6675,
+        "matched": true,
+        "source_year": "2021",
+        "scraped_year": "2021",
+        "scraped_id": "Q30"
+      },
+      {
+        "source_index": 30,
+        "scraped_index": 30,
+        "score": 0.6711,
+        "matched": true,
+        "source_year": "2020",
+        "scraped_year": "2020",
+        "scraped_id": "Q31"
+      },
+      {
+        "source_index": 31,
+        "scraped_index": 31,
+        "score": 0.5576,
+        "matched": true,
+        "source_year": "2020",
+        "scraped_year": "2020",
+        "scraped_id": "Q32"
+      },
+      {
+        "source_index": 32,
+        "scraped_index": 32,
+        "score": 0.7091,
+        "matched": true,
+        "source_year": "2020",
+        "scraped_year": "2020",
+        "scraped_id": "Q33"
+      },
+      {
+        "source_index": 33,
+        "scraped_index": 33,
+        "score": 0.6295,
+        "matched": true,
+        "source_year": "2020",
+        "scraped_year": "2020",
+        "scraped_id": "Q34"
+      },
+      {
+        "source_index": 34,
+        "scraped_index": 34,
+        "score": 0.7275,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q35"
+      },
+      {
+        "source_index": 35,
+        "scraped_index": 35,
+        "score": 0.7401,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q36"
+      },
+      {
+        "source_index": 36,
+        "scraped_index": 36,
+        "score": 0.7065,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q37"
+      },
+      {
+        "source_index": 37,
+        "scraped_index": 37,
+        "score": 0.5938,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q38"
+      },
+      {
+        "source_index": 38,
+        "scraped_index": 38,
+        "score": 0.7151,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q39"
+      },
+      {
+        "source_index": 39,
+        "scraped_index": 39,
+        "score": 0.5432,
+        "matched": false,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q40"
+      },
+      {
+        "source_index": 40,
+        "scraped_index": 40,
+        "score": 0.614,
+        "matched": true,
+        "source_year": "2018",
+        "scraped_year": "2018",
+        "scraped_id": "Q41"
+      },
+      {
+        "source_index": 41,
+        "scraped_index": 41,
+        "score": 0.6801,
+        "matched": true,
+        "source_year": "2018",
+        "scraped_year": "2018",
+        "scraped_id": "Q42"
+      },
+      {
+        "source_index": 42,
+        "scraped_index": 42,
+        "score": 0.6465,
+        "matched": true,
+        "source_year": "2018",
+        "scraped_year": "2018",
+        "scraped_id": "Q43"
+      },
+      {
+        "source_index": 43,
+        "scraped_index": 43,
+        "score": 0.6191,
+        "matched": true,
+        "source_year": "2017",
+        "scraped_year": "2017",
+        "scraped_id": "Q44"
+      },
+      {
+        "source_index": 44,
+        "scraped_index": 44,
+        "score": 0.3389,
+        "matched": false,
+        "source_year": "2017",
+        "scraped_year": "2017",
+        "scraped_id": "Q45"
+      },
+      {
+        "source_index": 45,
+        "scraped_index": 45,
+        "score": 0.3586,
+        "matched": false,
+        "source_year": "2017",
+        "scraped_year": "2017",
+        "scraped_id": "Q46"
+      },
+      {
+        "source_index": 46,
+        "scraped_index": 47,
+        "score": 0.3222,
+        "matched": false,
+        "source_year": "2017",
+        "scraped_year": "2016",
+        "scraped_id": "Q48"
+      },
+      {
+        "source_index": 47,
+        "scraped_index": 49,
+        "score": 0.2332,
+        "matched": false,
+        "source_year": "2017",
+        "scraped_year": "2016",
+        "scraped_id": "Q50"
+      },
+      {
+        "source_index": 48,
+        "scraped_index": 46,
+        "score": 0.6734,
+        "matched": true,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q47"
+      },
+      {
+        "source_index": 49,
+        "scraped_index": 53,
+        "score": 0.4141,
+        "matched": false,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q54"
+      },
+      {
+        "source_index": 50,
+        "scraped_index": 48,
+        "score": 0.6342,
+        "matched": true,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q49"
+      },
+      {
+        "source_index": 51,
+        "scraped_index": 52,
+        "score": 0.3812,
+        "matched": false,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q53"
+      },
+      {
+        "source_index": 52,
+        "scraped_index": 50,
+        "score": 0.3528,
+        "matched": false,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q51"
+      },
+      {
+        "source_index": 53,
+        "scraped_index": 51,
+        "score": 0.7631,
+        "matched": true,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q52"
+      },
+      {
+        "source_index": 54,
+        "scraped_index": null,
+        "score": 0.0,
+        "matched": false
+      },
+      {
+        "source_index": 55,
+        "scraped_index": null,
+        "score": 0.0,
+        "matched": false
+      }
+    ]
+  },
+  {
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/sexual-reproduction-in-flowering-plants.json",
+    "alignments": [
+      {
+        "source_index": 0,
+        "scraped_index": 0,
+        "score": 0.6899,
+        "matched": true,
+        "source_year": "2025",
+        "scraped_year": "2025",
+        "scraped_id": "Q1"
+      },
+      {
+        "source_index": 1,
+        "scraped_index": 1,
+        "score": 0.6883,
+        "matched": true,
+        "source_year": "2025",
+        "scraped_year": "2025",
+        "scraped_id": "Q2"
+      },
+      {
+        "source_index": 2,
+        "scraped_index": 2,
+        "score": 0.6193,
+        "matched": true,
+        "source_year": "2025",
+        "scraped_year": "2025",
+        "scraped_id": "Q3"
+      },
+      {
+        "source_index": 3,
+        "scraped_index": 3,
+        "score": 0.6912,
+        "matched": true,
+        "source_year": "2025",
+        "scraped_year": "2025",
+        "scraped_id": "Q4"
+      },
+      {
+        "source_index": 4,
+        "scraped_index": 4,
+        "score": 0.5475,
+        "matched": false,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q5"
+      },
+      {
+        "source_index": 5,
+        "scraped_index": 5,
+        "score": 0.5858,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q6"
+      },
+      {
+        "source_index": 6,
+        "scraped_index": 6,
+        "score": 0.5723,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q7"
+      },
+      {
+        "source_index": 7,
+        "scraped_index": 7,
+        "score": 0.6341,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q8"
+      },
+      {
+        "source_index": 8,
+        "scraped_index": 8,
+        "score": 0.6646,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q9"
+      },
+      {
+        "source_index": 9,
+        "scraped_index": 9,
+        "score": 0.6235,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q10"
+      },
+      {
+        "source_index": 10,
+        "scraped_index": 10,
+        "score": 0.5753,
+        "matched": true,
+        "source_year": "2024",
+        "scraped_year": "2024",
+        "scraped_id": "Q11"
+      },
+      {
+        "source_index": 11,
+        "scraped_index": 11,
+        "score": 0.5848,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q12"
+      },
+      {
+        "source_index": 12,
+        "scraped_index": 12,
+        "score": 0.6276,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q13"
+      },
+      {
+        "source_index": 13,
+        "scraped_index": 13,
+        "score": 0.5028,
+        "matched": false,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q14"
+      },
+      {
+        "source_index": 14,
+        "scraped_index": 14,
+        "score": 0.5801,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q15"
+      },
+      {
+        "source_index": 15,
+        "scraped_index": 15,
+        "score": 0.5755,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q16"
+      },
+      {
+        "source_index": 16,
+        "scraped_index": 16,
+        "score": 0.5836,
+        "matched": true,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q17"
+      },
+      {
+        "source_index": 17,
+        "scraped_index": 17,
+        "score": 0.5018,
+        "matched": false,
+        "source_year": "2023",
+        "scraped_year": "2023",
+        "scraped_id": "Q18"
+      },
+      {
+        "source_index": 18,
+        "scraped_index": 18,
+        "score": 0.5862,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q19"
+      },
+      {
+        "source_index": 19,
+        "scraped_index": 19,
+        "score": 0.6912,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q20"
+      },
+      {
+        "source_index": 20,
+        "scraped_index": 20,
+        "score": 0.6621,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q21"
+      },
+      {
+        "source_index": 21,
+        "scraped_index": 21,
+        "score": 0.6911,
+        "matched": true,
+        "source_year": "2022",
+        "scraped_year": "2022",
+        "scraped_id": "Q22"
+      },
+      {
+        "source_index": 22,
+        "scraped_index": 36,
+        "score": 0.2813,
+        "matched": false,
+        "source_year": "2022",
+        "scraped_year": "2017",
+        "scraped_id": "Q37"
+      },
+      {
+        "source_index": 23,
+        "scraped_index": 22,
+        "score": 0.6901,
+        "matched": true,
+        "source_year": "2021",
+        "scraped_year": "2021",
+        "scraped_id": "Q23"
+      },
+      {
+        "source_index": 24,
+        "scraped_index": 23,
+        "score": 0.5824,
+        "matched": true,
+        "source_year": "2021",
+        "scraped_year": "2021",
+        "scraped_id": "Q24"
+      },
+      {
+        "source_index": 25,
+        "scraped_index": 24,
+        "score": 0.6344,
+        "matched": true,
+        "source_year": "2021",
+        "scraped_year": "2021",
+        "scraped_id": "Q25"
+      },
+      {
+        "source_index": 26,
+        "scraped_index": 25,
+        "score": 0.5334,
+        "matched": false,
+        "source_year": "2021",
+        "scraped_year": "2021",
+        "scraped_id": "Q26"
+      },
+      {
+        "source_index": 27,
+        "scraped_index": 26,
+        "score": 0.5395,
+        "matched": false,
+        "source_year": "2020",
+        "scraped_year": "2020",
+        "scraped_id": "Q27"
+      },
+      {
+        "source_index": 28,
+        "scraped_index": 27,
+        "score": 0.6689,
+        "matched": true,
+        "source_year": "2020",
+        "scraped_year": "2020",
+        "scraped_id": "Q28"
+      },
+      {
+        "source_index": 29,
+        "scraped_index": 28,
+        "score": 0.5931,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q29"
+      },
+      {
+        "source_index": 30,
+        "scraped_index": 29,
+        "score": 0.5627,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q30"
+      },
+      {
+        "source_index": 31,
+        "scraped_index": 30,
+        "score": 0.6032,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q31"
+      },
+      {
+        "source_index": 32,
+        "scraped_index": 31,
+        "score": 0.6336,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q32"
+      },
+      {
+        "source_index": 33,
+        "scraped_index": 32,
+        "score": 0.6371,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q33"
+      },
+      {
+        "source_index": 34,
+        "scraped_index": 33,
+        "score": 0.6922,
+        "matched": true,
+        "source_year": "2019",
+        "scraped_year": "2019",
+        "scraped_id": "Q34"
+      },
+      {
+        "source_index": 35,
+        "scraped_index": 34,
+        "score": 0.6483,
+        "matched": true,
+        "source_year": "2018",
+        "scraped_year": "2018",
+        "scraped_id": "Q35"
+      },
+      {
+        "source_index": 36,
+        "scraped_index": 35,
+        "score": 0.5738,
+        "matched": true,
+        "source_year": "2018",
+        "scraped_year": "2018",
+        "scraped_id": "Q36"
+      },
+      {
+        "source_index": 37,
+        "scraped_index": 40,
+        "score": 0.2523,
+        "matched": false,
+        "source_year": "2018",
+        "scraped_year": "2017",
+        "scraped_id": "Q41"
+      },
+      {
+        "source_index": 38,
+        "scraped_index": 38,
+        "score": 0.3994,
+        "matched": false,
+        "source_year": "2017",
+        "scraped_year": "2017",
+        "scraped_id": "Q39"
+      },
+      {
+        "source_index": 39,
+        "scraped_index": 37,
+        "score": 0.573,
+        "matched": true,
+        "source_year": "2017",
+        "scraped_year": "2017",
+        "scraped_id": "Q38"
+      },
+      {
+        "source_index": 40,
+        "scraped_index": 39,
+        "score": 0.3368,
+        "matched": false,
+        "source_year": "2017",
+        "scraped_year": "2017",
+        "scraped_id": "Q40"
+      },
+      {
+        "source_index": 41,
+        "scraped_index": 46,
+        "score": 0.2121,
+        "matched": false,
+        "source_year": "2017",
+        "scraped_year": "2016",
+        "scraped_id": "Q47"
+      },
+      {
+        "source_index": 42,
+        "scraped_index": 42,
+        "score": 0.2096,
+        "matched": false,
+        "source_year": "2017",
+        "scraped_year": "2016",
+        "scraped_id": "Q43"
+      },
+      {
+        "source_index": 43,
+        "scraped_index": 41,
+        "score": 0.5298,
+        "matched": false,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q42"
+      },
+      {
+        "source_index": 44,
+        "scraped_index": 47,
+        "score": 0.3634,
+        "matched": false,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q48"
+      },
+      {
+        "source_index": 45,
+        "scraped_index": 43,
+        "score": 0.5646,
+        "matched": true,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q44"
+      },
+      {
+        "source_index": 46,
+        "scraped_index": 44,
+        "score": 0.5693,
+        "matched": true,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q45"
+      },
+      {
+        "source_index": 47,
+        "scraped_index": 45,
+        "score": 0.5799,
+        "matched": true,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q46"
+      },
+      {
+        "source_index": 48,
+        "scraped_index": 48,
+        "score": 0.3566,
+        "matched": false,
+        "source_year": "2016",
+        "scraped_year": "2016",
+        "scraped_id": "Q49"
+      },
+      {
+        "source_index": 49,
+        "scraped_index": null,
+        "score": 0.0,
+        "matched": false
+      },
+      {
+        "source_index": 50,
+        "scraped_index": null,
+        "score": 0.0,
+        "matched": false
+      }
+    ]
+  }
+]

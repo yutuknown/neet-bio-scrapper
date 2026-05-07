@@ -1,0 +1,1044 @@
+[
+  {
+    "id": "Q1",
+    "sourceQuestionNumber": 1,
+    "text": "Epiphytes that are growing on the mango branch is an explanation of which of the following",
+    "options": {
+      "A": "Predation",
+      "B": "Amensalism",
+      "C": "Commenalism",
+      "D": "Mutualism"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Commensalism is a type of ecological interaction where one species benefits, and the other species neither benefits nor is harmed.In this interaction, the species that benefits is referred to as the \"commensal,\" while the unaffected species is the \"host.\"Epiphytes are plants that grow on other plants (such as trees) for physical support but do not extract nutrients or cause harm to the host plant.In the given example, epiphytes growing on a mango branch represent commensalism because the epiphytes benefit from the support provided by the mango tree, while the mango tree remains unaffected.Barnacles growing on a whale; the barnacles get a place to live and access to food, while the whale is unaffected is another example of Commensalism. Table: Popular Interactions Note: '+' : Beneficial'-' : Detrimental (Harmful)'0' : Neutral (Neither benefitted nor harmed) Explanation of Other Options: Mutualism: In mutualism, both species involved in the interaction benefit from each other.For example, pollination is a mutualistic relationship where bees collect nectar (food) from flowers and, in return, help the plant with pollination. Predation: Predation involves one species (the predator) hunting, killing, and consuming another species (the prey).For instance, a lion hunting a deer is an example of predation. Amensalism: Amensalism is an interaction where one species is harmed, and the other species remains unaffected.For example, the secretion of chemicals by certain fungi that inhibit the growth of nearby plants is an example of amensalism.",
+      "others": ""
+    },
+    "year": "2025",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2025_B12_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "sourceQuestionNumber": 2,
+    "text": "Given below are two statements: Statement I: Fig fruit is a non-vegetarian fruit as it has enclosed fig wasps in it. Statement II: Fig wasp and fig tree exhibit mutual relationship as fig wasp completes its life cycle in fig fruit and fig fruit gets pollinated by fig wasp",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect",
+      "B": "Statement I is incorrect but Statement II is correct",
+      "C": "Both Statement I and Statement II are correct",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Statement I: \"Fig fruit is a non-vegetarian fruit as it has enclosed fig wasps in it\" is incorrect because: Fig fruits are considered vegetarian as they are plant-based, and any wasp remnants are naturally decomposed during fruit development.The presence of wasps is part of a natural ecological process and does not change the classification of the fruit as vegetarian. Statement II: \"Fig wasp and fig tree exhibit a mutual relationship as fig wasp completes its life cycle in fig fruit and fig fruit gets pollinated by fig wasp\" is incorrect because: A part of the life cycle of the wasp is completed in fig fruit. (not complete)Fig wasps lay their eggs inside the fig fruit, and their larvae develop there.Fig species can be pollinated only by its 'partner' wasp species and no other species.The female wasp uses the fruit not only as an oviposition (egg-laying) site but uses the developing seeds within the fruit for nourishing its larvae.The wasp pollinates the fig inflorescence while searching for suitable egg-laying sites.In return for the favour of pollination, the fig offers the wasp some of its developing seeds, as food for the developing wasp larvae.",
+      "others": ""
+    },
+    "year": "2025",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "sourceQuestionNumber": 3,
+    "text": "Which one of the following equations represent the Verhulst-Pearl Logistic Growth of population?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Verhulst-Pearl logistic growth, also simply known as logistic growth, is a model of population growth that describes how a population grows more slowly as it approaches its carrying capacity. A population growing in a habitat with limited resources show initially a lag phase, followed by phases of acceleration and deceleration and finally an asymptote, when the population density reaches the carrying capacity. A plot of N in relation to time (t) results in a sigmoid curve. This type of population growth is called Verhulst-Pearl Logistic Growth. Ideally if the resources in a habitat are unlimited, the population shows exponential growth pattern.But resources are not available to any species population in unlimited amount. Thus, the species compete for the available resources to survive.This competition for the limited resources restricts the exponential or unlimited growth of any population.Any given habitat can only provide resources to support a maximum possible number, beyond which it further growth of population is not possible. This is known as the carrying capacity (K) for a particular species in a habitat. Logistic growth is represented as: where, N = Population Density at time tK = Carrying Capacity,r = Intrinsic rate of natural increasedn/dt = Rate of change of population density.'r' value denotes the difference between the per capita birth and death (b-d).The environmental resistance is represented in the equation as",
+      "others": ""
+    },
+    "year": "2025",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2025_B12_Q3-main.jpg",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2025_B12_Q3-main2.jpg",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2025_B12_Q3-explanation1.jpg",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2025_B12_Q3-explanation2.jpg",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2025_B12_Q3-explanation3.jpg",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2025_B12_Q3-explanation4.jpg",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2025_B12_Q3-explanation5.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "sourceQuestionNumber": 1,
+    "text": "Given below are two statements: Statement I : Gause's 'Competitive Exclusion Principle' states that two closely related species competing for the same resources cannot co-exist indefinitely and competitively inferior one will be eliminated eventually. Statement II : In general, carnivores are more adversely affected by competition than herbivores",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is correct Statement II is false.",
+      "D": "Statement I is incorrect but Statement II is true."
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Gause's 'Competitive Exclusion Principle' states that two closely related species competing for the same resources cannot co-exist indefinitely and the competitively inferior one will be eliminated eventaully. Thus, statement I is correct. Statement II is incorrect as in general, herbivores and plants appear to be more adversely affected by competition than carnivores.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "sourceQuestionNumber": 2,
+    "text": "The equation of Verhulst-Pearl logistic growth is . From this equation, K indicates",
+    "options": {
+      "A": "Intrinsic rate of natural increase",
+      "B": "Biotic potential",
+      "C": "Carrying capacity",
+      "D": "Population density"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Sol: The Verhulst-Pearl logistic growth equation you've presented is a fundamental model used to describe how populations grow under limited resource conditions. This model is sensitive to both the variables and coefficients it incorporates: Here: N represents the population size at time t. r is the intrinsic rate of natural increase, indicating the rate at which the population grows per individual when resources are not limiting. K represents the carrying capacity of the environment. In the context of this equation: The term is a fraction that reduces the effective growth rate as the population size N approaches the carrying capacity K. This term essentially represents the remaining proportion of resources available as the population grows larger. Based on this understanding: Option A: \"Intrinsic rate of natural increase\" - Incorrect, this is represented by r in the equation. Option B: \"Biotic potential\" - Incorrect, biotic potential generally refers to the maximum reproductive capacity of an organism under optimal conditions, often considered similar to r but not specifically the same as K. Option C: \"Carrying capacity\" - Correct, as K in the equation is specifically describing the carrying capacity, which is the maximum population size that the environment can sustain indefinitely given the food, habitat, water, and other necessities available in the environment. Option D: \"Population density\" - Incorrect, while N relates directly to population density at any time, K is about the upper limit of that density sustainable by the environment. Therefore, Option C is the correct answer. The variable K in the Verhulst-Pearl logistic growth equation indeed stands for the carrying capacity.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2024_B12_Q5-explanation1.png",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2024_B12_Q5-explanation2.png",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2024_B12_Q5-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "sourceQuestionNumber": 3,
+    "text": "Given below are two statements: Statement I: When the fitness of one species is significantly lower in the presence of another species, the process is defined as competition. Statement II: When fungi remain in association with living plants or animals, they are called saprophytes. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are True",
+      "B": "Both Statement I and Statement II are False",
+      "C": "Statement I is True but Statement II is False",
+      "D": "Statement I is False but Statement II is True"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Statement I is correct because competition occurs when two species compete for the same resources, which can reduce the fitness of one or both species. Statement II is incorrect because fungi that remain in association with living plants or animals are called symbionts (not saprophytes). Saprophytes are organisms that feed on dead or decaying organic matter.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "sourceQuestionNumber": 4,
+    "text": "The population growing in a habitat with limited resources will show: A. Lag phase, followed by phases of acceleration and deceleration and finally an asymptote. B. The ability to realise its innate potential to grow in number and reach enormous densities in a short time. C. Exponential growth D. Logistic growth",
+    "options": {
+      "A": "A and B only",
+      "B": "C and D only",
+      "C": "A and D only",
+      "D": "B and C only"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "A and D correctly describe logistic growth, where the population initially grows rapidly (lag phase), then the growth slows as the population reaches the carrying capacity of the environment, and finally, it stabilizes at an asymptote (carrying capacity). C describes exponential growth, which occurs when resources are unlimited, but the question specifies limited resources, so exponential growth does not apply here.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following is not an example of mutualism?",
+    "options": {
+      "A": "Lichens",
+      "B": "Mycorrhizae",
+      "C": "An orchid on a branch of a mango plant",
+      "D": "The wasp pollinating fig inflorescence"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Mutualism is a type of symbiotic relationship where both species benefit. Lichens (a) are a mutualistic relationship between fungi and algae.Mycorrhizae (b) are mutualistic relationships between fungi and plant roots.The wasp pollinating fig inflorescence (d) is a mutualistic relationship where the wasp benefits by laying eggs inside the fig, and the fig gets pollinated.However, orchids (c) on mango plants generally don't provide a clear benefit to the plant, and they may be more of an epiphytic relationship, not a mutualistic one.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "sourceQuestionNumber": 6,
+    "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): The interaction in which one species benefits and the other is neither harmed nor benefitted is known as commensalism. Reason (R): Egrets always forage close to where the cattle are grazing, otherwise, it is difficult for the egrets to find the insects and catch them. In light of the above statements",
+    "options": {
+      "A": "Both (A) and (R) are True, and (R) is the correct explanation of (A).",
+      "B": "Both (A) and (R) are True, but (R) is not the correct explanation of (A).",
+      "C": "(A) is True, but (R) is False.",
+      "D": "(A) is False, but (R) is True."
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Assertion (A): \"The interaction in which one species benefits and the other is neither harmed nor benefitted is known as commensalism.\" Commensalism is a type of symbiotic relationship where one species benefits, and the other species is unaffected (neither benefited nor harmed).This is true because commensalism is defined exactly as described in the assertion. Reason (R): \"Egrets always forage close to where the cattle are grazing, otherwise, it is difficult for the egrets to find the insects and catch them.\" This is a correct example of commensalism. The egrets benefit from the presence of cattle because the cattle disturb the grass and soil, causing insects to become exposed, which the egrets can then eat. The cattle are unaffected by the egrets' presence.This is true because the egrets are benefiting, and the cattle are not harmed or benefited. Both (A) and (R) are true. However, (R) provides an example of commensalism but does not directly explain the definition given in (A).",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "sourceQuestionNumber": 7,
+    "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Connell's elegant field experiment showed that on the rocky sea, the larger and competitively superior barnacles dominate the intertidal area and exclude the smaller barnacles from that area. Reason (R): Generally, herbivores and plants appear to be more adversely affected by competition than carnivores. In light of the above statements",
+    "options": {
+      "A": "Both (A) and (R) are True, and (R) is the correct explanation of (A).",
+      "B": "Both (A) and (R) are True, but (R) is not the correct explanation of (A).",
+      "C": "(A) is True, but (R) is False.",
+      "D": "(A) is False, but (R) is True."
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Assertion (A) is true. In Connell's experiment, larger barnacles (e.g., Balanus) dominated the intertidal zone, excluding the smaller barnacles (e.g., Chthamalus) from the space.Reason (R) is true as well. Herbivores and plants often face more intense competition because they are limited by the availability of resources like space and food, while carnivores generally face less direct competition. However, (R) does not explain (A). Connell's experiment focuses on the competitive exclusion of barnacle species, which is more about space competition rather than a broad statement about herbivores and plants.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "sourceQuestionNumber": 8,
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-II, C-I, D-IV",
+      "B": "A-IV, B-I, C-II, D-III",
+      "C": "A-II, B-III, C-I, D-IV",
+      "D": "A-II, B-III, C-IV, D-I"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "A. Predator: Pisaster (II) is a type of starfish, which acts as a predator, particularly preying on mussels and other organisms in intertidal zones.B. Mutualism: The female wasp and fig (III) are in a mutualistic relationship, where the wasp pollinates the fig while laying its eggs inside the fig fruit, and in turn, the fig provides a habitat and food for the wasp larvae.C. Parasitism: Plasmodium (IV) is the parasite responsible for causing malaria in humans. It lives in the host and harms it, which is the essence of parasitism.D. Sexual deceit: Ophrys (I), a genus of orchids, engages in sexual deceit. The flowers of Ophrys mimic the appearance and scent of female bees, tricking male bees into attempting to mate with them, thus aiding in pollination. Thus, the correct matching is A-II, B-III, C-IV, D-I.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2024_B12_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "sourceQuestionNumber": 9,
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-I, B-IV, C-III, D-II",
+      "B": "A-IV, B-I, C-II, D-III",
+      "C": "A-III, B-I, C-II, D-IV",
+      "D": "A-II, B-IV, C-III, D-I"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "A. Migratory flamingoes and resident fish in South American lakes: This is an example of interspecific competition (IV), where both flamingoes and fish might compete for similar resources (like food or space) in the same habitat.B. Abingdon tortoise became extinct after introduction of goats in their habitat: The introduction of goats led to interference competition (I), where goats competed directly with the tortoises for food and space, contributing to their extinction.C. Chthamalus expands its distributional range in the absence of Balanus: This is an example of competitive release (II), where Chthamalus, a smaller barnacle, expands its range and competes less when the larger, more competitive Balanus is removed.D. Five closely related species of Warblers feeding in different locations on the same tree: This is an example of resource partitioning (III), where similar species reduce competition by utilizing different resources or feeding in different areas. Thus, the correct matching is A-IV, B-I, C-II, D-III.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2024_B12_Q12-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "sourceQuestionNumber": 10,
+    "text": "When will the population density increase, under special conditions?",
+    "options": {
+      "A": "When the number of deaths exceeds the number of births, and also the number of emigrants equals the number of immigrants.",
+      "B": "When the number of births plus the number of immigrants equals the number of deaths plus the number of emigrants.",
+      "C": "When the number of births plus the number of emigrants is more than the number of deaths plus the number of immigrants.",
+      "D": "When the number of births plus the number of immigrants is more than the sum of the number of deaths and the number of emigrants."
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "The population density will increase when there are more individuals being added to the population (through births and immigration) than those leaving (through deaths and emigration). If the birth rate and immigration rate are higher than the death rate and emigration rate, the overall population will grow, leading to an increase in population density. Therefore, option (d) correctly explains this condition.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "sourceQuestionNumber": 11,
+    "text": "What do 'a' and 'b' represent in the following population growth curve?",
+    "options": {
+      "A": "'a' represents exponential growth when responses are not limiting the growth; and 'b' represents logistic growth when responses are limiting the growth.",
+      "B": "'a' represents logistic growth when responses are not limiting the growth; 'b' represents exponential growth when responses are limiting the growth.",
+      "C": "'a' represents carrying capacity and 'b' shows logistic growth when responses are limiting the growth.",
+      "D": "'a' represents exponential growth when responses are not limiting the growth and 'b' shows carrying capacity."
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "The graph shows two phases: 'a' represents exponential growth: This phase occurs when resources are unlimited, and the population grows at a constant rate (dN/dt = rN), leading to a J-shaped curve.'b' represents logistic growth: This phase occurs when resources become limited, leading to a slowing of growth as the population approaches the carrying capacity (K). The growth curve follows an S-shape and is governed by the equation (dN/dt = rN(K-N)/K). Thus, 'a' corresponds to exponential growth when resources are not limiting, and 'b' corresponds to logistic growth when limiting factors come into play.",
+      "others": ""
+    },
+    "year": "2024",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2024_B12_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "sourceQuestionNumber": 1,
+    "text": "Match List I with List II. Choose the correct answer from the options given below",
+    "options": {
+      "A": "A-I, B-II, C-III, D-IV",
+      "B": "A-I, B-II, C-IV, D-III",
+      "C": "A-III, B-IV, C-I, D-II",
+      "D": "A-II, B-III, C-I, D-IV"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "A leopard and a lion in a forest/grassland (A) : These two species are predators that hunt in the same environment and likely compete for the same prey. This is an example of competition (I).A cuckoo laying an egg in a crow's nest (B) : The cuckoo is known for laying its eggs in the nests of other birds, such as crows. The crow then raises the cuckoo's young, often at the expense of its own offspring. This is a form of brood parasitism (II).Fungi and the root of a higher plant in mycorrhizae (C) : Mycorrhizae are symbiotic relationships between fungi and plant roots, in which the fungi help the plant absorb water and nutrients from the soil, while the plant provides the fungi with carbohydrates. This is an example of mutualism (III).A cattle egret and a cattle in a field (D) : Cattle egrets are often seen near cattle, feeding on the insects that the cattle stir up as they move and graze. The egret benefits from this interaction (by getting easy access to food), while the cattle are unaffected. This is an example of commensalism (IV). Given this information, the correct match is : Option A : A-I, B-II, C-III, D-IV",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2023_B12_Q15-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "sourceQuestionNumber": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-II, B-I, C-III, D-IV",
+      "B": "A-II, B-III, C-I, D-IV",
+      "C": "A-II, B-IV, C-I, D-III",
+      "D": "A-II, B-IV, C-III, D-I"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Logistic growth (A) is a type of population growth that occurs under conditions of limited resources (II).Exponential growth (B) is a type of population growth that occurs under conditions of unlimited resources (I).An expanding age pyramid (C) represents a population where the percentage of individuals in the pre-reproductive age group is the largest, followed by the reproductive and post-reproductive age groups (III).A stable age pyramid (D) represents a population where the percentage of individuals in the pre-reproductive and reproductive age groups are approximately equal (IV). So, the correct match is : A-II, B-I, C-III, D-IV.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2023_B12_Q16-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "sourceQuestionNumber": 3,
+    "text": "Match List I with List II",
+    "options": {
+      "A": "(A)-III (B)-I (C)-IV (D)-II",
+      "B": "(A)-IV (B)-II (C)-I (D)-II",
+      "C": "(A)-IV (B)-I (C)-II (D)-III",
+      "D": "(A)-IV (B)-III (C)-I (D)-II"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "A. Mutualism: This is a relationship where both species benefit. It is represented as (IV) in List II, where both species A and B benefit +(A), +(B).B. Commensalism: In this relationship, one species benefits while the other is neither helped nor harmed. This is represented as (I) in List II, where species A benefits, and species B is neutral +(A), O(B).C. Amensalism: In amensalism, one species is harmed while the other is unaffected. This is represented as (II) in List II, where species A is harmed, and species B is neutral -(A), O(B).D. Parasitism: In parasitism, one species benefits at the expense of the other. This is represented as (III) in List II, where species A benefits, and species B is harmed +(A), -(B). Thus, the correct matching is (c)-(IV), (B)-(I), (C)-(III), (D)-(II).",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2023_B12_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "sourceQuestionNumber": 4,
+    "text": "Given below are two statements: Statement I: Gause's Competitive Exclusion Principle states that two closely related species competing for the same resources cannot co-exist indefinitely, and the competitively inferior one will be eliminated eventually. Statement II: In general, carnivores are more adversely affected by competition than herbivores",
+    "options": {
+      "A": "Statement I is incorrect but Statement II is correct.",
+      "B": "Both Statement I and Statement II are correct.",
+      "C": "Both Statement I and Statement II are incorrect.",
+      "D": "Statement I is correct but Statement II is incorrect."
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Statement I: Gause's Competitive Exclusion Principle is correct. It states that if two species are competing for the same resources, the species that is less suited to the environment will eventually be excluded or eliminated. This principle is widely accepted in ecology and explains how similar species cannot coexist indefinitely if they are competing for identical resources. Statement II: This statement is incorrect. Generally, herbivores tend to be more adversely affected by competition than carnivores. Herbivores often face intense competition for limited plant resources, which are fixed in supply. On the other hand, carnivores typically have more flexible feeding strategies and may have more opportunities to avoid competition by preying on different species. Therefore, herbivores are often more directly affected by competition for food. Thus, Statement I is correct, but Statement II is incorrect.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "sourceQuestionNumber": 5,
+    "text": "Plants offer rewards to animals in the form of pollen and nectar, and the animals facilitate the pollination process. This is an example of",
+    "options": {
+      "A": "Amensalism",
+      "B": "Competition",
+      "C": "Commensalism",
+      "D": "Mutualism"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "This is an example of mutualism, where both species benefit from the interaction. Plants offer nectar or pollen as a reward, and in return, animals (such as bees or birds) help with the pollination process, which benefits the plants by helping them reproduce. Both the plant and the animal gain from this relationship.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "sourceQuestionNumber": 6,
+    "text": "For chemical defense against herbivores, Calotropis has",
+    "options": {
+      "A": "Cardiac glycosides",
+      "B": "Strychnine",
+      "C": "Toxic ricin",
+      "D": "Distasteful quinine"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Calotropis, commonly known as the milkweed or giant swallowwort, produces cardiac glycosides, which are toxic compounds that affect the heart and act as a defense mechanism against herbivores. These toxic compounds deter animals from feeding on the plant.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "sourceQuestionNumber": 7,
+    "text": "There are 250 snails in a pond, and within a year their number increases to 2500 by reproduction. What should be their birth rate (in per snail per year)?",
+    "options": {
+      "A": "10",
+      "B": "9",
+      "C": "25",
+      "D": "15"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Birth rate = (Final population - Initial population) / Initial population. Birth rate = (2500 - 250) / 250 = 2250 / 250 = 9 per snail per year.",
+      "others": ""
+    },
+    "year": "2023",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "sourceQuestionNumber": 1,
+    "text": "Which one of the following statements cannot be connected to Predation?",
+    "options": {
+      "A": "It might lead to extinction of a species",
+      "B": "Both the interacting species are negatively impacted",
+      "C": "It is necessitated by nature to maintain the ecological balance",
+      "D": "It helps in maintaining species diversity in a community"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "One of the species in predation gains benefit at the expense of the other. Predators help in maintaining species diversity in a community, by reducing the intensity of competition among competing prey species. If a predator is too efficient and overexploits its prey, then the prey might become extinct.",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "sourceQuestionNumber": 2,
+    "text": "While explaining interspecific interaction of population, (+) sign is assigned for beneficial interaction, (-) sign is assigned for detrimental interaction and (0) for neutral interaction. Which of the following interactions can be assigned (+) for one species and (-) for another species involved in the interaction?",
+    "options": {
+      "A": "Amensalism",
+      "B": "Commensalism",
+      "C": "Competition",
+      "D": "Predation"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "In predation, one species is benefited where as the other is harmed. It is (+ -) type of population interaction.",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "sourceQuestionNumber": 3,
+    "text": "If '8' Drosophila in a laboratory population of '80' died during a week, the death rate in the population is ____ individuals per Drosophila per week",
+    "options": {
+      "A": "10",
+      "B": "1.0",
+      "C": "zero",
+      "D": "0.1"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "If 8 Drosophila in a laboratory population of 80 died during a week, the death rate in the population is 8/80 = 0.1 individuals per Drosophila per week.",
+      "others": ""
+    },
+    "year": "2022",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "sourceQuestionNumber": 1,
+    "text": "Inspite of interspecific competition in nature, which mechanism the competing species might have evolved for their survival?",
+    "options": {
+      "A": "Mutualism",
+      "B": "Predation",
+      "C": "Resource partitioning",
+      "D": "Competitive release"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Inspite of interspecific competition the competing species may co-exist by doing resource partitioning.In mutualism two organisms are equally benefitted.In predation one organism (Predator) eats the another one (Prey).In competition release there occurs dramatical increase in population of a less distributed species when its superior competitor is removed.",
+      "others": ""
+    },
+    "year": "2021",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "sourceQuestionNumber": 2,
+    "text": "Amensalism can be represented as",
+    "options": {
+      "A": "Species A (-) : Species B (-)",
+      "B": "Species A (+) : Species B (0)",
+      "C": "Species A (-) : Species B (0)",
+      "D": "Species A (+) : Species B (+)"
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Amensalism is an interaction between two organisms of different species in which one species inhibits the growth of other species by secreting certain chemicals. The first species is neither get benefited nor harmed. (+) : (0) interaction is observed in commensalism. (+) : (+) interaction is observed in mutualism. (-) : (-) interaction is seen in competition. Q3: In the exponential growth equation Nt =N0ert, e represents : (NEET 2021) (a) The base of natural logarithms (b) The base of geometric logarithms (c) The base of number logarithms (d) The base of exponential logarithms Ans: (a) In the exponential growth equation Nt = N0ert, e is the base of natural logarithms (~2.718), used to model exponential growth Nt = Population density after time t N0 = Population density at time zero r = Intrinsic rate of natural increase called biotic potential.",
+      "others": ""
+    },
+    "year": "2021",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is not an attribute of a population?",
+    "options": {
+      "A": "Mortality",
+      "B": "Species interaction",
+      "C": "Sex ratio",
+      "D": "Natality"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Natality refers to the number of births during a given period in the population that are added to the initial density. Mortality is the number of deaths in the population during a given period. Population interaction is the interaction between different populations. It refers to the effects that the organisms in a community have on one another. The sex ratio is the ratio of males to females in a population.",
+      "others": ""
+    },
+    "year": "2020",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "sourceQuestionNumber": 2,
+    "text": "The process of growth is maximum during",
+    "options": {
+      "A": "Log phase",
+      "B": "Lag phase",
+      "C": "Dormancy",
+      "D": "Senescence"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "In exponential growth, the initial growth is slow (lag phase) and it increases rapidly thereafter at an exponential rate in log or exponential phase.",
+      "others": ""
+    },
+    "year": "2020",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "sourceQuestionNumber": 1,
+    "text": "Match Column-I with Column -II",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "A saprophyte is an organism that survives on dead and decaying organisms like fungi and decomposition bacteria.A parasite is an organism that survives on living plants and animals.A lichen is symbiotic association of algae & fungi.Mycorrhiza is a symbiotic association of fungi and roots of higher plants like pinus",
+      "others": ""
+    },
+    "year": "2019",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2019_B12_Q29-main.png",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2019_B12_Q29-explanation1.png",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2019_B12_Q29-explanation2.png",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2019_B12_Q29-explanation3.png",
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2019_B12_Q29-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "sourceQuestionNumber": 1,
+    "text": "Which one of the following population interactions is widely used in medical science for the production of antibiotics?",
+    "options": {
+      "A": "Commensalism",
+      "B": "Mutualism",
+      "C": "Parasitism",
+      "D": "Amensalism"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "In amensalism, one species is harmed whereas the other is unaffected. Antibiosis also shows this feature where the antibiotics released by the microbial group (Penicillium) Has affect on other microbes (such as Staphylococcus.",
+      "others": ""
+    },
+    "year": "2018",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "sourceQuestionNumber": 2,
+    "text": "Natality refers to",
+    "options": {
+      "A": "Death rate",
+      "B": "Birth rate",
+      "C": "Number of individuals leaving the habitat",
+      "D": "Number of individuals entering a habitat"
+    },
+    "answer": "b",
+    "explanation": {
+      "correct": "Natality refers to the number of births during a given period in the population that are added to the initial density.",
+      "others": ""
+    },
+    "year": "2018",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "sourceQuestionNumber": 3,
+    "text": "In a growing population of a country",
+    "options": {
+      "A": "Pre-reproductive individuals are more than the reproductive individuals",
+      "B": "Reproductive individuals are less than the post-reproductive individuals",
+      "C": "Reproductive and pre-reproductive individuals are equal in number",
+      "D": "Pre-reproductive individuals are less than the reproductive individuals"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "In a population where the number of pre-reproductive individuals or the younger individual is larger than the reproductive individuals, the population will increase.",
+      "others": ""
+    },
+    "year": "2018",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "sourceQuestionNumber": 1,
+    "text": "Asymptote in a logistic growth curve is obtained when",
+    "options": {
+      "A": "K = N",
+      "B": "K > N",
+      "C": "K < N",
+      "D": "the value of 'r' approaches zero."
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": ". Asymptote in a logistic growth curve is obtained when population density (N) reaches the carrying capacity (K), i.e., N = K.",
+      "others": ""
+    },
+    "year": "2017",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "sourceQuestionNumber": 2,
+    "text": "Mycorrhizae are the example of",
+    "options": {
+      "A": "Amensalism",
+      "B": "Antibiosis",
+      "C": "Mutualism",
+      "D": "Fungistasis."
+    },
+    "answer": "c",
+    "explanation": {
+      "correct": "Mycorrhiza is a mutualistic interaction between a fungus and roots of higher plants.",
+      "others": ""
+    },
+    "year": "2017",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "sourceQuestionNumber": 1,
+    "text": "If '+' sign is assigned to beneficial interaction, '-' sign to detrimental and 'O' sign to neutral interaction, then the population interaction represented by '+' '-' refers to",
+    "options": {
+      "A": "Mutualism",
+      "B": "Amensalism",
+      "C": "Commensalism",
+      "D": "Parasitism"
+    },
+    "answer": "d",
+    "explanation": {
+      "correct": "Parasitism is an association in which one organism (the parasite) lives on (ectoparasitism) or in (endoparasitism) the body of another organism (host), from which it obtains its nutrients. This association is beneficial for the parasites as they get continuous supply of nutrients from their host and are able to rapidly multiply their numbers. But it is detrimental for the host organism as parasitic infection leads to various complications and diseases in the host body may also be fatal to the host under certain circumstances. Q2: The principle of competitive exclusion was stated by (NEET 2016 Phase 2) (a) C. Darwin (b) G.f. Gause (c) Mae Arthur (d) Verhulst and Pearl Ans: (b) Two or more species with closely similar niche requirements cannot exist indefinitely in the same area as sooner or later they come into ompetition for possession of it. This is called as Gause's competitive exclusion principle, which states that an ecological niche cannot be simultaneously and completely occupied by established populations of more than one species. Two species can live in same habitat but not in the same niche. More similar the two niches are, severe the competition is.",
+      "others": ""
+    },
+    "year": "2016",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "sourceQuestionNumber": 3,
+    "text": "Gause's principle of competitive exclusion states that",
+    "options": {
+      "A": "No two species can occupy the same niche indefinitely for the same limiting resources",
+      "B": "Larger organisms exclude smaller ones through competition",
+      "C": "More abundant species will exclude the less abundant species through competition",
+      "D": "Competition for the same resources exclude species having different food preferences"
+    },
+    "answer": "a",
+    "explanation": {
+      "correct": "Gause's principle of competitive exclusion can be restated to say that no two species can occupy the same niche indefinitely when resources are limiting. Certainly species can and do coexist while competing for some of the same resources. Nevertheless, Gause's theory predicts that when two species coexist on a long-term basis, either resources must not be limited or their niches will always differ in one or more features; otherwise, one species will outcompete the other and the extinction of the second species will inevitably result, a process referred to as competitive exclusion. Q4: When does the growth rate of a population following the logistic model equal zero? The logistic model is given as dN/dt = rN(1-N/K) (NEET 2016 Phase 1) (a) When N/K equals zero (b) When death rate is greater than birth rate (c) When N/K is exactly one (d) When N nears the carrying capacity of habitat. Ans: (c) In logistic growth model population growth equation is described as N = population density at time t; r = Intrinsic rate of natural increase; K = carrying capacity When N/K = 1; 1 - N/K = 0 Therefore, dN/dt = 0",
+      "others": ""
+    },
+    "year": "2016",
+    "chapter": "Organisms and Population",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/organisms-and-population/ORGANISMS_AND_POPULATION-2016_B12_Q36-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

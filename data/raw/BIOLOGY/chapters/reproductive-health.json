@@ -1,0 +1,949 @@
+[
+  {
+    "id": "Q1",
+    "sourceQuestionNumber": 1,
+    "text": "What are the potential drawbacks in adoption of the IVF method? A. High fatality risk to mother B. Expensive instruments and reagents C. Husband/wife necessary for being donors D. Less adoption of orphans E. Not available in India F. Possibility that the early embryo does not survive",
+    "options": {
+      "A": "A, B, C, D only",
+      "B": "A, B, C, E, F only",
+      "C": "B, D, F only",
+      "D": "A, C, D, F only"
+    },
+    "answer": "c",
+    "explanation": "IVF (In Vitro Fertilization) is a medical procedure in which an egg is fertilized by sperm outside the body and then implanted into the uterus. It is a widely accepted method for treating infertility in couples who are unable to conceive naturally. Expensive instruments and reagents (Option B): IVF is a costly procedure, requiring specialized equipment, reagents, and trained professionals. The high cost can make it inaccessible to many couples.Less adoption of orphans (Option D): The availability of IVF as a to infertility might reduce the willingness of couples to adopt orphaned children, as they prefer biological offspring.Possibility that the early embryo does not survive (Option F): There is a risk that the embryo created during IVF may not survive or fail to implant in the uterus, leading to emotional distress and additional financial costs. Other options: High fatality risk to mother (Option A): IVF does not pose a high fatality risk to the mother. While there may be mild to moderate side effects, life-threatening risks are rare and are usually associated with pre-existing health conditions.Husband/wife necessary for being donors (Option C): This statement is inaccurate. Donor eggs or sperm can be used in IVF procedures, meaning that a husband or wife is not always required to be the donor.Not available in India (Option E): This is incorrect as IVF is widely available in India, with numerous clinics providing the procedure across the country.",
+    "year": "2025",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is not a natural/traditional contraceptive method?",
+    "options": {
+      "A": "Coitus interrupts",
+      "B": "Periodic abstinence",
+      "C": "Lactational amenorrhea",
+      "D": "Vaults"
+    },
+    "answer": "d",
+    "explanation": "Vaults are not a natural or traditional contraceptive method. They refer to barrier methods such as cervical caps, which are modern contraceptive devices used to prevent sperm from entering the uterus, unlike natural methods like coitus interruptus, periodic abstinence, and lactational amenorrhea that rely on behavioral practices without the use of physical devices.",
+    "year": "2024",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "sourceQuestionNumber": 2,
+    "text": "Match List I with List II Choose the correct answer from the option given below",
+    "options": {
+      "A": "A-III, B-I, C-II, D-IV",
+      "B": "A-I, B-III, C-IV, D-II",
+      "C": "A-IV, B-I, C-II, D-III",
+      "D": "A-III, B-I, C-IV, D-II"
+    },
+    "answer": "d",
+    "explanation": "Let's analyze each item in List-I and find the appropriate match from List-II:Non-medicated IUD - This type of intrauterine device (IUD) does not contain any hormones or active pharmaceutical ingredients. It solely relies on the presence of a foreign body within the uterus to prevent pregnancy. A representative example of a non-medicated IUD is Lippes loop, which is an inert, flexible plastic loop. Therefore, A corresponds to III.Copper releasing IUD - These IUDs release a small amount of copper into the uterus, which enhances contraceptive efficacy. Multiload 375 is a typical example of a copper-releasing IUD as it includes a copper component. Thus, B corresponds to I.Hormone releasing IUD - These IUDs release a hormone to prevent pregnancy. One well-known hormone releasing IUD is LNG-20, also known as Mirena, which releases levonorgestrel, a type of progestogen, directly into the uterus. Consequently, C corresponds to IV.Implants - These are typically small rods containing progestin that are implanted under the skin. Since the description coincides with the progestogens' action (such as Norplant), D corresponds to II.Based on the analysis:A corresponds to III (Lippes loop). B corresponds to I (Multiload 375). C corresponds to IV (LNG-20). D corresponds to II (Progestogens).Therefore, the correct matches for the options are: Option D: A-III, B-I, C-IV, D-II",
+    "year": "2024",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2024_B12_Q3-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following is NOT an example of Assisted Reproductive Technology (ART)?",
+    "options": {
+      "A": "IVF",
+      "B": "GIFT",
+      "C": "IUI",
+      "D": "IUD"
+    },
+    "answer": "d",
+    "explanation": "(a) IVF (In Vitro Fertilization): A widely known ART where an egg is fertilized by sperm outside the body and then implanted in the uterus.(b) GIFT (Gamete Intra-Fallopian Transfer): Another ART method where eggs and sperm are placed directly into the fallopian tubes to facilitate fertilization.(c) IUI (Intrauterine Insemination): A procedure that involves placing sperm directly into a woman's uterus to increase the chances of fertilization.(d) IUD (Intrauterine Device): A form of contraception that is inserted into the uterus to prevent pregnancy, but it is not a method of ART.",
+    "year": "2024",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "sourceQuestionNumber": 4,
+    "text": "Match List-I with List-II relating to examples of various kind of IUDs and barrier",
+    "options": {
+      "A": "A - II, B - IV, C - III, D - I",
+      "B": "A - IV, B - III, C - I, D - II",
+      "C": "A - II, B - I, C - III, D - IV",
+      "D": "A - II, B - IV, C - I, D - III"
+    },
+    "answer": "d",
+    "explanation": "A. Copper releasing IUD - II. Multiload 375 Multiload 375 is a commonly used copper IUD which releases copper ions to prevent fertilization.B. Non-medicated IUD - IV. Lippes loop Lippes loop is an older type of IUD without any drug or hormone, hence non-medicated.C. Contraceptive barrier - I. Vaults Vaults are mechanical barriers placed in the vagina to block sperm entry.D. Hormone releasing IUD - III. LNG-20 LNG-20 is a levonorgestrel-releasing intrauterine device, a hormonal IUD.Thus, option (d) is the correct match.",
+    "year": "2024",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2024_B12_Q5-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "sourceQuestionNumber": 5,
+    "text": "Following is a list of STDs. Select the diseases which are not completely curable. A. Genital warts B. Genital herpes C. Syphilis D. Hepatitis-B E. Trichomoniasis",
+    "options": {
+      "A": "A and D only",
+      "B": "B and D only",
+      "C": "A and C only",
+      "D": "D and E only"
+    },
+    "answer": "b",
+    "explanation": "Genital herpes and Hepatitis-B are caused by viruses and are not completely curable, though symptoms can be managed.Syphilis and Trichomoniasis are caused by bacteria and protozoa respectively and are curable with appropriate antibiotics.Genital warts, caused by HPV, may recur even after treatment. However, in many cases, they can be managed and may clear over time.Hence, B (Genital herpes) and D (Hepatitis-B) are not completely curable.",
+    "year": "2024",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "sourceQuestionNumber": 1,
+    "text": "Given below are two statements: one is labelled as Assertion A and other is labelled as Reason R. [NEET 2023] Assertion A : Amniocentesis for sex determination is one of the strategies of Reproductive and Child Health Care Programme. Reason R : Ban on amniocentesis checks increasing menace of female foeticide. In the light of the above statements, choose the correct answer from the options given below",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A.",
+      "B": "Both A and R are true and R is NOT the correct explanation of A.",
+      "C": "A is true but R is false.",
+      "D": "A is false but R is true."
+    },
+    "answer": "d",
+    "explanation": "The correct answer is option (4) as 'Reproductive and Child Health Care (RCH) programme' deals with creating awareness among people about various reproduction related aspects and providing facilities and support for building up a reproductively healthy society.Amniocentesis is basically used to test for the presence of certain genetic disorders such as Down's syndrome, haemophilia, etc., to determine the survivability of the foetus.Amniocentesis is not a sex determination technique in India and is not a strategy of RCH.It was banned in India around 1994 under the Pre-Conception and Prenatal Diagnostic Techniques Act, which is an Act of the Parliament of India enacted to stop female foeticides and arrest the declining sex ratio in India. MULTIPLE CHOICE QUESTIONTry yourself: Q2: Match List I with List II. [NEET 2023] Choose the correct answer from the options given below:AA-III, B-I, C-IV, D-IIBA-III, B-IV, C-II, D-ICA-II, B-III, C-I, D-IDA-IV, B-II, C-I, D-IIIView Correct Answer: BHide Explanation ⌃Vasectomy is a surgical method of contraception for males. It involves cutting the vas deferens, the tubes that carry sperm from the testicles to the urethra. Vasectomy is a permanent form of contraception and is intended to be irreversible.Coitus interruptus, often referred to as the \"withdrawal method\" is a natural method of contraception. It involves withdrawing the penis from the vagina before ejaculation during sexual intercourse.Cervical cap is a barrier method of contraception designed for females. It is a small, thimble-shaped cap made of soft silicone or latex that fits over the cervix, blocking the entrance to the uterus.Saheli is an oral method of contraception in the form of a non-steroidal pill. Unlike traditional birth control pills, Saheli is a non-hormonal contraceptive pill it inhibits ovulation and altering the cervical mucus.Report a problemCancelReport",
+    "year": "2023",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2023_B12_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "sourceQuestionNumber": 2,
+    "text": "Which one of the following common sexually transmitted diseases is completely curable when detected early and treated properly? [NEET 2023]",
+    "options": {
+      "A": "HIV Infection",
+      "B": "Genital herpes",
+      "C": "Gonorrhoea",
+      "D": "Hepatitis-B"
+    },
+    "answer": "c",
+    "explanation": "(a) HIV Infection: Currently, there is no cure for HIV, although it can be managed with antiretroviral therapy.(b) Genital Herpes: This condition is caused by the herpes simplex virus and is not curable, though symptoms can be managed.(c) Gonorrhoea: This bacterial infection is completely curable with the right antibiotics when detected early.(d) Hepatitis-B: While there are treatments available, Hepatitis-B is not completely curable; it can be managed but may remain in the body.",
+    "year": "2023",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "sourceQuestionNumber": 3,
+    "text": "Match List I with List II [NEET 2023]",
+    "options": {
+      "A": "A-IV B-II C-I D-III",
+      "B": "A-III B-I C-IV D-II",
+      "C": "A-III B-IV C-II D-I",
+      "D": "A-II B-III C-I D-IV"
+    },
+    "answer": "c",
+    "explanation": "A. Vasectomy: III. Surgical method - This is a permanent method of male sterilization.B. Coitus interruptus: IV. Natural method - This involves withdrawal before ejaculation.C. Cervical caps: II. Barrier method - These are used to block sperm from entering the uterus.D. Saheli: I. Oral method - This is a contraceptive pill taken orally.",
+    "year": "2023",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2023_B12_Q9-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "sourceQuestionNumber": 4,
+    "text": "Which of the following sexually transmitted infections are completely curable? [NEET 2023]",
+    "options": {
+      "A": "HIV infection and Trichomoniasis",
+      "B": "Syphilis and Trichomoniasis",
+      "C": "Hepatitis-B and Genital herpes",
+      "D": "Genital Herpes and Genital warts"
+    },
+    "answer": "b",
+    "explanation": "(a) HIV infection and Trichomoniasis: HIV is not curable, making this option incorrect.(b) Syphilis and Trichomoniasis: Both of these infections can be completely cured with appropriate antibiotics.(c) Hepatitis-B and Genital herpes: Neither of these infections is completely curable; they can be managed but not eradicated.(d) Genital Herpes and Genital warts: Both are manageable but not curable, making this option incorrect.",
+    "year": "2023",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "sourceQuestionNumber": 5,
+    "text": "Match List - I with List - II [NEET 2023]",
+    "options": {
+      "A": "(A)-(IV) (B)-(III) (C)-(I) (D)-(II)",
+      "B": "(A)-(II) (B)-(IV) (C)-(III) (D)-(I)",
+      "C": "(A)-(III) (B)-(I) (C)-(IV) (D)-(II)",
+      "D": "(A)-(III) (D)-(IV) (C)-(II) (D)-(I)"
+    },
+    "answer": "c",
+    "explanation": "(A) Non-medicated IUDs: III. Lippes loop - This is a type of non-medicated IUD.(B) Copper releasing IUDs: I. Multiload 375 - This is a specific type of copper-releasing IUD.(C) Hormone releasing IUDs: IV. LNG-20 - This is a hormone-releasing IUD.(D) Vaults: II. Rubber barrier - This refers to barrier methods that prevent sperm from reaching the egg.",
+    "year": "2023",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2023_B12_Q11-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "sourceQuestionNumber": 6,
+    "text": "Given below are two statements: [NEET 2023] I: Intra Cytoplasmic Sperm Injection (ICSI) is another specialized procedure of in-vivo fertilization. II: Infertility cases due to the inability of the male partner to inseminate the female can be corrected by Artificial Insemination (AI)",
+    "options": {
+      "A": "Statement I is correct but Statement II is false",
+      "B": "Statement I is incorrect but Statement II is true",
+      "C": "Both Statement I and Statement II are true",
+      "D": "Both Statement I and Statement II are false"
+    },
+    "answer": "b",
+    "explanation": "Statement I says ICSI (Intra Cytoplasmic Sperm Injection) is an in-vivo fertilization method. This is incorrect because ICSI is actually an in-vitro (outside the body) technique. In this method, a sperm is directly injected into an egg in a lab. Statement II says that if a male cannot inseminate naturally, artificial insemination (AI) can help. This is correct. AI is used to insert sperm into the female reproductive tract when natural insemination is not possible.",
+    "year": "2023",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "sourceQuestionNumber": 7,
+    "text": "Which of the following statements are correct? [NEET 2023] A. Reproductive health refers to total well-being in all aspects of reproduction B. Amniocentesis is legally banned for sex determination in India C. \"Saheli\" - an oral contraceptive for females was developed in collaboration with ICMR (New Delhi) D. Amniocentesis is used to determine genetic disorders and survivability of foetus",
+    "options": {
+      "A": "(B) and (C) only",
+      "B": "(D) and (C) only",
+      "C": "(A), (B) and (D) only",
+      "D": "(A) and (C) only"
+    },
+    "answer": "c",
+    "explanation": "A: Reproductive health includes physical, emotional, social well-being - ✔️ TrueB: Amniocentesis (a prenatal test) is banned for sex determination in India to prevent female foeticide - ✔️ TrueC: \"Saheli\" is a birth control pill developed by CDRI (Central Drug Research Institute), not ICMR - ❌ FalseD: Amniocentesis is used to detect genetic disorders and health of fetus - ✔️ True",
+    "year": "2023",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is not an Intra Uterine Device?",
+    "options": {
+      "A": "Progestasert",
+      "B": "B Progestogens",
+      "C": "Multiload 375",
+      "D": "Lippes loop [NEET 2022 Phase 2]"
+    },
+    "answer": "b",
+    "explanation": "Option (b) is the correct answer as progestogens are the synthetic forms of progesterone. Option (a) is not the answer as progestasert is an hormone releasing IUD. Option (c) is not the answer as Multiload-375 is a copper releasing IUD. Option (d) is not the answer as Lippes loop is an inert IUD.",
+    "year": "2022",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "sourceQuestionNumber": 2,
+    "text": "IUDs are small objects made up of plastic or copper that are inserted in the uterine cavity. Which of the following statements are correct about IUDs ? [NEET 2022 Phase 2] a. IUDs decrease phagocytosis of sperm within the uterus. b. The released copper ions suppress the sperm motility. c. IUDs do not make the cervix hostile to the sperm. d. IUDs suppress the fertilization capacity of sperm. e. The IUDs require surgical intervention for their insertion in the uterine cavity",
+    "options": {
+      "A": "a, b and e only",
+      "B": "(b) and (c) only",
+      "C": "(b) and (d) only",
+      "D": "(d) only"
+    },
+    "answer": "c",
+    "explanation": "(a) IUDs increase phagocytosis of sperm within the uterus.(b) The released copper ions suppress the sperm motility.(c) IUDs make the cervix hostile to the sperm.(d) IUDs suppress the fertilisation capacity of sperms.(e) The IUDs do not require surgical intervention for their insertion into the uterine cavity.",
+    "year": "2022",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "sourceQuestionNumber": 3,
+    "text": "Lippe's loop is a type of contraceptive used as: [NEET 2022]",
+    "options": {
+      "A": "Vault barrier",
+      "B": "Non-Medicated IUD",
+      "C": "Copper releasing IUD",
+      "D": "Cervical barrier"
+    },
+    "answer": "b",
+    "explanation": "Lippe's loop is an example of a non-medicated intrauterine device or IUD used in female contraception. Lippes loop is a plastic double \"S\" loop. It attracts the macrophages stimulating them to accumulate in the uterine cavity. Macrophages increase phagocytosis of sperms within the uterus and act as a contraceptive.",
+    "year": "2022",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2022_B12_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "sourceQuestionNumber": 4,
+    "text": "Match List-I with List-II with respect to methods of Contraception and their respective actions. [NEET 2022]",
+    "options": {
+      "A": "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)",
+      "B": "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+      "C": "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)",
+      "D": "(a) - (iv), (b) - (i), (c) - (iii), (d) - (ii)"
+    },
+    "answer": "a",
+    "explanation": "Diaphragm are dome-shaped rubber plastic covers that have to be fitted on the cervix in the female's vagina to check the entry of sperms into the uterus. Oral pills are the hormonal tablets are taken orally. These pills contain a combination of synthetic hormones like progesterone and estrogen. These hormones inhibit ovulation and implantation by inhibiting the secretion of FSH and LH from the pituitary gland.IUDs (Intrauterine Devices) are made of plastic, metal, or a combination of the two and are inserted into the uterus to prevent conception. IUDs increase phagocytosis of sperms within the uterus and the hormone releasing IUDs make the uterus unsuitable for implantation and the cervix hostile to the sperms. Lactational Amenorrhea is also a natural method of birth control where there is no menstrual cycle and therefore ovulation does not occur during intense lactation following parturition.",
+    "year": "2022",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2022_B12_Q17-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is hormone-releasing IUD? [NEET 2021]",
+    "options": {
+      "A": "LNG-20",
+      "B": "Multiload-375",
+      "C": "Lippes loop",
+      "D": "Cu-7"
+    },
+    "answer": "a",
+    "explanation": "LNG 20Levonorgestrel hormone is released from LNG-20. It is highly effective for contraception. The risk of unwanted pregnancy is lower with LNG-20 because it causes endometrial atrophy and alter the stroma to inhibit the process of implantation.Lippes loop is an IUD impregnated with barium sulphate. IUDs like CuT and multiload-375 release copper that suppress the motility of sperm thus reducing its fertilising capacity. Thus, Lippes loop, CuT and multiload-375 are not hormone releasing IUDs.",
+    "year": "2021",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2021_B12_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "sourceQuestionNumber": 2,
+    "text": "Venereal diseases can spread through: [NEET 2021] (i) Using sterile needles (ii) Transfusion of blood from infected person (iii) Infected mother to foetus (iv) Kissing (v) Inheritance Choose the correct answer from the options given below",
+    "options": {
+      "A": "(ii) and (iii) only",
+      "B": "(i) and (iii) only",
+      "C": "(i), (ii) and (iii)",
+      "D": "(ii), (iii) and (iv)"
+    },
+    "answer": "a",
+    "explanation": "Venereal diseases or sexually transmitted diseases or infections are transmitted by sharing of infected needles, surgical instruments with infected person, transfusion of blood or from an infected mother to foetus.Venereal diseases can be transmitted through kissing ( in some cases : usually rare) but not from inheritance.",
+    "year": "2021",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "sourceQuestionNumber": 3,
+    "text": "Match List-I with List-II [NEET 2021] Choose the correct answer from the options given below",
+    "options": {
+      "A": "(ii) (iv) (iii) (i)",
+      "B": "(iii) (i) (iv) (ii)",
+      "C": "(iv) (ii) (i) (iii)",
+      "D": "(i) (iii) (ii) (iv)"
+    },
+    "answer": "d",
+    "explanation": "Vaults is a rubber dome, which fits over the vaginal vault or cervix. They prevents the entry of sperm into the uterus.IUDs are the devices which are inserted by the doctors or trained nurses into the uterus of female. These IUDs increase phagocytosis of sperm in uterus.Vasectomy : Surgical removal of the small part of vas deferens. It is a form of male birth control that inhibits to transport of male gamete.Tubectomy is a surgical method of contraception in females where a small part of the fallopian tube is removed or tied up through a small incision in the abdomen or through vagina. Vasectomy Tubectomy",
+    "year": "2021",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2021_B12_Q20-main.png",
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2021_B12_Q20-explanation1.png",
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2021_B12_Q20-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "sourceQuestionNumber": 1,
+    "text": "In which of the following techniques, the embryos are transferred to assist those females who cannot conceive? [NEET 2020]",
+    "options": {
+      "A": "ICSI and ZIFT",
+      "B": "GIFT and ICSI",
+      "C": "ZIFT and IUT",
+      "D": "GIFT and ZIFT"
+    },
+    "answer": "c",
+    "explanation": "ART in which embryos are transferred, include ZIFT and IUT i.e. Zygote Intrafallopian Transfer and Intra Uterine Transfer respectively, both are embryo transfer (ET) methods. MULTIPLE CHOICE QUESTIONTry yourself: Q2: Select the option including all sexually transmitted diseases. [NEET 2020]AAIDS, Malaria, FilariaBCancer, AIDS, SyphilisCGonorrhoea, Syphilis, Genital HerpesDGonorrhoea, Malaria, Genital herpesView Correct Answer: CHide Explanation ⌃Gonorrhoea, Syphilis, Genital herpes are sexually transmitted diseases. Gonorrhoea is caused by a bacterium Neisseria gonorrhoeae. Syphilis is caused by a bacterium Treponema pallidum. Genital herpes is caused by a virus Type-II-Herpes simplex virus.Report a problemCancelReport",
+    "year": "2020",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following contraceptive methods involve the role of hormones?",
+    "options": {
+      "A": "Pill, Emergency contraception, Barrier methods",
+      "B": "Lactational amenorrhea, Pills, Emergency contraceptives",
+      "C": "Barrier method, Lactational amenorrhea pills",
+      "D": "Cut, Pills, Emergency contraceptive [NEET 2019]"
+    },
+    "answer": "b",
+    "explanation": "In lactational amenorrhea, due to high prolactin level, gonadotropin level decreases. Oral pills are either progestogens or progestin-estrogen combinations used by females. Emergency contraceptive includes administration of progestogens or progestogen-estrogen combination or IUDs within 72 hours of coitus. So, lactational amenorrhea, oral pills and emergency contraceptives involve the role of hormones.Contraceptive pills are the pills, which are taken orally to prevent pregnancy. The choice of pills is made on the basis of menstrual symptoms, breastfeeding, cardiovascular health, chronic conditions or any other medicines. There are various types of pills. Types of oral contraceptives are:Combination pills are synthetic hormones like estrogen and progestin. These pills are active at the active part of the cycle containing hormones and those used in inactive times are known as non-hormonal. These pills prevent the body from ovulating. Few examples of combination pills are Levora, Beyaz, etc. Progestin pills contain progestin without estrogen. They are called mini pills. All the pills in the cycle are active. It doesn't allow implantation, which will prevent a growing pregnancy. For example, Camila, Errin.Hence, the correct answer is option B.",
+    "year": "2019",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "sourceQuestionNumber": 2,
+    "text": "Select the horomone-releasing Intra-Uterine Devices",
+    "options": {
+      "A": "Progestasert, LNG-20",
+      "B": "Lippes Loop, Multiload 375",
+      "C": "Vaults, LNG-20",
+      "D": "Multiload 375, Progestasert [NEET 2019]"
+    },
+    "answer": "a",
+    "explanation": "Progestasert, and LNG-20 are hormone releasing IUDs, which makes the uterus unsuitable for implantation and the cervix hostile to the sperms.",
+    "year": "2019",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "sourceQuestionNumber": 1,
+    "text": "The contraceptive 'Saheli': [NEET 2018]",
+    "options": {
+      "A": "Blocks estrogen receptors in the uterus, preventing eggs from getting implanted.",
+      "B": "Increases the concentration of estrogen and prevents ovulation in females.",
+      "C": "Is an IUD",
+      "D": "Is a post-coital contraceptive."
+    },
+    "answer": "a",
+    "explanation": "Saheli is a mini pill that contains a nonsteroidal preparation called centchroman, which is taken once a week after an initial intake of twice a week for 3 months. It blocks estrogen receptors in the uterus hence alters uterine lining and prevents fertilized eggs from being implanted.",
+    "year": "2018",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "sourceQuestionNumber": 1,
+    "text": "Match the following sexually transmitted diseases (Column I) with their causative agents (Column II) and select the correct option. [NEET 2017]",
+    "options": {
+      "A": "(a): (iii) | (b): (iv) | (c): (i) | (d): (ii)",
+      "B": "(a): (iv) | (b): (ii) | (c): (iii) | (d): (i)",
+      "C": "(a): (iv) | (b): (iii) | (c): (ii) | (d): (i)",
+      "D": "(a): (ii) | (b): (iii) | (c): (iv) | (d): (i)"
+    },
+    "answer": "d",
+    "explanation": "Gonorrhoea is a sexually transmitted disease (STD) caused by infection with the Neisseria gonorrhoeae bacterium. N. gonorrhoeae infects the mucous membranes of the reproductive tract, including the cervix, uterus, and fallopian tubes in women, and the urethra in women and men. Syphilis is a chronic infectious disease caused by the spirochaete Treponema pallidum. Syphilis is usually transmitted by sexual contact or from mother to infant, although endemic syphilis is transmitted by non-sexual contact in communities living under poor hygiene conditions. Genital warts are caused by several of the epidermotropic human papillomaviruses (HPVs). HPV-6 and HPV-11 most commonly are isolated. Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV).",
+    "year": "2017",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2017_B12_Q25-main.png"
+    ],
+    "tables": [
+      [
+        "Column I",
+        "Column II"
+      ],
+      [
+        "(a) Gonorrhoea",
+        "(i) HIV"
+      ],
+      [
+        "(b) Syphilis",
+        "(ii) Neisseria"
+      ],
+      [
+        "(c) Genital warts",
+        "(iii) Triponema"
+      ],
+      [
+        "(d) AIDS",
+        "(iv) Human papilloma virus"
+      ]
+    ],
+    "optionExtraction": {
+      "source": "manual_image_table_review",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "sourceQuestionNumber": 2,
+    "text": "The function of copper ions in copper releasing IUDs is",
+    "options": {
+      "A": "They inhibit gametogenesis",
+      "B": "They make the uterus unsuitable for implantation",
+      "C": "They inhibit ovulation",
+      "D": "They suppress sperm motility and fertilization capacity of sperm. [NEET 2017]"
+    },
+    "answer": "d",
+    "explanation": "Cu2+ interfere in the sperm movement, which suppress the sperm motility and fertilising capacity of sperms.",
+    "year": "2017",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2017_B12_Q26-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is hormone releasing IUD ?",
+    "options": {
+      "A": "Lippes loop",
+      "B": "LNG-20",
+      "C": "Cu7",
+      "D": "Multiload 375 [NEET 2016 Phase 2]"
+    },
+    "answer": "b",
+    "explanation": "LNG-20 is the hormone releasing IUD, multiload 375 and Cu7 are copper releasing IUDs and Lippes loop is a non-medicated IUD.",
+    "year": "2016",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "sourceQuestionNumber": 2,
+    "text": "Which of the following is incorrect regarding vasectomy?",
+    "options": {
+      "A": "No sperm occurs in seminal fluid",
+      "B": "No sperm occurs in the epididymis",
+      "C": "Vasa deferentia is cut and tied",
+      "D": "Irreversible sterility [NEET 2016]"
+    },
+    "answer": "b",
+    "explanation": "Vasectomy is a surgical contraception method performed in males. In vasectomy, a small part of the vas deferens is removed or tied up through a small cut on the scrotum. This prevents sperm transport. Vasectomy has a poor reversibility. There is no effect on libido and erectile functioning. Seminal vesicles are one pair of sac like structures which join vasa deferentia to form ejaculatory duct. They secrete seminal fluid which contains fructose, prostaglandins and clotting protein, but no sperms. In a male who has undergone vasectomy, the ejaculatory duct will receive seminal fluid but due to cut in vasa deferentia sperms will not be transported from epididymis hence the semen will lack sperms.",
+    "year": "2016",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "sourceQuestionNumber": 3,
+    "text": "Embryo with more than 16 blastomeres formed due to in Vitro fertilization is transferred into [NEET 2016]",
+    "options": {
+      "A": "Uterus",
+      "B": "Fallopian tube",
+      "C": "Fimbriae",
+      "D": "Cervix"
+    },
+    "answer": "a",
+    "explanation": "Embryo with more than 16 blastomeres formed due to in vitro fertilisation is transferred into uterus (intra-uterine transfer, IUT).",
+    "year": "2016",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "sourceQuestionNumber": 4,
+    "text": "In the context of amniocentesis, which of the following statements is incorrect?",
+    "options": {
+      "A": "It can be used for the detection of Down's syndrome.",
+      "B": "It can be used for the detection of cleft palate.",
+      "C": "It is usually done when a woman is between 14-16 weeks pregnant.",
+      "D": "It is used for prenatal sex determination. [NEET 2016 Phase 1]"
+    },
+    "answer": "b",
+    "explanation": "Amniocentesis (also referred to as amniotic fluid test or AFT) is a medical procedure used in prenatal diagnosis of chromosomal abnormalities and fetal infections, and also used for sex determination in which a small amount of amniotic fluid, which contains fetal tissues, is sampled from the amniotic sac. Cleft palate is a developmental abnormality which can only be detected by sonography.",
+    "year": "2016",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following approaches does not give the defined action of contraceptive?",
+    "options": {
+      "A": "Barrier methods prevent fertilization",
+      "B": "Intrauterine Increase phagocytosis devices of sperms, suppress sperm motility and fertilizing capacity of sperms",
+      "C": "Hormonal Prevent/retard entry of contraceptives sperms, prevent ovulation and fertilization",
+      "D": "Vasectomy Prevents spermatogenesis [NEET 2016 Phase 1]"
+    },
+    "answer": "d",
+    "explanation": "Vasectomy is a surgical procedure for male sterilization or permanent contraception. During the procedure, the male vas deferens are severed and then tied or sealed in a manner so as to prevent sperm from entering into the seminal stream (ejaculate) and thereby prevent fertilization.",
+    "year": "2016",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "sourceQuestionNumber": 1,
+    "text": "A childless couple can be assisted to have a child through a technique called GIFT. The full form of this technique is",
+    "options": {
+      "A": "Gamete intra fallopian transfer",
+      "B": "Gamete internal fertilization and transfer",
+      "C": "Germ cell internal fallopian transfer",
+      "D": "Gamete inseminated fallopian transfer [NEET 2015 / AIPMT 2015]"
+    },
+    "answer": "a",
+    "explanation": "Gamete Intra Fallopian Transfer (GIFT) is an assisted reproductive technology in which both the sperm and unfertilised oocytes are transferred into the Fallopian tubes. Fertilisation takes place in vivo (inside the body of the female).",
+    "year": "2015",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "sourceQuestionNumber": 2,
+    "text": "Which of the following is not a sexually transmitted desease?",
+    "options": {
+      "A": "Trichomoniasis",
+      "B": "Syphilis",
+      "C": "Encephalitis",
+      "D": "Acquired Immuno Deficiency Syndrome (AIDS) [AIPMT 2015 Cancelled Paper]"
+    },
+    "answer": "c",
+    "explanation": "Encephalitis is a disease of inflammation of the brain. It is not transmitted sexually. Most commonly it is caused by a virus.",
+    "year": "2015",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following viruses is not transferred through semen of an infected male?",
+    "options": {
+      "A": "Ebola virus",
+      "B": "Chikungunya virus",
+      "C": "Hepatitis B virus",
+      "D": "Human immunodeficiency virus [AIPMT 2015 Cancelled Paper]"
+    },
+    "answer": "b",
+    "explanation": "The virus of chikunguniya is Arbovirus transmitted by Aedes mosquito. In this disease the patient feels fever lasting 2-7 days.",
+    "year": "2015",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "sourceQuestionNumber": 1,
+    "text": "Tubectomy is a method of sterilization in which: [NEET 2014 / AIPMT 2014]",
+    "options": {
+      "A": "Small part of the fallopian tube is removed or tied up.",
+      "B": "Ovaries are removed surgically.",
+      "C": "Small part of vas deferens is removed or tied up.",
+      "D": "Uterus is removed surgically. [NEET 2014 / AIPMT 2014]"
+    },
+    "answer": "a",
+    "explanation": "Tubectomy also referred to as tubal sterilization is a surgical procedure done on women as a permanent method of contraception. In this method, fallopian tubes are removed or tied up so that the ova or eggs are prevented from travelling to the uterus from the ovary. This prevents any future pregnancy from occurring after the surgical procedure. MULTIPLE CHOICE QUESTIONTry yourself: Q2: Assisted reproductive technology, IVF involves the transfer of: [NEET 2014]AOvum into the fallopian tube.BZygote into the fallopian tube.CZygote into the uterus.DEmbryo with 16 blastomeres into the fallopian tube.View Correct Answer: BHide Explanation ⌃IVF (In-vitro Fertilization) is the process of fertilization by manually combining an egg and sperm in a laboratory dish. The process involves monitoring and stimulating a woman's ovulatory process, removing ovum or ova (egg or eggs) from the woman's ovaries, and letting sperm fertilize them in a fluid medium in a laboratory. The fertilized egg (zygote) is cultured for 2-6 days in a growth medium and is then transferred to the mother's uterus with the intention of establishing a successful pregnancy.Report a problemCancelReport",
+    "year": "2014",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/reproductive-health/REPRODUCTIVE_HEALTH-2014_B12_Q35-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following is a hormone releasing Intra Uterine Device (IUD)?",
+    "options": {
+      "A": "Vault",
+      "B": "Cervical cap",
+      "C": "LNG - 20",
+      "D": "Multiload 375"
+    },
+    "answer": "c",
+    "explanation": "At present the most widely accepted method of contraception in India is IUDs. Intra uterine devices (IUDs) are plastic or metal objects which are inserted by doctors in the uterus through vagina. These are available as non-medicated IUDs (i.e., Lippes loop), copper releasing IUDs (CuT, Cu7, Multiload 375) and hormone releasing IUDs (progestasert, LNG-20). Vault cap is hemispheric dome like rubber or plastic cap with a thick rim which is meant for fitting over the vaginal vault over the cervix. .report_ques_dv{display:none;margin-top:20px}.rpt_inqsn_save{background-color:#193f68;color:white !important}.rpt_inqsn_cncl{background-color:white !important;color:black !important} function reportinline_question(questionId){jQuery('.report_ques_dv_'+questionId).show();};function cancel_report_ques(questionId){jQuery('.report_ques_dv_'+questionId).hide();jQuery('.qprblm_'+questionId).val('');};function save_report_ques(questionId){var SaveQuizQuestionErrorReports_message=$('.qprblm_'+questionId).val().trim();if(SaveQuizQuestionErrorReports_message==''||SaveQuizQuestionErrorReports_message.trim()==''||SaveQuizQuestionErrorReports_message.length<15) {if(jQuery('.reported_prblm_respns_1').length==0){jQuery('.qprblm_'+questionId).after('<div class=\\'reported_prblm_respns_1\\' style=\\'font-size:12px !important;color: #e94e4d !important;\\'>Please describe the issue in atleast 4-5 words</div>');jQuery('.qprblm_'+questionId).css('border','1px solid #e94e4d');setTimeout(function(){jQuery('.reported_prblm_respns_1').remove();},5000);} return false;} if(SaveQuizQuestionErrorReports_message!=''&&SaveQuizQuestionErrorReports_message.trim()!='') {var formData=new FormData();var message_encoded=encodeURIComponent(SaveQuizQuestionErrorReports_message);formData.append('message_encoded',message_encoded);formData.append('QuestionId',questionId);jQuery('.rpt_inqsn_save[data_q_id='+questionId+']').prop('disabled',true);formData.append('uuii',0);$.ajax({type:'POST',url:'https://edurev.in/Quiz/SaveQuizQuestionErrorReports',data:formData,dataType:'text',contentType:false,processData:false,async:true,success:function(data){jQuery('.report_ques_dv_'+questionId).hide();jQuery('.rpt_btn_inline_'+questionId).hide();jQuery('.report_ques_dv_'+questionId).after('<div class=\\'reported_prblm_respns\\' style=\\'color:#808080 !important;font-size:15px !important;margin-top: 15px;\\'><div class=\\'check-mark\\'></div> Thank you for reporting!</div>');setTimeout(function(){jQuery('.reported_prblm_respns').remove();},3000);},error:function(a,b,c){console.log(a+','+b+','+c);}});}};jQuery(document).on('click','.rpt_btn_inline',function(){var qId=jQuery(this).attr('data_q_id');reportinline_question(qId);});jQuery(document).on('click','.rpt_inqsn_cncl',function(){var qId=jQuery(this).attr('data_q_id');cancel_report_ques(qId);});jQuery(document).on('click','.rpt_inqsn_save',function(){var qId=jQuery(this).attr('data_q_id');save_report_ques(qId);}); .saq-container{background:#fff;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:30px;box-shadow:0 1px 4px #0000001a;padding:15px 20px 20px}.saq-label{display:inline-block;font-size:11px;font-weight:600;letter-spacing:0.07em;color:#64748b;border:1px solid #cbd5e1;border-radius:20px;padding:2px 10px;margin-bottom:14px;text-transform:uppercase;background:#fff}.saq-textarea{width:100%;box-sizing:border-box;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:14px;color:#374151;resize:vertical;outline:none;transition:border-color 0.2s;background:#fff;min-height:90px;margin-top:10px;margin-bottom:20px;height:50px}.saq-textarea:focus{border-color:#3b82f6;box-shadow:0 0 0 3px rgba(59,130,246,0.12)}.saq-textarea::placeholder{font-style:italic}.saq-view-btn{padding:9px 12px;background:#F7FCFF;color:#000 !important;border-radius:10px;font-size:18px !important;font-weight:700;cursor:pointer;transition:background .15s ease;letter-spacing:.01em;text-align:center;border:none}.saq-view-btn:hover{background:#193f68;color:#fff !important;border:none}.saq-input-wrap .saq-view-btn{width:100%;background:#193f68;color:white !important}.saq- -panel{background:#f0f7ff;border-radius:8px;padding:14px 16px;margin:-20px;margin-top:-15px}.saq- -title{font-size:14px;font-weight:700;color:#043899!important;margin-bottom:7px}.saq- -body{font-size:14px;color:#1a202c;line-height:1.65}.saq- -body strong,.saq- -body b{font-weight:700}.saq- -body img{max-width:100%;height:auto}.saq- -body p{margin:6px 0}.saq-btn-wrapper{display:flex;gap:20px;margin-bottom:30px;margin-top:20px}.saq-btn-wrapper .saq-view-btn{width:50%}@media (max-width:500px){.saq-btn-wrapper .saq-view-btn{font-size:16px !important}} (function(){function showContainer(qid){document.getElementById('saq-wrap-'+qid).style.display='block';document.getElementById('saq-btn-wrap-'+qid).style.display='none';} window.saqTry=function(qid){showContainer(qid);document.getElementById('saq-input-'+qid).style.display='block';};window.saqShow =function(qid){showContainer(qid);var panel=document.getElementById('saq-sol-'+qid);var input=document.getElementById('saq-input-'+qid);var ta=document.getElementById('saq-ta-'+qid);var bottomBtn=document.getElementById('saq-view-bottom-'+qid);if(bottomBtn)bottomBtn.style.display='none';if(panel){panel.style.display='block';} if(ta&&ta.value.trim()===''){if(input)input.style.display='none';}else if(ta){ta.disabled=true;if(panel){panel.style.marginTop='0px';}}};})();",
+    "year": "2014",
+    "chapter": "Reproductive Health",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NEET Bio Scraper Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-background"></div>
+
+    <main class="app-frame">
+      <header class="topbar surface-glass">
+        <div class="brand-block">
+          <div class="brand-mark">NB</div>
+          <div>
+            <p class="eyebrow">NEET scraper suite</p>
+            <h1>NEET Bio Dashboard</h1>
+            <p id="course-title" class="muted"></p>
+          </div>
+        </div>
+
+        <div class="topbar-actions">
+          <a id="course-link" class="icon-chip" target="_blank" rel="noreferrer">Course source</a>
+          <div class="status-chip-group">
+            <div class="status-chip">
+              <span class="status-dot"></span>
+              <span id="generated-at"></span>
+            </div>
+            <div class="status-chip status-chip-strong">
+              <span id="chapter-count-badge"></span>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <section class="hero-banner surface-muted">
+        <div>
+          <p class="eyebrow">Tracking overview</p>
+          <h2>Scrape coverage, audit health, and chapter quality at a glance</h2>
+          <p class="muted hero-copy">
+            PikPak-inspired control panel for chapter scraping, audit watchlists, question inspection, and local run actions.
+          </p>
+        </div>
+        <div class="hero-pills">
+          <span class="pill pill-primary">Static app</span>
+          <span class="pill pill-muted">Dashboard data snapshots</span>
+          <span class="pill pill-muted">Local-first controls</span>
+        </div>
+      </section>
+
+      <nav class="tab-strip surface-glass" aria-label="Dashboard sections">
+        <button class="tab-button active" data-tab="overview">Overview</button>
+        <button class="tab-button" data-tab="explorer">Question explorer</button>
+        <button class="tab-button" data-tab="audit">Audit drilldown</button>
+        <button class="tab-button" data-tab="controls">Run controls</button>
+      </nav>
+
+      <section id="overview-tab" class="tab-panel active dashboard-body">
+        <div id="kpi-grid" class="metric-strip"></div>
+
+        <div class="dashboard-grid overview-grid">
+          <section class="app-card surface-glass overview-wide">
+            <div class="app-card-header">
+              <div>
+                <p class="eyebrow">Pipeline health</p>
+                <h3 class="app-card-title">Coverage snapshot</h3>
+              </div>
+            </div>
+            <div id="coverage-list" class="stats-grid"></div>
+          </section>
+
+          <section class="app-card surface-glass">
+            <div class="app-card-header">
+              <div>
+                <p class="eyebrow">Priority queue</p>
+                <h3 class="app-card-title">Audit watchlist</h3>
+              </div>
+            </div>
+            <div id="risk-list" class="stack-list"></div>
+          </section>
+
+          <section class="app-card surface-glass">
+            <div class="app-card-header">
+              <div>
+                <p class="eyebrow">Chapter activity</p>
+                <h3 class="app-card-title">Inventory pulse</h3>
+              </div>
+            </div>
+            <div id="chapter-summary-list" class="stack-list compact-list"></div>
+          </section>
+        </div>
+      </section>
+
+      <section id="explorer-tab" class="tab-panel dashboard-body">
+        <div class="app-card surface-glass toolbar-card">
+          <div class="app-card-header compact-header">
+            <div>
+              <p class="eyebrow">Explorer controls</p>
+              <h3 class="app-card-title">Question browser</h3>
+            </div>
+            <div id="question-results-count" class="muted tiny"></div>
+          </div>
+
+          <div class="toolbar-grid">
+            <div class="field-group">
+              <label class="input-label" for="chapter-filter">Filter chapters</label>
+              <input id="chapter-filter" class="text-input" type="search" placeholder="Search chapter or risk" />
+            </div>
+            <div class="field-group field-span-2">
+              <label class="input-label" for="question-search">Search questions</label>
+              <input id="question-search" class="text-input" type="search" placeholder="Search text, year, option, explanation" />
+            </div>
+            <div class="field-group">
+              <label class="input-label" for="year-filter">Filter by year</label>
+              <select id="year-filter" class="select-input">
+                <option value="">All years</option>
+              </select>
+            </div>
+          </div>
+
+          <div id="chapter-list" class="chapter-chip-list"></div>
+        </div>
+
+        <div class="dashboard-grid explorer-grid">
+          <section class="app-card surface-glass results-card">
+            <div class="app-card-header compact-header">
+              <div>
+                <p class="eyebrow">Results</p>
+                <h3 class="app-card-title">Question list</h3>
+              </div>
+            </div>
+            <div id="question-list" class="question-list"></div>
+          </section>
+
+          <section class="app-card surface-glass detail-card">
+            <div class="app-card-header">
+              <div>
+                <p class="eyebrow">Inspector</p>
+                <h3 id="question-detail-title" class="app-card-title">Select a question</h3>
+              </div>
+            </div>
+            <div id="question-detail" class="question-detail empty-state">
+              Pick a chapter and question to inspect options, answers, explanations, images, and tables.
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section id="audit-tab" class="tab-panel dashboard-body">
+        <div class="dashboard-grid audit-grid">
+          <section class="app-card surface-glass">
+            <div class="app-card-header">
+              <div>
+                <p class="eyebrow">Benchmarks</p>
+                <h3 class="app-card-title">Audit summary cards</h3>
+              </div>
+            </div>
+            <div id="audit-summary-list" class="stack-list"></div>
+          </section>
+
+          <section class="app-card surface-glass">
+            <div class="app-card-header">
+              <div>
+                <p class="eyebrow">Alignment watchlist</p>
+                <h3 class="app-card-title">Weak or unmatched rows</h3>
+              </div>
+            </div>
+            <div id="alignment-list" class="stack-list"></div>
+          </section>
+        </div>
+      </section>
+
+      <section id="controls-tab" class="tab-panel dashboard-body">
+        <div class="dashboard-grid controls-grid">
+          <section class="app-card surface-glass">
+            <div class="app-card-header">
+              <div>
+                <p class="eyebrow">Local commands</p>
+                <h3 class="app-card-title">Run controls</h3>
+              </div>
+            </div>
+            <div id="command-list" class="stack-list"></div>
+          </section>
+
+          <section class="app-card surface-glass">
+            <div class="app-card-header">
+              <div>
+                <p class="eyebrow">Workflow</p>
+                <h3 class="app-card-title">Refresh sequence</h3>
+              </div>
+            </div>
+            <ol id="workflow-list" class="workflow-list timeline-list"></ol>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <script src="./data/dashboard-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

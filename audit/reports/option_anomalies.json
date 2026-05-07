@@ -1,0 +1,493 @@
+{
+  "generated_at": "2026-05-06T17:42:26.541528Z",
+  "chapter_count": 13,
+  "anomaly_count": 12,
+  "all_empty_option_count": 10,
+  "partial_option_count": 2,
+  "image_backed_gap_count": 7,
+  "chapters": [
+    {
+      "chapter_slug": "biodiversity-and-its-conservation",
+      "question_count": 48,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "biotechnology-and-its-applications",
+      "question_count": 41,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "biotechnology-principle-and-processes",
+      "question_count": 68,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "ecosystem",
+      "question_count": 23,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "evolution",
+      "question_count": 33,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "human-health-and-diseases",
+      "question_count": 46,
+      "anomaly_count": 4,
+      "all_empty_option_count": 4,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
+    },
+    {
+      "chapter_slug": "human-reproduction",
+      "question_count": 44,
+      "anomaly_count": 2,
+      "all_empty_option_count": 1,
+      "partial_option_count": 1,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "microbes-in-human-welfare",
+      "question_count": 23,
+      "anomaly_count": 4,
+      "all_empty_option_count": 4,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 4
+    },
+    {
+      "chapter_slug": "molecular-basis-of-inheritance",
+      "question_count": 92,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "organisms-and-population",
+      "question_count": 36,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "principles-of-inheritance-and-variation",
+      "question_count": 54,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "chapter_slug": "reproductive-health",
+      "question_count": 36,
+      "anomaly_count": 2,
+      "all_empty_option_count": 1,
+      "partial_option_count": 1,
+      "image_backed_gap_count": 1
+    },
+    {
+      "chapter_slug": "sexual-reproduction-in-flowering-plants",
+      "question_count": 49,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    }
+  ],
+  "questions": [
+    {
+      "chapter_slug": "human-health-and-diseases",
+      "chapter": "Human Health & Diseases",
+      "question_id": "Q11",
+      "year": "2024",
+      "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Some human org",
+      "answer": "b",
+      "images": 0,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "missing",
+        "imageTokenCount": 0,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content could not be extracted from the source block."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "human-health-and-diseases",
+      "chapter": "Human Health & Diseases",
+      "question_id": "Q27",
+      "year": "2021",
+      "text": "Match List-I with List-II Choose the correct answer from the options given below. Type Your AnswerView Answer View AnswerSolution",
+      "answer": "d",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "human-health-and-diseases",
+      "chapter": "Human Health & Diseases",
+      "question_id": "Q30",
+      "year": "2020",
+      "text": "Match the following diseases with the causative organism and select the correct option. Type Your AnswerView Answer View AnswerSolution",
+      "answer": "d",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "human-health-and-diseases",
+      "chapter": "Human Health & Diseases",
+      "question_id": "Q40",
+      "year": "2017",
+      "text": "Transplantation of tissues/org",
+      "answer": "a",
+      "images": 0,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "missing",
+        "imageTokenCount": 0,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content could not be extracted from the source block."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "human-reproduction",
+      "chapter": "Human Reproduction",
+      "question_id": "Q27",
+      "year": "2022",
+      "text": "Given below are two statements: one is labelled as Assertion",
+      "answer": "b",
+      "images": 0,
+      "tables": 0,
+      "non_empty_option_count": 1,
+      "option_extraction": {
+        "source": "lower_markers",
+        "status": "partial",
+        "imageTokenCount": 0,
+        "nonEmptyOptionCount": 1
+      },
+      "parser_warnings": [
+        "Only part of the option set was extracted from the source block."
+      ],
+      "anomaly_types": [
+        "partial_options",
+        "answer_without_full_options",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "and the other is labelled as Reason (R). [NEET 2022 Phase 2] Assertion",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "human-reproduction",
+      "chapter": "Human Reproduction",
+      "question_id": "Q40",
+      "year": "2016",
+      "text": "Fertilisation in hum",
+      "answer": "d",
+      "images": 0,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "missing",
+        "imageTokenCount": 0,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content could not be extracted from the source block."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "microbes-in-human-welfare",
+      "chapter": "Microbes in Human Welfare",
+      "question_id": "Q11",
+      "year": "2021",
+      "text": "Match List - I with List - II [NEET 2021] Choose the correct answer from the options given below",
+      "answer": "c",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "microbes-in-human-welfare",
+      "chapter": "Microbes in Human Welfare",
+      "question_id": "Q13",
+      "year": "2020",
+      "text": "Match the following columns and select the correct option. [NEET 2020]",
+      "answer": "d",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "microbes-in-human-welfare",
+      "chapter": "Microbes in Human Welfare",
+      "question_id": "Q15",
+      "year": "2019",
+      "text": "Match the following organisms with the products they produce. [NEET 2019] Select the correct option",
+      "answer": "c",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "microbes-in-human-welfare",
+      "chapter": "Microbes in Human Welfare",
+      "question_id": "Q23",
+      "year": "2016",
+      "text": "Which of the following is wrongly matched in the given table? [NEET 2016 Phase 1]",
+      "answer": "b",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "chapter_slug": "reproductive-health",
+      "chapter": "Reproductive Health",
+      "question_id": "Q15",
+      "year": "2022",
+      "text": "IUDs are small objects made up of plastic or copper that are inserted in the uterine cavity. Which of the following statements are correct about IUDs ? [NEET 2022 Phase 2] a. IUDs decrease phagocytosis of sperm within the uterus. b. The released copper ions suppress the sperm motility. c. IUDs do not make the cervix hostile to the sperm. d. IUDs suppress the fertilization capacity of sperm. e. The IUDs require surgical intervention for their insertion in the uterine cavity. Choose the most appropriate answer from the options given below: A. a, b and e only B",
+      "answer": "",
+      "images": 0,
+      "tables": 0,
+      "non_empty_option_count": 3,
+      "option_extraction": {
+        "source": "lower_markers",
+        "status": "partial",
+        "imageTokenCount": 0,
+        "nonEmptyOptionCount": 3
+      },
+      "parser_warnings": [
+        "Only part of the option set was extracted from the source block."
+      ],
+      "anomaly_types": [
+        "partial_options",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "and",
+        "C": "only C.",
+        "D": "only D."
+      }
+    },
+    {
+      "chapter_slug": "reproductive-health",
+      "chapter": "Reproductive Health",
+      "question_id": "Q25",
+      "year": "2017",
+      "text": "Match the following sexually transmitted diseases (Column I) with their causative agents (Column II) and select the correct option. [NEET 2017] Type Your AnswerView Answer View AnswerSolution:Ans. (d)Gonorrhoea is a sexually transmitted disease (STD) caused by infection with the Neisseria gonorrhoeae bacterium. N. gonorrhoeae infects the mucous membranes of the reproductive tract, including the cervix, uterus, and fallopian tubes in women, and the urethra in women and men.Syphilis is a chronic infectious disease caused by the spirochaete Treponema pallidum. Syphilis is usually transmitted by sexual contact or from mother to infant, although endemic syphilis is transmitted by non-sexual contact in communities living under poor hygiene conditions.Genital warts are caused by several of the epidermotropic human papillomaviruses (HPVs). HPV-6 and HPV-11 most commonly are isolated.Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV)",
+      "answer": "",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    }
+  ]
+}

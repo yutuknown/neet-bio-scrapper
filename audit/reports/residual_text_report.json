@@ -1,0 +1,14 @@
+[
+  {
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/principles-of-inheritance-and-variation.json",
+    "missing_question_ratio": 0.0357,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.025
+  },
+  {
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/sexual-reproduction-in-flowering-plants.json",
+    "missing_question_ratio": 0.0392,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0275
+  }
+]

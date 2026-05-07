@@ -1,0 +1,72 @@
+{
+  "generatedAt": "2026-05-07T05:44:00.724Z",
+  "chapters": [
+    {
+      "slug": "principles-of-inheritance-and-variation",
+      "title": "Principles of Inheritance & Variation",
+      "risk": "medium",
+      "expectedQuestionCount": 56,
+      "scrapedQuestionCount": 54,
+      "structuralAccuracy": 1,
+      "completenessAccuracy": 0.7776,
+      "semanticAccuracy": 0.4948,
+      "schemaGapRisk": 0.025,
+      "anomalyScore": 0.0137,
+      "finalAccuracy": 0.7201,
+      "weakMatchCount": 19,
+      "missingQuestionRatio": 0.0357,
+      "residualBlockRatio": 0
+    },
+    {
+      "slug": "sexual-reproduction-in-flowering-plants",
+      "title": "Sexual Reproduction in Flowering Plants",
+      "risk": "medium",
+      "expectedQuestionCount": 51,
+      "scrapedQuestionCount": 49,
+      "structuralAccuracy": 1,
+      "completenessAccuracy": 0.7128,
+      "semanticAccuracy": 0.4261,
+      "schemaGapRisk": 0.0275,
+      "anomalyScore": 0.011,
+      "finalAccuracy": 0.6699,
+      "weakMatchCount": 32,
+      "missingQuestionRatio": 0.0392,
+      "residualBlockRatio": 0
+    }
+  ],
+  "highRiskChapters": [
+    {
+      "slug": "principles-of-inheritance-and-variation",
+      "title": "Principles Of Inheritance And Variation",
+      "risk": "medium",
+      "finalAccuracy": 0.7201,
+      "schemaGapRisk": 0.025,
+      "scrapedQuestionCount": 54,
+      "expectedQuestionCount": 56
+    },
+    {
+      "slug": "sexual-reproduction-in-flowering-plants",
+      "title": "Sexual Reproduction In Flowering Plants",
+      "risk": "medium",
+      "finalAccuracy": 0.6699,
+      "schemaGapRisk": 0.0275,
+      "scrapedQuestionCount": 49,
+      "expectedQuestionCount": 51
+    }
+  ],
+  "schemaFailures": [],
+  "residualReport": [
+    {
+      "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/principles-of-inheritance-and-variation.json",
+      "missing_question_ratio": 0.0357,
+      "residual_block_ratio": 0,
+      "schema_gap_risk": 0.025
+    },
+    {
+      "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/sexual-reproduction-in-flowering-plants.json",
+      "missing_question_ratio": 0.0392,
+      "residual_block_ratio": 0,
+      "schema_gap_risk": 0.0275
+    }
+  ]
+}

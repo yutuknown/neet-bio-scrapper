@@ -1,0 +1,1270 @@
+[
+  {
+    "id": "Q1",
+    "sourceQuestionNumber": 1,
+    "text": "Which one of the following is an example of ex-situ conservation?",
+    "options": {
+      "A": "Zoos and botanical gardens",
+      "B": "Protected areas",
+      "C": "National Park",
+      "D": "Wildlife Sanctuary"
+    },
+    "answer": "a",
+    "explanation": "Zoos and botanical gardens: These are examples of ex-situ conservation. They involve the preservation of species outside their natural habitats. Here, animals and plants are provided with a controlled environment that mimics their natural surroundings as much as possible. These facilities play a crucial role in breeding programs, research, public education, and reintroducing species into the wild when conditions permit. Zoos: Focus on preserving and breeding animal species.Botanical gardens: Aim to conserve diverse plant species, including rare and endangered ones.",
+    "year": "2025",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "sourceQuestionNumber": 2,
+    "text": "Match List-I with List-II: Choose the options with all correct matches",
+    "options": {
+      "A": "A-III, B-IV, C-II, D-I",
+      "B": "A-III, B-II, C-IV, D-I",
+      "C": "A-III, B-II, C-I, D-IV",
+      "D": "A-III, B-I, C-II, D-IV"
+    },
+    "answer": "d",
+    "explanation": "A. The Evil Quartet - III. Causes of biodiversity losses: The \"Evil Quartet\" refers to four major causes of biodiversity loss: habitat destruction, overexploitation, invasive species, and co-extinctions.These factors collectively threaten the survival of various species and ecosystems globally. B. Ex situ conservation - I. Cryopreservation: Ex situ conservation involves conserving biodiversity outside their natural habitats, such as in seed banks, botanical gardens, or through cryopreservation.Cryopreservation is a technique used for freezing and storing genetic material (like seeds or embryos) at very low temperatures for future use. C. Lantana camara - II. Alien species invasion: Lantana camara is an invasive alien species that disrupts native ecosystems by competing with native flora and causing ecological imbalances.Alien species invasions are a major contributor to biodiversity loss and ecosystem degradation.The environmental damage caused and threat posed to our native species by invasive weed species like carrot grass (Parthenium), Lantana and water hyacinth (Eicchornia). D. Dodo - IV. Extinction: The Dodo is an example of a species that has gone extinct due to human activities such as hunting and habitat destruction.Extinction is the complete loss of a species, often driven by factors like overexploitation, invasive species, and habitat destruction.",
+    "year": "2025",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biodiversity-and-its-conservation/biodiversity-2025_B12_Q2-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "sourceQuestionNumber": 1,
+    "text": "List of endangered species was released by",
+    "options": {
+      "A": "GEAC",
+      "B": "WWF",
+      "C": "FOAM",
+      "D": "IUCN"
+    },
+    "answer": "d",
+    "explanation": "The list of endangered species is officially released by the International Union for Conservation of Nature (IUCN), which is specified as Option D. The IUCN is an international organization dedicated to natural resource conservation. They are renowned for their comprehensive \"Red List of Threatened Species,\" which assesses the conservation status of plant and animal species worldwide. This Red List is a critical indicator of the health of the world's biodiversity and provides information on the range, population size, habitat and ecology, use and/or trade, threats, and conservation actions that can help inform necessary conservation decisions. Other options listed such as GEAC (Genetic Engineering Approval Committee), WWF (World Wildlife Fund), and FOAM are not primarily responsible for releasing lists of endangered species globally, although WWF does work extensively in wildlife conservation and might publish reports or statements regarding endangered species based on IUCN's Red List data.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "sourceQuestionNumber": 2,
+    "text": "Tropical regions show greatest level of species richness because A. Tropical latitudes have remained relatively undisturbed for millions of years, hence more time was available for species diversification. B. Tropical environments are more seasonal. C. More solar energy is available in tropics. D. Constant environments promote niche specialization. E. Tropical environments are constant and predictable. Choose the correct answer from the options given below",
+    "options": {
+      "A": "A, C, D and E only",
+      "B": "A and B only",
+      "C": "A, B and E only",
+      "D": "A, B and D only"
+    },
+    "answer": "a",
+    "explanation": "The correct answer is: Option A: A, C, D and E only A. Tropical latitudes have remained relatively undisturbed for millions of years, hence more time was available for species diversification. This is a major factor contributing to species richness in the tropics. The absence of major geological events like glaciation has allowed for continuous evolution and diversification. C. More solar energy is available in tropics. This leads to higher productivity, supporting a greater number of species. D. Constant environments promote niche specialization. Stable conditions allow species to specialize and adapt to specific niches, leading to greater diversity. E. Tropical environments are constant and predictable. This allows species to evolve specific adaptations to their environment, leading to further specialization and diversification. Statement B is incorrect: Tropical environments are less seasonal, not more seasonal.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "sourceQuestionNumber": 3,
+    "text": "These are regarded as major causes of biodiversity loss: A. Over exploitation B. Co-extinction C. Mutation D. Habitat loss and fragmentation E. Migration Choose the correct option",
+    "options": {
+      "A": "A, C and D only",
+      "B": "A, B, C and D only",
+      "C": "A, B and E only",
+      "D": "A, B and D only"
+    },
+    "answer": "d",
+    "explanation": "The major causes of biodiversity loss primarily involve the negative impacts human activities have on ecosystems, with some of the most critical factors being: Overexploitation: This refers to the unsustainable use of wildlife and plant species for food, medicine, or other human needs which leads to the reduction in numbers of these species to dangerously low levels. Co-extinction: This occurs when the extinction of one species leads to the extinction of another species that depend on it for survival, such as a predator and its prey or a plant and its pollinator. Habitat loss and fragmentation: This is the process whereby a large, continuous area of habitat is both reduced in area and divided into smaller, more isolated fragments due to activities like logging, agriculture, and urban development. This disrupts ecosystems and decreases the viability of populations. Regarding the listed options: Mutation: While mutations (genetic changes) are not generally a direct cause of biodiversity loss, they can influence the adaptability and survival of species. However, they are not typically regarded as a major driver of biodiversity loss.Migration: Normal species migrations are natural phenomena and not a direct cause of biodiversity loss. Instead, barriers to migration created by human activities can contribute to biodiversity loss by preventing species from reaching essential habitats for their survival and reproduction. Therefore, the correct option that lists recognized major causes of biodiversity loss is: Option D: A, B, and D only (Overexploitation, Co-extinction, and Habitat loss and fragmentation).",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "sourceQuestionNumber": 4,
+    "text": "The type of conservation in which the threatened species are taken out from their natural habitat and placed in special setting where they can be protected and given special care is called",
+    "options": {
+      "A": "in-situ conservation",
+      "B": "Biodiversity conservation",
+      "C": "Semi-conservative method",
+      "D": "Sustainable development"
+    },
+    "answer": "b",
+    "explanation": "Sol: The type of conservation in which threatened species are taken out from their natural habitat and placed in special setting where they can be protected and given special care is called ex-situ conservation which is a type of biodiversity conservation.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "sourceQuestionNumber": 5,
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-II, B-III, C-I, D-IV",
+      "B": "A-III, B-I, C-IV, D-II",
+      "C": "A-I, B-III, C-II, D-IV",
+      "D": "A-III, B-IV, C-II, D-I"
+    },
+    "answer": "b",
+    "explanation": "Sol: To match the correct individual with their contribution or hypothesis, let's review each person listed along with the contributions mentioned: Robert May is best known for his pioneering work in theoretical ecology, particularly in the areas of population dynamics and stability in ecological communities. However, none of the choices directly mention these specific contributions. Among the options, the closest (though indirect) could be his theoretical work that touch upon aspects like species diversity estimations. Alexander von Humboldt, known for his extensive work in biogeography, made critical observations on the geographic distributions of species. His work best correlates with the \"Species-Area relationship,\" which describes how the number of species increases with the area surveyed. Paul Ehrlich is famous for his work on population studies and environmental issues facing humanity. His statement about the planet's carrying capacity and potential biodiversity loss is widely known. The \"Global species diversity at about 7 million\" might closely relate to his biodiversity and population studies, though it's not his primary known work. David Tilman is well-acclaimed for his experimental work on biodiversity and ecosystem productivity. The \"Long term ecosystem experiment using outdoor plots\" directly correlates with his experimental approach to studying the relationship between biodiversity and ecosystem functioning using field experiments. Given these associations: A (Robert May) might best fit with \"Global species diversity at about 7 million\" (III) though it's a rough fit. B (Alexander von Humboldt) correlating with \"Species-Area relationship\" (I) is a much clearer connection. C (Paul Ehrlich) and the \"Global species diversity at about 7 million\" (II) matches if we consider his general scope in biodiversity and population dynamics. D (David Tilman) with \"Long term ecosystem experiment using out door plots\" (II) is an exact match for his field of work. Looking at the options provided, Option B: A-III, B-I, C-IV, D-II This option aligns correctly as per the reasoning. Therefore, the correct answer is Option B.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biodiversity-and-its-conservation/biodiversity-2024_B12_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "sourceQuestionNumber": 6,
+    "text": "Given below are two statements: Statement I: Rain forests, which used to cover more than 14% of the earth's land surface, are now reduced to 6%. Statement II: The Amazon rain forest has the greatest biodiversity on earth. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are true",
+      "B": "Both Statement I and Statement II are false",
+      "C": "Statement I is true but Statement II is false",
+      "D": "Statement I is false but Statement II is true"
+    },
+    "answer": "a",
+    "explanation": "Statement I is true. Rainforests, which once covered more than 14% of Earth's land surface, have been drastically reduced to around 6% due to deforestation. Statement II is also true. The Amazon rainforest is often considered the most biodiverse ecosystem on Earth, hosting a vast number of species of plants, animals, and microorganisms.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "sourceQuestionNumber": 7,
+    "text": "Identify the place(s) from the following where sacred groves are not found: A. Aravalli Hills of Rajasthan B. Chanda and Bastar area of Madhya Pradesh C. Mudumalai Sanctuary in Tamil Nadu D. Khasi and Jaintia Hills in Meghalaya",
+    "options": {
+      "A": "A only",
+      "B": "C only",
+      "C": "B and C only",
+      "D": "C and D only"
+    },
+    "answer": "b",
+    "explanation": "Sacred groves are typically associated with specific cultural and religious practices. They are found in places like the Aravalli Hills, the Chanda and Bastar areas, and the Khasi and Jaintia Hills. However, Mudumalai Sanctuary in Tamil Nadu is not traditionally associated with sacred groves.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "sourceQuestionNumber": 8,
+    "text": "Highest annual Net Primary Productivity is observed in",
+    "options": {
+      "A": "Tropical deciduous forest",
+      "B": "Temperate evergreen forest",
+      "C": "Temperate deciduous forest",
+      "D": "Tropical rain forest"
+    },
+    "answer": "d",
+    "explanation": "Tropical rainforests have the highest Net Primary Productivity (NPP) due to their constant warm temperatures and high rainfall, which support abundant plant life and high rates of photosynthesis.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "sourceQuestionNumber": 9,
+    "text": "The regions with high levels of species richness, high degree of endemism, and a loss of 70% of the species and habitat are identified as",
+    "options": {
+      "A": "Natural Reserves",
+      "B": "Sacred Groves",
+      "C": "Biodiversity Hotspots",
+      "D": "Biogeographical Regions"
+    },
+    "answer": "c",
+    "explanation": "Biodiversity hotspots are regions that are rich in species, many of which are endemic, but are facing significant threats, including habitat destruction. These areas are critical for conservation efforts due to their high biodiversity and high levels of endemism.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "sourceQuestionNumber": 10,
+    "text": "Which one of the following is not included under in-situ conservation?",
+    "options": {
+      "A": "Wildlife sanctuary",
+      "B": "Botanical garden",
+      "C": "Biosphere reserve",
+      "D": "National park"
+    },
+    "answer": "b",
+    "explanation": "In-situ conservation refers to the conservation of species in their natural habitats. This includes wildlife sanctuaries, biosphere reserves, and national parks. A botanical garden, however, is an example of ex-situ conservation, where plants are conserved outside their natural habitat, typically in a controlled environment for research or education.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "sourceQuestionNumber": 11,
+    "text": "Cryopreservation technique is used for",
+    "options": {
+      "A": "Protection of environment",
+      "B": "Protection of biodiversity hotspots",
+      "C": "Preservation of gametes in viable and fertile conditions for a long period",
+      "D": "In-situ conservation"
+    },
+    "answer": "c",
+    "explanation": "Cryopreservation is a technique used to preserve biological samples, such as gametes (sperm and eggs), embryos, and cells, at extremely low temperatures (usually in liquid nitrogen) for long periods. This method is particularly useful in conservation efforts, such as preserving endangered species' genetic material or facilitating artificial insemination in animals. The other options are not correct because cryopreservation specifically refers to the preservation of biological material, not to the protection of the environment or biodiversity hotspots, and is not related to in-situ conservation, which involves protecting species in their natural habitats.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "sourceQuestionNumber": 12,
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-IV, B-I, C-II, D-III",
+      "B": "A-II, B-III, C-IV, D-I",
+      "C": "A-I, B-IV, C-III, D-I",
+      "D": "A-III, B-I, C-II, D-IV"
+    },
+    "answer": "a",
+    "explanation": "A. Biodiversity hotspot: The Western Ghats (IV) are recognized as one of the world's biodiversity hotspots due to their high levels of species richness and endemism. B. Sacred groves: The Khasi and Jaintia hills in Meghalaya (I) are known for their sacred groves, which are protected areas of forest land maintained by local communities for religious reasons. C. Johannesburg South Africa: The World Summit on Sustainable Development 2002 (II) was held in Johannesburg, South Africa, where global leaders discussed issues related to sustainable development. D. Alien species invasion: Parthenium (III) is an example of an alien species that has invaded several regions, causing harm to local ecosystems and agriculture. Thus, the correct matching is A-IV, B-I, C-II, D-III.",
+    "year": "2024",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biodiversity-and-its-conservation/biodiversity-2024_B12_Q14-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "sourceQuestionNumber": 1,
+    "text": "Among 'The Evil Quartet', which one is considered the most important cause driving extinction of species?",
+    "options": {
+      "A": "Habitat loss and fragmentation",
+      "B": "Over-exploitation for economic gain",
+      "C": "Alien species invasions",
+      "D": "Co-extinctions"
+    },
+    "answer": "a",
+    "explanation": "Option A : Habitat loss and fragmentation is considered the most important cause driving extinction of species among 'The Evil Quartet'. The 'Evil Quartet' refers to the four major causes of biodiversity loss: habitat destruction and fragmentation, over-exploitation, pollution, and invasive species. Of these, habitat loss and fragmentation is generally considered the most significant cause, as it directly affects the availability of the resources and space that organisms need to survive. It can be caused by a variety of human activities, including deforestation, urbanization, and agriculture. This loss of habitat leads to smaller, more isolated populations, which are more vulnerable to other threats and have a higher risk of extinction.",
+    "year": "2023",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "sourceQuestionNumber": 2,
+    "text": "The historic Convention on Biological Diversity, 'The Earth Summit' was held in Rio de Janeiro in the year",
+    "options": {
+      "A": "1985",
+      "B": "1992",
+      "C": "1986",
+      "D": "2002"
+    },
+    "answer": "b",
+    "explanation": "The Earth Summit, formally known as the United Nations Conference on Environment and Development (UNCED), was indeed held in Rio de Janeiro, Brazil, in 1992. This meeting marked a significant step forward in global conservation efforts, leading to the establishment of the Convention on Biological Diversity, among other important agreements.",
+    "year": "2023",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "sourceQuestionNumber": 3,
+    "text": "In 'rivet popper hypothesis', Paul Ehrlich compared the rivets in an airplane to",
+    "options": {
+      "A": "Species within a genus",
+      "B": "Genetic diversity",
+      "C": "Ecosystem",
+      "D": "Genera within a family"
+    },
+    "answer": "a",
+    "explanation": "In the rivet popper hypothesis, Paul Ehrlich compared species to the rivets in an airplane. Just as the loss of a rivet weakens an airplane, the loss of a species weakens an ecosystem. The species within a genus are compared to rivets in the sense that each species (like a rivet) plays a crucial role in maintaining the integrity of the ecosystem.",
+    "year": "2023",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "sourceQuestionNumber": 4,
+    "text": "The species of plants that play a vital role in controlling the relative abundance of other species in a community is called _______",
+    "options": {
+      "A": "Alien species",
+      "B": "Endemic species",
+      "C": "Exotic species",
+      "D": "Keystone species"
+    },
+    "answer": "d",
+    "explanation": "Keystone species are species that have a disproportionately large impact on their ecosystem relative to their abundance. These species help regulate the ecosystem by controlling the population sizes of other species, which in turn affects the structure and diversity of the ecosystem.",
+    "year": "2023",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following is/are cause(s) of biodiversity losses?",
+    "options": {
+      "A": "Over-exploitation, habitat loss, and fragmentation",
+      "B": "Climate change only",
+      "C": "Over-exploitation only",
+      "D": "Habitat loss and fragmentation only"
+    },
+    "answer": "a",
+    "explanation": "Over-exploitation occurs when species are harvested faster than they can replenish, habitat loss results from urbanization and deforestation, and fragmentation divides ecosystems into smaller, isolated parts, making it harder for species to survive. Climate change also contributes to biodiversity loss, but the most direct causes are those listed in option (a).",
+    "year": "2023",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "sourceQuestionNumber": 1,
+    "text": "The World Summit on sustainable development held in 2002 in Johannesburg, South Africa pledged for",
+    "options": {
+      "A": "Collection and preservation of seeds of different genetic strains of commercially important plants.",
+      "B": "A significant reduction in the current rate of biodiversity loss.",
+      "C": "Declaration of more biodiversity hotspots.",
+      "D": "Increase in agricultural production."
+    },
+    "answer": "b",
+    "explanation": "In the World Summit on sustainable development held in 2002 in Johannesburg, South Africa, 190 countries pledged their commitment to achieve by 2010, a significant reduction in the current rate of biodiversity loss at global, regional and local levels.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "sourceQuestionNumber": 2,
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "B": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "C": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "D": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    "answer": "d",
+    "explanation": "About 71% of total carbon is found dissolved in oceans. Annual fixation of carbon through photosynthesis is 4 × 1013 kg. PAR captured by plants is 2 to 10% of total sunlight. Productivity of oceans is approximately 55 billion tons.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biodiversity-and-its-conservation/biodiversity-2022_B12_Q21-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "sourceQuestionNumber": 3,
+    "text": "Match the List-I with List-II",
+    "options": {
+      "A": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "B": "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)",
+      "C": "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+      "D": "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)"
+    },
+    "answer": "b",
+    "explanation": "Khasi Hills in Meghalaya are sacred groves. Zoological park is an ex-situ conservation strategy.Nile perch is an alien species.Amazon forest releases large quantity of O2.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biodiversity-and-its-conservation/biodiversity-2022_B12_Q22-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "sourceQuestionNumber": 4,
+    "text": "Frugivorous birds are found in large numbers in tropical forests mainly because of",
+    "options": {
+      "A": "Temperature conducive for their breeding",
+      "B": "Lack of niche specialisation",
+      "C": "Higher annual rainfall",
+      "D": "Availability of fruits throughout the year"
+    },
+    "answer": "d",
+    "explanation": "Frugivorous birds are fruit eating birds found in large number in tropical forest mainly because of availability of fruits throughout the year.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "sourceQuestionNumber": 5,
+    "text": "Western Ghats have a large number of plants and animal species that are not found anywhere else. Which of the following term is used to notify such species?",
+    "options": {
+      "A": "Vulnerable species",
+      "B": "Threatened species",
+      "C": "Keystone species",
+      "D": "Endemic species"
+    },
+    "answer": "d",
+    "explanation": "Endemic species are those species which are confined to a particular area, such as, species found in Western Ghats are not found anywhere else.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "sourceQuestionNumber": 6,
+    "text": "Which of the following are true about the taxonomical aid 'key'? (a) Keys are based on the similarities and dissimilarities. (b) Key is analytical in nature. (c) Keys are based on the contrasting characters in pair called couplet. (d) Same key can be used for all taxonomic categories. (e) Each statement in the key is called Lead",
+    "options": {
+      "A": "(a), (c), (d) and (e) only",
+      "B": "(a), (b) and (c) only",
+      "C": "(b), (c), and (d) only",
+      "D": "(a), (b), (c) and (e) only"
+    },
+    "answer": "d",
+    "explanation": "Key is taxonomical aid used for identification of plants and animals based on the similarities and dissimilarities. The keys are based on the contrasting characters generally in a pair called couplet. Each statement in the key is called a lead. Separate taxonomic keys are required for each taxonomic category such as family, genus and species for identification purposes. Keys are generally analytical in nature.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "sourceQuestionNumber": 7,
+    "text": "Which of the following is not a method of ex situ conservation?",
+    "options": {
+      "A": "National Parks",
+      "B": "Micropropagation",
+      "C": "Cryopreservation",
+      "D": "In vitro fertilization"
+    },
+    "answer": "a",
+    "explanation": "In-situ conservation means on site conservation i.e. when we conserve and protect the whole ecosystem, its biodiversity at all levels is protected.National parks are type of in-situ conservation.Whereas, micropropagation, cryopreservation and in-vitro fertilization are methods of ex-situ conservation.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "sourceQuestionNumber": 8,
+    "text": "Habitat loss and fragmentation, over exploitation, alien species invasion and co-extinction are causes for",
+    "options": {
+      "A": "Population explosion",
+      "B": "Competition",
+      "C": "Biodiversity loss",
+      "D": "Natality"
+    },
+    "answer": "c",
+    "explanation": "Habitat loss and fragmentation, over exploitation, alien species invasion and co-extinction are causes for biodiversity loss.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "sourceQuestionNumber": 9,
+    "text": "In-situ conservation refers to",
+    "options": {
+      "A": "Protect and conserve the whole ecosystem",
+      "B": "Conserve only high-risk species",
+      "C": "Conserve only endangered species",
+      "D": "Conserve only extinct species"
+    },
+    "answer": "a",
+    "explanation": "When we conserve and protect the whole ecosystem, its biodiversity at all levels is protected. This is in-situ or on site conservation strategy.",
+    "year": "2022",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "sourceQuestionNumber": 1,
+    "text": "According to Robert May, the global species diversity is about",
+    "options": {
+      "A": "50 million",
+      "B": "7 million",
+      "C": "1.5 million",
+      "D": "20 million"
+    },
+    "answer": "b",
+    "explanation": "Robert May estimated global species diversity at about 7 million. Although some extreme estimates range from 20 to 50 million.",
+    "year": "2020",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "sourceQuestionNumber": 2,
+    "text": "Which of the following regions of the globe exhibits highest species diversity?",
+    "options": {
+      "A": "Amazon forests",
+      "B": "Madagascar",
+      "C": "Western Ghats of India",
+      "D": "Himalayas"
+    },
+    "answer": "a",
+    "explanation": "The largely tropical Amazon rain forest in South America has the greatest biodiversity on earth.",
+    "year": "2020",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "sourceQuestionNumber": 1,
+    "text": "Which one of the following is not a method of in situ conservation of biodiversity?",
+    "options": {
+      "A": "Sacred grove",
+      "B": "Biosphere reserve",
+      "C": "Wildlife sanctuary",
+      "D": "Botanical garden"
+    },
+    "answer": "d",
+    "explanation": "Botanical garden is a method of ex situ conservation of biodiversity. Ex situ conservation (off site) is the conservation of organisms outside their habitats. E.g. genetic resource centres, zoological parks, botanical gardens, gene banks, etc.",
+    "year": "2019",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "sourceQuestionNumber": 1,
+    "text": "All of the following are included in ex-situ conservation' except",
+    "options": {
+      "A": "Wildlife safari parks",
+      "B": "Sacred groves",
+      "C": "Botanical gardens",
+      "D": "Seed banks"
+    },
+    "answer": "b",
+    "explanation": "Sacred groves come under in-situ conservation and represent the pristine forest patches around places of worship which are held in high esteem by tribal communities. Cutting of trees and branches is prohibited due to religious reasons. Wildlife safari parks, botanical gardens and seed blinks come under ex-situ conservation.",
+    "year": "2018",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "sourceQuestionNumber": 1,
+    "text": "Which one of the following is related to ex situ conservation of threatened animals and plants?",
+    "options": {
+      "A": "Biodiversity hotspots",
+      "B": "Amazon rainforest",
+      "C": "Himalayan region",
+      "D": "Wildlife safari parks"
+    },
+    "answer": "d",
+    "explanation": "Ex-situ conservation is offsite strategy for conservation of biological diversity in zoological park and botanical gardens respectively.",
+    "year": "2017",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "sourceQuestionNumber": 2,
+    "text": "The region of biosphere reserve which is legally protected and where no human activity is allowed is known as",
+    "options": {
+      "A": "Buffer zone",
+      "B": "Transition zone",
+      "C": "Restoration zone",
+      "D": "Core zone"
+    },
+    "answer": "d",
+    "explanation": "Core zone or Natural zone area of a biosphere reserve is undisturbed and legally protected ecosystem. No human activity is allowed in this zone. Little human activity is allowed in the buffer zone whereas in transition zone, an active cooperation is present between reserve management and local people for activities like settlements, cropping, etc. Restoration region is degraded area which is selected for restoration to near natural form.",
+    "year": "2017",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "sourceQuestionNumber": 3,
+    "text": "Alexander von Humboldt described for the first time",
+    "options": {
+      "A": "Laws of limiting factor",
+      "B": "Species area relationships",
+      "C": "Population growth equation",
+      "D": "Ecological biodiversity"
+    },
+    "answer": "b",
+    "explanation": "Alexander Von Humboldt noticed that within a region species richness increases with the increase in area.",
+    "year": "2017",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "sourceQuestionNumber": 1,
+    "text": "How many hotspots of biodiversity' in the world have been identified till date by Norman Myers?",
+    "options": {
+      "A": "17",
+      "B": "25",
+      "C": "34",
+      "D": "43"
+    },
+    "answer": "c",
+    "explanation": "Biodiversity hotspots are a method to identify- those regions of the world where attention is needed to address biodiversity loss and to guide investments in conservation. The idea was first developed by Norman Myers in 1988 to identify tropical forests hotspots characterised both by exceptional levels of plant endemism and serious habitat loss which he then expanded to a more global scope. Currently, 34 biodiversity hotspots have been identified most of which occur in tropical forests.",
+    "year": "2016",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "sourceQuestionNumber": 2,
+    "text": "Which of the following is correctly' matched?",
+    "options": {
+      "A": "Aerenchyma Opimtia",
+      "B": "Age pyramid Biome",
+      "C": "Parthenium hysterophorus Threat to biodiversity",
+      "D": "Stratification Population"
+    },
+    "answer": "c",
+    "explanation": "Parthenium hysterophorus is commonly known as congress grass or carrot weed. It is herbaceous annual plant of Family Asteraceae. It is a deadly invasive, noxious weed infesting cropped and non-cropped areas. It rapidly colonises area replacing the native vegetation and causes a number of human health related problems such as skin allergy, rhinitis and eye irritations. Also, being toxic and unpalatable it causes fodder scarcity. Hence, it is considered a threat to the biodiversity.",
+    "year": "2016",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [
+      [
+        [
+          "(a) Aerenchyma",
+          "Opimtia"
+        ],
+        [
+          "(b) Age pyramid",
+          "Biome"
+        ],
+        [
+          "(c) Parthenium hysterophorus",
+          "Threat to biodiversity"
+        ],
+        [
+          "(d) Stratification",
+          "Population"
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "sourceQuestionNumber": 3,
+    "text": "Red list contains data or information on",
+    "options": {
+      "A": "All economically important plants",
+      "B": "Plants whose products are in international trade",
+      "C": "Threatened species",
+      "D": "Marine vertebrates only"
+    },
+    "answer": "c",
+    "explanation": "A red data book or red list is a catalogue of taxa facing risk of extinction. Red data book or red list was initiated.in 1963.",
+    "year": "2016",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "sourceQuestionNumber": 4,
+    "text": "Which of the following national parks is home to the famous musk deer or hangul?",
+    "options": {
+      "A": "Keibul Lamjao National Park, Manipur",
+      "B": "Bandhavgarh National Park, Madhya Pradesh",
+      "C": "Eaglenest Wildlife Sanctuary, Anmaehal Pradesh",
+      "D": "Dachigam National Park, Jammu and Kashmir"
+    },
+    "answer": "d",
+    "explanation": "The Dachigam National Park, located in Jammu & Kashmir, is well-known for being the home to the famous musk deer, also known as hangul. This park is particularly important for the conservation of this endangered species.",
+    "year": "2016",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "sourceQuestionNumber": 5,
+    "text": "Which is the national aquatic animal of India?",
+    "options": {
+      "A": "Blue whale",
+      "B": "Sea-horse",
+      "C": "Gangetie shark",
+      "D": "River dolphin"
+    },
+    "answer": "d",
+    "explanation": "River Dolphin is the National Aquatic Animal of India. This mammal is also said to represent the purity of the holy Ganga as it can only survive in pure and fresh water. Platanista gangetica has a long pointed snout and also have visible teeth in both the upper and lower jaws.",
+    "year": "2016",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "sourceQuestionNumber": 6,
+    "text": "Which of the following is the most important cause of animals and plants being driven to extinction?",
+    "options": {
+      "A": "Habitat loss and fragmentation",
+      "B": "Co-extinctions",
+      "C": "Over-exploitation",
+      "D": "Alien species invasion"
+    },
+    "answer": "a",
+    "explanation": "The primary cause of human-induced extinction events is simply human overpopulation of planet Earth. The most important causal anthropogenic activities are habitat destruction and fragmentation.",
+    "year": "2016",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "sourceQuestionNumber": 1,
+    "text": "The species confined to a particular region and not found elsewhere is termed as",
+    "options": {
+      "A": "Alien",
+      "B": "Endemic",
+      "C": "Rare",
+      "D": "Keystone"
+    },
+    "answer": "b",
+    "explanation": "Endemic species is confined to a particular area due to special type of adaptation according to that region.",
+    "year": "2015",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "sourceQuestionNumber": 2,
+    "text": "In which of the following both pairs have correct combination",
+    "options": {
+      "A": "In situ conservation : Cryopreservation Ex situ conservation : Wildlife Sanctuary",
+      "B": "In situ conservation : Seed Bank Ex situ conservation : National Park",
+      "C": "In situ conservation : Tissue culture Ex situ conservation : Sacred groves",
+      "D": "In situ conservation : National Park Ex situ conservation : Botanical Garden"
+    },
+    "answer": "d",
+    "explanation": "In situ (on site) conservation is conservation and protection of the whole ecosystem and its biodiversity at all levels, in order to protect the threatened species. Two in situ methods are being used to save biodiversity viz., hotspots and protected areas. Protected areas include national parks, sanctuaries, biosphere reserves and sacred groves. Ex situ (off site) conservation is conservation of selected rare plants/animals in places outside their natural homes. Ex situ conservation includes offsite collections, seed banks, gene banks, in vitro fertilization, cryopreservation techniques and tissue culture.",
+    "year": "2015",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "sourceQuestionNumber": 3,
+    "text": "Cryopreservation of gametes of threatened species in viable and fertile condition can be referred to as",
+    "options": {
+      "A": "Advanced exsitu conservation of biodiversity",
+      "B": "In situ conservation by sacred groves",
+      "C": "In situ cryo-conservation of biodiversity",
+      "D": "In situ conservation of biodiversity"
+    },
+    "answer": "a",
+    "explanation": "In such type of conservation, the threatened animals and plants are taken out of their natural habitat and protected in special areas like zoological parks and wild life sanctuaries.",
+    "year": "2015",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "sourceQuestionNumber": 1,
+    "text": "An example of ex situ conservation is",
+    "options": {
+      "A": "National Park",
+      "B": "Seed Bank",
+      "C": "Wildlife Sanctuary",
+      "D": "Sacred Grove"
+    },
+    "answer": "b",
+    "explanation": "In Ex-situ conservation the threatened animals and plants are taken out of their natural habitat and are protected in special parks or areas like, Zoological parks, Wild life safari parks and Botanical gardens etc. The ex situ conservation also includes cryopreservation, fertilization of eggs in vitro and propagation of plants through 'Tissue culture methods', preservation of seeds through Seed banks.",
+    "year": "2014",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "sourceQuestionNumber": 2,
+    "text": "A species facing extremely high risk of extinction in the immediate future is called",
+    "options": {
+      "A": "Vulnerable",
+      "B": "Endemic",
+      "C": "Critically Endangered",
+      "D": "Extinct"
+    },
+    "answer": "c",
+    "explanation": "Critically Endangered: The taxon facing very high risk of extinction in the wild can become extinct any moment in the immediate future, e.g. Sus savings (Pigmy Hog), Berberis nilghiriensis.",
+    "year": "2014",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "sourceQuestionNumber": 3,
+    "text": "The organization which publishes the Red List of species is",
+    "options": {
+      "A": "ICFRE",
+      "B": "IUCN",
+      "C": "UNEP",
+      "D": "WWF"
+    },
+    "answer": "b",
+    "explanation": "IUCN or WCN maintains a red data book which is a catalogue of threatened plants and animals facing risk of extinction. The IUCN red list (2004) documents the extinction of 784 species (including 338 vertebrates, 359 invertebrates and 87 plants) in the last 500 years.",
+    "year": "2014",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q48",
+    "sourceQuestionNumber": 4,
+    "text": "Given below is the representation of the extent of global diversity of invertebrates. What groups the four portions (A-D) represent respectively?",
+    "options": {
+      "A": "A: Insects | B: Crustaceans | C: Other animal groups | D: Molluscs",
+      "B": "A: Crustaceans | B: Insects | C: Molluscs | D: Other animal groups",
+      "C": "A: Molluscs | B: Other animal groups | C: Crustaceans | D: Insects",
+      "D": "A: Insects | B: Molluscs | C: Crustaceans | D: Other animal groups"
+    },
+    "answer": "d",
+    "explanation": "Arthropoda is the largest phylum of Animalia which includes insects. Over twothirds of all named species on earth are arthropods. They have organ system level of organisation. Mollusca is the second largest animal phylum. They are terrestrial or aquatic (marine or fresh).",
+    "year": "2014",
+    "chapter": "Biodiversity and its Conservation",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biodiversity-and-its-conservation/biodiversity-2014_B12_Q48-main.png",
+      "BIOLOGY/chapters/biodiversity-and-its-conservation/biodiversity-2014_B12_Q48-main2.png"
+    ],
+    "tables": [
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      [
+        "(a)",
+        "Insects",
+        "Crustaceans",
+        "Other animal groups",
+        "Molluscs"
+      ],
+      [
+        "(b)",
+        "Crustaceans",
+        "Insects",
+        "Molluscs",
+        "Other animal groups"
+      ],
+      [
+        "(c)",
+        "Molluscs",
+        "Other animal groups",
+        "Crustaceans",
+        "Insects"
+      ],
+      [
+        "(d)",
+        "Insects",
+        "Molluscs",
+        "Crustaceans",
+        "Other animal groups"
+      ]
+    ],
+    "optionExtraction": {
+      "source": "manual_image_table_review",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

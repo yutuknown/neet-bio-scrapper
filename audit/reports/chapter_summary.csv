@@ -1,0 +1,3 @@
+html_path,json_path,expected_question_count,scraped_question_count,schema_error_count,structural_accuracy,completeness_accuracy,semantic_accuracy,schema_gap_risk,anomaly_score,final_accuracy,risk
+/home/everarpitraj/neet-bio-scrapper/fixtures/edurev/NEET-Previous-Year-Questions-2016-22-Principles-o.html,/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/principles-of-inheritance-and-variation.json,56,54,0,1.0,0.7776,0.4948,0.025,0.0137,0.7201,medium
+/home/everarpitraj/neet-bio-scrapper/fixtures/edurev/NEET-Previous-Year-Questions-2016-20-Sexual-Repr.html,/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/sexual-reproduction-in-flowering-plants.json,51,49,0,1.0,0.7128,0.4261,0.0275,0.011,0.6699,medium

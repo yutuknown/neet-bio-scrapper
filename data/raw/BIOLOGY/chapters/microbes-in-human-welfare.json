@@ -1,0 +1,690 @@
+[
+  {
+    "id": "Q1",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is an example of a non-distilled alcoholic beverage produced by yeast?",
+    "options": {
+      "A": "Beer",
+      "B": "Rum",
+      "C": "Whisky",
+      "D": "Brandy"
+    },
+    "answer": "a",
+    "explanation": "Alcoholic beverages are classified into two main categories: distilled and non-distilled beverages.Depending on the type of raw material used for fermentation and the type of processing (with or without distillation) different types of alcoholic drinks are obtained.Wine and beer are produced without distillation, whereas whisky, brandy and rum are produced by distillation of the fermented broth.Distillation is a crucial process in the production of certain types of alcoholic beverages such as whisky, brandy, and rum. Distillation help to separate alcohol from the fermented broth, increasing its concentration.Non-distilled alcoholic beverages are produced through fermentation, a process in which yeast converts sugars into alcohol and carbon dioxide.Beer is an example of a non-distilled alcoholic beverage, as it is produced by the fermentation of malted barley and other grains using yeast.",
+    "year": "2025",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "sourceQuestionNumber": 2,
+    "text": "Streptokinase produced by bacterium Streptococcus is used for",
+    "options": {
+      "A": "Liver disease treatment",
+      "B": "Removing clots from blood vessels",
+      "C": "Curd production",
+      "D": "Ethanol production"
+    },
+    "answer": "b",
+    "explanation": "Streptokinase, produced by the bacterium Streptococcus and modified by genetic engineering, is used as a 'clot buster' for removing clots from the blood vessels of patients who have undergone myocardial infarctio,n leading to a heart attack. Streptokinase is used to remove the blood clots that are formed in the blood vessels i.e acts like a clot buster.It is mainly used for people who have undergone a myocardial infarction, leading to a heart attack.This helps in restoring the blood flow to the affected tissue. Other Options: Curd production: Curd production involves the activity of lactic acid bacteria like Lactobacillus. The fermentation of lactose into lactic acid by these bacteria gives curd its texture and tangy taste.Ethanol production: Ethanol is produced by the fermentation of sugars by yeast, particularly Saccharomyces cerevisiae. Liver disease treatment: This is incorrect. Streptokinase is not used for treating liver diseases. Treatments for liver conditions typically include medications like antivirals, immunosuppressants, or lifestyle changes, depending on the condition (e.g., hepatitis, cirrhosis).",
+    "year": "2025",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following microbes is NOT involved in the preparation of household products? A. Aspergillus niger B. Lactobacillus C. Trichoderma polysporum D. Saccharomyces cerevisiae E. Propionibacterium shermanii",
+    "options": {
+      "A": "C and D only",
+      "B": "C and E only",
+      "C": "A and B only",
+      "D": "A and C only"
+    },
+    "answer": "d",
+    "explanation": "Household products such as bread, curd, alcoholic beverages, and other fermented items are often prepared using specific microbes. These microbes play a vital role in enhancing the quality, flavour, and nutritional value of these products. Some microbes are industrially used for other purposes, such as the production of antibiotics or enzymes, but they are not involved in the preparation of common household products. (A) Aspergillus niger: This fungus is commonly used for the industrial production of citric acid and enzymes, but is not involved in the preparation of household products.(B) Lactobacillus: This bacterium is involved in the preparation of household products like curd and yoghurt. It helps in the fermentation of milk, converting lactose into lactic acid.(C) Trichoderma polysporum: This fungus is used industrially for the production of cyclosporin, an immunosuppressive drug. It is not involved in the preparation of household products.(D) Saccharomyces cerevisiae: Commonly known as baker's yeast, this microbe is widely used in the preparation of bread and alcoholic beverages like beer and wine. It plays a crucial role in fermentation, producing carbon dioxide and ethanol.(E) Propionibacterium shermanii: The large holes in 'Swiss cheese' are due to the production of a large amount of CO2 by a bacterium named Propionibacterium shermanii.",
+    "year": "2025",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "sourceQuestionNumber": 1,
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-III, B-I, C-II, D-IV",
+      "B": "A-II, B-IV, C-III, D-I",
+      "C": "A-III, B-I, C-IV, D-II",
+      "D": "A-IV, B-I, C-III, D-II"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2024_B12_Q4-explanation1.png",
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2024_B12_Q4-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "sourceQuestionNumber": 2,
+    "text": "Given below are two statements: Statement I: Bacterial infection by Bacillus thuringiensis can kill only caterpillar larvae. Statement II: B. thuringiensis cannot kill adult moths. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are correct.",
+      "B": "Both Statement I and Statement II are incorrect.",
+      "C": "Statement I is correct but Statement II is incorrect.",
+      "D": "Statement I is incorrect but Statement II is correct."
+    },
+    "answer": "a",
+    "explanation": "Statement I: Bacillus thuringiensis (Bt) produces a toxin that specifically targets and kills certain insect larvae, particularly caterpillar larvae. The toxin is effective against larvae of many species of moths and butterflies, but it does not harm adult insects. This statement is correct. Statement II: Bacillus thuringiensis toxin primarily affects the larvae of insects, not the adult moths or butterflies. Adult insects do not consume the Bt toxin in sufficient quantities to be affected by it, which means they cannot be killed by the bacterium. This statement is also correct. Therefore, both statements are correct.",
+    "year": "2024",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "sourceQuestionNumber": 3,
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-I, C-IV, D-II",
+      "B": "A-IV, B-II, C-III, D-I",
+      "C": "A-III, B-IV, C-I, D-II",
+      "D": "A-I, B-III, C-II, D-IV"
+    },
+    "answer": "a",
+    "explanation": "A. Saccharomyces cerevisiae: This yeast is primarily used in the production of ethanol (III), especially in fermentation processes.B. Aspergillus niger: This fungus is widely used to produce citric acid (I) on an industrial scale through fermentation.C. Trichoderma polysporum: This fungus is known for the production of cyclosporin-A (IV), an immunosuppressive drug.D. Clostridium butylicum: This bacterium is involved in the production of butyric acid (II) during fermentation processes. Thus, the correct matching is A-III, B-I, C-IV, D-II.",
+    "year": "2024",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2024_B12_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "sourceQuestionNumber": 4,
+    "text": "Given below are two statements: Statement I: Aphids and mosquitoes are natural pests. Statement II: Ladybird and dragonflies are natural pest controllers. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are correct",
+      "B": "Both Statement I and Statement II are incorrect",
+      "C": "Statement I is correct but Statement II is incorrect",
+      "D": "Statement I is incorrect but Statement II is correct"
+    },
+    "answer": "a",
+    "explanation": "Statement I: Aphids and mosquitoes are indeed considered natural pests. Aphids feed on plants, damaging crops and plants, while mosquitoes are known for spreading diseases, making both of them pests in nature. Statement II: Ladybird beetles and dragonflies are natural pest controllers. Ladybird beetles feed on aphids, helping to control their populations, while dragonflies prey on mosquitoes, helping to reduce their numbers. Thus, both statements are correct.",
+    "year": "2024",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "sourceQuestionNumber": 5,
+    "text": "Match List-I with List-II relating to microbes and their products",
+    "options": {
+      "A": "A-II, B-III, C-IV, D-I",
+      "B": "A-I, B-II, C-III, D-IV",
+      "C": "A-I, B-III, C-II, D-IV",
+      "D": "A-I, B-IV, C-II, D-III"
+    },
+    "answer": "a",
+    "explanation": "A. Streptococcus: Streptococcus is known for producing clot busters (II), particularly the enzyme streptokinase, which helps break down blood clots.B. Trichoderma polysporum: This fungus is used in the production of Cyclosporin A (III), an immunosuppressive drug.C. Monascus purpureus: This fungus is used in the production of statins (IV), a class of drugs used to lower cholesterol levels in the body.D. Aspergillus niger: This fungus is widely used for the industrial production of citric acid (I), which is used as a food preservative and flavouring agent. Thus, the correct matching is A-II, B-III, C-IV, D-I.",
+    "year": "2024",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2024_B12_Q8-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "sourceQuestionNumber": 6,
+    "text": "Given below are two statements: Statement I: Antibiotics are chemicals produced by microbes that kill other microbes. Statement II: Antibodies are chemicals formed in the body that eliminate microbes",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect.",
+      "B": "Statement I is incorrect but Statement II is correct.",
+      "C": "Both Statement I and Statement II are correct.",
+      "D": "Both Statement I and Statement II are incorrect."
+    },
+    "answer": "c",
+    "explanation": "Statement I: Antibiotics are indeed chemicals produced by microbes (such as bacteria and fungi) that can kill or inhibit the growth of other microbes, including bacteria. Common examples of antibiotics include penicillin and streptomycin. Statement II: Antibodies are chemicals produced by the immune system in the body. They are proteins that help the body recognise and eliminate harmful microbes (such as bacteria and viruses). Antibodies bind to specific antigens on the surface of pathogens and mark them for destruction by other immune cells. Thus, both statements are correct.",
+    "year": "2024",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "sourceQuestionNumber": 1,
+    "text": "Identify the microorganism which is responsible for the production of an immunosuppressive molecule cyclosporin A: [NEET 2022 Phase 1]",
+    "options": {
+      "A": "Clostridium butylicum",
+      "B": "Aspergillus niger",
+      "C": "Saccharomyces cerevisiae",
+      "D": "Trichoderma polysporum"
+    },
+    "answer": "d",
+    "explanation": "Trichoderma species are free-living fungi found in the root ecosystem (rhizosphere). The fungus Trichoderma polysporum is responsible for the production of cyclosporin A. It is used as an immunosuppressive drug and is used by organ transplant patients to avoid graft rejection.",
+    "year": "2022",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "sourceQuestionNumber": 1,
+    "text": "Match List - I with List - II [NEET 2021] Choose the correct answer from the options given below",
+    "options": {
+      "A": "(a): (i) | (b): (ii) | (c): (iv) | (d): (iii)",
+      "B": "(a): (iv) | (b): (iii) | (c): (ii) | (d): (i)",
+      "C": "(a): (iii) | (b): (i) | (c): (iv) | (d): (ii)",
+      "D": "(a): (ii) | (b): (i) | (c): (iii) | (d): (iv)"
+    },
+    "answer": "c",
+    "explanation": "Examples of acid producers are Aspergillus niger (a fungus) of citric acid, Acetobacter aceti (a bacterium) of acetic acid; Clostridium butylicum (a bacterium) of butyric acid and Lactobacillus (a bacterium) of lactic acid.",
+    "year": "2021",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2021_B12_Q11-main.png",
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2021_B12_Q11-main2.png"
+    ],
+    "tables": [
+      [
+        "List - I",
+        "List - II"
+      ],
+      [
+        "(a) Aspergillus Niger",
+        "(i) Acetic Acid"
+      ],
+      [
+        "(b) Acetobacter aceti",
+        "(ii) Lactic Acid"
+      ],
+      [
+        "(c) Clostridium butylicum",
+        "(iii) Citric Acid"
+      ],
+      [
+        "(d) Lactobacillus",
+        "(iv) Butyric Acid"
+      ]
+    ],
+    "optionExtraction": {
+      "source": "manual_image_table_review",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is put into Anaerobic sludge digester for further sewage treatment? [NEET 2020]",
+    "options": {
+      "A": "Effluents of primary treatment",
+      "B": "Activated sludge",
+      "C": "Primary sludge",
+      "D": "Floating debris"
+    },
+    "answer": "b",
+    "explanation": "A major portion of the activated sludge is pumped into large tanks called anaerobic sludge digesters. So, there are other kinds of bacteria which grow anaerobically, digest the fungi and bacteria of the sludge.",
+    "year": "2020",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "sourceQuestionNumber": 2,
+    "text": "Match the following columns and select the correct option. [NEET 2020]",
+    "options": {
+      "A": "(a): (i) | (b): (ii) | (c): (iv) | (d): (iii)",
+      "B": "(a): (iv) | (b): (iii) | (c): (ii) | (d): (i)",
+      "C": "(a): (iii) | (b): (iv) | (c): (ii) | (d): (i)",
+      "D": "(a): (ii) | (b): (i) | (c): (iv) | (d): (iii)"
+    },
+    "answer": "d",
+    "explanation": "Clostridium butylicum (a bacterium) is used for the production of butyric acid. A bioactive molecule, cyclosporin A, that is used as an immunosuppressive agent in organ transplant patients, is produced by the fungus Trichoderma polysporum. Statins produced by the yeast Monascus purpureus have been commercialised as blood-cholesterol-lowering agents. It acts by competitively inhibiting the enzyme responsible for the synthesis of cholesterol. Aspergillus niger (a fungus) is used for the commercial production of citric acid.",
+    "year": "2020",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2020_B12_Q13-main.png",
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2020_B12_Q13-main2.png"
+    ],
+    "tables": [
+      [
+        "Column-I",
+        "Column-II"
+      ],
+      [
+        "(a) Clostridium butylicum",
+        "(i) Cyclosporin-A"
+      ],
+      [
+        "(b) Trichoderma polysporum",
+        "(ii) Butyric Acid"
+      ],
+      [
+        "(c) Monascus purpureus",
+        "(iii) Citric Acid"
+      ],
+      [
+        "(d) Aspergillus niger",
+        "(iv) Blood cholesterol lowering agent"
+      ]
+    ],
+    "optionExtraction": {
+      "source": "manual_image_table_review",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "sourceQuestionNumber": 1,
+    "text": "Select the correct group of biocontrol agents. [NEET 2019]",
+    "options": {
+      "A": "Nostoc, Azospirillum, Nucleopolyhedrovirus",
+      "B": "Bacillus thuringiensis, Tobacco mosaic virus, Aphids",
+      "C": "Trichoderma, Baculovirus, Bacillus thuringiensis",
+      "D": "Oscillatoria, Rhizobium, Trichoderma"
+    },
+    "answer": "c",
+    "explanation": "Biocontrol refers to the use of biological methods for controlling plant diseases and pests. Bacillus thuringiensis (Bt), Trichoderma sps and Baculoviruses are used as biocontrol agents.Rhizobium, Nostoc, Azospirillum and Oscillatoria are used as biofertilisers, which increase the fertility of soil, while Tobacco Mosaic virus is a pathogen that infects a wide range of plants, and aphids are pest that harms crop plants.",
+    "year": "2019",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "sourceQuestionNumber": 2,
+    "text": "Match the following organisms with the products they produce. [NEET 2019] Select the correct option",
+    "options": {
+      "A": "(A): (ii) | (B): (i) | (C): (iii) | (D): (v)",
+      "B": "(A): (ii) | (B): (iv) | (C): (v) | (D): (iii)",
+      "C": "(A): (ii) | (B): (iv) | (C): (iii) | (D): (v)",
+      "D": "(A): (iii) | (B): (iv) | (C): (v) | (D): (i)"
+    },
+    "answer": "c",
+    "explanation": "Lactobacillus is used for the production of curd, Saccharomyces cerevisiae is used for making bread, Aspergillus niger is used in citric acid production, while Acetobacter aceti is used in acetic acid production.",
+    "year": "2019",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2019_B12_Q15-main.png",
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2019_B12_Q15-main2.png"
+    ],
+    "tables": [
+      [
+        "Column I",
+        "Column II"
+      ],
+      [
+        "(A) Lactobacillus",
+        "(i) Cheese"
+      ],
+      [
+        "(B) Saccharomyces cerevisiae",
+        "(ii) Curd"
+      ],
+      [
+        "(C) Aspergillus niger",
+        "(iii) Citric acid"
+      ],
+      [
+        "(D) Acetobacter aceti",
+        "(iv) Bread"
+      ],
+      [
+        "",
+        "(v) Acetic acid"
+      ]
+    ],
+    "optionExtraction": {
+      "source": "manual_image_table_review",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "sourceQuestionNumber": 3,
+    "text": "Thiobacillus is a group of bacteria helpful in carrying out : [NEET 2019]",
+    "options": {
+      "A": "Nitrification",
+      "B": "Denitrification",
+      "C": "Nitrogen fixation",
+      "D": "Chemoautotrophic fixation"
+    },
+    "answer": "b",
+    "explanation": "Thiobacillus denitrificans causes denitrification. Denitrification is the process of conversion of oxides of nitrogen to free nitrogen by bacteria present in the soil.",
+    "year": "2019",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "sourceQuestionNumber": 4,
+    "text": "Which of the following can be used as a biocontrol agent in the treatment of plant disease? [NEET 2019]",
+    "options": {
+      "A": "Lactobacillus",
+      "B": "Trichoderma",
+      "C": "Chlorella",
+      "D": "Anabaena"
+    },
+    "answer": "b",
+    "explanation": "A biological control being developed for use in the treatment of plant disease is the fungus is trichoderma species are free-living fungi that are very common in the root ecosystems. They are effective biocontrol agents of several plant pathogens.",
+    "year": "2019",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following is a commercial blood cholesterol-lowering agent? [NEET 2019]",
+    "options": {
+      "A": "Lipases",
+      "B": "Cyclosporin A",
+      "C": "Statin",
+      "D": "Streptokinase"
+    },
+    "answer": "c",
+    "explanation": "Streptokinase is used as a 'clot buster' to remove clots from the blood vessels of patients who have a myocardial infarction.Lipases are used in detergent formulations. It help to remove oily stains from the laundry.Cyclosporin A is produced by Trichoderma polysporum (fungus) and used as an immunosuppressive agent in organ transplant patients.Statins are produced by Monascus purpureus yeast. It is used as blood-cholesterol-lowering agent. It inhibits the enzymes responsible for the synthesis of cholesterol.",
+    "year": "2019",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "sourceQuestionNumber": 1,
+    "text": "Conversion of milk to curd improves its nutritional value by increasing the amount of [NEET 2018]",
+    "options": {
+      "A": "vitamin D",
+      "B": "vitamin A",
+      "C": "vitamin B12",
+      "D": "vitamin E"
+    },
+    "answer": "c",
+    "explanation": "Curd has an enriched presence of vitamins especially Vitamin B12, which improves its nutritional value than milk.",
+    "year": "2018",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2018_B12_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "sourceQuestionNumber": 1,
+    "text": "Select the mismatch. [NEET 2017]",
+    "options": {
+      "A": "Rhodospirillum - Mycorrhiza",
+      "B": "Anabaena - Nitrogen fixer",
+      "C": "Rhizobium - Alfalfa",
+      "D": "Frankia - Alnus"
+    },
+    "answer": "a",
+    "explanation": "Rhodospirillum is a facultative anaerobe and free-living nitrogen fixer. Mycorrhiza show a symbiotic relationship between fungi and the roots of higher plants.",
+    "year": "2017",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "sourceQuestionNumber": 2,
+    "text": "Which of the following in sewage treatment removes suspended solids? [NEET 2017]",
+    "options": {
+      "A": "Secondary treatment",
+      "B": "Primary treatment",
+      "C": "Sludge treatment",
+      "D": "Tertiary treatment"
+    },
+    "answer": "b",
+    "explanation": "Primary treatment is a physical process which involves two processes, i.e. filtration and sedimentation of big solid waste.",
+    "year": "2017",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following is correctly matched for the product produced by them? [NEET 2017]",
+    "options": {
+      "A": "Methanobacterium: Lactic acid",
+      "B": "Penicillium notatum: Acetic acid",
+      "C": "Saccharomyces cerevisiae: Ethanol",
+      "D": "Acetobacter aceti: Antibiotics"
+    },
+    "answer": "c",
+    "explanation": "Saccharomyces cerevisiae, commonly known as Brewer's yeast, causes fermentation of carbohydrates and produces ethanol.",
+    "year": "2017",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is wrongly matched in the given table? [NEET 2016 Phase 1]",
+    "options": {
+      "A": "(a) Streptococcus | Streptokinase | Removal of clot from blood vessel",
+      "B": "(b) Clostridium butylicum | Lipase | Removal of oil stains",
+      "C": "(c) Trichoderma polysporum | Cyclosporin A | Immunosuppressive drug",
+      "D": "(d) Monascus purpureus | Statins | Lowering of blood cholesterol"
+    },
+    "answer": "b",
+    "explanation": "Yeast (Saccharomyces cerevisiae) is used for the commercial production of ethanol. Microbes are also used for the production of enzymes. Lipases are used in detergent formulations and are helpful in removing oily stains from the laundry. Streptokinase, produced by the bacterium Streptococcus and modified by genetic engineering, is used as a 'clot buster' for removing clots from the blood vessels of patients who have undergone myocardial infarction, leading to heart attack. Another bioactive molecule, cyclosporin A, that is used as an immunosuppressive agent in organ-transplant patients, is produced by the fungus Trichoderma polysporum. Statins produced by the yeast Monascus purpureus have been commercialised as blood-cholesterol-lowering agents. It acts by competitively inhibiting the enzyme responsible for the synthesis of cholesterol.",
+    "year": "2016",
+    "chapter": "Microbes in Human Welfare",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/microbes-in-human-welfare/microbes-2016_B12_Q23-main.png"
+    ],
+    "tables": [
+      [
+        "Microbe",
+        "Product",
+        "Application"
+      ],
+      [
+        "(a) Streptococcus",
+        "Streptokinase",
+        "Removal of clot from blood vessel"
+      ],
+      [
+        "(b) Clostridium butylicum",
+        "Lipase",
+        "Removal of oil stains"
+      ],
+      [
+        "(c) Trichoderma polysporum",
+        "Cyclosporin A",
+        "Immunosuppressive drug"
+      ],
+      [
+        "(d) Monascus purpureus",
+        "Statins",
+        "Lowering of blood cholesterol"
+      ]
+    ],
+    "optionExtraction": {
+      "source": "manual_image_table_review",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

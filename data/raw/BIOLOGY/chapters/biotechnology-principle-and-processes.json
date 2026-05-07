@@ -1,0 +1,1723 @@
+[
+  {
+    "id": "Q1",
+    "sourceQuestionNumber": 1,
+    "text": "In the below represented plasmid an alien piece of DNA is inserted at EcoRI site. Which of the following strategies will be chosen to select the recombinant colonies?",
+    "options": {
+      "A": "White color colonies will be selected.",
+      "B": "Blue color colonies grown on ampicillin plates can be selected.",
+      "C": "Using ampicillin & tetracyclin containing medium plate.",
+      "D": "Blue color colonies will be selected."
+    },
+    "answer": "a",
+    "explanation": "White color colonies will be selected: In blue-white screening, the lacZ gene in the plasmid is disrupted when a foreign DNA fragment is inserted at the EcoRI site.The disruption prevents the production of β-galactosidase, an enzyme responsible for converting X-gal (an artificial substrate) into a blue-colored product.As a result, colonies with recombinant plasmids appear white, while non-recombinant colonies (where lacZ is intact) appear blue. Selecting white colonies ensures that recombinant plasmids containing the alien DNA are identified. Why Other Options Are Incorrect: Using ampicillin & tetracycline containing medium plate: While antibiotic selection (e.g., ampicillin resistance) is often used to ensure the presence of plasmids in transformed bacteria, this method does not distinguish between recombinant and non-recombinant plasmids. It only selects bacteria that contain the plasmid.Blue color colonies will be selected: Blue colonies indicate non-recombinant plasmids where the lacZ gene is intact and functional. These colonies do not contain the inserted alien DNA and are not the desired recombinants.Blue color colonies grown on ampicillin plates can be selected: Blue colonies represent non-recombinant plasmids. Additionally, while ampicillin selects for plasmid-containing bacteria, it does not distinguish between recombinant and non-recombinant colonies.",
+    "year": "2025",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2025_B12_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "sourceQuestionNumber": 2,
+    "text": "Polymerase chain reaction (PCR) amplifies DNA following the equation",
+    "options": {
+      "A": "2n+1",
+      "B": "2N2",
+      "C": "N2",
+      "D": "2n"
+    },
+    "answer": "d",
+    "explanation": "The polymerase chain reaction (PCR) is a widely used molecular biology technique for amplifying specific DNA sequences exponentially.It involves repeated cycles of denaturation, annealing, and extension to double the amount of DNA with each cycle.The amplification follows the equation 2n, where n is the number of cycles performed. Each cycle doubles the amount of DNA present, leading to exponential growth. Key Points about PCR: Denaturation: This is the first step of PCR. The reaction mixture is heated to around 94-98°C for 20-30 seconds, causing the double-stranded DNA to melt and separate into two single strands.Primer Annealing: The temperature is lowered to 50-65°C for 20-40 seconds to allow the primers to bind (anneal) to their complementary sequences on the single-stranded DNA template.Extension: The temperature is raised to around 72°C, the optimal temperature for Taq polymerase. This enzyme synthesizes a new DNA strand by adding nucleotides to the primer in a sequence-specific manner.Each cycle doubles the amount of DNA, leading to exponential amplification according to the formula 2ⁿ.PCR is used in various applications, including genetic testing, forensic analysis, and detecting pathogens.",
+    "year": "2025",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2025_B12_Q2-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "sourceQuestionNumber": 3,
+    "text": "Identify the part of a bio-reactor which is used as a foam braker from the given figure",
+    "options": {
+      "A": "D",
+      "B": "C",
+      "C": "A",
+      "D": "B"
+    },
+    "answer": "b",
+    "explanation": "A bioreactor is a vessel or device in which biological reactions and processes are carried out under controlled conditions to produce biological products. A bioreactor provides the optimal conditions for achieving the desired product by providing optimum growth conditions (temperature, pH, substrate, salts, vitamins, oxygen).Foaming is a common issue in bioreactors, particularly in processes where gas sparging is employed. Foam formation can hinder the efficient operation of the bioreactor and may affect the quality of the product.Foam breaker: The foam breaker (identified as 'C' in the figure) is designed to disrupt and dissipate foam generated during the bioreactor operation. It ensures smooth processing by preventing foam overflow and maintaining the integrity of the biological processes.Foam breakers can be mechanical devices, such as rotating blades, or chemical agents that reduce surface tension and eliminate foam.",
+    "year": "2025",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2025_B12_Q3-explanation1.jpg",
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2025_B12_Q3-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "sourceQuestionNumber": 4,
+    "text": "The blue and white selectable markers have been developed which differentiate recombinant colonies from non-recombinant colonies on the basis of their ability to produce colour in the presence of a chromogenic substrate. Given below are two statements about this method: Statement I: The blue coloured colonies have DNA insert in the plasmid and they are identified as recombinant colonies. Statement II: The colonies without blue colour have DNA insert in the plasmid and are identified as recombinant colonies",
+    "options": {
+      "A": "Statement I is correct; Statement II is incorrect",
+      "B": "Statement I is incorrect; Statement II is correct",
+      "C": "Both Statement I and Statement II are correct",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "b",
+    "explanation": "Statement I: \"The blue-colored colonies have DNA insert in the plasmid and they are identified as recombinant colonies.\" This statement is incorrect because the blue-colored colonies represent non-recombinant colonies.These colonies have an intact lacZ gene, which produces β-galactosidase, resulting in the cleavage of X-gal and the formation of blue color.No DNA insert is present in these colonies, and thus they are not recombinant. Statement II: \"The colonies without blue color have DNA insert in the plasmid and are identified as recombinant colonies.\" This statement is correct because the absence of blue color (white colonies) indicates the disruption of the lacZ gene by the insertion of foreign DNA.The lack of β-galactosidase activity results in no cleavage of X-gal, and thus no blue color is produced.These colonies are recombinant as they contain the inserted DNA fragment in the plasmid.",
+    "year": "2025",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following enzyme(s) are NOT essential for gene cloning? A. Restriction enzymes B. DNA ligase C. DNA mutase D. DNA recombinase E. DNA polymerase",
+    "options": {
+      "A": "D and E only",
+      "B": "B and C only",
+      "C": "C and D only",
+      "D": "A and B only"
+    },
+    "answer": "c",
+    "explanation": "Gene cloning is a method used to create identical copies of a specific gene or DNA segment. It involves isolating a desired gene, inserting it into a vector, and introducing it into a host organism to amplify and express the gene.Enzymes play a crucial role in the various steps of gene cloning. However, not all enzymes are essential for the process.The most commonly used enzymes in gene cloning are restriction enzymes, DNA ligase, and DNA polymerase.Restriction enzymes: These are essential enzymes for gene cloning. They recognize specific DNA sequences and cut the DNA at or near these sites, producing fragments that can be inserted into vectors.DNA ligase: This enzyme is critical for gene cloning. It joins the DNA fragments (e.g., the insert DNA and the vector) by forming phosphodiester bonds, making a stable recombinant DNA molecule.DNA polymerase: DNA polymerase is sometimes used in gene cloning for amplifying DNA through techniques like PCR (Polymerase Chain Reaction) or for filling in DNA overhangs after restriction digestion.DNA mutase: This enzyme is not essential for gene cloning. DNA mutase is involved in introducing mutations into DNA, which is not a requirement for cloningDNA recombinase: While recombinases facilitate site-specific recombination and have applications in advanced genetic engineering (e.g., CRISPR or recombineering), they are not essential for basic gene cloning processes.",
+    "year": "2025",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "sourceQuestionNumber": 6,
+    "text": "Given below are two statements: Statement I: The DNA fragments extracted from gel electrophoresis can be used in construction of recombinant DNA. Statement II: Smaller size DNA fragments are observed near anode while larger fragments are found near the wells in an agarose gel",
+    "options": {
+      "A": "Statement I is correct but statement II is incorrect",
+      "B": "Statement I is incorrect but statement II is correct",
+      "C": "Both statement I and statement II are correct",
+      "D": "Both statement I and statement II are incorrect"
+    },
+    "answer": "c",
+    "explanation": "Statement I: The DNA fragments extracted from gel electrophoresis can be used in construction of recombinant DNA: This statement is correct. DNA fragments separated by gel electrophoresis can be extracted and purified for use in creating recombinant DNA, as they provide the necessary fragments for ligation into vectors.Statement II: Smaller size DNA fragments are observed near anode while larger fragments are found near the wells in an agarose gel: This statement is correct. In gel electrophoresis, smaller DNA fragments migrate further away from the wells towards the anode, whereas larger fragments travel a shorter distance and thus remain closer to the wells. DNA fragments are negatively charged molecules they can be separated by forcing them to move towards the anode under an electric field through a medium/matrix.",
+    "year": "2025",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "sourceQuestionNumber": 1,
+    "text": "Hind II always cuts DNA molecules at a particular point called recognition sequence and it consists of",
+    "options": {
+      "A": "8 bp",
+      "B": "6 bp",
+      "C": "4 bp",
+      "D": "10 bp"
+    },
+    "answer": "b",
+    "explanation": "The correct answer is option (b). The first restriction endonuclease - Hind II, whose functioning depends on a specific DNA nucleotide sequence was isolated. It was found that Hind II always cut DNA molecules at a particular point by recognising sequence of six base pairs. Option (a), (c) and (d) are incorrect because they have either more than 6 or less than 6bp.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "sourceQuestionNumber": 2,
+    "text": "What is the fate of a piece of DNA carrying only gene of interest which is transferred into an alien organism? A. The piece of DNA would be able to multiply itself independently in the progeny cells of the organism. B. It may get integrated into the genome of the recipient. C. It may multiply and be inherited along with the host DNA. D. The alien piece of DNA is not an integral part of chromosome. E. It shows ability to replicate",
+    "options": {
+      "A": "A and B only",
+      "B": "D and E only",
+      "C": "B and C only",
+      "D": "A and E only"
+    },
+    "answer": "c",
+    "explanation": "When a piece of DNA carrying a gene of interest is transferred into an alien organism, its fate depends on several factors, including the mechanisms it has for replication, integration, and inheritance. Here is an analysis of each statement provided: A. The piece of DNA would be able to multiply itself independently in the progeny cells of the organism. This is incorrect unless the DNA contains an origin of replication that is compatible with the host cell's replication machinery. B. It may get integrated into the genome of the recipient. This is a likely scenario if the DNA has sequences that facilitate recombination with the host genome or if the host has natural mechanisms of DNA integration such as those observed in bacteria with transformation capabilities, or other eukaryotic organisms with similar processes. C. It may multiply and be inherited along with the host DNA. This statement can be true if the introduced DNA is replicated along with the host DNA, possibly through integration into the host genome or existence in the form of an episome that replicates independently yet synchronously with the host DNA. D. The alien piece of DNA is not an integral part of chromosome. This statement is generally accurate before integration. The introduced DNA, before integration, exists extrachromosomally and thus is not part of any chromosome, unless mechanisms are present for its integration into the host genome. E. It shows ability to replicate. This statement depends on specific sequences in the DNA, such as the origin of replication compatible with the host cell's machinery, mentioned in statement A. Without these, it will not replicate independently. Given these explanations, the most accurate answer that describes the fate of the DNA in the recipient organism is: Option C: B and C only 'B' is correct as the DNA may integrate into the host genome, and 'C' is correct as the DNA might also multiply if replicated in sync with the host organism's DNA, particularly if it integrates or exists as an episome compatible with the host's cellular machinery.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "sourceQuestionNumber": 3,
+    "text": "The following diagram showing restriction sites in E. coli cloning vector pBR322. Find the role of 'X' and 'Y' genes",
+    "options": {
+      "A": "The gene 'X' is responsible for resistance to antibiotics and 'Y' for protein involved in the replication of Plasmid.",
+      "B": "The gene 'X' is responsible for controlling the copy number of the linked DNA and 'Y' for protein involved in the replication of Plasmid.",
+      "C": "The gene 'X' is for protein involved in replication of Plasmid and 'Y' for resistance to antibiotics.",
+      "D": "Gene 'X' is responsible for recognitions sites and 'Y' is responsible for antibiotic resistance."
+    },
+    "answer": "b",
+    "explanation": "Correct answer is option (2), because 'X' in the given diagram is ori while 'Y' is rop. 'X' which is ori is responsible for controlling the copy number of the linked DNA and 'Y' which is rop codes for protein involved in the replication of plasmid. Options (1), (3) and (4) are incorrect as 'X' and 'Y' are not related to these functions.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2024_B12_Q9-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "sourceQuestionNumber": 4,
+    "text": "The \"Ti plasmid\" of Agrobacterium tumefaciens stands for",
+    "options": {
+      "A": "Tumour inhibiting plasmid",
+      "B": "Tumor independent plasmid",
+      "C": "Tumor inducing plasmid",
+      "D": "Temperature independent plasmid"
+    },
+    "answer": "c",
+    "explanation": "The correct answer is Option C: Tumor inducing plasmid. The \"Ti plasmid\" is a type of plasmid (a small DNA molecule within a cell that is physically separated from chromosomal DNA and can replicate independently) found in the bacterium Agrobacterium tumefaciens. This bacterium is known for its ability to transfer a segment of its DNA to a plant, integrating this DNA into the plant's genome, causing the plant to develop tumors, known as crown gall disease. The term \"Ti plasmid\" stands for \"Tumor inducing plasmid\" because of its role in this process. When Agrobacterium tumefaciens infects a plant, the Ti plasmid transfers a portion of its DNA-known as T-DNA (transfer DNA)-into a random site in the plant's genome. The expression of genes in the T-DNA leads to the overproduction of certain growth hormones (auxins and cytokinins), which results in the formation of tumors on the plant. Thus, Option C \"Tumor inducing plasmid\" most accurately describes the Ti plasmid's function of inducing tumor formation in infected plants. Options A, B, and D do not correctly describe the properties or functions of the Ti plasmid.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following statements is incorrect?",
+    "options": {
+      "A": "Most commonly used bio-reactors are of stirring type.",
+      "B": "Bio-reactors are used to produce small scale bacterial cultures.",
+      "C": "Bio-reactors have an agitator system, an oxygen delivery system, and foam control system.",
+      "D": "A bio-reactor provides optimal growth conditions for achieving the desired product."
+    },
+    "answer": "b",
+    "explanation": "Bio-reactors are typically used for large-scale production, not small-scale bacterial cultures. They provide a controlled environment to cultivate microorganisms, plant cells, or animal cells for producing various products like antibiotics, enzymes, biofuels, and more. The other statements are correct: Statement 1: Most commonly used bio-reactors are of the stirring type, known as stirred-tank bio-reactors.Statement 3: Bio-reactors are equipped with systems like an agitator system, oxygen delivery system, and foam control system to maintain optimal conditions for microbial growth.Statement 4: A bio-reactor indeed provides optimal growth conditions to achieve the desired product, such as maintaining temperature, pH, and nutrient levels.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "sourceQuestionNumber": 6,
+    "text": "Which of the following is not a selectable marker of cloning vectors?",
+    "options": {
+      "A": "Ampicillin",
+      "B": "Metformin",
+      "C": "Chloramphenicol",
+      "D": "Tetracycline"
+    },
+    "answer": "b",
+    "explanation": "Selectable markers are genes introduced into cloning vectors to enable the identification of successfully transformed cells. These markers usually provide resistance to specific antibiotics, allowing only the transformed cells to grow in the presence of the antibiotic. Ampicillin, Chloramphenicol, and Tetracycline are all common selectable markers used in cloning vectors because they confer resistance to these antibiotics.Metformin, however, is a drug used primarily for the treatment of type 2 diabetes and is not used as a selectable marker in cloning vectors.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "sourceQuestionNumber": 7,
+    "text": "Given below are two statements: Statement I: Restriction Endonuclease finds its specific recognition sequence and binds to the DNA. Statement II: Restriction Endonuclease cuts each of the two strands of the double helix at specific points in their sugar phosphate backbones. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are True",
+      "B": "Both Statement I and Statement II are False",
+      "C": "Statement I is True but Statement II is False",
+      "D": "Statement I is False but Statement II is True"
+    },
+    "answer": "a",
+    "explanation": "Statement I: Restriction Endonuclease recognizes specific sequences of nucleotides in the DNA, known as the recognition sequence, and binds to them. This statement is true. Statement II: After binding to the recognition sequence, Restriction Endonuclease cuts both strands of the DNA double helix at specific points in their sugar-phosphate backbone. This is also true, as these enzymes typically create staggered or blunt ends by cleaving the DNA at these specific sites. Thus, both statements are correct.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "sourceQuestionNumber": 8,
+    "text": "In a chromosome, there is a specific DNA sequence, responsible for initiating replication. It is called as",
+    "options": {
+      "A": "recognition sequence",
+      "B": "cloning site",
+      "C": "restriction site",
+      "D": "ori site"
+    },
+    "answer": "d",
+    "explanation": "The ori site (origin of replication) is the specific DNA sequence responsible for initiating DNA replication in a chromosome. It is the site where the process of DNA replication begins, allowing the DNA to be copied for cell division. The ori site is crucial for the proper replication of the chromosome in both prokaryotes and eukaryotes. The other options: Recognition sequence: This refers to a specific sequence recognized by enzymes like restriction endonucleases but is not involved in replication initiation.Cloning site: This refers to a specific site in vectors where foreign DNA can be inserted, not related to DNA replication initiation.Restriction site: This refers to a specific sequence recognized and cut by restriction enzymes but is not involved in replication initiation.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "sourceQuestionNumber": 9,
+    "text": "Identify the incorrect statement related to electrophoresis",
+    "options": {
+      "A": "Separated DNA fragments can be directly seen under UV radiation",
+      "B": "Separated DNA can be extracted from gel piece.",
+      "C": "Fragments of DNA move toward anode.",
+      "D": "Sieving effect of agarose gel helps in separation of DNA fragments."
+    },
+    "answer": "a",
+    "explanation": "Incorrect Statement: Separated DNA fragments cannot be directly seen under UV radiation. After electrophoresis, DNA fragments are typically stained with a dye such as ethidium bromide, which intercalates with the DNA and fluoresces under UV light. Without staining, DNA fragments cannot be directly observed under UV light. The other statements are correct: Statement 2: Separated DNA can indeed be extracted from the gel after electrophoresis using a process called gel extraction.Statement 3: DNA is negatively charged, and during electrophoresis, it moves toward the positive electrode (anode).Statement 4: The sieving effect of agarose gel helps separate DNA fragments based on their size, with smaller fragments moving faster through the gel than larger ones.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2024_B12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "sourceQuestionNumber": 10,
+    "text": "Select the restriction endonuclease enzymes whose restriction sites are present for the tetracycline resistance (tetR) gene in the pBR322 cloning vector",
+    "options": {
+      "A": "Bam HI and Sal I",
+      "B": "Sal I and Pst I",
+      "C": "Pst I and Pvu I",
+      "D": "Pvu I and Bam HI"
+    },
+    "answer": "a",
+    "explanation": "The pBR322 cloning vector contains restriction sites for several restriction endonucleases. The tetracycline resistance (tetR) gene is part of the pBR322 vector and has specific restriction enzyme sites. The Bam HI and Sal I restriction enzymes have their restriction sites within or near the tetR gene in pBR322. These enzymes can be used to cut the plasmid at specific sites, making it possible to insert foreign DNA or manipulate the plasmid. The other options do not match the specific restriction sites within the tetracycline resistance gene in pBR322.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "sourceQuestionNumber": 11,
+    "text": "Recombinant DNA molecule can be created normally by cutting the vector DNA and source DNA respectively with",
+    "options": {
+      "A": "Hind II, Hind II",
+      "B": "Hind II, Alu I",
+      "C": "Hind II, EcoR I",
+      "D": "Hind II, Bam HI"
+    },
+    "answer": "a",
+    "explanation": "To create a recombinant DNA molecule, the vector DNA and source DNA must be cut with the same restriction enzyme to ensure compatible sticky ends that can be ligated together. In this case, Hind II is used to cut both the vector DNA and the source DNA, producing compatible ends for ligation. The other options involve different restriction enzymes that would produce incompatible ends or not the correct cutting pattern for creating recombinant DNA with compatible ends.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "sourceQuestionNumber": 12,
+    "text": "Which of the following are correct about EcoRI? A. Cut the DNA with blunt end B. Cut the DNA with sticky end C. Recognises a specific palindromic sequence. D. Cut the DNA between the base G and A where it encounters the DNA sequence 'GAATTC' E. Exonuclease",
+    "options": {
+      "A": "B, C, E only",
+      "B": "A, D, E only",
+      "C": "A, C, D only",
+      "D": "B, C, D only"
+    },
+    "answer": "d",
+    "explanation": "B. Cut the DNA with sticky end: EcoRI is a restriction enzyme that produces sticky (cohesive) ends by cutting between the G and A in the sequence GAATTC. C. Recognises a specific palindromic sequence: EcoRI recognizes the palindromic sequence GAATTC, where the sequence reads the same in both directions. D. Cut the DNA between the base G and A where it encounters the DNA sequence 'GAATTC': This is the specific action of EcoRI, cutting the DNA between the G and A of the GAATTC sequence. A. Cut the DNA with blunt end: EcoRI cuts the DNA with sticky ends, not blunt ends. E. Exonuclease: EcoRI is not an exonuclease. It is a restriction endonuclease, which cuts DNA at specific sequences, rather than progressively trimming nucleotides from the ends.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "sourceQuestionNumber": 13,
+    "text": "Following are the steps involved in the process of PCR: A. Annealing B. Amplification (~1 billion times) C. Denaturation D. Treatment with Taq polymerase and deoxynucleotides E. Extension Choose the correct sequence of steps of PCR from the options given below",
+    "options": {
+      "A": "C → A → D → E → B",
+      "B": "A → B → E → D → C",
+      "C": "A → C → E → D → B",
+      "D": "D → B → E → C → A"
+    },
+    "answer": "a",
+    "explanation": "The correct sequence of steps in the Polymerase Chain Reaction (PCR) process is as follows: C. Denaturation: The DNA sample is heated to around 94-98°C to separate the two strands of the DNA template. A. Annealing: The temperature is lowered to 50-65°C to allow the primers to bind to the complementary sequences on the single-stranded DNA templates. D. Treatment with Taq polymerase and deoxynucleotides: The Taq polymerase enzyme, along with free nucleotides (dNTPs), is added for the extension process. E. Extension: The Taq polymerase synthesizes a new strand of DNA starting from the primers at around 75-80°C. B. Amplification (~1 billion times): The process is repeated through many cycles (usually 20-40), resulting in exponential amplification of the target DNA sequence. Thus, the correct sequence is C → A → D → E → B.",
+    "year": "2024",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "sourceQuestionNumber": 1,
+    "text": "Which of the following is not a cloning vector?",
+    "options": {
+      "A": "BAC",
+      "B": "YAC",
+      "C": "pBR322",
+      "D": "Probe"
+    },
+    "answer": "d",
+    "explanation": "Option (d) is correct answer because a single stranded DNA or RNA tagged with a radioactive molecule is called a probe and it helps in the detection of mutated gene. Option (b), (c) and (a) are not correct because YAC, BAC, pBR322 are vectors.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "sourceQuestionNumber": 2,
+    "text": "Upon exposure to UV radiation, DNA stained with ethidium bromide will show",
+    "options": {
+      "A": "Bright orange colour",
+      "B": "Bright red colour",
+      "C": "Bright blue colour",
+      "D": "Bright yellow colour"
+    },
+    "answer": "a",
+    "explanation": "Ethidium bromide is a fluorescent dye commonly used in molecular biology to visualize nucleic acids, especially DNA, under UV light. When exposed to UV light, ethidium bromide intercalates between the base pairs of DNA, emitting a bright orange fluorescence. This property makes it extremely useful for detecting DNA bands in agarose gel electrophoresis. The fluorescence is specific to DNA and is not emitted by other molecules, which is why it is widely used in DNA analysis.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "sourceQuestionNumber": 3,
+    "text": "During the purification process for recombinant DNA technology, addition of chilled ethanol precipitates out",
+    "options": {
+      "A": "Polysaccharides",
+      "B": "RNA",
+      "C": "DNA",
+      "D": "Histones"
+    },
+    "answer": "c",
+    "explanation": "In recombinant DNA technology, ethanol precipitation is used to purify DNA from a . DNA is soluble in water but is precipitated out when chilled ethanol is added. This is because ethanol reduces the solubility of DNA, causing the DNA molecules to clump together and form a visible precipitate. This process is essential for isolating DNA after various stages such as restriction digestion or PCR amplification. The addition of salt, such as sodium acetate, helps in neutralizing the charge of the DNA, making it more likely to precipitate out when ethanol is added.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "sourceQuestionNumber": 4,
+    "text": "In gene gun method used to introduce alien DNA into host cells, microparticles of ___________ metal are used",
+    "options": {
+      "A": "Silver",
+      "B": "Copper",
+      "C": "Zinc",
+      "D": "Tungsten or gold"
+    },
+    "answer": "d",
+    "explanation": "The gene gun, also known as the biolistic method, is a technique used to deliver foreign DNA into cells. In this method, tungsten or gold microparticles are coated with the DNA of interest and then fired into plant or animal cells under high pressure. The heavy metal particles penetrate the cell membrane, carrying the DNA with them. This method is particularly useful in plant biotechnology, as it does not require the use of plant-specific transformation methods like Agrobacterium-mediated transformation. The use of tungsten or gold ensures that the particles are dense and can effectively carry the DNA into cells.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2023_B12_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "sourceQuestionNumber": 5,
+    "text": "Main steps in the formation of Recombinant DNA are given below. Arrange these steps in a correct sequence. A. Insertion of recombinant DNA into the host cell. B. Cutting of DNA at specific location by restriction enzyme. C. Isolation of desired DNA fragment. D. Amplification of gene of interest using PCR",
+    "options": {
+      "A": "B, D, A, C",
+      "B": "B, C, D, A",
+      "C": "C, A, B, D",
+      "D": "C, B, D, A"
+    },
+    "answer": "b",
+    "explanation": "The correct sequence of steps in recombinant DNA technology is as follows: B (Cutting of DNA): First, the DNA of interest and the vector are cut using restriction enzymes to generate sticky ends.C (Isolation of desired DNA fragment): The fragment of interest is then isolated from the rest of the DNA.D (Amplification of gene of interest using PCR): The desired DNA fragment is often amplified using PCR to produce enough copies for cloning.A (Insertion of recombinant DNA into the host cell): Finally, the recombinant DNA is inserted into the host cell for expression or further manipulation. This process is crucial in genetic engineering and cloning.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "sourceQuestionNumber": 6,
+    "text": "Thermostable DNA polymerase used in PCR was isolated from",
+    "options": {
+      "A": "Thermus aquaticus",
+      "B": "Escherichia coli",
+      "C": "Agrobacterium tumefaciens",
+      "D": "Bacillus thuringiensis"
+    },
+    "answer": "a",
+    "explanation": "Taq polymerase, a thermostable DNA polymerase, was originally isolated from the bacterium Thermus aquaticus, which thrives in the high-temperature environment of hot springs. The enzyme is capable of withstanding the high temperatures used in the Polymerase Chain Reaction (PCR), which involves repeated cycles of heating and cooling. This property makes Taq polymerase ideal for PCR, as it does not denature at high temperatures, unlike most other enzymes. It efficiently synthesizes new DNA strands during the extension step of PCR, enabling rapid amplification of DNA sequences.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "sourceQuestionNumber": 7,
+    "text": "Ligation of foreign DNA at which of the following site will result in loss of tetracycline resistance of pBR322?",
+    "options": {
+      "A": "PsT I",
+      "B": "Pvu I",
+      "C": "EcoR I",
+      "D": "BamH I"
+    },
+    "answer": "d",
+    "explanation": "In the pBR322 plasmid, the tetracycline resistance (tetR) gene is located in a region that contains a BamH I restriction site. If foreign DNA is inserted into the BamH I site of the tetracycline resistance gene, it disrupts the gene's function, leading to the loss of tetracycline resistance. This is a key feature in recombinant DNA technology because plasmids are often designed so that when foreign DNA is inserted into a specific site, it can deactivate a reporter gene like tetR. This allows researchers to easily identify transformed cells by their ability to resist or not resist tetracycline.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "sourceQuestionNumber": 8,
+    "text": "Which of the following statement is incorrect about Agrobacterium tumefaciens?",
+    "options": {
+      "A": "It is used to deliver gene of interest in both prokaryotic as well as eukaryotic host cells.",
+      "B": "'Ti' plasmid from Agrobacterium tumefaciens used for gene transfer is not pathogenic to plant cells.",
+      "C": "It transforms normal plant cells into tumor cells.",
+      "D": "It delivers 'T-DNA' into plant cell."
+    },
+    "answer": "a",
+    "explanation": "Agrobacterium tumefaciens is primarily used to transfer genes into eukaryotic plant cells, not prokaryotic cells. It uses a plasmid known as the Ti plasmid to insert a segment of DNA (T-DNA) into the plant genome. This process is a natural form of horizontal gene transfer that has been harnessed in genetic engineering for plant transformation. Agrobacterium is not used for gene transfer in prokaryotic cells, as they do not possess the machinery to process the T-DNA in the same way eukaryotic plant cells do. The other statements about Agrobacterium tumefaciens are correct, such as its ability to deliver T-DNA into plant cells and its role in transforming plant cells into tumor cells.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2023_B12_Q27-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "sourceQuestionNumber": 9,
+    "text": "Which of the following can act as molecular scissors?",
+    "options": {
+      "A": "Restriction enzymes",
+      "B": "DNA ligase",
+      "C": "RNA polymerase",
+      "D": "DNA polymerase"
+    },
+    "answer": "a",
+    "explanation": "Restriction enzymes, also known as restriction endonucleases, act as \"molecular scissors\" because they can cut DNA at specific sequences. These enzymes recognize particular sequences of nucleotides in the DNA and make cuts, typically resulting in sticky or blunt ends, depending on the enzyme. This property is widely used in molecular biology for DNA manipulation, such as in cloning, genetic engineering, and DNA analysis. DNA ligase is an enzyme that joins two DNA fragments together by forming phosphodiester bonds, not cutting DNA.RNA polymerase is responsible for synthesizing RNA from a DNA template in transcription, not for cutting DNA.DNA polymerase synthesizes DNA from a template strand during replication or PCR, but it does not act as molecular scissors.",
+    "year": "2023",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "sourceQuestionNumber": 1,
+    "text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Polymerase chain reaction is used in DNA amplification Reason (R): The ampicillin resistant gene is used as a selectable marker to check transformation",
+    "options": {
+      "A": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+      "B": "(A) is correct but (R) is not correct",
+      "C": "(A) is not correct but (R) is correct",
+      "D": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    "answer": "a",
+    "explanation": "Both the statements are correct but the given reason is not the correct explanation. Polymerase chain reaction is used in DNA amplification.Ampicillin resistance gene is a selectable marker that helps to check transformation by selection of transformants.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "sourceQuestionNumber": 2,
+    "text": "Given below are two statements: Statement I: Restriction endonucleases recognise specific sequence to cut DNA known as palindromic nucleotide sequence. Statement II: Restriction endonucleases cut the DNA strand a little away from the centre of the palindromic site",
+    "options": {
+      "A": "Both Statement I and Statement II are incorrect",
+      "B": "Statement I is correct but Statement II is incorrect",
+      "C": "Statement I is incorrect but Statement II is correct",
+      "D": "Both Statement I and Statement II are correct"
+    },
+    "answer": "d",
+    "explanation": "Option (d) is the correct answer because both the statements I and II are correct. Each restriction endonuclease recognises a specific palindromic nucleotide sequences in the DNA. It will bind to the DNA and cut each of the two strands of double helix at specific points. Restriction enzymes cut the strand of DNA a little away from the centre of the palindrome site; but between the same two bases on the opposite strands. So both the statements I and II are correct.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following is not a desirable feature of a cloning vector?",
+    "options": {
+      "A": "Presence of a marker gene",
+      "B": "Presence of single restriction enzyme site",
+      "C": "Presence of two or more recognition sites",
+      "D": "Presence of origin of replication"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the correct answer which is not the desirable feature of a cloning vector. Cloning vectors are the carriers of the desired gene in the host cell. The features desirable in a cloning vector are :- Presence of origin of replicationPresence of marker genesPresence of very few, preferably single recognition site for the commonly used restriction enzymes",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "sourceQuestionNumber": 4,
+    "text": "Which one of the following statement is not true regarding gel electrophoresis technique?",
+    "options": {
+      "A": "The process of extraction of separated DNA strands from gel is called elution.",
+      "B": "The separated DNA fragments are stained by using ethidium bromide.",
+      "C": "The presence of chromogenic substrate gives blue coloured DNA bands on the gel.",
+      "D": "Bright orange coloured bands of DNA can be observed in the gel when exposed to UV light."
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the incorrect statement, as bright coloured bands of DNA can be observed in the gel when EtBr (Ethidium bromide) treated DNA is exposed to UV light.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "sourceQuestionNumber": 5,
+    "text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : When a particular restriction enzyme cuts strand of DNA, overhanging stretches or sticky ends are formed. Reason (R) : Some restriction enzymes cut the strand of DNA a little away from the centre of palindromic site",
+    "options": {
+      "A": "(A) is not correct but (R) is correct",
+      "B": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "C": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+      "D": "(A) is correct but (R) is not correct"
+    },
+    "answer": "b",
+    "explanation": "Option (b) is the correct answer because when restriction enzymes cut the strand of DNA a little away from the centre of the palindrome sites, but between the same two bases on the opposite strands, then single stranded portions are left at the ends. These overhanging stretches on each strand are called sticky ends.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "sourceQuestionNumber": 6,
+    "text": "Separation of DNA fragments is done by a technique known as",
+    "options": {
+      "A": "Gel electrophoresis",
+      "B": "Polymerase Chain Reaction",
+      "C": "Recombinant technology",
+      "D": "Southern blotting"
+    },
+    "answer": "a",
+    "explanation": "Option (a) is the correct answer because separation of DNA fragments which is carried out after restriction enzyme digestion, is done by a technique known as gel electrophoresis.Option (b) is not the correct answer because polymerase chain reaction (PCR) is a technique used for amplification of gene of interest.Option (c) is not the correct answer because recombinant DNA technology comprises altering genetic material outside an organism to obtain enhanced and desired characteristics in living organisms or as their products.Option (d) is not the answer because Southern blotting is a method used for detection of specific DNA sequences in samples.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "sourceQuestionNumber": 7,
+    "text": "The enzyme (a) is needed for isolating genetic material from plant cells and enzyme (b) for isolating genetic material from fungus. Choose the correct pair of options from the following",
+    "options": {
+      "A": "(a) Cellulase (b) Lipase",
+      "B": "(a) Cellulase (b) Protease",
+      "C": "(a) Cellulase (b) Chitinase",
+      "D": "(a) Chitinase (b) Lipase"
+    },
+    "answer": "c",
+    "explanation": "Option (3) is the correct answer because cellulase is used to isolate genetic material from plant cells and chitinase is used to isolate genetic material from fungal cells.Option (2) is incorrect because protease is used for digestion of proteins.Option (1) and (4) are incorrect because lipase is used for the breakdown of lipids.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "sourceQuestionNumber": 8,
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+      "B": "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+      "C": "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+      "D": "(a) - (iv), (b) - (i), (c) - (iii), (d) - (ii)"
+    },
+    "answer": "b",
+    "explanation": "Option (2) is the correct answer because Gene gun or biolistics is a direct gene transfer method suitable for plant cell.Gene therapy involves replacement of a faulty gene by a normal healthy gene.Gene cloning is done to make identical copies of a particular DNA molecule.Genome is the total DNA in the cells of an organism.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2022_B12_Q36-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "sourceQuestionNumber": 9,
+    "text": "Pathogenic bacteria gain resistance to antibiotics due to changes in their",
+    "options": {
+      "A": "Nucleoid",
+      "B": "Cosmids",
+      "C": "Plasmids",
+      "D": "Nucleus"
+    },
+    "answer": "c",
+    "explanation": "Plasmid is small circular DNA outside the genomic DNA. The plasmid DNA confers certain unique phenotypic characters to the bacteria such as resistance to antibiotics.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "sourceQuestionNumber": 10,
+    "text": "Which of the following methods is not commonly used for introducing foreign DNA into the plant cell?",
+    "options": {
+      "A": "Bacteriophages",
+      "B": "Agrobacterium mediated transformation",
+      "C": "Gene gun",
+      "D": "'Disarmed pathogen' vectors"
+    },
+    "answer": "a",
+    "explanation": "Option (a) is the correct answer because bacteriophages act as a cloning vector for bacterial cells, not the plant cells.Options (b), (c) and (d) are not the correct answers because Agrobacterium, gene gun and disarmed pathogens as vectors are used for introducing foreign DNA into the plant cells.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "sourceQuestionNumber": 11,
+    "text": "Refer to the following statements for agarose-gel electrophoresis: (a) Agarose is a natural polymer obtained from sea-weed. (b) The separation of DNA molecules in agarose-gel electrophoresis depends on the size of DNA. (c) The DNA migrates from negatively-charged electrode to the positively-charged electrode (d) The DNA migrates from positively-charged electrode to the negatively-charged electrode",
+    "options": {
+      "A": "(b), (c) and (d) only",
+      "B": "(a) and (b) only",
+      "C": "(a), (b) and (c) only",
+      "D": "(a), (b) and (d) only"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the correct answer as the most commonly used matrix in gel electrophoresis is agarose which is a natural polymer extracted from sea weeds.In agarose gel electrophoresis, the DNA fragments separate (resolve) according to their size through sieving effect provided by the agarose gel.Since, DNA fragments are negatively charged molecules, they migrate towards the anode (positively-charged electrode) under an electric field through a medium/martix.",
+    "year": "2022",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "sourceQuestionNumber": 1,
+    "text": "During the purification process for recombinant DNA technology, addition of chilled ethanol precipitates out",
+    "options": {
+      "A": "Histones",
+      "B": "Polysaccharides",
+      "C": "RNA",
+      "D": "DNA"
+    },
+    "answer": "d",
+    "explanation": "Various enzymes like protease, RNase, etc. are added to break down substances like proteins, RNA, etc. Once all these substances are broken down, DNA is left which is precipitated out by adding chilled ethanol.Ethanol has a lower dielectric constant than water, making it to promote ionic bond formation the Na+ (from the salt) and the PO-3 (from the DNA backbone), further, causing the DNA to precipitate.",
+    "year": "2021",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "sourceQuestionNumber": 2,
+    "text": "Which of the following is a correct sequence of steps in a PCR (Polymerase Chain Reaction)?",
+    "options": {
+      "A": "Extension, Denaturation, Annealing",
+      "B": "Annealing, Denaturation, Extension",
+      "C": "Denaturation, Annealing, Extension",
+      "D": "Denaturation, Extension, Annealing"
+    },
+    "answer": "c",
+    "explanation": "PCR stands for Polymerase Chain Reaction. It is a technique in which multiple copies of gene of interest is synthesised using two sets of primers and the enzyme DNA polymerase. The correct sequence of steps in a PCR (Polymerase Chain Reaction) areDenaturation In which the double-stranded template DNA is heated at 95°C to separate it into two single strands.Annealing In which the temperature is lowered to 50°C which enables the DNA primers to attach to the template DNA.Extension/Extending In which the temperature is raised and the new strand of DNA is made by the taq polymerase enzyme.These three stages are repeated 20-40 times, doubling the number of DNA copies each time.",
+    "year": "2021",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "sourceQuestionNumber": 3,
+    "text": "Plasmid pBR322 has a PstI restriction enzyme site within gene ampR that confers ampicillin resistance. If this enzyme is used for inserting a gene for β-galactosidase production and the recombinant plasmid is inserted in an E.coli strain",
+    "options": {
+      "A": "it will lead to the lysis of host cells.",
+      "B": "it will be able to produce a novel protein with dual abilities.",
+      "C": "it will not be able to confer ampicillin resistance to the host cell.",
+      "D": "the transformed cells will have the ability to resist ampicillin as well as produce β-galactoside."
+    },
+    "answer": "c",
+    "explanation": "pBR322 is a commonly used cloning vector. When the gene for β-galactoside is inserted in the ampicillin resistance gene by using Pst I, the recombinant E.coli will lose ampicillin resistance due to insertional inactivation of the antibiotic resistance gene.The host (recombinant) cell will produce β-galactoside which is not a novel protein nor does it have dual ability.The transformed cells cannot resist ampicillin as they have lost ampicillin resistance.A recombinant E. coli is produced and the host cell will not undergo lysis due to insertion of β-galactoside gene.",
+    "year": "2021",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "sourceQuestionNumber": 4,
+    "text": "During the process of gene amplification using PCR, very high temperature is not maintained in the beginning, then which of the following step in PCR will be affected first?",
+    "options": {
+      "A": "Denaturation",
+      "B": "Ligation",
+      "C": "Annealing",
+      "D": "Extension"
+    },
+    "answer": "a",
+    "explanation": "Let us see the steps in PCR: Denaturation In this process, the two strands of DNA are separated by heating them at a very high temperature (94 to 98 degrees).If high temperature is not maintained denaturation will not occur.The hydrogen bonds between two strands break and single strands are produced. Annealing In this step, primers are used. The primers are allowed to interact with the single strands of DNA.There is a pairing between the primer and its complementary DNA strand (template DNA).A proper temperature (lower than the temperature used for denaturation) is provided for proper hybridization between the primer and the template DNA.The DNA polymerase enzyme binds to the primer-template hybrid and the synthesis of DNA begins. Extension Enzyme Taq polymerase (obtained from bacteria Thermus aquaticus) is used here and the temperature maintained is 75 to 80 degrees.The enzymes add nucleotides in the 5'-3' direction and synthesize the complementary DNA strand.This cycle can be repeated multiple times ( approximately 30 times) to obtain millions of copies of the DNA.",
+    "year": "2021",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2021_B12_Q43-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "sourceQuestionNumber": 5,
+    "text": "A specific recognition sequence identified by endonucleases to make cuts at specific positions within the DNA is",
+    "options": {
+      "A": "Palindromic Nucleotide sequences",
+      "B": "Poly(A) tail sequences",
+      "C": "Degenerate primer sequence",
+      "D": "Okazaki sequences"
+    },
+    "answer": "a",
+    "explanation": "Each restriction endonuclease recognizes a specific palindromic nucleotide sequence in the DNA. Once it finds its specific recognition sequence it bind to DNA and cuts each of the two strands of DNA.During post transcriptional modification in eukaryotes, poly(A) tail (200-300 adenylate residues) are added at 3' end of hnRNA.During DNA replication Okazaki fragments are synthesized discontinuously and joined by DNA ligase.A PCR primer sequence is termed degenerate if some of its position have several possible bases.",
+    "year": "2021",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "sourceQuestionNumber": 1,
+    "text": "In-gel electrophoresis, separated DNA fragments can be visualized with the help of",
+    "options": {
+      "A": "acetocarmine in UV radiation",
+      "B": "ethidium bromide in infrared radiation",
+      "C": "acetocarmine in bright blue light",
+      "D": "ethidium bromide in UV radiation"
+    },
+    "answer": "d",
+    "explanation": "The separated DNA fragments can be visualised only after staining the DNA with Ethidium bromide followed by exposure to UV radiation.",
+    "year": "2020",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "sourceQuestionNumber": 2,
+    "text": "Identify the wrong statement with regard to restriction enzymes",
+    "options": {
+      "A": "They are useful in genetic engineering.",
+      "B": "Sticky ends can be joined by using DNA ligases.",
+      "C": "Each restriction enzyme functions by inspecting the length of a DNA sequence.",
+      "D": "They cut the strand of DNA at palindromic sites."
+    },
+    "answer": "c",
+    "explanation": "The incorrect statement is Option C: \"Each restriction enzyme functions by inspecting the length of a DNA sequence.\" This statement is misleading because restriction enzymes do not function by inspecting the length of DNA sequences; instead, they recognize and cut DNA at specific nucleotide sequences, typically at palindromic sites. This specificity does not depend on the length of the DNA but on the sequence configuration that the enzyme recognizes.",
+    "year": "2020",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "sourceQuestionNumber": 3,
+    "text": "The specific palindromic sequence which is recognized by EcoRI is",
+    "options": {
+      "A": "5'- CTTAAG -3', 3'GAATTC - 5'",
+      "B": "5'- GGATCC - 3', 3'- CCTAGG - 5'",
+      "C": "5'- GAATTC - 3', 3' -CTTAAG - 5'",
+      "D": "5' - GGAACC - 3', 3' - CCTTGG - 5'"
+    },
+    "answer": "c",
+    "explanation": "The specific palindromic sequence which is recognised by EcoRI is 5' - GAATTC - 3' 3' - CTTAAG - 5'",
+    "year": "2020",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q48",
+    "sourceQuestionNumber": 4,
+    "text": "The sequence that controls the copy number of the linked DNA in the vector, is termed",
+    "options": {
+      "A": "Palindromic sequence",
+      "B": "Recognition site",
+      "C": "Selectable marker",
+      "D": "Ori site"
+    },
+    "answer": "d",
+    "explanation": "Ori sequence is responsible for controlling the copy number of the linked DNA in the vector. Ori i.e. origin of replication is responsible for initiation of replication.",
+    "year": "2020",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q49",
+    "sourceQuestionNumber": 5,
+    "text": "Choose the correct pair from the following",
+    "options": {
+      "A": "Nucleases - Separate the two strands of DNA",
+      "B": "Exonucleases - Make cuts at specified positions within DNA",
+      "C": "Ligases - Join the two DNA molecules",
+      "D": "Polymerases - Break the DNA into fragments"
+    },
+    "answer": "c",
+    "explanation": "Ligases join the two DNA molecules. DNA ligase is an enzyme which can connect two strands of DNAtogether by forming a bond between the phosphate group of one strand and the deoxyribose group on another. It is used in cells to join together the Okazaki fragments which are formed on the lagging strand during DNA replication.",
+    "year": "2020",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q50",
+    "sourceQuestionNumber": 1,
+    "text": "The following statements describe the characteristics of the enzyme restriction endonuclease. Identify the incorrect statement",
+    "options": {
+      "A": "The enzyme recognises a specific palindromic nucleotide sequence in the DNA.",
+      "B": "The enzyme cuts DNA molecule at an identified position within the DNA.",
+      "C": "The enzyme binds DNA at specific sites and cuts only one of the two strands.",
+      "D": "The enzyme cuts the sugar-phosphate backbone at specific sites on each strand."
+    },
+    "answer": "c",
+    "explanation": "Enzyme binds DNA at specific sites and cut both the strands by breaking phosphodiester linkage. Q 20: DNA precipitation out of a mixture of biomolecules can be achieved by treatment with (NEET 2019) (a) Chilled chloroform (b) Isopropanol (c) Chilled ethanol (d) Methanol at room temperature Ans: (c) Chilled ethanol is used for DNA precipitation out of a mixture of biomolecules. Process is called spooling.",
+    "year": "2019",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q51",
+    "sourceQuestionNumber": 1,
+    "text": "The correct order of steps in Polymerase Chain Reaction (PCR) is",
+    "options": {
+      "A": "Extension, denaturation, annealing",
+      "B": "Annealing, extension, denaturation",
+      "C": "Denaturation, extension, annealing",
+      "D": "Denaturation, annealing, extension"
+    },
+    "answer": "d",
+    "explanation": "Each cycle of PCR has three steps : (1) Denaturation, (2) Primer annealing, (3) Extension of primers.",
+    "year": "2018",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q52",
+    "sourceQuestionNumber": 1,
+    "text": "The DNA fragments separated on an agarose gel can be visualised after staining with",
+    "options": {
+      "A": "Acetocarmine",
+      "B": "Aniline blue",
+      "C": "Ethidium bromide",
+      "D": "Bromophenol blue"
+    },
+    "answer": "c",
+    "explanation": "Ethidium bromide (Et Br) is used to stain the DNA fragments and will appear as orange coloured bands when kept under UV light.",
+    "year": "2017",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q53",
+    "sourceQuestionNumber": 2,
+    "text": "DNA fragments are",
+    "options": {
+      "A": "Negatively charged",
+      "B": "Neutral",
+      "C": "Either positively or depending on their size",
+      "D": "Positively charged"
+    },
+    "answer": "a",
+    "explanation": "DNA fragments are negatively charged because of presence of phosphate group.",
+    "year": "2017",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q54",
+    "sourceQuestionNumber": 3,
+    "text": "What is the criterion for DNA fragments movement on agarose gel during gel electrophoresis?",
+    "options": {
+      "A": "The smaller the fragment size, the farther it moves.",
+      "B": "Positively charged fragments move to the farther end.",
+      "C": "Negatively charged fragments do not move.",
+      "D": "The larger the fragment size, the farther it moves."
+    },
+    "answer": "a",
+    "explanation": "DNA fragments during gel electrophoresis, separate (resolve) according to their size due to sieving effect provided by agarose gel.",
+    "year": "2017",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q55",
+    "sourceQuestionNumber": 4,
+    "text": "A gene whose expression helps to identify transformed cell is known as",
+    "options": {
+      "A": "Vector",
+      "B": "Plasmid",
+      "C": "Structural gene",
+      "D": "Selectable marker"
+    },
+    "answer": "d",
+    "explanation": "Selectable markers in recombinant DNA technology, helps in identification and elimination of non-transformants and selectively permits the growth of the transformants.",
+    "year": "2017",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q56",
+    "sourceQuestionNumber": 5,
+    "text": "The process of separation mid purification of expressed protein before marketing is called",
+    "options": {
+      "A": "Downstream processing",
+      "B": "Bioprocessing",
+      "C": "Postproduction processing",
+      "D": "Upstream processing"
+    },
+    "answer": "a",
+    "explanation": "The various stages of processing that occur after the completion of fermentation or biosynthetic stage which include separation and purification of product called downstream processing.",
+    "year": "2017",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q57",
+    "sourceQuestionNumber": 1,
+    "text": "Stirred-tank bioreactors have been designed for",
+    "options": {
+      "A": "Purification of product",
+      "B": "Addition of preservatives to the product",
+      "C": "Availability of oxygen throughout the process",
+      "D": "Ensuring anaerobic conditions in the culture vessel"
+    },
+    "answer": "c",
+    "explanation": "A stirred-tank reactor is usually cylindrical or with a curved base to facilitate the mixing of the reactor contents. The stirrer facilitates, even mixing and oxygen availability throughout the bioreactor.",
+    "year": "2016",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/chapters/biotechnology-principle-and-processes/BIOTECHNOLOGY_PRINCIPLE_AND_PROCESSES-2016_B12_Q57-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q58",
+    "sourceQuestionNumber": 2,
+    "text": "A foreign DNA and plasmid cut by the same restriction endonuclease can be joined to form a recombinant plasmid using",
+    "options": {
+      "A": "EcoRl",
+      "B": "Taq polymerase",
+      "C": "Polymerase III",
+      "D": "Ligase"
+    },
+    "answer": "d",
+    "explanation": "Ligase is a class of enzymes that catalyse the formation of covalent bonds using the energy released by the cleavage of ATP. Ligases arc important in the synthesis and repair of many biological molecules, including DNA ligase and used in genetic engineering to insert foreign DNA into cloning vectors.",
+    "year": "2016",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q59",
+    "sourceQuestionNumber": 3,
+    "text": "Which of the following is not a component of downstream processing?",
+    "options": {
+      "A": "Separation",
+      "B": "Purification",
+      "C": "Preservation",
+      "D": "Expression"
+    },
+    "answer": "d",
+    "explanation": "After the formation of the product in bioreactor, it undergoes some processes before a finished product to be ready for marketing. Downstream processing includes separation and purification process. The product obtained is subjected to quality' control, testing and kept in suitable preservatives.",
+    "year": "2016",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q60",
+    "sourceQuestionNumber": 4,
+    "text": "Which of the following restriction enzymes produces blunt ends?",
+    "options": {
+      "A": "Sal I",
+      "B": "Eco RV",
+      "C": "Xho I",
+      "D": "Hind III"
+    },
+    "answer": "b",
+    "explanation": "EcoRV is a type II restriction endonuclease isolated from certain strains of E.coli. It creates blunt ends. It recognises the palindromic sequence of 6 bases. Sal I, Xho I and Hind lll restriction enzymes produce sticky ends.",
+    "year": "2016",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q61",
+    "sourceQuestionNumber": 5,
+    "text": "Which of the following is not a feature of the plasmids?",
+    "options": {
+      "A": "Transferable",
+      "B": "Single-stranded",
+      "C": "Independent replication",
+      "D": "Circular structure"
+    },
+    "answer": "b",
+    "explanation": "Plasmid has an extra chromosomal, double stranded circular DNA.",
+    "year": "2016",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q62",
+    "sourceQuestionNumber": 6,
+    "text": "Which of the following is a restriction endonuclease?",
+    "options": {
+      "A": "DNase I",
+      "B": "RNasc",
+      "C": "Hind ll",
+      "D": "Protease"
+    },
+    "answer": "c",
+    "explanation": "A restriction enzyme or restriction endonuclease is an enzyme that cuts DNA at or near specific recognition nucleotide sequences known as restriction sites. Hind II among these is a type of restriction endonuclease.",
+    "year": "2016",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q63",
+    "sourceQuestionNumber": 7,
+    "text": "Which of the following is not required for any of the techniques of DNA fingerprinting available at present?",
+    "options": {
+      "A": "Restriction enzymes",
+      "B": "DNA-DNA hybridisation",
+      "C": "Polymerase chain reaction",
+      "D": "Zinc finger analysis"
+    },
+    "answer": "d",
+    "explanation": "Any small, functional, freely folded domain in which coordination of one or more zinc ions is required to stabilise its structure is known as zinc finger. The z.inc finger domains are widely dispersed in eukaryotic genomes and are actively involved in sequence specific binding to DNA/RNA and contribute in protein-protein recognitions.",
+    "year": "2016",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q64",
+    "sourceQuestionNumber": 8,
+    "text": "The Taq polymerase enzyme is obtained from",
+    "options": {
+      "A": "Bacillus subtilis",
+      "B": "Pseudomonas putida",
+      "C": "Thermus aquaticus",
+      "D": "Thiobacillus ferroxidans"
+    },
+    "answer": "c",
+    "explanation": "The Taq polymerase enzyme is obtained from Thermus aquaticus which lives in hot springs.",
+    "year": "2016",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q65",
+    "sourceQuestionNumber": 1,
+    "text": "The cutting of DNA at specific locations became possible with the discovery of",
+    "options": {
+      "A": "Probes",
+      "B": "Selectable markers",
+      "C": "Ligases",
+      "D": "Restriction enzymes"
+    },
+    "answer": "d",
+    "explanation": "Restriction enzymes are used to cut DNA at specific locations",
+    "year": "2015",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q66",
+    "sourceQuestionNumber": 2,
+    "text": "The DNA molecule to which the gene of interest is integrated for cloning is called",
+    "options": {
+      "A": "Vector",
+      "B": "Template",
+      "C": "Carrier",
+      "D": "Transformer"
+    },
+    "answer": "a",
+    "explanation": "Vector is a DNA molecule that carries a foreign DNA segment and replicates inside a host cell. The vector DNA and foreign DNA carrying gene of interest are cut by the same restriction endonuclease enzyme to produce complementary sticky ends. With the help of DNA ligase enzyme, the complementary sticky ends of the two DNAs are joined to produce a recombinant DNA (rDNA), which is then introduced into the host cell.",
+    "year": "2015",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q67",
+    "sourceQuestionNumber": 1,
+    "text": "An analysis of chromosomal DNA using the Southern hybridization technique does not use",
+    "options": {
+      "A": "Electrophoresis",
+      "B": "Blotting",
+      "C": "Autoradiography",
+      "D": "PCR"
+    },
+    "answer": "d",
+    "explanation": "PCR is used only for amplification of DNA. It is not directly involved in Southern hybridisation technique.",
+    "year": "2014",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q68",
+    "sourceQuestionNumber": 2,
+    "text": "Commonly used vectors for human genome sequencing are",
+    "options": {
+      "A": "BAC and YAC",
+      "B": "T/A Cloning Vectors",
+      "C": "T- DNA",
+      "D": "Expression Vectors"
+    },
+    "answer": "a",
+    "explanation": "Bacterial artificial chromosome (BAC) vectors are based on natural, extra-chromosomal plasmid of E. coli. BAC vector contains genes for replication and maintenance of the F-factor, a selectable marker and cloning site. These vectors can accommodate upto 300-350 kb of foreign DNA and are also being used in genome sequencing project. Yeast artificial chromosome (YAC) vectors are used to clone DNA fragments of more than 1Mb in size. Therefore, they have been exploited extensively in mapping the large genomes, e.g., in the Human Genome Project. These vectors contain the telomeric sequence, the centromere and the autonomously replicating sequence from yeast chromosomes. Q 45: Which vector can clone only a small fragment of DNA? (NEET 2014 / AIPMT 2014 ) (a) Bacterial artificial chromosome (b) Yeast artificial chromosome (c) Plasmid (d) Cosmid Ans: (c) Plasmids are small extranuclear circular DNAs that carry extrachromosomal genes in bacteria and some fungi. They replicate independently. The best-known vectors which are also available commercially are pBR322 and pUC-18.",
+    "year": "2014",
+    "chapter": "Biotechnology: Principle & Processes",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]
