@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import re
+import ssl
+import urllib.request
 from pathlib import Path
 from typing import Any
 
@@ -15,6 +17,10 @@ def clean(text: str) -> str:
 
 
 def load_html(source: str) -> str:
+    if str(source).startswith(("http://", "https://")):
+        request = urllib.request.Request(source, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(request, timeout=120, context=ssl.create_default_context()) as response:
+            return response.read().decode("utf-8", "replace")
     return Path(source).read_text(encoding="utf-8")
 
 

@@ -1,0 +1,564 @@
+[
+  {
+    "id": "Q1",
+    "text": "Given below are two statements: Statement I: The primary source of energy in an ecosystem is solar energy. Statement II: The rate of production of organic matter photosynthesis in an ecosystem is called net primary productivity (NPP). In the light of the above statements, choose the most appropriate answer from this options given below",
+    "options": {
+      "A": "Statement I is correct but statement II is incorrect",
+      "B": "Statement I is incorrect but statement II is correct",
+      "C": "Both statement I and statement II are correct",
+      "D": "Both statement I and statement II are incorrect"
+    },
+    "answer": "a",
+    "explanation": "Statement I: The primary source of energy in an ecosystem is solar energy. This statement is correct. Solar energy is the primary source of energy for most ecosystems. Producers (like plants) capture this energy and convert it into chemical energy through photosynthesis. Statement II: The rate of production of organic matter during photosynthesis in an ecosystem is called net primary productivity (NPP). This statement is incorrect. The rate of production of organic matter during photosynthesis is termed gross primary productivity (GPP), not NPP.Net primary productivity (NPP) is the energy remaining after subtracting the energy used by producers for their own respiration from the gross primary productivity.Mathematically, NPP = GPP - Respiration (R).",
+    "year": "2025",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Who is known as the father of Ecology in India?",
+    "options": {
+      "A": "Ram Udar",
+      "B": "Birbal Sahni",
+      "C": "S. R. Kashyap",
+      "D": "Ramdeo Misra"
+    },
+    "answer": "d",
+    "explanation": "Ramdeo Misra is revered as the Father of Ecology in India. Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof. W. H. Pearsall, FRS, from Leeds University in UK.He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi.His research laid the foundations for understanding of tropical communities and their succession, environmental responses of plant populations and productivity and nutrient cycling in tropical forest and grassland ecosystems.Due to his efforts, the Government of India established the National Committee for Environmental Planning and Coordination (1972) which, in later years, paved the way for the establishment of the Ministry of Environment and Forests (1984). Other Options: S. R. Kashyap - Known for his work in bryology (study of mosses).Ram Udar - His contributions are mainly in the field of plant sciences.Birbal Sahni - A renowned paleobotanist known for his research on the fossils of the Indian subcontinent. Other Options: Ramdeo Misra is revered as the Father of Ecology in India. Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof. W. H. Pearsall, FRS, from Leeds University in UK.He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi.His research laid the foundations for understanding of tropical communities and their succession, environmental responses of plant populations and productivity and nutrient cycling in tropical forest and grassland ecosystems.Due to his efforts, the Government of India established the National Committee for Environmental Planning and Coordination (1972) which, in later years, paved the way for the establishment of the Ministry of Environment and Forests (1984). S. R. Kashyap - Known for his work in bryology (study of mosses).Ram Udar - His contributions are mainly in the field of plant sciences.Birbal Sahni - A renowned paleobotanist known for his research on the fossils of the Indian subcontinent.",
+    "year": "2025",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Given below are two statements: Statement I: In ecosystem, there is unidirectional flow of energy of sun from producers to consumers. Statement II: Ecosystems are exempted from 2nd law of thermodynamics",
+    "options": {
+      "A": "Statement I is correct but statement II is incorrect",
+      "B": "Statement I is incorrect but statement II is correct",
+      "C": "Both statement I and statement II are correct",
+      "D": "Both statement I and statement II are incorrect"
+    },
+    "answer": "a",
+    "explanation": "Statement I (Correct): Energy flow in an ecosystem is unidirectional. It originates from the sun, is captured by producers (plants) during photosynthesis, and then moves to consumers (herbivores, carnivores, and omnivores) and decomposers.Producers convert solar energy into chemical energy (e.g., glucose), which is then transferred to consumers when they eat plants or other consumers. Decomposers break down dead matter, releasing nutrients back into the environment but do not reverse the flow of energy.This unidirectional flow ensures energy is consistently passed through trophic levels but is never recycled back to the sun, adhering to the principle of energy flow in ecosystems. Statement II (Incorrect): The Second Law of Thermodynamics applies to ecosystems. This law states that energy transformations lead to an increase in entropy (disorder), and some energy is always lost as heat during these processes.Ecosystems are not exempt from the Second Law of thermodynamics. They need a constant supply of energy to synthesise the molecules they require, to counteract the universal tendency toward increasing disorderliness.For example, when energy moves through trophic levels, a significant portion is lost as heat during respiration or metabolic activities. Only about 10% of the energy is transferred to the next trophic level, following the \"10% law.\"",
+    "year": "2025",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Which of the following is the unit of productivity of an Ecosystem?",
+    "options": {
+      "A": "K Cal m-3",
+      "B": "(KCalm-2) yr-1",
+      "C": "gm-2",
+      "D": "KCalm-2"
+    },
+    "answer": "b",
+    "explanation": "Productivity The amount of biomass or organic matter produced per unit area over a time period by plants, by the process of photosynthesis is called primary production.It is expressed in units of weight (g per m2) or energy (Kcal per m2).The rate of biomass production is called productivity and it is expressed as g m-2 yr-1 or (Kcal m-2) yr-1. Primary productivity is further divided into two categories: Gross Primary Productivity (GPP): The rate of production of organic matter during photosynthesis is called gross primary productivity. A large amount of GPP is lost by plants during respiration.Net Primary Productivity (NPP):It is defined as the difference between gross primary productivity and the respiration losses (R) by plants.NPP = GPP - R;It is the measure of net available biomass for heterotrophs (herbivores and decomposers).Since net primary productivity is obtained after subtracting respiration losses from gross primary productivity; it is always less than gross primary productivity.",
+    "year": "2025",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "In an ecosystem if the Net Primary Productivity (NPP) of first trophic level is what would be the GPP (Gross Primary Productivity) of the third trophic level of the same ecosystem?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "NPP at first trophic level would be the GPP for second trophic level. NPP at second trophic level would be GPP for third trophic level. Therefore, 100x (kcal/m2 /yr) would be GPP at second trophic level and 100x × 10% (kcal/m2 /yr) i.e., 10x (kcal/m2 /yr) energy would be GPP at third trophic level.",
+    "year": "2024",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/B12/chapters/ecosystem/ECOSYSTEM-2024_B12_Q5-explanation1.png",
+      "BIOLOGY/B12/chapters/ecosystem/ECOSYSTEM-2024_B12_Q5-explanation2.png",
+      "BIOLOGY/B12/chapters/ecosystem/ECOSYSTEM-2024_B12_Q5-explanation3.png",
+      "BIOLOGY/B12/chapters/ecosystem/ECOSYSTEM-2024_B12_Q5-explanation4.png",
+      "BIOLOGY/B12/chapters/ecosystem/ECOSYSTEM-2024_B12_Q5-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-I, B-II, C-III, D-IV",
+      "B": "A-III, B-IV, C-II, D-I",
+      "C": "A-III, B-II, C-IV, D-I",
+      "D": "A-II, B-III, C-IV, D-I"
+    },
+    "answer": "d",
+    "explanation": "A. Tertiary consumer: A tertiary consumer is typically a predator that is at the top of the food chain. Lions (II) are apex predators, meaning they are tertiary consumers in the food web.B. Secondary consumer: A secondary consumer is an organism that eats primary consumers (herbivores). Wolves (III) are secondary consumers because they prey on primary consumers like deer and other herbivores.C. Primary consumer: A primary consumer is an herbivore that feeds on plants. Goats (IV) are primary consumers, as they feed on grasses and other plants.D. Primary producer: A primary producer is an organism that makes its own food through photosynthesis, such as grass (I), which is at the base of the food chain. Thus, the correct matching is A-II, B-III, C-IV, D-I.",
+    "year": "2024",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/B12/chapters/ecosystem/ECOSYSTEM-2024_B12_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Given below are two statements: Statement I: The rate of decomposition is not related to the chemical composition of detritus and climatic factors. Statement II: In a particular climatic condition, decomposition rate is faster if detritus is rich in lignin and chitin. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are True",
+      "B": "Both Statement I and Statement II are False",
+      "C": "Statement I is True but Statement II is False",
+      "D": "Statement I is False but Statement II is True"
+    },
+    "answer": "b",
+    "explanation": "Statement I: The rate of decomposition is indeed related to both the chemical composition of detritus (e.g., the presence of lignin, cellulose, and other compounds) and climatic factors (e.g., temperature, moisture, and humidity). So, Statement I is false because it incorrectly states that the rate of decomposition is not related to these factors. Statement II: In fact, lignin and chitin are compounds that are known to be more resistant to decomposition, meaning that when detritus is rich in these substances, the decomposition rate is typically slower, not faster. Thus, Statement II is false. Therefore, both statements are incorrect.",
+    "year": "2024",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "What is incorrect about an ecosystem?",
+    "options": {
+      "A": "It can vary from a small-sized pond to a large-sized sea",
+      "B": "It may be anthropogenic in origin",
+      "C": "It may be temporary or permanent",
+      "D": "It involves the function of the flow of energy but not the recycling of nutrients"
+    },
+    "answer": "d",
+    "explanation": "An ecosystem includes both the flow of energy and the cycling of nutrients. Energy flows through the ecosystem in one direction (from producers to consumers and decomposers), but nutrients such as carbon, nitrogen, and water are recycled within the ecosystem. Nutrient cycling is a crucial component of ecosystem function, alongside energy flow. The other statements are correct: Statement 1: Ecosystems can indeed vary in size, from small environments like a pond to large ecosystems like the sea.Statement 2: Ecosystems can be anthropogenic (human-made), such as urban environments or agricultural landscapes.Statement 3: Ecosystems can be temporary (such as a temporary pond or a seasonal wetland) or permanent (like forests or oceans). Thus, Statement 4 is incorrect because ecosystems involve both the flow of energy and the recycling of nutrients.",
+    "year": "2024",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Consider the pyramid of energy of an ecosystem given below : If T4T4 is equivalent to 1000 J,1000J, what is the value of T1?",
+    "options": {
+      "A": "1000/10 J",
+      "B": "1000/10 x 4 J",
+      "C": "10,000 J",
+      "D": "10, 00, 000 J"
+    },
+    "answer": "d",
+    "explanation": "In a pyramid of energy, the energy decreases as you move up the trophic levels. The amount of energy decreases typically by a factor of 10 for each successive level. If T₄ = 1000 J, then: T₃ = 1000 × 10 = 10,000 JT₂ = 10,000 × 10 = 100,000 JT₁ = 100,000 × 10 = 1,000,000 J (or 10,00,000 J) Thus, the value of T₁ is 10,00,000 J, which matches with option (d).",
+    "year": "2024",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/B12/chapters/ecosystem/ECOSYSTEM-2024_B12_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Which one of the following is not a limitation of ecological pyramids?",
+    "options": {
+      "A": "Saprophytes are not given any place in ecological pyramids",
+      "B": "It assumes a simple food chain that almost never exists in nature",
+      "C": "It accommodates a food web",
+      "D": "It does not take into account the same species belonging to two or more trophic levels"
+    },
+    "answer": "c",
+    "explanation": "Ecological pyramids are a graphical representation of the trophic structure in an ecosystem. The limitations of ecological pyramids are as follows: (a) Saprophytes are not given any place in ecological pyramids: This is true. Ecological pyramids do not account for decomposers (saprophytes), who play an essential role in nutrient cycling.(b) It assumes a simple food chain that almost never exists in nature: This is also true. Ecological pyramids typically represent a simple food chain, while in reality, ecosystems have complex food webs.(c) It accommodates a food web: This is incorrect. Ecological pyramids typically represent simple food chains, not food webs. A food web consists of multiple interconnected food chains, and ecological pyramids don't directly accommodate this complexity.(d) It does not take into account the same species belonging to two or more trophic levels: This is true. In nature, some species can occupy different trophic levels, but ecological pyramids do not account for this overlap. Thus, (c) is the correct answer, as ecological pyramids do not accommodate a food web directly.",
+    "year": "2024",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Identify the correct statements: A. Detrivores perform fragmentation. B. The humus is further degraded by some microbes during mineralization. C. Water soluble inorganic nutrients go down into the soil and get precipitated by a process called leaching. D. The detritus food chain begins with living organisms. E. Earthworms break down detritus into smaller particles by a process called catabolism",
+    "options": {
+      "A": "B, C, D only",
+      "B": "C, D, E only",
+      "C": "D, E, A only",
+      "D": "A, B, C only"
+    },
+    "answer": "d",
+    "explanation": "Let's evaluate each statement: A. Detrivores perform fragmentation. This statement is true. Detrivores, such as earthworms and beetles, break down detritus (dead organic material) into smaller pieces in a process called fragmentation. B. The humus is further degraded by some microbes during mineralization. This statement is true. Microbes, including bacteria and fungi, break down humus into inorganic nutrients in a process called mineralization. C. Water-soluble inorganic nutrients go down into the soil and get precipitated by a process called leaching. This statement is true. Leaching refers to the process where nutrients are washed away from the soil into lower layers or into bodies of water. D. The detritus food chain begins with living organisms. This statement is false. The detritus food chain begins with dead organic material or detritus, not living organisms. E. Earthworms break down detritus into smaller particles by a process called catabolism. This statement is false. The process by which earthworms break down detritus into smaller particles is called fragmentation, not catabolism. Catabolism refers to the breakdown of complex molecules in living organisms to form simpler ones, along with the release of energy. Therefore, the correct answer is: Option D: A, B, C only.",
+    "year": "2023",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "In the equation GPP - R= NPP GPP is Gross Primary Productivity NPP is Net Primary Productivity R here is ________",
+    "options": {
+      "A": "Photosynthetically active radiation",
+      "B": "Respiratory quotient",
+      "C": "Respiratory loss",
+      "D": "Reproductive allocation"
+    },
+    "answer": "c",
+    "explanation": "In the equation GPP - R = NPP, GPP stands for Gross Primary Productivity, NPP stands for Net Primary Productivity, and R represents the energy used by plants for their own metabolic processes, which is also known as Respiratory loss.",
+    "year": "2023",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Given below are two statements: Statement I: Decomposition is a process in which the detritus is degraded into simpler substances by microbes. Statement II: Decomposition is faster if the detritus is rich in lignin and chitin",
+    "options": {
+      "A": "Both Statement I and Statement II are incorrect",
+      "B": "Statement I is correct but Statement II is incorrect",
+      "C": "Statement I is incorrect but Statement II is correct",
+      "D": "Both Statement I and Statement II are correct"
+    },
+    "answer": "b",
+    "explanation": "Decomposition is the process by which decomposers breakdown complex organic matter into inorganic substances.The rate of decomposition is controlled by chemical composition of detritus and climatic factors. Decomposition is slower if detritus is rich in lignin and chitin and quicker, if detritus is rich in nitrogen and water soluble substances like sugars.",
+    "year": "2022",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Detritivores break down detritus into smaller particles. This process is called",
+    "options": {
+      "A": "Fragmentation",
+      "B": "Humification",
+      "C": "Decomposition",
+      "D": "Catabolism"
+    },
+    "answer": "a",
+    "explanation": "(Detritivores break down detritus into smaller particles) e.g. earthworm. This process is called fragmentation.",
+    "year": "2022",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The amount of biomass or organic matter produced per unit area over a time period by plants during photosynthesis is called",
+    "options": {
+      "A": "Net primary production",
+      "B": "Secondary production",
+      "C": "Primary production",
+      "D": "Gross primary production"
+    },
+    "answer": "c",
+    "explanation": "Productivity is the total amount of biomass or organic matter produced per unit area. Over a period of time by plants. This is also called Primary production.Productivity of consumer is called Secondary production.",
+    "year": "2022",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The amount of nutrients, such as carbon, nitrogen, phosphorus, calcium, etc. present in the soil at any given time, is referred to as the",
+    "options": {
+      "A": "Nutrient status of soil",
+      "B": "Standing state",
+      "C": "Standing crop",
+      "D": "Mineral state."
+    },
+    "answer": "b",
+    "explanation": "Amount of all the inorganic substances or nutrients, such as carbon, nitrogen, phosphorus and calcium present in soil at any given time, is referred as standing state.Amount of living material present in different trophic levels at a given time, is referred standing crop.Climax community is the last community in biotic succession which is relatively stable and is in near equilibrium with the environment of that area.",
+    "year": "2021",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "In the equation GPP - R = NPP (2021) R represents",
+    "options": {
+      "A": "Environment factor",
+      "B": "Respiration losses",
+      "C": "Radiant energy",
+      "D": "Retardation factor"
+    },
+    "answer": "b",
+    "explanation": "In the equation, GPP - R = NPP R refers to respiratory loss GPP is gross primary productivity NPP is net primary productivity",
+    "year": "2021",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Which of the following statements is not correct? (2021)",
+    "options": {
+      "A": "Pyramid of energy is always upright.",
+      "B": "Pyramid of numbers in a grassland ecosystem is upright.",
+      "C": "Pyramid of biomass in sea is generally inverted.",
+      "D": "Pyramid of biomass in sea is generally upright."
+    },
+    "answer": "d",
+    "explanation": "Pyramid of biomass in a sea is generally inverted because the primary producers (phytoplanktons) have a lower biomass than that of succeeding zooplanktons, which further have a lower biomass than that of succeeding small fishes and so on.Pyramid of energy is the only pyramid that can never be inverted and is always upright. This is because some amount of energy in the form of heat is always lost to the environment at every trophic level of the food chain.In a grassland ecosystem, the number of producers is always maximum, followed by reducing number of organisms at second trophic level, third trophic level and other higher level (if present). Thus, the pyramid of number in grassland is upright.",
+    "year": "2021",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "In relation to Gross primary productivity and Net primary productivity of an ecosystem. Which one of the following statements is correct?",
+    "options": {
+      "A": "Gross primary productivity and Net primary productivity are one and same.",
+      "B": "There is no relationship between Gross primary productivity and Net primary productivity",
+      "C": "Gross primary productivity is always less than Net primary productivity.",
+      "D": "Gross primary productivity is always more than Net primary productivity."
+    },
+    "answer": "d",
+    "explanation": "Gross primary productivity of an ecosystem is the rate of production of organic matter during photosynthesis. Net primary productivity is GPP-respiration. Hence, gross primary productivity is always more than NPP.",
+    "year": "2020",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Match the trophic levels with their correct species examples in grassland ecosystem",
+    "options": {
+      "A": "(A) → (iv), (B) → (iii), (C) → (ii), (D) → (i)",
+      "B": "(A) → (ii), (B) → (iii), (C) → (iv), (D) → (i)",
+      "C": "(A) → (i), (B) → (ii), (C) → (iii), (D) → (iv)",
+      "D": "(A) → (iii), (B) → (ii), (C) → (i), (D) → (iv)"
+    },
+    "answer": "b",
+    "explanation": "Grassland ecosystem is a terrestrial ecosystem. It includes various trophic levels. First trophic level (T1) - Grass Second trophic level (T2) - Rabbit Third trophic level (T3) - Crow Fourth trophic level (T4) - Vulture.",
+    "year": "2020",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "What type of ecological pyramid would be obtained with the following data? Secondary consumer : 120 g Primary consumer : 60 g Primary producer : 10 g",
+    "options": {
+      "A": "Inverted pyramid of biomass",
+      "B": "Pyramid of energy",
+      "C": "Upright pyramid of numbers",
+      "D": "Upright pyramid of biomass"
+    },
+    "answer": "a",
+    "explanation": "The given data depicts the inverted pyramid of biomass, usually present in aquatic ecosystem. Upright pyramid of biomass and numbers are not possible, as the data depicts primary producer is less than primary consumer and this is less than secondary consumers. Pyramid of energy is always upright.",
+    "year": "2018",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which ecosystem has the maximum biomass? (2017)",
+    "options": {
+      "A": "Grassland ecosystem",
+      "B": "Pond ecosystem",
+      "C": "Lake ecosystem",
+      "D": "Forest ecosystem"
+    },
+    "answer": "d",
+    "explanation": "Forest ecosystem has the maximum biomass. Some very high productive ecosystem are - Tropical rain forest - Coral reef - Estuaries - Sugarcane fields",
+    "year": "2017",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The term ecosystem was coined by",
+    "options": {
+      "A": "E. Haeckel",
+      "B": "E.Warming",
+      "C": "E.P. Odum",
+      "D": "A.G. Tansley"
+    },
+    "answer": "",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Ecosystem",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

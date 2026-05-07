@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 350" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1121" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="glowBlue" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#3B82F6" flood-opacity="0.5"/>
+    </filter>
+    <filter id="glowGreen" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#10B981" flood-opacity="0.5"/>
+    </filter>
+    <filter id="glowOrange" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#F59E0B" flood-opacity="0.5"/>
+    </filter>
+    <filter id="glowPurple" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#8B5CF6" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="350" fill="url(#bg)" rx="16" stroke="#334155" stroke-width="2"/>
+
+  <!-- Animated Background Pulse -->
+  <circle cx="500" cy="175" r="400" fill="none" stroke="#3B82F6" stroke-width="1" opacity="0.1">
+    <animate attributeName="r" values="300;400;300" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.05;0.1;0.05" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Connecting Lines -->
+  <!-- Box width is 210. 
+       Box 1: x=30, center=135. Right=240.
+       Box 2: x=270, center=375. Left=270, Right=480.
+       Box 3: x=510, center=615. Left=510, Right=720.
+       Box 4: x=750, center=855. Left=750.
+  -->
+  <path d="M 240 140 L 270 140" fill="none" stroke="#3B82F6" stroke-width="4" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="36" to="0" dur="1s" repeatCount="indefinite" />
+  </path>
+  <polygon points="264,134 272,140 264,146" fill="#3B82F6" />
+  
+  <path d="M 480 140 L 510 140" fill="none" stroke="#10B981" stroke-width="4" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="36" to="0" dur="1s" repeatCount="indefinite" />
+  </path>
+  <polygon points="504,134 512,140 504,146" fill="#10B981" />
+
+  <path d="M 720 140 L 750 140" fill="none" stroke="#F59E0B" stroke-width="4" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="36" to="0" dur="1s" repeatCount="indefinite" />
+  </path>
+  <polygon points="744,134 752,140 744,146" fill="#F59E0B" />
+
+  <!-- Data Binding Loop -->
+  <path d="M 375 220 L 375 280 L 855 280 L 855 220" fill="none" stroke="#60A5FA" stroke-width="3" stroke-dasharray="12 12" stroke-opacity="0.6">
+    <animate attributeName="stroke-dashoffset" from="48" to="0" dur="2s" repeatCount="indefinite" />
+  </path>
+  <polygon points="849,222 855,212 861,222" fill="#60A5FA" />
+  <text x="615" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94A3B8" font-weight="700" text-anchor="middle" letter-spacing="1">Data Binding via build-data.js</text>
+
+  <!-- 1. Scraper Core -->
+  <g transform="translate(30, 70)" filter="url(#shadow)">
+    <rect width="210" height="150" fill="#0F172A" stroke="#3B82F6" stroke-width="2" rx="16" />
+    <rect x="0" y="0" width="210" height="8" fill="#3B82F6" rx="4" />
+    
+    <g transform="translate(85, 20)">
+      <circle cx="20" cy="20" r="24" fill="#3B82F6" fill-opacity="0.1" filter="url(#glowBlue)">
+        <animate attributeName="r" values="22;26;22" dur="3s" repeatCount="indefinite" />
+      </circle>
+      <path d="M 10 20 L 20 30 L 30 20" fill="none" stroke="#60A5FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <animateTransform attributeName="transform" type="translate" values="0,-2; 0,2; 0,-2" dur="2s" repeatCount="indefinite" />
+      </path>
+      <path d="M 10 30 L 20 40 L 30 30" fill="none" stroke="#60A5FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <animateTransform attributeName="transform" type="translate" values="0,-2; 0,2; 0,-2" dur="2s" repeatCount="indefinite" />
+      </path>
+    </g>
+    
+    <text x="105" y="88" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="18" fill="#F8FAFC" text-anchor="middle">Scraper Core</text>
+    <text x="105" y="110" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">Node.js + Cheerio</text>
+    <text x="105" y="130" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">Multi-Subject Runs</text>
+  </g>
+
+  <!-- 2. Data Store -->
+  <g transform="translate(270, 70)" filter="url(#shadow)">
+    <rect width="210" height="150" fill="#0F172A" stroke="#10B981" stroke-width="2" rx="16" />
+    <rect x="0" y="0" width="210" height="8" fill="#10B981" rx="4" />
+    
+    <g transform="translate(85, 20)">
+      <circle cx="20" cy="20" r="24" fill="#10B981" fill-opacity="0.1" filter="url(#glowGreen)">
+        <animate attributeName="r" values="22;26;22" dur="3s" begin="0.5s" repeatCount="indefinite" />
+      </circle>
+      <ellipse cx="20" cy="14" rx="14" ry="5" fill="none" stroke="#34D399" stroke-width="3"/>
+      <path d="M 6 14 v 14 a 14 5 0 0 0 28 0 v -14" fill="none" stroke="#34D399" stroke-width="3"/>
+    </g>
+    
+    <text x="105" y="88" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="18" fill="#F8FAFC" text-anchor="middle">Data Store</text>
+    <text x="105" y="110" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">Raw JSON output</text>
+    <text x="105" y="130" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">Deterministic Paths</text>
+  </g>
+
+  <!-- 3. Audit System -->
+  <g transform="translate(510, 70)" filter="url(#shadow)">
+    <rect width="210" height="150" fill="#0F172A" stroke="#F59E0B" stroke-width="2" rx="16" />
+    <rect x="0" y="0" width="210" height="8" fill="#F59E0B" rx="4" />
+    
+    <g transform="translate(85, 20)">
+      <circle cx="20" cy="20" r="24" fill="#F59E0B" fill-opacity="0.1" filter="url(#glowOrange)">
+        <animate attributeName="r" values="22;26;22" dur="3s" begin="1s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="16" cy="16" r="10" fill="none" stroke="#FBBF24" stroke-width="3"/>
+      <path d="M 24 24 L 34 34" fill="none" stroke="#FBBF24" stroke-width="3" stroke-linecap="round">
+         <animateTransform attributeName="transform" type="translate" values="0,0; -2,-2; 0,0" dur="2s" repeatCount="indefinite" />
+      </path>
+    </g>
+    
+    <text x="105" y="88" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="18" fill="#F8FAFC" text-anchor="middle">Audit System</text>
+    <text x="105" y="110" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">Python Subsystem</text>
+    <text x="105" y="130" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">Semantic Scoring</text>
+  </g>
+
+  <!-- 4. Dashboard -->
+  <g transform="translate(750, 70)" filter="url(#shadow)">
+    <rect width="210" height="150" fill="#0F172A" stroke="#8B5CF6" stroke-width="2" rx="16" />
+    <rect x="0" y="0" width="210" height="8" fill="#8B5CF6" rx="4" />
+    
+    <g transform="translate(85, 20)">
+      <circle cx="20" cy="20" r="24" fill="#8B5CF6" fill-opacity="0.1" filter="url(#glowPurple)">
+        <animate attributeName="r" values="22;26;22" dur="3s" begin="1.5s" repeatCount="indefinite" />
+      </circle>
+      <rect x="10" y="10" width="20" height="20" fill="none" stroke="#A78BFA" stroke-width="2.5" rx="3"/>
+      <path d="M 10 17 h 20" fill="none" stroke="#A78BFA" stroke-width="2.5">
+        <animate attributeName="stroke-dasharray" values="0,20; 20,0" dur="2s" repeatCount="indefinite" />
+      </path>
+    </g>
+    
+    <text x="105" y="88" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="18" fill="#F8FAFC" text-anchor="middle">Vite UI</text>
+    <text x="105" y="110" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">Static App</text>
+    <text x="105" y="130" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">Local QA Tooling</text>
+  </g>
+
+</svg>

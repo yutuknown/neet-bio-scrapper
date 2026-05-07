@@ -1,0 +1,730 @@
+[
+  {
+    "id": "Q1",
+    "text": "A parallel plate capacitor made of circular plates is being charged such that the surface charge density on its plates is increasing at a constant rate with time. The magnetic field arising due to displacement current is: [2025]",
+    "options": {
+      "A": "non-zero everywhere with maximum at the imaginary cylindrical surface connecting peripheries of the plates",
+      "B": "zero between the plates and non-zero outside",
+      "C": "zero at all places",
+      "D": "constant between the plates and zero outside the plates"
+    },
+    "answer": "a",
+    "explanation": "Let the surface charge density be σ = q / A Given dq/dt = constant ⇒ d/dt (q / A) = constant ⇒ (1 / A) × dq/dt = constant It means displacement current is constant. This system will act like a cylindrical wire. The graph of magnetic field (B) vs radius (r) is:",
+    "year": "2025",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2025_P12_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "The electric field in a plane electromagnetic wave is given by Ez = 60 cos (5x + 1.5 × 109t) V/m. Then expression for the corresponding magnetic field is (here subscripts denote the direction of the field): [2025]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "In electromagnetic wave, E and B are in same phase and their planes are perpendicular to each other. ​",
+    "year": "2025",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2025_P12_Q2-explanation1.jpg",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2025_P12_Q2-explanation2.jpg",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2025_P12_Q2-explanation3.jpg",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2025_P12_Q2-explanation4.jpg",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2025_P12_Q2-explanation5.jpg",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2025_P12_Q2-explanation6.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A parallel plate capacitor is charged by connecting it to a battery through a resistor. If I is the current in the circuit, then in the gap between the plates: [2024]",
+    "options": {
+      "A": "There is no current",
+      "B": "Displacement current of magnitude equal to I flows in the same direction as I",
+      "C": "Displacement current of magnitude equal to I flows in a direction opposite to that of I",
+      "D": "Displacement current of magnitude greater than I flows but can be in any direction"
+    },
+    "answer": "b",
+    "explanation": "According to modified Ampere's law",
+    "year": "2024",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q3-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q3-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The property which is not of an electromagnetic wave travelling in free space is that: [2024]",
+    "options": {
+      "A": "They are transverse in nature",
+      "B": "The energy density in electric field is equal to energy density in magnetic field",
+      "C": "They travel with a speed equal to 1 / √μ0ε0",
+      "D": "They originate from charges moving with uniform speed"
+    },
+    "answer": "d",
+    "explanation": "Electromagnetic waves have several defining characteristics when they propagate through free space. Let's evaluate each of the options provided: Option A: They are transverse in nature. This is true. Electromagnetic waves are transverse waves, meaning the directions of the electric field and magnetic field oscillations are perpendicular to the direction of wave propagation. The electric field (E) and magnetic field (B) vectors are also perpendicular to each other and to the direction of propagation. Option B: The energy density in the electric field is equal to the energy density in the magnetic field. This is also true. In electromagnetic waves, the energy density stored in the electric field is equal to the energy density stored in the magnetic field. This is because the magnitudes of the electric and magnetic fields are related by C = E / B where c is the speed of light in vacuum. The energy density for each is given by for the electric field and for the magnetic field. Given the relationship between E and B in a wave, these two energy densities are equal. Option C: They travel with a speed equal to 1 / √μ0ε0. This statement is true. The speed of electromagnetic waves in vacuum is given by c = 1 / √μ0ε0, where μ0 is the magnetic permeability of free space and ε0 is the electric permittivity of free space. This relationship derives from Maxwell's equations in a vacuum. Option D: They originate from charges moving with uniform speed. This statement is false. Electromagnetic waves are not generally produced by charges moving with a uniform speed; rather, they are produced by charges that are accelerating. Uniform motion (where velocity is constant and acceleration is zero) does not result in radiation of electromagnetic waves. If a charge is accelerating - changing either the speed or direction of its motion - it emits electromagnetic radiation. Therefore, the correct answer is Option D, as it is the property that is not true for electromagnetic waves traveling in free space.",
+    "year": "2024",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q4-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q4-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "If represent the electric field vector and magnetic field vector, respectively, in an electromagnetic wave then the direction of EM wave is along: [2024]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "In an electromagnetic (EM) wave, the electric field vector (E) and the magnetic field vector (B) are perpendicular to each other and to the direction of propagation of the wave. The direction of the electromagnetic wave is along E × B (the cross product of the electric field vector and the magnetic field vector). E and B are both perpendicular to each other in an EM wave.The direction of wave propagation is perpendicular to both E and B.The direction of propagation is given by the cross product .Using the right-hand rule:Point your fingers in the direction of E.Curl your fingers towards B.Your thumb points in the direction of wave propagation. Thus, the direction of the EM wave is along . Final Answer: (c) .",
+    "year": "2024",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q5-main.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q5-main2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q5-main3.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q5-main4.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q5-main5.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q5-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q5-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q5-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Match List-I with List-II (the symbols carry their usual meaning). [2024]",
+    "options": {
+      "A": "A-III, B-IV, C-II, D-I",
+      "B": "A-IV, B-III, C-II, D-I",
+      "C": "A-III, B-II, C-IV, D-I",
+      "D": "A-IV, B-I, C-III, D-II"
+    },
+    "answer": "a",
+    "explanation": "List-I: A. ∮ E · dA = Q / ε₀ This is the Gauss's law of electrostatics, which states that the electric flux through a closed surface is proportional to the charge enclosed within the surface. This corresponds to III. Gauss's law of electrostatics. B. ∮ B · dA = 0 This is a statement of Gauss's law of magnetism, which states that there are no magnetic monopoles, meaning the net magnetic flux through any closed surface is zero. This corresponds to IV. Gauss's law of magnetism. C. ∮ E · dl = -d(φ) / dt This is Faraday's law of induction, which describes how a time-varying magnetic field induces an electric field. This corresponds to II. Faraday's law. D. ∮ B · dl = μ₀ic + μ₀ε₀ d(φE) / dt This is the Ampere-Maxwell law, which includes both the magnetic field generated by electric currents and the time-varying electric field. This corresponds to I. Ampere-Maxwell's law. Final matching: A matches with III (Gauss's law of electrostatics).B matches with IV (Gauss's law of magnetism).C matches with II (Faraday's law).D matches with I (Ampere-Maxwell's law).",
+    "year": "2024",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2024_P12_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Among the various types of electromagnetic radiation, the one with the smallest wavelength is: [2024]",
+    "options": {
+      "A": "X-rays",
+      "B": "Gamma rays",
+      "C": "Ultraviolet rays",
+      "D": "Microwaves"
+    },
+    "answer": "b",
+    "explanation": "Among the various types of electromagnetic radiation, the one with the smallest wavelength is Gamma rays. Gamma rays have the shortest wavelengths in the electromagnetic spectrum, typically less than 0.01 nanometers.X-rays have slightly longer wavelengths than gamma rays, typically ranging from 0.01 to 10 nanometers.Ultraviolet rays have longer wavelengths than X-rays, ranging from about 10 to 400 nanometers.Microwaves have even longer wavelengths, ranging from about 1 millimeter to 30 centimeters. Since gamma rays have the smallest wavelength, the correct answer is (b) Gamma rays.",
+    "year": "2024",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "If the ratio of relative permeability and relative permittivity of a uniform medium is 1 : 4. The ratio of the magnitudes of electric field intensity (E) to the magnetic field intensity (H) of an EM wave propagating in that medium is: [2024] (Given that √μ0 /ε0 = 120 π)",
+    "options": {
+      "A": "30 π : 1",
+      "B": "1 : 120",
+      "C": "60 π : 1",
+      "D": "120 π : 1"
+    },
+    "answer": "c",
+    "explanation": "In a medium, the relationship between the magnitudes of the electric field (E) and the magnetic field (H) for an EM wave is given by: E / H = √(μ / ε) Where: μ = μr μ₀ (μr is the relative permeability and μ₀ is the permeability of free space),ε = εr ε₀ (εr is the relative permittivity and ε₀ is the permittivity of free space). We are given that the ratio of relative permeability to relative permittivity is 1:4, so: μr / εr = 1 / 4 Thus: μ / ε = (μr μ₀) / (εr ε₀) = (μr / εr) × (μ₀ / ε₀) = (1 / 4) × (μ₀ / ε₀) Now, we use the given value of √(μ₀ / ε₀) = 120π. Thus: μ / ε = (1 / 4) × (120π)² Now calculate: μ / ε = (1 / 4) × (120π)² = (1 / 4) × 14400π² = 3600π² Step 3: Find the ratio of E to H Now substitute the value of μ / ε into the equation for the ratio of the electric field to the magnetic field: E / H = √(μ / ε) = √(3600π²) = 60π Final Answer: (c) 60π : 1",
+    "year": "2024",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "In a plane electromagnetic wave traveling in free space, the electric field component oscillates sinusoidally at a frequency of 2.0 × 1010 Hz and amplitude of 48 V m-1. Then the amplitude of the oscillating magnetic field is (Speed of light in free space = 3 × 108 m s-1) [2023]",
+    "options": {
+      "A": "1.6 × 10-9 T",
+      "B": "1.6 × 10-8 T",
+      "C": "1.6 × 10-7 T",
+      "D": "1.6 × 10-6 T"
+    },
+    "answer": "c",
+    "explanation": "From the properties of electromagnetic wave we know that, E0 ⇒ Amplitude of oscillating electric field B0 ⇒ Amplitude of oscillating magnetic field",
+    "year": "2023",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2023_P12_Q9-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2023_P12_Q9-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "ε0 and μ0 are the electric permittivity and magnetic permeability of free space respectively. If the corresponding quantities of a medium are 2ε0 and 1.5 μ0 respectively, the refractive index of the medium will nearly be: [2023]",
+    "options": {
+      "A": "√2",
+      "B": "√3",
+      "C": "3",
+      "D": "2"
+    },
+    "answer": "b",
+    "explanation": "The refractive index (n) of a medium is related to the permittivity (ε) and permeability (μ) of the medium by the formula: n = √(μ / μ₀) × √(ε / ε₀) Where: μ₀ and ε₀ are the permeability and permittivity of free space, respectively,μ and ε are the permeability and permittivity of the medium, respectively. Step 2: Substitute the given values We are told that: The permittivity of the medium is 2ε₀,The permeability of the medium is 1.5μ₀. Now substitute these values into the refractive index formula: n = √(1.5μ₀ / μ₀) × √(2ε₀ / ε₀) Simplify: n = √(1.5) × √(2) Step 3: Calculate the refractive index Now calculate the values: n = √1.5 × √2 = √(1.5 × 2) = √3 Final Answer: (b) √3.",
+    "year": "2023",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "To produce an instantaneous displacement current of 2 mA in the space between the parallel plates of a capacitor of capacitance 4 μF, the rate of change of applied variable potential difference (dV/dt) must be: [2023]",
+    "options": {
+      "A": "800 V/s",
+      "B": "500 V/s",
+      "C": "200 V/s",
+      "D": "400 V/s"
+    },
+    "answer": "b",
+    "explanation": "We are given: Instantaneous displacement current = 2 mA = 2 × 10⁻³ A,Capacitance of the capacitor = 4 μF = 4 × 10⁻⁶ F. The displacement current (Id) in a capacitor is related to the rate of change of the potential difference (dV/dt) by the formula: Id = C × (dV/dt) Where:Id is the displacement current,C is the capacitance,(dV/dt) is the rate of change of the applied potential difference. Rearranging the equation to solve for (dV/dt): (dV/dt) = Id / C Substitute the given values: (dV/dt) = (2 × 10⁻³) / (4 × 10⁻⁶) = 500 V/s Final Answer: (b) 500 V/s.",
+    "year": "2023",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The magnetic field of a plane electromagnetic wave is given by , then the associated electric field will be",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q12-main.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q12-main2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q12-main3.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q12-main4.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q12-main5.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q12-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q12-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The ratio of the magnitude of the magnetic field and electric field intensity of a plane electromagnetic wave in free space of permeability μ0 and permittivity ε0 is (Given that c - velocity) of light in free space",
+    "options": {
+      "A": "[diagram]",
+      "B": "C",
+      "C": "1/c",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "We know,",
+    "year": "2022",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q13-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q13-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q13-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)",
+      "B": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "C": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+      "D": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)"
+    },
+    "answer": "c",
+    "explanation": "WavesWavelengthAM radio waves102 mMicrowaves10-2 mInfrared radiations10-4 mX-rays10-10 m (a) - (ii) (b) - (iii) (c) - (iv) (d) - (i)",
+    "year": "2022",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q14-main.png"
+    ],
+    "tables": [
+      [
+        [
+          "Waves",
+          "Wavelength"
+        ],
+        [
+          "AM radio waves",
+          "102 m"
+        ],
+        [
+          "Microwaves",
+          "10-2 m"
+        ],
+        [
+          "Infrared radiations",
+          "10-4 m"
+        ],
+        [
+          "X-rays",
+          "10-10 m"
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "When light propagates through a material medium of relative permittivity εr and relative permeability εr, the velocity of light μr, v is given by (c-velocity of light in vacuum)",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q15-main.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q15-main2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q15-main3.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q15-main4.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2022_P12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "For a plane electromagnetic wave propagating in the x-direction, which one of the following combinations gives the correct possible directions for the electric field (E) and magnetic field",
+    "options": {
+      "A": "respectively?",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram] D: [diagram]"
+    },
+    "answer": "d",
+    "explanation": "Solution:",
+    "year": "2021",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q16-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q16-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q16-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q16-explanation4.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q16-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "loose_lower_sequence",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A capacitor of capacitance 'C' is connected across an AC source of voltage V, given by The displacement current between the plates of the capacitor would then be given by",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Solution: Now, displacement current id is given by, Hence, (C) is the correct answer.",
+    "year": "2021",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q17-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q17-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q17-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q17-explanation4.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q17-explanation5.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q17-explanation6.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2021_P12_Q17-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "three_lower_plus_terminal_upper",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Light with an average flux of 20 W/cm2 falls on a non-reflecting surface at normal incidence having surface area 20 cm2 . The energy received by the surface during time span of 1 min is",
+    "options": {
+      "A": "12 × 103 J",
+      "B": "24 × 103 J",
+      "C": "48 × 103 J",
+      "D": "10 × 103 J"
+    },
+    "answer": "b",
+    "explanation": "Given, average flux = 20 W/cm2 Surface area = 20 cm2 Time = 1 min = 60 s For non-reflecting surface, energy received = average flux × surface area × time = 20 × 20 × 60 = 24 × 103 J",
+    "year": "2020",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "The electromagnetic wave with shortest wavelength among the following is",
+    "options": {
+      "A": "UV-rays",
+      "B": "X-rays",
+      "C": "γ-rays",
+      "D": "microwaves"
+    },
+    "answer": "c",
+    "explanation": "Gamma-rays has the shortest wavelength because it has higher frequency than UV-rays, microwaves and X-rays.",
+    "year": "2020",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The ratio of contributions made by the electric field and magnetic field components to the intensity of an electromagnetic wave is : (c = speed of electromagnetic waves)",
+    "options": {
+      "A": "1 : c",
+      "B": "1 : c2",
+      "C": "c : 1",
+      "D": "1 : 1"
+    },
+    "answer": "d",
+    "explanation": "Solution: Intensity of electromagnetic wave, I = Uavgc In terms of the electric field, In terms of magnetic field, (∵Eo=cB0) Now Uavg (due to electric field) The energy distribution in electric and magnetic fields is equal. Therefore, the ratio of contributions by the electric field and magnetic field components to the intensity of the electromagnetic wave is 1:1",
+    "year": "2020",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2020_P12_Q20-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2020_P12_Q20-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2020_P12_Q20-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2020_P12_Q20-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "A parallel plate capacitor of capacitance 20µ F is being charged by a voltage source whose potential is changing at the rate of 3 V/s. The conduction current through the connecting wires and the displacement current through the plates of the capacitor, would be, respectively",
+    "options": {
+      "A": "60 µ A, 60µ A",
+      "B": "60 µ A, zero",
+      "C": "zero, zero",
+      "D": "zero, 60 µ A"
+    },
+    "answer": "a",
+    "explanation": "The displacement current is precisely equals to the conduction current, when the two are present in different parts of the circuit. Given, C = 20 µ F = 20 × 10-6 F and The displacement current in a circuit is given by As displacement current is in between the plates of capacitor and conduction current is in the connecting wires which are equal to each other. So,",
+    "year": "2019",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2019_P12_Q21-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2019_P12_Q21-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2019_P12_Q21-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2019_P12_Q21-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which color of the light has the longest wavelength?",
+    "options": {
+      "A": "Red",
+      "B": "Blue",
+      "C": "Green",
+      "D": "Violet"
+    },
+    "answer": "a",
+    "explanation": "Solution: Red has the longest wavelength among the given options.",
+    "year": "2019",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "An em wave is propagating in a medium with a velocity The instantaneous oscillating electric field of this em wave is along the +y axis. Then the direction of the oscillating magnetic field of the em wave will be along the",
+    "options": {
+      "A": "z-direction",
+      "B": "+z direction",
+      "C": "y direction",
+      "D": "x direction"
+    },
+    "answer": "b",
+    "explanation": "Solution: So +z direction is the correct answer option B",
+    "year": "2018",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2018_P12_Q23-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2018_P12_Q23-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "In an electromagnetic wave in free space the root mean square value of the electric field is Erms = 6V/m. The peak value of the magnetic field is",
+    "options": {
+      "A": "2.83 × 10-8 T",
+      "B": "0.70 × 10-8 T",
+      "C": "4.23 × 10-8 T",
+      "D": "1.41 × 10-8 T"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2017",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2017_P12_Q24-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2017_P12_Q24-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Out of the following options which one can be used to produce a propagating electromagnetic wave?",
+    "options": {
+      "A": "An accelerating charge",
+      "B": "A charge moving at constant velocity",
+      "C": "A stationary charge",
+      "D": "A chargeless particle"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2016",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "The energy of the EM waves is of the order of 15 keV. To which part of the spectrum does it belong?",
+    "options": {
+      "A": "X-rays",
+      "B": "Infrared rays",
+      "C": "Ultravioiet rays",
+      "D": "γ-rays"
+    },
+    "answer": "a",
+    "explanation": "Given, energy of EM waves is of the order of 15 keV Thus, this spectrum is a part of X-rays.",
+    "year": "2015",
+    "chapter": "Electromagnetic Waves",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-waves/ELECTROMAGNETIC_WAVES-2015_P12_Q26-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

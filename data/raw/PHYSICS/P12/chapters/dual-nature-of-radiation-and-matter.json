@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "Q1",
+    "text": "De-Broglie wavelength of an electron orbiting in the n = 2 state of hydrogen atom is close to: (Given: Bohr radius = 0.052 nm) [NEET 2025]",
+    "options": {
+      "A": "1.67 nm",
+      "B": "2.67 nm",
+      "C": "0.067 nm",
+      "D": "0.67 nm"
+    },
+    "answer": "d",
+    "explanation": "Given n = 2, Z = 1 2πr = nλ 2π × (0.052 × n2 / Z) = nλ On solving, λ = 0.67 nm",
+    "year": "2025",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Which of the following options represents the variation of photoelectric current with the property of light shown on the x-axis?",
+    "options": {
+      "A": "(A) and (D)",
+      "B": "(B) and (D)",
+      "C": "A Only",
+      "D": "A and (c)"
+    },
+    "answer": "c",
+    "explanation": "Photoelectric current is directly proportional to the intensity of light. According to Einstein's photoelectric equation, when light of sufficient frequency falls on a metal surface, it causes the emission of photoelectrons. The kinetic energy of the emitted electrons depends on the frequency of light, while the number of emitted electrons (and hence the photoelectric current) is directly proportional to the intensity of incident light. This is because higher intensity means more photons striking the surface per second, leading to more electrons being emitted, which increases the current linearly as shown in the graph.",
+    "year": "2025",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q2-main.jpg",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q2-main2.jpg",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q2-main3.jpg",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q2-main4.jpg",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q2-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A photon and an electron (mass m) have the same energy E. The ratio (λphoton/λelectron) of their de Broglie wavelengths is: (c is the speed of light) [NEET 2025]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "The de-Brogile wavelength is given by: λ = h / √(2mE) For electron: λe = h / √(2mE) For photon: E = pc ⇒ λPh = hc / E ⇒ λe / λPh = (h / √(2mE)) × (E / hc) = √(E / 2m) × (1 / c) ⇒ λPh / λe =",
+    "year": "2025",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q3-main.jpg",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q3-main2.jpg",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q3-main3.jpg",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q3-explanation1.jpg",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2025_P12_Q3-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "If c is the velocity of light in free space, the correct statements about photon among the following are: A. The energy of a photon is E = hv. B. The velocity of a photon is c. C. The momentum of a photon, p = hv / c. D. In a photon-electron collision, both total energy and total momentum are conserved. E. Photon possesses positive charge",
+    "options": {
+      "A": "A and B only",
+      "B": "A, B, C and D only",
+      "C": "A, C and D only",
+      "D": "A, B, D and E only [NEET 2024]"
+    },
+    "answer": "",
+    "explanation": "A. The energy of a photon is E = hv. B. The velocity of a photon is c. C. The momentum of a photon, p = hv / c. D. In a photon-electron collision, both total energy and total momentum are conserved. E. Photon possesses positive charge. A, B, C, and D only",
+    "year": "2024",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The graph which shows the variation of (1 / λ2) and its kinetic energy, E is (where λ is de Broglie wavelength of a free particle)",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram] [NEET 2024]"
+    },
+    "answer": "d",
+    "explanation": "de-Broglie wavelength Squaring both sides, Graph passes through origin with constant slope.",
+    "year": "2024",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2024_P12_Q5-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2024_P12_Q5-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2024_P12_Q5-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2024_P12_Q5-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2024_P12_Q5-explanation5.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2024_P12_Q5-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Radiation of wavelength 280 nm is used in an experiment of photoelectric effect with cathode of work function 2.5 eV. The maximum kinetic energy of the photoelectrons is: [NEET 2024] (Take h = 6.62 × 10⁻³⁴ J·s and c = 3 × 10⁸ m/s)",
+    "options": {
+      "A": "4.4 eV",
+      "B": "7.103 × 10⁻¹⁵ J",
+      "C": "1.9 eV",
+      "D": "4.60 eV"
+    },
+    "answer": "c",
+    "explanation": "To solve this problem, we will use the photoelectric effect equation: K.E. (max) = Eₛ - W Where: K.E. (max) is the maximum kinetic energy of the emitted photoelectron. Eₛ is the energy of the incident photon, which is given by the equation Eₛ = h * f, where f is the frequency of the radiation. W is the work function of the material (given as 2.5 eV in this case). Step 1: Convert the wavelength to frequency The wavelength (λ) is given as 280 nm (which is 280 × 10⁻⁹ m). The frequency f can be calculated using the relationship: f = c / λ Where: c is the speed of light (3 × 10⁸ m/s), λ is the wavelength. Now, calculate the frequency: f = (3 × 10⁸ m/s) / (280 × 10⁻⁹ m) = 1.071 × 10¹⁵ Hz Step 2: Calculate the energy of the incident photon The energy of the photon is given by: Eₛ = h * f Where: h is Planck's constant (6.62 × 10⁻³⁴ J·s), f is the frequency calculated earlier. Now, calculate the energy: Eₛ = (6.62 × 10⁻³⁴ J·s) * (1.071 × 10¹⁵ Hz) = 7.09 × 10⁻¹⁹ J Step 3: Convert the energy to eV To convert the energy from joules to electron volts (eV), we use the conversion factor 1 eV = 1.6 × 10⁻¹⁹ J: Eₛ = (7.09 × 10⁻¹⁹ J) / (1.6 × 10⁻¹⁹ J/eV) = 4.44 eV Step 4: Calculate the maximum kinetic energy of the photoelectron The maximum kinetic energy is: K.E. (max) = Eₛ - W Where W = 2.5 eV (work function of the cathode). Now, calculate the kinetic energy: K.E. (max) = 4.44 eV - 2.5 eV = 1.94 eV Conclusion: The maximum kinetic energy of the photoelectron is approximately 1.9 eV.",
+    "year": "2024",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Given below are two statements: [NEET 2024] Statement I: The de Broglie wavelength associated with a material particle depends on its charge and nature. Statement II: The wave nature of particles in the sub-atomic domain is significant and measurable",
+    "options": {
+      "A": "Both Statement I and Statement II are correct.",
+      "B": "Both Statement I and Statement II are incorrect.",
+      "C": "Statement I is correct but Statement II is incorrect.",
+      "D": "Statement I is incorrect but Statement II is correct."
+    },
+    "answer": "d",
+    "explanation": "Statement I: The de Broglie wavelength associated with a material particle depends on its charge and nature. The de Broglie wavelength of a particle is given by the formula: λ = h / mv Where: λ is the de Broglie wavelength,h is Planck's constant,m is the mass of the particle,v is the velocity of the particle. Charge and nature of the particle do not directly affect the de Broglie wavelength according to this formula. The de Broglie wavelength is primarily dependent on the mass and velocity of the particle. The charge of the particle does not influence the de Broglie wavelength directly. Therefore, Statement I is incorrect. Statement II: The wave nature of particles in the sub-atomic domain is significant and measurable. In the sub-atomic domain, particles like electrons do exhibit wave-particle duality. This means they exhibit both particle-like and wave-like properties. The wave nature of sub-atomic particles is significant and measurable in certain cases, such as in the electron microscope or diffraction experiments. Statement II is correct, as the wave nature of particles like electrons can be observed in experiments such as electron diffraction. Conclusion: Statement I is incorrect, and Statement II is correct. Correct Answer: (d) Statement I is incorrect but Statement II is correct.",
+    "year": "2024",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "An electron and an alpha particle are accelerated by the same potential difference. Let λe and λα denote the de-Broglie wavelengths of the electron and the alpha particle, respectively. Then: [NEET 2024]",
+    "options": {
+      "A": "λe > λα",
+      "B": "λe = 4λα",
+      "C": "λe = λα",
+      "D": "λe< λα"
+    },
+    "answer": "a",
+    "explanation": "de-Broglie wavelength is given by For same potential difference Correct answer is (a) λe > λα",
+    "year": "2024",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2024_P12_Q8-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2024_P12_Q8-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "If Φ is the work function of photosensitive material in electron-volts and light of a wavelength of numerical value λ = hc/e meters is incident on it with energy above its threshold value at an instant, then the maximum kinetic energy of the photo-electron ejected by it at that instant is (in SI units): [NEET 2024]",
+    "options": {
+      "A": "e + 2Φ",
+      "B": "2e - Φ",
+      "C": "e - Φ",
+      "D": "e + Φ"
+    },
+    "answer": "c",
+    "explanation": "Given Data: Φ is the work function of the photosensitive material in electron-volts (eV).The wavelength λ is given by λ = hc / emeters, where:h is Planck's constant,c is the speed of light,e is the elementary charge (in Coulombs). Step 1: Energy of the Photon The energy of the incoming photon can be calculated as: Ephoton = hc / λ Substitute the given wavelength λ = hc / e: Ephoton = hc / (hc / e) = e eV So, the energy of the photon is e eV. Step 2: Maximum Kinetic Energy of the Photoelectron The maximum kinetic energy of the photoelectron is given by: K.E. = Ephoton - Φ Substitute the values: K.E. = e - Φ Conclusion: The maximum kinetic energy of the photoelectron in SI units is e - Φ. Correct Answer: (c) e - Φ.",
+    "year": "2024",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The work functions of Caesium (Cs), Potassium (K), and Sodium (Na) are 2.14 eV, 2.30 eV, and 2.75 eV respectively. If incident electromagnetic radiation has an incident energy of 2.20 eV, which of these photosensitive surfaces may emit photoelectrons?",
+    "options": {
+      "A": "Cs only",
+      "B": "Both Na and K",
+      "C": "K only",
+      "D": "Na only"
+    },
+    "answer": "a",
+    "explanation": "Solution: Energy of incident radiation = 2.80 eV The work function of Cs → 2.14 eV The work function of K → 2.30 eV The work function of Na → 2.75 eV Since the work functions of potassium and sodium are more than the energy of incident radiation hence photons may be emitted from cesium.",
+    "year": "2023",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The minimum wavelength of X-rays produced by an electron accelerated through a potential difference of V volts is proportional to",
+    "options": {
+      "A": "1/V",
+      "B": "1/√V",
+      "C": "V2",
+      "D": "√V"
+    },
+    "answer": "a",
+    "explanation": "Minimum wavelength of X-Rays is",
+    "year": "2023",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2023_P12_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The de-Broglie wavelength associated with an electron, accelerated by a potential difference of 81 V is given by",
+    "options": {
+      "A": "13.6 nm",
+      "B": "136 nm",
+      "C": "1.36 nm",
+      "D": "0.136 nm"
+    },
+    "answer": "d",
+    "explanation": "To calculate the de-Broglie wavelength associated with an electron accelerated by a potential difference, we can use the following formula for de-Broglie wavelength: λ = h / p where: λ is the de-Broglie wavelength,h is Planck's constant (6.626 × 10⁻³⁴ J·s),p is the momentum of the electron. The momentum p can be related to the kinetic energy gained by the electron due to acceleration by the potential difference V: K.E. = eV where e is the charge of the electron (1.6 × 10⁻¹⁹ C) and V is the potential difference (81 V). Since K.E. = (1/2)mv² = p² / (2m), we can find the momentum p as: p = √(2m eV) where: m is the mass of the electron (9.11 × 10⁻³¹ kg),e is the electron charge (1.6 × 10⁻¹⁹ C),V is the potential difference (81 V). Step 1: Calculate the Momentum p Using the given values: p = √(2 × 9.11 × 10⁻³¹ kg × 1.6 × 10⁻¹⁹ C × 81 V) Now, calculate the momentum: p ≈ √(2.35 × 10⁻²⁸ kg·C·V) p ≈ 1.53 × 10⁻²⁹ kg·m/s Step 2: Calculate the de-Broglie Wavelength λ Now, using the de-Broglie formula: λ = h / p Substitute the values: λ = 6.626 × 10⁻³⁴ J·s / 1.53 × 10⁻²⁹ kg·m/s λ ≈ 4.33 × 10⁻⁶ m λ ≈ 0.136 nm Correct Answer: (d) 0.136 nm.",
+    "year": "2023",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The maximum kinetic energy of the emitted photoelectrons in the photoelectric effect is independent of the",
+    "options": {
+      "A": "work function of material",
+      "B": "intensity of incident radiation",
+      "C": "frequency of incident radiation",
+      "D": "wavelength of incident radiation"
+    },
+    "answer": "b",
+    "explanation": "The maximum kinetic energy of the emitted photoelectrons in the photoelectric effect is governed by the photoelectric equation: K.E. = Ephoton - Φ Where: K.E. is the maximum kinetic energy of the emitted photoelectron,E(photon) is the energy of the incident photon,Φ is the work function of the material (the minimum energy required to eject an electron from the surface). The energy of the incident photon is related to the frequency f of the radiation by: Ephoton = h * f Where: h is Planck's constant,f is the frequency of the incident radiation. From this, we can conclude: The maximum kinetic energy of the photoelectrons depends on the frequency of the incident radiation (since energy is proportional to frequency) and the work function of the material. Analysis of the Options: (a) Work function of material: The work function affects the energy required to eject an electron, and hence it does affect the maximum kinetic energy. (b) Intensity of incident radiation: The intensity of the incident radiation affects the number of photoelectrons emitted but does not affect the maximum kinetic energy. The kinetic energy depends only on the frequency of the radiation. (c) Frequency of incident radiation: The maximum kinetic energy of the emitted electrons depends on the frequency of the incident radiation (higher frequency leads to higher energy photons, thus higher kinetic energy). (d) Wavelength of incident radiation: The wavelength is related to the frequency by f = c / λ (where c is the speed of light), so the maximum kinetic energy of the emitted electrons is dependent on the wavelength via the frequency. Conclusion: The maximum kinetic energy of the photoelectrons is independent of the intensity of the incident radiation. Correct Answer: (b) intensity of incident radiation.",
+    "year": "2023",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The light rays having photons of energy 4.2 eV are falling on a metal surface having a work function of 2.2 eV. The stopping potential of the surface is",
+    "options": {
+      "A": "6.4 V",
+      "B": "2 eV",
+      "C": "2 V",
+      "D": "1.1 V"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2022_P12_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The threshold frequency of a photoelectric metal is v0. If light of frequency 4v0 is incident on this metal, then the maximum kinetic energy of emitted electrons will be",
+    "options": {
+      "A": "4 hv0",
+      "B": "hv0",
+      "C": "2 hv0",
+      "D": "3 hv0"
+    },
+    "answer": "d",
+    "explanation": "According to Einstein's photoelectric equation",
+    "year": "2022",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2022_P12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "When two monochromatic lights of frequency, ν and ν/2 are incident on a photoelectric metal, their stopping potential becomes Vs/2 and Vs respectively. The threshold frequency for this metal is",
+    "options": {
+      "A": "3ν",
+      "B": "2/3ν",
+      "C": "3/2ν",
+      "D": "2ν"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2022_P12_Q16-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2022_P12_Q16-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The number of photons per second on average emitted by the source of monochromatic light of wavelength 600 nm, when it delivers the power of 3.3 × 10-3 watts will be : (h = 6.6 × 10-34 Js)",
+    "options": {
+      "A": "1016",
+      "B": "1015",
+      "C": "1018",
+      "D": "1017"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2021",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2021_P12_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "An electromagnetic wave of wavelength 'λ' is incident on a photosensitive surface of negligible work function. If 'm' is the mass of photoelectron emitted from the surface that has de-Broglie wavelength λd, then",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2021",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2021_P12_Q18-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2021_P12_Q18-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2021_P12_Q18-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2021_P12_Q18-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2021_P12_Q18-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Light of frequency 1.5 times the threshold frequency is incident on a photosensitive material. What will be the photoelectric current if the frequency is halved and the intensity is doubled?",
+    "options": {
+      "A": "one-fourth",
+      "B": "Zero",
+      "C": "doubled",
+      "D": "four times"
+    },
+    "answer": "b",
+    "explanation": "Solution: f0 < f1 = 1.5 f0 ∴ f2 = 0.75 f0 for given condition fincident < fthreshold so no photo electron emission i = 0",
+    "year": "2020",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The de-Broglie wavelength of an electron moving with kinetic energy of 144 eV is nearly",
+    "options": {
+      "A": "102 × 10-3 nm",
+      "B": "102 × 10-4 nm",
+      "C": "102 × 10-5 nm",
+      "D": "102 × 10-2 nm"
+    },
+    "answer": "d",
+    "explanation": "Kinetic energy of electron, K = 144 eV ⇒ eV = 144 eV ⇒ V = 144 V ∴ de-Broglie wavelength",
+    "year": "2020",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2020_P12_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The wave nature of electrons was experimentally verified by",
+    "options": {
+      "A": "de-Broglie",
+      "B": "Hertz",
+      "C": "Einstein",
+      "D": "Davisson and Germer"
+    },
+    "answer": "d",
+    "explanation": "The wave nature of electrons was experimentally verified by Davisson and Germer.",
+    "year": "2020",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "An electron is accelerated through a potential difference of 10,000 V. Its de-Broglie wavelength is, (nearly) : (me = 9 × 10-31 kg)",
+    "options": {
+      "A": "12.2 × 10-13 m",
+      "B": "12.2 × 10-12 m",
+      "C": "12.2 × 10-14 m",
+      "D": "12.2 nm"
+    },
+    "answer": "b",
+    "explanation": "For an electron accelerated through a potential V",
+    "year": "2019",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2019_P12_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The work function of a photosensitive material is 4.0 eV. This longest wavelength of light that can cause photon emission from the substance is (approximately)",
+    "options": {
+      "A": "3100 nm",
+      "B": "966 nm",
+      "C": "31 nm",
+      "D": "310 nm"
+    },
+    "answer": "d",
+    "explanation": "The work function of material is given by where, h = Planck's constant = 6.63 × 10-34 J-s c = speed of length = 3 × 108 ms-1 and λ = wavelength of light Here, φ = 4 eV = 4 × 1.6 × 10 -19 J Substituting the given values in Eq. (i), we get",
+    "year": "2019",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2019_P12_Q23-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2019_P12_Q23-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "An electron is accelerated through a potential difference of 10,000 V. Its de-Broglie wavelength is, (nearly) : (m e = 9 × 10-31 kg)",
+    "options": {
+      "A": "12.2 × 10-12 m",
+      "B": "12.2 × 10-14m",
+      "C": "12.2 nm",
+      "D": "12.2 × 10-13m"
+    },
+    "answer": "a",
+    "explanation": "Given, potential difference, V = 10000 V If electron is accelerated through a potential of V volt, then the wavelength associated with it is given by where, h = Planck's constant = 6.63 × 10-34 J-s, e = electronic charge = 1.6 × 10-19 C a nd me = mass of electron = 9 × 10-31 kg Substituting these values in Eq. (i), we get",
+    "year": "2019",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2019_P12_Q24-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2019_P12_Q24-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "An electron of mass m with an initial velocity enters an electric field E0 = constant > 0) at t = 0. If λ0 is its de-Broglie wavelength initially, then its de-Broglie wavelength at time t is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "λ0t",
+      "D": "λ0"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q25-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q25-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q25-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q25-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q25-explanation5.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q25-explanation6.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q25-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "When the light of frequency 2v0 (where v0 is threshold frequency), is incident on a metal plate, the maximum velocity of electrons emitted is v1. When the frequency of the incident radiation is increased to 5 v0, the maximum velocity of electrons emitted from the same plate is v2. The ratio of v1 to v2 is",
+    "options": {
+      "A": "1 : 2",
+      "B": "1 : 4",
+      "C": "4 : 1",
+      "D": "2 : 1"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q26-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q26-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "When the light of frequency 2ν0 (where, ν0 is threshold frequency), is incident on a metal plate, the maximum velocity of electrons emitted is v1 . When the frequency of the incident radiation is increased to 5ν0 , the maximum velocity of electrons emitted from the same plate is v2 . The ratio of v1 to v2 is",
+    "options": {
+      "A": "4 : 1",
+      "B": "1 : 4",
+      "C": "1 : 2",
+      "D": "2 : 1"
+    },
+    "answer": "c",
+    "explanation": "According to the Einstein's photoelectric equation, where, Kmax is the maximum kinetic energy of photoelectrons having maximum velocity vmax. When incident frequency of light, v = 2v0 Substituting the value of ν in Eq. (i), we get If incident frequency of radiation, ν = 5ν0 Substituting the value of ν in Eq. (i), we get On dividing Eq. (ii) by Eq (iii), we get",
+    "year": "2018",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q27-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q27-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q27-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q27-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2018_P12_Q27-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The photoelectric threshold wavelength of silver is 3250 × 10-10m. The velocity of the electron ejected from a silver surface by ultraviolet light of wavelength 2536 × 10-10 m is: (Given h = 4.14 × 10-15 eVs and c = 3 × 108 ms-1)",
+    "options": {
+      "A": "≈ 0.6 × 106 ms-1",
+      "B": "≈ 61 × 103 ms-1",
+      "C": "≈ 0.3 × 106 ms-1",
+      "D": "≈ 6 × 105 ms-1"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2017",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2017_P12_Q28-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "The de-Broglie wavelength of a neutron in thermal equilibrium with heavy water at a temperature T (Kelvin) and mass m, is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Thinking Process de-Broglie wavelength associated with a moving particle can be given as At thermal equilibrium, temperature of neutron and heavy water will be same. This common temperature is given as, T. Also, we know that, kinetic energy of a particle where, p = momentum of the particle m = mass of the particle Kinetic energy of the neutron is K.E. = 3/2 kT ∴ de-Broglie wavelength of the neutron",
+    "year": "2017",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2017_P12_Q29-main.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2017_P12_Q29-main2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2017_P12_Q29-main3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2017_P12_Q29-main4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2017_P12_Q29-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2017_P12_Q29-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2017_P12_Q29-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "When a metallic surface is illuminated with radiation of wavelength λ the stopping potential is V. If the same surface is illuminated with radiation of wavelength 2λ, the stopping potential is V/4. The threshold wavelength for the metallic surface is",
+    "options": {
+      "A": "3λ",
+      "B": "4λ",
+      "C": "5λ",
+      "D": "5/2λ"
+    },
+    "answer": "a",
+    "explanation": "When a metallic surface is illuminated with radiation of wavelength λ, the stopping potential is V. The photoelectric equation can be written as, Now, when the same surface is illuminated with radiation of wavelength 2λ, the stopping potential is V/4. So, the photoelectric equation can be written as, From equations (i) and (ii), we get When a metallic surface is illuminated with radiation of wavelength λ stopping potential is V. The photoelectric equation can be written as, Now, when the same surface is illuminated with radiation of wavelength 2λ, the stopping potential is V/4. So, the photoelectric equation can be written as, From equations (i) and (ii), we get",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q30-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q30-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q30-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q30-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q30-explanation5.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q30-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "An electron of mass m and a photon have the same energy E. The ratio of de-Broglie wavelengths associated with them is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "c(2mE)1/2"
+    },
+    "answer": "b",
+    "explanation": "Given that an electron has a mass of m. De-Broglie wavelength for an electron will be given as, where, h is the Planck's constant, and p is the linear momentum of the electron The kinetic energy of the electron is given by, From equation (i) and (ii), we have The energy of a photon can be given as, Hence, λP is the de-Broglie wavelength of the photon. Now, dividing equation (iii) by (iv), we get",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-main.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-main2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-explanation5.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-explanation6.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q31-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "Photons with energy 5 eV are incident on a cathode C in a photoelectric cell. The maximum energy of emitted photoelectrons is 2 eV. When photons of energy 6 eV are incident on C, no photoelectrons will reach the anode A, if the stopping potential of A relative to C is",
+    "options": {
+      "A": "+ 3 V",
+      "B": "+ 4 V",
+      "C": "1 V",
+      "D": "3 V"
+    },
+    "answer": "d",
+    "explanation": "Key Idea Use Einstein's photoelectric equation. We know that, E = (KE)max + Work function (φ) where, φ = hν0 E = hν",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q32-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "Electrons of mass m with de-Broglie wavelength λ fall on the target in an X-ray tube. The cut-off wavelength (λ 0 ) of the emitted X-ray is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "a",
+    "explanation": "Cut-off wavelength occurs when incoming electron looses its complete energy in collision. This energy appears in the form of X-rays. Given, mass of electrons = m de-Broglie wavelength = λ So, kinetic energy of electron = p2/2m Now, maximum energy of photon can be given by 2015",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q33-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q33-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q33-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q34",
+    "text": "A certain metallic surface is illuminated with monochromatic light of wavelength, λ. The stopping potential for photo-electric current for this light is 3V0. If the same surface is illuminated with light of wavelength 2λ, the stopping potential is V0. The threshold wavelength for this surface for the photoelectric effect is",
+    "options": {
+      "A": "λ/6",
+      "B": "6λ",
+      "C": "4λ",
+      "D": "λ/4"
+    },
+    "answer": "c",
+    "explanation": "We have, where W is the work function and (3V0) is the stopping potential when monochromatic light of wavelength λ is used. where V0 is the stopping potential when monochromatic light of wavelength 2λ is used. Subtracting equation (2) from equation (1) We get, ∴ Substituting in equation (2) we get, ∴ The threshold wavelength is therefore 4λ.",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q34-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q34-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q34-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q34-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q34-explanation5.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q34-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "Which of the following figures represents the variation of the particle momentum and the associated de-Broglie wavelength?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "The de-Broglie wavelength is given by This equation is in the form of yx = c, which is the equation of a rectangular hyperbola. The de-Broglie wavelength is given by This equation is in the form of yx = c, which is the equation of a rectangular hyperbola.",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q35-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q35-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q35-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q35-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q35-explanation5.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q35-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "A photoelectric surface is illuminated successively by monochromatic light of wavelength λ and λ/2. If the maximum kinetic energy of the emitted photoelectrons in the second case is 3 times that in the first case, the work function of the surface of the material is (h = Planck's constant, c = speed of light)",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "According to Einstein's photoelectric equation, E = Kmax + φ where, Kmax is maximum kinetic energy of emitted electron and φ is work function of an electron. Similarly, in second case, maximum kinetic energy of emitted electron is 3 times that in first case, we get Solving Eqs. (i) and (ii), we get work function of an emitted electron from a metal surface. 2014",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q36-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q36-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q36-explanation3.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q36-explanation4.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q36-explanation5.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q36-explanation6.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q36-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "When the energy of the incident radiation is increased by 20%, the kinetic energy of the photoelectrons emitted from a metal surface increases from 0.5 eV to 0.8 eV. The work function of the metal is",
+    "options": {
+      "A": "1.3 eV",
+      "B": "1.5 eV",
+      "C": "0.65 eV",
+      "D": "1.0 eV"
+    },
+    "answer": "d",
+    "explanation": "Solution: The original energy of the photon is E0 From equation (i) and (ii)",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q37-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q37-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "If the kinetic energy of the particle is increased to 16 times its previous value, the percentage change in the de-Broglie wavelength of the particle is",
+    "options": {
+      "A": "60",
+      "B": "50",
+      "C": "25",
+      "D": "75"
+    },
+    "answer": "d",
+    "explanation": "Solution:",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q38-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Light of wavelength 500 nm is incident on a metal with work function 2.28 eV. The de-Broglie wavelength of the emitted electron is",
+    "options": {
+      "A": "< 2.8 × 10- 10 m",
+      "B": "< 2.8 × 10- 9 m",
+      "C": "≥ 2.8 × 10- 9 m",
+      "D": "≤ 2.8 × 10- 12 m"
+    },
+    "answer": "c",
+    "explanation": "As, energy of photon, E = hν According to Einstein's photoelectric emission, we have KEmax = E - W = 2.48 - 2.28 = 0.2 eV For de-Broglie wavelength of the emitted electron, Thus, minimum wavelength of the emitted electron is",
+    "year": "2016",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q39-explanation1.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q39-explanation2.png",
+      "PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter/DUAL_NATURE_OF_RADIATION_AND_MATTER-2016_P12_Q39-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

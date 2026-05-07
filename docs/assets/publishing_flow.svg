@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%">
+  <!-- Background -->
+  <rect width="1000" height="250" fill="#0B1121" rx="16" stroke="#1E293B" stroke-width="2"/>
+
+  <!-- Lines -->
+  <!-- Animated Dashed Paths -->
+  <path d="M 220 125 L 280 125" fill="none" stroke="#6366F1" stroke-width="4" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="36" to="0" dur="1s" repeatCount="indefinite" />
+  </path>
+  <polygon points="274,117 286,125 274,133" fill="#6366F1" />
+
+  <path d="M 440 125 L 500 125" fill="none" stroke="#6366F1" stroke-width="4" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="36" to="0" dur="1s" repeatCount="indefinite" />
+  </path>
+  <polygon points="494,117 506,125 494,133" fill="#6366F1" />
+
+  <path d="M 660 125 L 720 125" fill="none" stroke="#6366F1" stroke-width="4" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="36" to="0" dur="1s" repeatCount="indefinite" />
+  </path>
+  <polygon points="714,117 726,125 714,133" fill="#6366F1" />
+
+  <!-- Step 1 -->
+  <g transform="translate(60, 75)">
+    <rect width="160" height="100" fill="#1E293B" stroke="#475569" stroke-width="3" rx="16" />
+    <circle cx="80" cy="30" r="20" fill="#3B82F6" fill-opacity="0.15" stroke="#3B82F6" stroke-width="2">
+      <animate attributeName="fill-opacity" values="0.15;0.4;0.15" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="80" y="36" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="16" fill="#3B82F6" text-anchor="middle">1</text>
+    <text x="80" y="65" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#F8FAFC" text-anchor="middle">Scrape</text>
+    <text x="80" y="85" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">npm run scrape</text>
+  </g>
+
+  <!-- Step 2 -->
+  <g transform="translate(280, 75)">
+    <rect width="160" height="100" fill="#1E293B" stroke="#475569" stroke-width="3" rx="16" />
+    <circle cx="80" cy="30" r="20" fill="#F59E0B" fill-opacity="0.15" stroke="#F59E0B" stroke-width="2">
+      <animate attributeName="fill-opacity" values="0.15;0.4;0.15" dur="2s" begin="0.5s" repeatCount="indefinite" />
+    </circle>
+    <text x="80" y="36" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="16" fill="#F59E0B" text-anchor="middle">2</text>
+    <text x="80" y="65" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#F8FAFC" text-anchor="middle">Audit</text>
+    <text x="80" y="85" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">npm run audit</text>
+  </g>
+
+  <!-- Step 3 -->
+  <g transform="translate(500, 75)">
+    <rect width="160" height="100" fill="#1E293B" stroke="#475569" stroke-width="3" rx="16" />
+    <circle cx="80" cy="30" r="20" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="2">
+      <animate attributeName="fill-opacity" values="0.15;0.4;0.15" dur="2s" begin="1s" repeatCount="indefinite" />
+    </circle>
+    <text x="80" y="36" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="16" fill="#10B981" text-anchor="middle">3</text>
+    <text x="80" y="65" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#F8FAFC" text-anchor="middle">Build</text>
+    <text x="80" y="85" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">dashboard:build</text>
+  </g>
+
+  <!-- Step 4 -->
+  <g transform="translate(720, 75)">
+    <rect width="160" height="100" fill="#8B5CF6" fill-opacity="0.1" stroke="#8B5CF6" stroke-width="3" rx="16" />
+    <circle cx="80" cy="30" r="20" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="2">
+      <animate attributeName="fill-opacity" values="0.2;0.5;0.2" dur="2s" begin="1.5s" repeatCount="indefinite" />
+    </circle>
+    <text x="80" y="36" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="16" fill="#8B5CF6" text-anchor="middle">4</text>
+    <text x="80" y="65" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#F8FAFC" text-anchor="middle">Ship</text>
+    <text x="80" y="85" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" fill="#94A3B8" text-anchor="middle">git commit</text>
+  </g>
+
+</svg>

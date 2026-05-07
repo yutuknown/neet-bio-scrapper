@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "Q1",
+    "text": "In frog, the Renal portal system is a special venous connection that acts to link",
+    "options": {
+      "A": "Kidney and intestine",
+      "B": "Kidney and lower part of body",
+      "C": "Liver and intestine",
+      "D": "Liver and kidney"
+    },
+    "answer": "b",
+    "explanation": "In frogs two distinct portal systems are present: the hepatic portal system (veins from intestine to liver) and the renal portal system (veins from the hind parts of the body to the kidneys).The renal portal system carries blood from the hind limbs and lower body towards the kidneys so that nitrogenous wastes and other substances can be processed before blood returns to the heart; therefore option (b) is correct.",
+    "year": "2025",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Frogs respire in water by skin and buccal cavity and on land by skin, buccal cavity and lungs. Choose the correct answer from the following",
+    "options": {
+      "A": "The statement is false for water but true for land",
+      "B": "The statement is false for both the environment",
+      "C": "The statement is true for water but false for land",
+      "D": "The statement is true for both the environment"
+    },
+    "answer": "a",
+    "explanation": "In water: Aquatic respiration in frogs is primarily through the skin (cutaneous respiration) and through the buccal cavity; lungs are not effectively used underwater. So the statement as given is false for the aquatic condition.On land: Frogs use the skin, buccal cavity and lungs for gas exchange. Pulmonary respiration (by lungs) becomes important on land, so the statement is true for terrestrial condition - hence option (a) is correct.During hibernation and aestivation, gas exchange is largely cutaneous (through the skin) and slowed down to conserve energy.",
+    "year": "2025",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "What is the name of the blood vessel that carries deoxygenated blood from the body to the heart in a frog?",
+    "options": {
+      "A": "Pulmonary vein",
+      "B": "Vena cava",
+      "C": "Aorta",
+      "D": "Pulmonary artery"
+    },
+    "answer": "b",
+    "explanation": "The systemic veins returning deoxygenated blood from the body to the heart are collectively called the vena cava (superior and inferior vena cava in vertebrates). In frogs, major veins open into the sinus venosus and right atrium via the venae cavae.Thus (b) Vena cava is the correct choice. (Pulmonary veins carry oxygenated blood from lungs to heart; pulmonary arteries carry deoxygenated blood from heart to lungs; aorta distributes oxygenated blood from heart to body.)",
+    "year": "2025",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Which of the following statement is correct about location of the male from copulatory pad?",
+    "options": {
+      "A": "Second digit of fore limb",
+      "B": "First digit of the fore limb",
+      "C": "First and Second digit of fore limb",
+      "D": "First digit of hind limb"
+    },
+    "answer": "b",
+    "explanation": "Male frogs show sexual dimorphism. One diagnostic feature is a specialised thickened pad (the copulatory pad) on the first digit of the forelimb.This pad helps the male grip the female during amplexus (mating). Female frogs lack this specialised first digit. Hence option (b) is correct.",
+    "year": "2025",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "In both sexes of cockroach, a pair of jointed filamentous structures called anal cerci are present on",
+    "options": {
+      "A": "5th segment",
+      "B": "10th segment",
+      "C": "8th and 9th segment",
+      "D": "11th segment"
+    },
+    "answer": "b",
+    "explanation": "The correct answer is Option B. Anal cerci in both male and female cockroaches are located at the base of the 10th abdominal segment of their bodies. The cerci are a pair of long, filamentous, sensory appendages that help cockroaches detect movements in the air, which warns them of approaching threats from behind, such as predators. This placement provides an effective mechanism for detecting environmental changes directly around the cockroach's posterior, enhancing their ability to quickly respond and escape threats. The location on the 10th segment is typical and consistent in all cockroaches across different species.",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-II, B-I, C-III, D-IV",
+      "B": "A-IV, B-III, C-I, D-II",
+      "C": "A-III, B-IV, C-I, D-II",
+      "D": "A-II, B-I, C-IV, D-III"
+    },
+    "answer": "c",
+    "explanation": "To match List I (types of epithelium) with List II (examples where these epithelia are found), we need to understand the characteristics and common locations of each type of epithelial tissue. Here's the clarification for each match: Unicellular glandular epithelium: This refers to single cells that function as glands, such as goblet cells. They are typically found in epithelial linings where they secrete mucus; within the digestive tract, goblet cells are common components. Compound epithelium: This type is characterized by multiple layers of cells and is primarily protective. Common examples include skin and the inner lining of the mouth which needs protection against mechanical and chemical stress. Multicellular glandular epithelium: This is found in glands composed of many cells. Examples include the salivary glands, pancreas, etc., where multiple cells work together to produce and secrete substances like enzymes and saliva. Endocrine glandular epithelium: These glands are ductless and release hormones directly into the blood. An example of such a gland is the pancreas, which not only acts as an exocrine gland by producing digestive enzymes but also functions endocrinologically by regulating blood sugar levels through insulin and glucagon production. Based on the above understanding: A (Unicellular glandular epithelium) matches with III (Goblet cells of alimentary canal).B (Compound epithelium) matches with IV (Moist surface of buccal cavity).C (Multicellular glandular epithelium) matches with I (Salivary glands).D (Endocrine glandular epithelium) matches with II (Pancreas). Thus, the correct answer is Option C: A-III, B-IV, C-I, D-II",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2024_B11_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match List I with List II related to digestive system of cockroach",
+    "options": {
+      "A": "A-IV, B-II, C-III, D-I",
+      "B": "A-I, B-II, C-III, D-IV",
+      "C": "A-IV, B-III, C-II, D-I",
+      "D": "A-III, B-II, C-IV, D-I"
+    },
+    "answer": "a",
+    "explanation": "The digestive system of a cockroach consists of several specialized structures that perform specific functions: Crop is a part of the alimentary canal where food is stored temporarily. This aligns with the description for List I \"A. The structures used for storing of food\". Thus, A corresponds to IV (Crop). Gastric Caeca are blind tubules located at the junction of the foregut and the midgut in insects. These tubules secrete enzymes and provide an increased surface area for digestion and absorption. This fits the description for List I \"B. Ring of 6-8 blind tubules at junction of foregut and midgut\". Hence, B corresponds to II (Gastric Caeca). Malpighian tubules are thin filamentous structures present at the junction of the midgut and hindgut. They are primarily involved in excretion and osmoregulation. They match the description for List I \"C. Ring of 100-150 yellow coloured thin filaments at junction of midgut and hindgut\". Thus, C corresponds to III (Malpighian tubules). Gizzard, also known as the proventriculus, is equipped with hard chitinous plates that grind the food mechanically. This description fits List I \"D. The structures used for grinding the food\". Therefore, D corresponds to I (Gizzard). By collaborating all this information, the correct answer is: Option A: A-IV, B-II, C-III, D-I",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2024_B11_Q7-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Statement I: The ground substance of bone is solid, pliable and resists compression. Statement II: The bone marrow of all bones is the site of production of blood cells. In light of the above statements, choose the most appropriate answer from the options given below",
+    "options": {
+      "A": "Both Statement I and Statement II are",
+      "B": "Both Statement I and Statement II are incorrect.",
+      "C": "Statement I is correct but Statement II is incorrect",
+      "D": "Statement I is incorrect but Statement II is"
+    },
+    "answer": "b",
+    "explanation": "Statement I is incorrect. The ground substance of bone is heavily mineralised (mainly hydroxyapatite, a form of calcium phosphate) which makes bone hard and rigid. Although bone resists compression well, it is not described as pliable; pliability is a feature of cartilage, not mineralised bone. Statement II: \"The bone marrow of all bones is the site of production of blood cells.\" Statement II is also incorrect. While red bone marrow is the site of haematopoiesis (production of blood cells), not all bones in an adult contain red marrow. Many long bones in adults contain yellow marrow (mainly fat) which does not actively produce blood cells. Red marrow is confined to specific bones (for example pelvis, ribs, sternum, vertebrae). Therefore both statements are incorrect and option (b) is correct.",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "In the following diagram of alimentary canal of cockroach, identify the labels A, B, C and D respectively",
+    "options": {
+      "A": "A-Gizzard, B-Crop, C-Malpighian tubules, D-Hepatic caeca",
+      "B": "A-Oesophagus, B-Crop, C-salivary glands, D-Hepatic caeca",
+      "C": "A-Crop, B-Gizzard, C-Hepatic caeca, D-Malpighian tubules",
+      "D": "A-Gizzard, B-Hepatic caeca, C-Malpighian tubules, D- Cilia"
+    },
+    "answer": "c",
+    "explanation": "A - Crop: The crop is a thin-walled storage chamber in the foregut where food is temporarily held after ingestion.B - Gizzard (Proventriculus): The gizzard is a muscular, thick-walled region with chitinous plates that grind food mechanically; it lies immediately after the crop.C - Hepatic caeca: These are finger-like outpocketings at the foregut-midgut junction that secrete digestive enzymes and increase the surface for digestion and absorption.D - Malpighian tubules: These are slender excretory tubules attached near the junction of midgut and hindgut; they remove nitrogenous wastes from the haemolymph and help in osmoregulation. Hence the labels correspond to (c) A-Crop, B-Gizzard, C-Hepatic caeca, D-Malpighian tubules.",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2024_B11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The epithelial tissue has the following features: A.Bear cilia on their free surface. B.Provides a lining for some parts of body. C.Compound epithelium is multi-layered, meant for limited role in secretion and absorption. D.Located in the tip of the nose. E.Exocrine glands possess epithelial tissue",
+    "options": {
+      "A": "B, D and E only",
+      "B": "A, B and C only",
+      "C": "B, C and E only",
+      "D": "C, D and E only"
+    },
+    "answer": "c",
+    "explanation": "A. \"Bear cilia on their free surface\" - this is true for some epithelial types (ciliated epithelium) but it is not a general feature of all epithelium, so A is not universally correct.B. Epithelia provide linings of body surfaces and cavities - this is correct.C. Compound (stratified) epithelium is multi-layered and mainly provides protection; its role in secretion and absorption is limited - this is correct.D. \"Located in the tip of the nose\" - the tip of the nose is made of cartilage and skin; epithelial tissue lines the nasal cavity but is not the structural tissue of the nose tip. So D is not correct as stated.E. Exocrine glands are formed from epithelial tissue and secrete their products via ducts - this is correct. Therefore, the true features are B, C and E, so option (c) is correct.",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-II, B-I, C-IV, D-III",
+      "B": "A-I, B-III, C-IV, D-II",
+      "C": "A-III, B-II, C-I, D-IV",
+      "D": "A-II, B-IV, C-I, D-III"
+    },
+    "answer": "d",
+    "explanation": "A. Metamorphosis → II (Paurometabolous): Cockroaches show gradual metamorphosis (paurometabolous) where nymphs resemble the adult form and develop gradually.B. Brain → IV (Supraoesophageal ganglion): The insect brain is the supra-oesophageal ganglion located above the oesophagus.C. Vision → I (Ommatidia): Compound eyes are made up of many ommatidia, each functioning as a light-detecting unit.D. Respiration → III (Spiracles): Respiration in cockroach is through openings called spiracles that lead to the tracheal system. Matching gives A-II, B-IV, C-I, D-III, so option (d) is correct.",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2024_B11_Q11-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Which of the following statements is correct about the type of junction and their role in our body?",
+    "options": {
+      "A": "Adhering junctions facilitate the cells to communicate with each other.",
+      "B": "Tight junctions help to stop substances from leaking across a tissue.",
+      "C": "Tight junctions help to perform cementing to keep neighbouring cells together.",
+      "D": "Gap junctions help to create gap between the cells and tissues."
+    },
+    "answer": "b",
+    "explanation": "(a) is incorrect - adhering junctions (adhesion belts, desmosomes) primarily provide mechanical attachment between cells and to the extracellular matrix, not direct intercellular communication.(b) is correct - tight junctions (zonula occludens) seal adjacent epithelial cells, preventing paracellular leakage of substances across a tissue (e.g., intestinal epithelium).(c) is incorrect - cementing and strong mechanical attachment are mainly functions of desmosomes/adhering junctions rather than tight junctions.(d) is incorrect - gap junctions provide channels for direct transfer of ions and small molecules between adjacent cells and thus facilitate communication; they do not create gaps between cells. Hence option (b) is the correct statement.",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Which of the following is are present in female cockroach? A. Collateral gland B. Mushroom gland C. Spermatheca D. Anal style E. Phallic gland",
+    "options": {
+      "A": "B and D only",
+      "B": "B and E only",
+      "C": "A only",
+      "D": "A and C only"
+    },
+    "answer": "d",
+    "explanation": "A. Collateral gland - present in female cockroach; involved in reproduction (associated with egg-case formation).B. Mushroom gland - a male accessory gland; not present in females.C. Spermatheca - present in female cockroach; stores sperm after mating.D. Anal style - present in both sexes (short styles may be present), but it is not a female-specific reproductive structure.E. Phallic gland - male reproductive gland; absent in females. Therefore, structures present specifically in females among the listed options are A (Collateral gland) and C (Spermatheca), so option (d) is correct.",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "In which of the following connective tissues, the cells secrete fibres of collagen or elastin? A. Cartilage B. Bone C. Adipose tissue D. Blood E. Areolar tissue",
+    "options": {
+      "A": "B,C,D and E only",
+      "B": "A,B,C and E only",
+      "C": "B,C and D only",
+      "D": "A,C and D only"
+    },
+    "answer": "b",
+    "explanation": "A. Cartilage - chondrocytes produce extracellular matrix including collagen fibres (and elastic fibres in elastic cartilage).B. Bone - osteoblasts/osteocytes synthesise collagen fibres that form the organic matrix of bone.C. Adipose tissue - contains fibroblasts in the connective tissue framework that secrete collagen and elastic fibres around adipocytes.D. Blood - a fluid connective tissue; blood cells do not secrete collagen or elastin fibres.E. Areolar tissue - loose connective tissue whose fibroblasts secrete collagen and elastic fibres. So the tissues where cells secrete collagen or elastin are A, B, C and E - option (b).",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-II,B-III,C-I,D-IV",
+      "B": "A-II,B-IV,C-III,D-I",
+      "C": "A-III,B-I,C-II,D-IV",
+      "D": "A-III,B-IV,C-I,D-II"
+    },
+    "answer": "d",
+    "explanation": "A. Squamous epithelium - found lining blood vessels (endothelium) and air sacs; here it corresponds to the walls of blood vessels (III).B. Ciliated epithelium - lines fallopian tubes and bronchioles where cilia move particles or ova (IV).C. Glandular epithelium - goblet cells of the alimentary canal are unicellular glandular epithelial cells that secrete mucus (I).D. Compound epithelium - stratified epithelium found in ducts and protective linings; inner lining of pancreatic ducts matches (II). Therefore the correct matching is A-III, B-IV, C-I, D-II - option (d).",
+    "year": "2024",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2024_B11_Q15-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Given below are two statements: Statement I: Ligaments are dense irregular tissue. Statement II: Cartilage is dense regular tissue",
+    "options": {
+      "A": "Both Statement I and Statement II are true",
+      "B": "Both Statement I and Statement II are false",
+      "C": "Statement I true and Statement II false",
+      "D": "Statement I false Statement II are true"
+    },
+    "answer": "b",
+    "explanation": "Ligaments are made of dense regular connective tissue - their collagen fibres are arranged in parallel to resist tension along one direction. So Statement I is incorrect.Cartilage is a specialised connective tissue composed of chondrocytes in a gel-like matrix; it is not classified as dense regular tissue. So Statement II is incorrect. Hence both statements are false and option (b) is correct.",
+    "year": "2023",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "In cockroach, excretion is brought about by- A. Phallic gland B. Urecose gland C. Nephrocytes D. Fat body E. Collaterial glands",
+    "options": {
+      "A": "A and E only",
+      "B": "A, B and E only",
+      "C": "B, C and D only",
+      "D": "B and D only"
+    },
+    "answer": "c",
+    "explanation": "B. Urecose glands - in some male cockroaches these glands synthesise uric acid and contribute to excretion.C. Nephrocytes - are excretory cells that help in removing metabolic wastes from the haemolymph.D. Fat body - stores and metabolises substances and participates in nitrogenous waste storage (e.g., uric acid), so it is associated with excretory function.Phallic gland and collateral gland are reproductive accessory glands (male and female respectively) and are not primary excretory structures. Thus among the options given, B, C and D participate in excretory roles; option (c) is correct.",
+    "year": "2023",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-I, B-II, C-IV, D-III",
+      "B": "A-II, B-III, C-I, D-IV",
+      "C": "A-II, B-I, C-IV, D-III",
+      "D": "A-III, B-IV, C-II, D-I"
+    },
+    "answer": "c",
+    "explanation": "Mast cells (A) - are found in connective tissues (e.g., areolar tissue) and participate in immune responses, matching location II in the list.Inner surface of bronchiole (B) - lined by ciliated epithelium (I) to move mucus and trapped particles.Blood (C) - is a specialised connective tissue (IV).Tubular parts of nephron (D) - lined by cuboidal epithelium, which matches III. Therefore option (c) is correct.",
+    "year": "2023",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2023_B11_Q18-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Which of the following is characteristic feature of cockroach regarding sexual dimorphism?",
+    "options": {
+      "A": "Dark brown body colour and anal cerci",
+      "B": "Presence of anal styles",
+      "C": "Presence of sclerites",
+      "D": "Presence of anal cerci"
+    },
+    "answer": "b",
+    "explanation": "Anal styles (short thread-like projections near the 9th segment) are present in male cockroaches and absent in females; this is a reliable sexually dimorphic feature. Hence option (b) is correct.Other features (anal cerci, sclerites, body colour) occur in both sexes and are not diagnostic for sex identification.",
+    "year": "2023",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Given below are two statements: I:Goblet cells are unicellular glands II:Earwax is the secretion of exocrine gland",
+    "options": {
+      "A": "Statement I is True but Statement II is False",
+      "B": "Statement I is False but Statement II is True",
+      "C": "Both Statement I and Statement II are True",
+      "D": "Both Statement I and Statement II are False"
+    },
+    "answer": "c",
+    "explanation": "Statement I: True - Goblet cells are unicellular glandular epithelial cells that secrete mucus in the alimentary and respiratory tracts.Statement II: True - Earwax (cerumen) is produced by ceruminous glands, which are modified exocrine glands that secrete onto the skin surface of the ear canal. Both statements are therefore true; option (c) is correct.",
+    "year": "2023",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(A)-III (B)-II (C)-I (D)-IV",
+      "B": "(A)-III (B)-II (C)-IV (D)-I",
+      "C": "(A)-II (B)-III (C)-I (D)-IV",
+      "D": "(A)-II (B)-III (C)-IV (D)-I"
+    },
+    "answer": "d",
+    "explanation": "Columnar epithelium (A) - lines stomach and intestine (II).Ciliated epithelium (B) - lines bronchioles (III).Squamous epithelium (C) - forms endothelium (I).Cuboidal epithelium (D) - found in ducts of glands (IV). Thus the correct matching is option (d).",
+    "year": "2023",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2023_B11_Q21-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "In which of the following animals, digestive tract has additional chambers like crop and gizzard?",
+    "options": {
+      "A": "Corvus, Columba, Chameleon",
+      "B": "Bufo, Balaenoptera, Bangarus",
+      "C": "Catla, Columba, Crocodilus",
+      "D": "Pavo, Psittacula, Corvus"
+    },
+    "answer": "d",
+    "explanation": "Crop and gizzard are characteristic features of the avian alimentary canal. Therefore birds such as Pavo (peacock), Psittacula (parrot) and Corvus (crow) possess these additional chambers, making option (d) correct.Other options include non-avian animals (amphibians, fishes, reptiles, mammals) where crop and gizzard as a pair are not typical.",
+    "year": "2022",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Which of the following is not a connective tissue?",
+    "options": {
+      "A": "Adipose tissue",
+      "B": "Cartilage",
+      "C": "Blood",
+      "D": "Neuroglia"
+    },
+    "answer": "d",
+    "explanation": "Option (d) is the correct answer as neuroglia are a part of nervous tissue. Neuroglia (glial cells) are supportive cells of the nervous system and belong to nervous tissue, not connective tissue.Adipose tissue, cartilage and blood are all classified as connective tissues (specialised or loose types).",
+    "year": "2022",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Tegmina in cockroach, arises from",
+    "options": {
+      "A": "Metathorax",
+      "B": "Mesothorax",
+      "C": "Prothorax and Mesothorax",
+      "D": "Prothorax"
+    },
+    "answer": "b",
+    "explanation": "Tegmina are the leathery forewings of cockroaches and they develop from the mesothorax; the hindwings arise from the metathorax. No wings arise from the prothorax.",
+    "year": "2022",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "B": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "C": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "D": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    "answer": "a",
+    "explanation": "Option (a) is the correct answer because Ciliated epithelium lines hollow organs like bronchioles and fallopian tubes to move mucus or ova.Some columnar or cuboidal cells are specialised as glandular epithelium (goblet cells are unicellular glands).Tendons are dense regular connective tissues attaching muscle to bone.Adipose tissue is loose connective tissue that stores fat, often under the skin.",
+    "year": "2022",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2022_B11_Q25-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Which of the following types of epithelium is present in the bronchioles and Fallopian tubes?",
+    "options": {
+      "A": "Stratified squamous epithelium",
+      "B": "Simple squamous epithelium",
+      "C": "Simple columnar epithelium",
+      "D": "Ciliated epithelium"
+    },
+    "answer": "d",
+    "explanation": "Ciliated epithelium lines the inner surface of bronchioles and fallopian tubes; cilia move mucus in the airways and help transport the egg in the female reproductive tract.",
+    "year": "2022",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Match List-I with List-II regarding the organs of Cockroach",
+    "options": {
+      "A": "(a) - (i), (b) - (iv), (c) - (iii), (d) - (ii)",
+      "B": "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)",
+      "C": "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)",
+      "D": "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)"
+    },
+    "answer": "b",
+    "explanation": "(a) Crop - storage of food (iv).(b) Proventriculus (gizzard) - grinding of food (i).(c) Hepatic caecae - secretion of digestive enzymes (ii).(d) Malpighian tubules - removal of nitrogenous wastes (iii).",
+    "year": "2022",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/structural-organisation-in-animals/STRUCTURAL_ORGANISATION_IN_ANIMALS-2022_B11_Q27-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Choose the correct statements: (a) Bones support and protect softer tissues and organs (b) Weight bearing function is served by limb bones (c) Ligament is the site of production of blood cells. (d) Adipose tissue is specialised to store fats. (e) Tendons attach one bone to another",
+    "options": {
+      "A": "(a), (b) and (e) only",
+      "B": "(a), (b) and (d) only",
+      "C": "(b), (c) and (e) only",
+      "D": "(a), (c) and (d) only"
+    },
+    "answer": "b",
+    "explanation": "Statements (a), (b) and (d) are correct: bones support and protect softer tissues, limb bones bear weight, and adipose tissue specialises in fat storage.Statement (c) is incorrect - bone marrow (not ligament) is the site of blood cell production.Statement (e) is incorrect - tendons attach muscle to bone; ligaments attach bone to bone.",
+    "year": "2022",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Excretion in cockroach is performed by all, EXCEPT",
+    "options": {
+      "A": "Hepatic caeca",
+      "B": "Urecose glands",
+      "C": "Malpighian tubules",
+      "D": "Fat body"
+    },
+    "answer": "a",
+    "explanation": "Option (a) is correct answer because hepatic caeca are responsible for secretion of digestive juices in cockroach and it does not participate in excretion. Urecose glands in male cockroach, Malpighian tubules and fat bodies in both male and female cockroach are considered as excretory structures.",
+    "year": "2022",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Which one of the following characteristic is incorrect with respect to cockroach?",
+    "options": {
+      "A": "In females, 7th - 9th sterna together form a genital pouch.",
+      "B": "10th abdominal segment in both sexes, bears a pair of anal cerci.",
+      "C": "A ring of gastric caeca is present at the junction of midgut and hind gut.",
+      "D": "Hypopharynx lies within the cavity enclosed by the mouth parts."
+    },
+    "answer": "c",
+    "explanation": "Option (c) is incorrect because a ring of gastric caecae is present at the junction of foregut and midgut. At the junction of midgut and hindgut, malpighian tubules are present. Hypopharynx lies within the cavity enclosed by mouthparts and acts like a tongue.In female cockroach, the 7th sternum is boat-shaped and together with the 8th and 9th sterna forms a genital pouch.10th abdominal segment in both sexes bears a pair of anal cerci; in males the 9th sternum bears a pair of anal styles.",
+    "year": "2021",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Which of the following statements wrongly represents the nature of smooth muscle?",
+    "options": {
+      "A": "Communication among the cells is performed by intercalated discs",
+      "B": "These muscles are present in the wall of blood vessels",
+      "C": "These muscle have no striations",
+      "D": "They are involuntary muscles"
+    },
+    "answer": "a",
+    "explanation": "Intercalated discs are characteristic of cardiac muscle, not smooth muscle; therefore option (a) is wrong.Smooth muscles are non-striated, involuntary and commonly found in the walls of blood vessels, alimentary canal, uterus and other viscera.",
+    "year": "2021",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "Following are the statements about prostomium of earthworm. (a) It serves as a covering for mouth. (b) It helps to open cracks in the soil into which it can crawl. (c) It is one of the sensory structures. (d) It is the first body segment. Choose the correct answer from the options given below",
+    "options": {
+      "A": "(a), (b), (c) and (d) are",
+      "B": "(b) and (c) are",
+      "C": "(a), (b) and (c) are",
+      "D": "(a), (b) and (d) are"
+    },
+    "answer": "c",
+    "explanation": "The anterior end of the earthworm has mouth which has covering called prostomium. Prostomium acts as a wedge to force open cracks in the soil and aids locomotion into narrow spaces.It bears sensory receptors and therefore has a sensory role.The first body segment is the peristomium (which bears the mouth), so statement (d) is incorrect. Hence (a), (b) and (c) are correct - option (c).",
+    "year": "2021",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "Identify the types of cell junctions that help to stop the leakage of the substances across a tissue and facilitation of communication with neighbouring cells via rapid transfer of ions and molecules",
+    "options": {
+      "A": "Adhering junctions and Tight junctions, respectively.",
+      "B": "Adhering junctions and Gap junctions, respectively.",
+      "C": "Gap junctions and Adhering junctions, respectively.",
+      "D": "Tight junctions and Gap junctions, respectively."
+    },
+    "answer": "d",
+    "explanation": "Three types of junctions are found in tissues Tight junctions stop leakage of substances from leaking across a tissue.Adhering junctions cement and keep neighbouring cells together.Gap junctions or communication junctions facilitate communication between cells by connecting the cytoplasm of adjoining cells.",
+    "year": "2021",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Cuboidal epithelium with brush border of microvilli is found in",
+    "options": {
+      "A": "proximal convoluted tubule of nephron",
+      "B": "Eustachian tube",
+      "C": "lining of intestine",
+      "D": "ducts of salivary glands"
+    },
+    "answer": "a",
+    "explanation": "Cuboidal epithelium with brush border of microvilli is found in proximal convoluted tubule of nephron (PCT). The microvilli (brush border) increase surface area for reabsorption in PCT.",
+    "year": "2020",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "The ciliated epithelial cells are required to move particles or mucus in a specific direction. In humans, these cells are mainly present in",
+    "options": {
+      "A": "Bronchioles and fallopian tubes",
+      "B": "Bile duct and bronchioles",
+      "C": "Fallopian tubes and pancreatic duct",
+      "D": "Eustachian tube and salivary duct."
+    },
+    "answer": "a",
+    "explanation": "Bronchioles are lined by ciliated epithelium and fallopian tube.",
+    "year": "2019",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "Select the correct sequence of organs in the alimentary canal of cockroach starting from mouth",
+    "options": {
+      "A": "Pharynx → Oesophagus → Ileum → Crop → Gizzard Colon → Rectum",
+      "B": "Pharynx → Oesophagus → Crop → Gizzard → Ileum → Colon → Rectum",
+      "C": "Pharynx → Oesophagus → Gizzard → Crop → Ileum → Colon → Rectum",
+      "D": "Pharynx → Oesophagus → Gizzard → Ileum → Crop → Colon → Rectum"
+    },
+    "answer": "b",
+    "explanation": "In cockroach the food goes into Mouth → Pharynx → Oesophagus → Crop → Gizzard → Ileum → Colon → Rectum → Anus",
+    "year": "2019",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Which of the following features is used to identify a male cockroach from a female cockroach?",
+    "options": {
+      "A": "Presence of a boat-shaped sternum on the 9th abdominal segment.",
+      "B": "Presence of caudal styles",
+      "C": "Forewings with darker tegmina",
+      "D": "Presence of anal cerci"
+    },
+    "answer": "b",
+    "explanation": "Male cockroach bears a pair of short threadlike anal/caudal styles which are absent in females. They project backwardly from the sides of 9th abdominal segment in male cockroach.",
+    "year": "2018",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "Select the correct route for the passage of sperms in male frogs",
+    "options": {
+      "A": "Testes → Vasa of Efferentia → Kidney → Seminal vesicle → Urinogenital duct → Cloaca",
+      "B": "Testes → Vasa of Efferentia → Bidder's canal → Ureter → Cloaca",
+      "C": "Testes → Vasa of Efferentia → Kidney → Bidder's canal → Urinogenital duct → Cloaca",
+      "D": "Testes → Bidder's canal → Kidney → Vasa Efferentia → Urinogenital duct → Cloaca"
+    },
+    "answer": "c",
+    "explanation": "The correct route for transport of sperms in male frog is Testes → Vasa Efferentia → Kidney → Bidder's canal → Urinogenital duct → Cloaca.",
+    "year": "2017",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Frog's heart when taken out of the body continues to beat for some time. Select the best option from the following statements. (1) Frog is a poikilotherm. (2) Frog does not have any coronary circulation. (3) Heart is \"myogenic\" in nature. (4) Fleart is autoexcitable",
+    "options": {
+      "A": "Only (4)",
+      "B": "(1) and (2)",
+      "C": "(3) and (4)",
+      "D": "Only (3)"
+    },
+    "answer": "c",
+    "explanation": "The vertebrates process myogenic heart which is self contractile system or autoexcitable; it will thus keep working outside the body for some time.",
+    "year": "2017",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "In male cockroaches, sperms are stored in which part of the reproductive system?",
+    "options": {
+      "A": "Seminal vesicles",
+      "B": "Mushroom glands",
+      "C": "Testes",
+      "D": "Vas deferens"
+    },
+    "answer": "a",
+    "explanation": "Seminal vesicles are numerous small sacs present on ventral surface of anterior part of the ejaculatory duct which store sperms.",
+    "year": "2016",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "Smooth muscles are",
+    "options": {
+      "A": "Involuntary, Fusiform, Non-striated",
+      "B": "Voluntary, Multinucleate, Cylindrical",
+      "C": "Involuntary, Cylindrical, Striated",
+      "D": "Voluntary, Spindle-shaped, Uninucleate."
+    },
+    "answer": "a",
+    "explanation": "Smooth muscle fibres are elongated and spindle shaped (fusiform). Each fibre contains a single oval nucleus surrounded by cytoplasm (sarcoplasm). Myofibrils are not organised into visible striations, hence the fibres are non-striated; they are under involuntary control and enclosed by a plasma membrane.",
+    "year": "2016",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "Which of the following features is not present in Periplaneta americana?",
+    "options": {
+      "A": "Exoskeleton composed of N-acetylglucos-amine",
+      "B": "Metamerically segmented body",
+      "C": "Schizocoelom as body cavity",
+      "D": "Indeterminate and radial cleavage during embryonic development"
+    },
+    "answer": "d",
+    "explanation": "Periplanata americana shows spiral and determinate types of cleavage during embryonic development which is a feature of Protostomes.",
+    "year": "2016",
+    "chapter": "Structural Organisation in Animals",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

@@ -1,0 +1,517 @@
+[
+  {
+    "id": "Q1",
+    "text": "Among the following, choose the ones with equal number of atoms",
+    "options": {
+      "A": "B, C, and D only",
+      "B": "B, D, and E only",
+      "C": "A, B, and C only",
+      "D": "A, B and D only"
+    },
+    "answer": "d",
+    "explanation": "Equal Number of Atoms​ The number of atoms in a given sample depends on the number of moles of molecules present, as well as the number of atoms in each molecule.The number of moles can be calculated using the formula:Moles = Mass / Molar MassOnce the moles are determined, the number of molecules can be calculated using Avogadro's number:Number of molecules = Moles × 6.022 × 1023To calculate the total number of atoms, multiply the number of molecules by the number of atoms in the molecular formula. For each option, calculate the number of moles and the total number of atoms: A. 212 g of Na₂CO₃: Moles = 212 / 106 = 2 molesNa₂CO₃ contains 6 atoms per molecule (2 Na, 1 C, 3 O).Total atoms = 2 × 6 × 6.022 × 1023 = 72.264 × 1023 atoms B. 248 g of Na₂O: Moles = 248 / 62 = 4 molesNa₂O contains 3 atoms per molecule (2 Na, 1 O).Total atoms = 4 × 3 × 6.022 × 1023 = 72.264 × 1023 atoms C. 240 g of NaOH: Moles = 240 / 40 = 6 molesNaOH contains 3 atoms per molecule (1 Na, 1 O, 1 H).Total atoms = 6 × 3 × 6.022 × 1023 = 108.396 × 1023 atoms D. 12 g of H₂: Moles = 12 / 2 = 6 molesH₂ contains 2 atoms per molecule (2 H).Total atoms = 6 × 2 × 6.022 × 1023 = 72.264 × 1023 atoms E. 220 g of CO₂: Moles = 220 / 44 = 5 molesCO₂ contains 3 atoms per molecule (1 C, 2 O).Total atoms = 5 × 3 × 6.022 × 1023 = 90.33 × 1023 atoms Comparing the total atoms A, B, and D have equal total atoms (72.264 × 1023). Therefore, the correct answer is Option 2: A, B, and D only.",
+    "year": "2025",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2025_C11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Dalton's Atomic theory could not explain which of the following?",
+    "options": {
+      "A": "Law of multiple proportion",
+      "B": "Law of gaseous volume",
+      "C": "Law of conservation of mass",
+      "D": "Law of constant proportion"
+    },
+    "answer": "b",
+    "explanation": "The Law of Gaseous Volume involves the concept of molecules and their behavior in the gaseous state. For example: When hydrogen gas reacts with oxygen gas to form water vapor: 2H2(g) + O2(g) → 2H2O(g)The volume ratio of hydrogen, oxygen, and water vapor is 2:1:2 under the same conditions. Dalton's Atomic Theory assumed atoms as indivisible and did not account for the existence of molecules or the behavior of gases in terms of volume. Thus, it could not explain Gay-Lussac's Law of Gaseous Volume. Therefore, Dalton's Atomic Theory could not explain the Law of Gaseous Volume.",
+    "year": "2025",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "The highest number of helium atoms is in",
+    "options": {
+      "A": "4 mol of helium",
+      "B": "4 u of helium",
+      "C": "4 g of helium",
+      "D": "2.271098L of helium at STP"
+    },
+    "answer": "a",
+    "explanation": "To determine which option contains the highest number of helium atoms, we need to analyze each option based on the amount of helium it represents and apply Avogadro's number (6.022 × 10²³ atoms/mol). Option A: 4 mol of helium Number of atoms = 4 mol × 6.022 × 10²³ atoms/mol = 24.088 × 10²³ = 2.4088 × 10²⁴ atoms. Option B: 4 u of helium The atomic mass of helium is approximately 4 u (atomic mass units). Since 1 u is defined as 1/12th the mass of a carbon-12 atom, 4 u corresponds to the mass of a single helium atom. Therefore, 4 u of helium represents exactly 1 helium atom. Number of atoms = 1 atom. Option C: 4 g of helium The molar mass of helium is 4 g/mol. Moles = 4 g / 4 g/mol = 1 mol. Number of atoms = 1 mol × 6.022 × 10²³ atoms/mol = 6.022 × 10²³ atoms. Option D: 2.271098 L of helium at STP At STP, 1 mole of an ideal gas occupies 22.4 L. Moles = 2.271098 L / 22.4 L/mol ≈ 0.10139 mol. Number of atoms = 0.10139 mol × 6.022 × 10²³ atoms/mol ≈ 6.103 × 10²² atoms. Conclusion: Comparing the numbers: Option A: 2.4088 × 10²⁴ atoms Option B: 1 atom Option C: 6.022 × 10²³ atoms Option D: 6.103 × 10²² atoms Option A clearly contains the highest number of helium atoms, which is 2.4088 × 10²⁴ atoms.",
+    "year": "2024",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "1 gram of sodium hydroxide was treated with 25mL of 0.75M HCl , the mass of sodium hydroxide left unreacted is equal to",
+    "options": {
+      "A": "750 mg",
+      "B": "250 mg",
+      "C": "Zero mg",
+      "D": "200 mg"
+    },
+    "answer": "b",
+    "explanation": "To find the mass of sodium hydroxide (NaOH) left unreacted, we first need to determine the moles of NaOH and HCl originally present and compare them to see which one is in excess. The molar mass of NaOH is approximately 40 g/mol, so the number of moles of NaOH in 1 gram can be calculated as follows: Next, we calculate the number of moles of HCl using its concentration and the volume of the solution. Recall that concentration (Molarity, M) is defined as moles of solute per liter of solution. Given that the concentration of HCl is 0.75 M and the volume of the solution is 25 mL or 0.025L, we can find the moles of HCl: Moles of HCl = Concentration × Volume in liters = 0.75 M × 0.025 L = 0.01875 moles Now, we compare the moles of NaOH and HCl. The stoichiometry of the reaction between NaOH and HCl is: NaOH + HCl → NaCl + H2O Each mole of NaOH reacts with one mole of HCl. Given that there are more moles of NaOH (0.025 moles) than HCl (0.01875 moles), HCl is the limiting reactant and will be completely consumed. The excess NaOH can be calculated: Excess moles of NaOH = Moles of NaOH - Moles of HCl = 0.025 moles - 0.01875 moles = 0.00625 moles To find the mass of the unreacted NaOH: Mass of unreacted NaOH = Moles of unreacted NaOH × Molar mass of NaOH = 0.00625 moles × 40 g/mol = 0.25 g = 250 mg Therefore, the mass of sodium hydroxide left unreacted is 250 mg, which corresponds to Option B.",
+    "year": "2024",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2024_C11_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A compound X contains 32% of A, 20% of B and remaining percentage of C. Then, the empirical formula of X is : (Given atomic masses of A = 64 ; B=40 ; C = 32 u)",
+    "options": {
+      "A": "A2BC2",
+      "B": "ABC3",
+      "C": "AB2C2",
+      "D": "DABC4"
+    },
+    "answer": "b",
+    "explanation": "So, empirical formula of ∴ The correct empirical formula of compound X is ABC3",
+    "year": "2024",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2024_C11_Q5-explanation1.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2024_C11_Q5-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A compound with a molecular formula of C6H14 has two tertiary carbons. Its IUPAC name is",
+    "options": {
+      "A": "n-hexane",
+      "B": "2-methylpentane",
+      "C": "2,3-dimethylbutane",
+      "D": "2,2-dimethylbutane"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2024_C11_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "4.74 g of an inorganic compound contains 0.39g of K, 0.27 g of Al, 1.92 g of SO₄ radicals, and 2.16 g of water. If the molar mass of the compound is 948 g mol⁻¹, the molecular formula of the inorganic compound is",
+    "options": {
+      "A": "KAl(SO₄)₂ · 12H₂O",
+      "B": "K₂Al₂(SO₄)₆ · 12H₂O",
+      "C": "K₂SO₄ · Al₂(SO₄)₃ · 24H₂O",
+      "D": "K₂SO₆ · Al₂(SO₄)₃ · 12H₂O"
+    },
+    "answer": "c",
+    "explanation": "Given: Total mass of the compound = 4.74 gMass of K = 0.39 gMass of Al = 0.27 gMass of SO₄ = 1.92 gMass of water (H₂O) = 2.16 gMolar mass of the compound = 948 g/mol Step 1: Calculate moles of each component Moles of K (Potassium): Molar mass of K = 39.1 g/mol Moles of K = 0.39 g / 39.1 g/mol ≈ 0.00997 molMoles of Al (Aluminum): Molar mass of Al = 26.98 g/mol Moles of Al = 0.27 g / 26.98 g/mol ≈ 0.00999 molMoles of SO₄ (Sulfate radicals): Molar mass of SO₄ = 32 + 4×16 = 96.06 g/mol Moles of SO₄ = 1.92 g / 96.06 g/mol ≈ 0.0200 molMoles of H₂O (Water): Molar mass of H₂O = 18.02 g/mol Moles of H₂O = 2.16 g / 18.02 g/mol ≈ 0.1199 mol Step 2: Find the simplest ratio of elements Divide the moles by the smallest value (0.00997): K: 0.00997 / 0.00997 ≈ 1Al: 0.00999 / 0.00997 ≈ 1SO₄: 0.0200 / 0.00997 ≈ 2H₂O: 0.1199 / 0.00997 ≈ 12 The empirical formula is KAl(SO₄)₂·12H₂O. Step 3: Verify the molar mass Molar mass of KAl(SO₄)₂·12H₂O: K: 39.1Al: 26.98SO₄: 2 × 96.06 = 192.12H₂O: 12 × 18.02 = 216.24Total ≈ 39.1 + 26.98 + 192.12 + 216.24 ≈ 474.44 g/mol The given molar mass is 948 g/mol, approximately twice 474.44 g/mol. Thus, the molecular formula is: K₂Al₂(SO₄)₄·24H₂O, which can be written as K₂SO₄·Al₂(SO₄)₃·24H₂O. Step 4: Confirm the molecular formula Molar mass of K₂SO₄·Al₂(SO₄)₃·24H₂O: K₂SO₄: 2×39.1 + 32 + 4×16 = 174.2Al₂(SO₄)₃: 2×26.98 + 3×(32 + 4×16) = 53.96 + 288.18 = 342.1424H₂O: 24 × 18.02 = 432.48Total = 174.2 + 342.14 + 432.48 = 948.82 g/mol, which matches 948 g/mol. Thus, the correct molecular formula is K₂SO₄·Al₂(SO₄)₃·24H₂O. Final Answer: (c)",
+    "year": "2024",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Molar mass of a compound (X) whose 2.6 mol weighs 312 g is",
+    "options": {
+      "A": "312 g mol⁻¹",
+      "B": "120 g mol⁻¹",
+      "C": "60 g mol⁻¹",
+      "D": "811.2 g mol⁻¹"
+    },
+    "answer": "b",
+    "explanation": "Molar mass is calculated using the formula: Molar mass = Mass / Moles Here, the mass of the compound is 312 g, and the number of moles is 2.6 mol. Molar mass = 312 g / 2.6 mol = 120 g mol⁻¹ Thus, the molar mass of the compound is 120 g mol⁻¹.",
+    "year": "2024",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "How much glucose is needed to prepare 250 mL of a 1/20 M (M/20) glucose ? (Molar mass of glucose: 180 g/mol)",
+    "options": {
+      "A": "2.25 g",
+      "B": "4.5 g",
+      "C": "0.44 g",
+      "D": "1.125 g"
+    },
+    "answer": "a",
+    "explanation": "To solve this, we can use the formula for molarity: Molarity (M) = moles of solute / volume of solution in liters. Given: Molarity of the solution = 1/20 MVolume of the solution = 250 mL = 0.25 LMolar mass of glucose = 180 g/mol moles of glucose = Molarity × Volume of solution moles of glucose = (1/20) × 0.25 = 0.0125 moles mass of glucose = moles of glucose × molar mass mass of glucose = 0.0125 × 180 = 2.25 g So, the correct answer is 2.25 g.",
+    "year": "2024",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "1.0 g of H₂O₂ has the same number of molecules as in",
+    "options": {
+      "A": "0.823 of N₂",
+      "B": "18 g of H₂O",
+      "C": "16 g of CO",
+      "D": "28 g of N₂"
+    },
+    "answer": "a",
+    "explanation": "To solve this, we calculate the number of molecules in 1.0 g of H₂O₂ and find the option with the same number of molecules. Step 1: Number of molecules in 1.0 g of H₂O₂ Molar mass of H₂O₂ = 2×1 + 2×16 = 34 g/mol Moles of H₂O₂ = 1.0 g / 34 g/mol ≈ 0.02941 mol Number of molecules = 0.02941 mol × 6.022 × 10²³ molecules/mol ≈ 1.771 × 10²² molecules Step 2: Compare with the options We need a mass of a substance that contains 1.771 × 10²² molecules. Option (a): 0.823 g of N₂ Molar mass of N₂ = 28 g/mol Moles of N₂ = 0.823 g / 28 g/mol ≈ 0.02939 mol Number of molecules = 0.02939 × 6.022 × 10²³ ≈ 1.770 × 10²² molecules This is very close to 1.771 × 10²² molecules, suggesting option (a) is correct.Option (b): 18 g of H₂O Molar mass of H₂O = 18 g/mol Moles = 18 g / 18 g/mol = 1 mol Molecules = 1 × 6.022 × 10²³ = 6.022 × 10²³ molecules (much higher).Option (c): 16 g of CO Molar mass of CO = 12 + 16 = 28 g/mol Moles = 16 g / 28 g/mol ≈ 0.5714 mol Molecules = 0.5714 × 6.022 × 10²³ ≈ 3.441 × 10²³ molecules (too high).Option (d): 28 g of N₂ Molar mass of N₂ = 28 g/mol Moles = 28 g / 28 g/mol = 1 mol Molecules = 1 × 6.022 × 10²³ = 6.022 × 10²³ molecules (too high). Conclusion: Option (a) 0.823 g of N₂ has approximately 1.770 × 10²² molecules, matching the 1.771 × 10²² molecules in 1.0 g of H₂O₂.",
+    "year": "2024",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Select the correct statements from the following (2023) A. Atoms of all elements are composed of two fundamental particles. B. The mass of the electron is 9.10939 × 10-31 kg. C. All the isotopes of a given element show same chemical properties. D. Protons and electrons are collectively known as nucleons. E. Dalton's atomic theory, regarded the atom as an ultimate particle of matter",
+    "options": {
+      "A": "A, B and C only",
+      "B": "C, D and E only",
+      "C": "A and E only",
+      "D": "B, C and E only"
+    },
+    "answer": "d",
+    "explanation": "Atoms consist of three fundamental particles: Electrons, protons and neutronsThe mass of the electron is 9.10939 × 10-31 kgAll the isotopes of a given element show same chemical properties.Protons and neutrons present in the nucleus are collectively called as nucleons. Dalton's atomic theory, regarded the atom as the ultimate particle of matter. So, the correct statements are B, C, E only",
+    "year": "2023",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The mass of CO2 produced by heating 20 g of 20% pure limestone as per the equation given below is",
+    "options": {
+      "A": "1.32 g",
+      "B": "1.12 g",
+      "C": "1.76 g",
+      "D": "2.64 g"
+    },
+    "answer": "c",
+    "explanation": "Given: The reaction: CaCO₃ (s) → CaO (s) + CO₂ (g)You are heating 20 g of 20% pure limestone. Step 1: Find the amount of pure limestone in the sample. The sample is 20% pure limestone, so the actual mass of calcium carbonate (CaCO₃) in the sample is: 20% of 20 g = 4 g of CaCO₃. Step 2: Calculate moles of CaCO₃ in the sample. The molar mass of CaCO₃ is: Molar mass of CaCO₃ = 40 (Ca) + 12 (C) + 48 (3O) = 100 g/mol. Now, calculate the moles of CaCO₃: Moles of CaCO₃ = 4 g / 100 g/mol = 0.04 mol. Step 3: Use the stoichiometry of the reaction. From the balanced equation, we can see that 1 mole of CaCO₃ produces 1 mole of CO₂. Therefore, 0.04 mol of CaCO₃ will produce 0.04 mol of CO₂. Step 4: Calculate the mass of CO₂ produced. The molar mass of CO₂ is: Molar mass of CO₂ = 12 (C) + 32 (O₂) = 44 g/mol. Now, calculate the mass of CO₂: Mass of CO₂ = 0.04 mol × 44 g/mol = 1.76 g. Conclusion: The mass of CO₂ produced is 1.76 g. Therefore, the correct answer is Option C (1.76 g).",
+    "year": "2023",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2023_C11_Q12-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "A 1 M of a compound 'X' has a density of 1.25 g/mL. If the molar mass of compound X is 85 g, what is the molality (m) of the ?",
+    "options": {
+      "A": "0.705 m",
+      "B": "1.208 m",
+      "C": "1.165 m",
+      "D": "0.858 m"
+    },
+    "answer": "d",
+    "explanation": "To calculate the molality of the solution, we use the formula: Molality (m) = moles of solute / mass of solvent (in kg) Given: Molarity (M) = 1 MDensity of solution = 1.25 g/mLMolar mass of compound X = 85 g/molVolume of solution = 1 L = 1000 mL Step 1: Calculate the mass of the solution. Mass of solution = density × volume = 1.25 g/mL × 1000 mL = 1250 g. Step 2: Calculate the mass of the solute (X). Moles of X = 1 moleMass of solute = moles × molar mass = 1 mole × 85 g/mol = 85 g. Step 3: Calculate the mass of the solvent (water). Mass of solvent = Mass of solution - Mass of solute = 1250 g - 85 g = 1165 g = 1.165 kg. Step 4: Calculate the molality. Molality (m) = moles of solute / mass of solvent in kg = 1 mole / 1.165 kg = 0.858 m. Conclusion: The molality of the solution is 0.858 m, so the correct answer is (d). Q.2. The right option for the mass of CO2 produced by heating 20 g of 20% pure limestone is (Atomic mass of Ca = 40) (2023) Correct Answer: B ⌃ From 100 g CaCO3 → 44 g CO2 produced As CaCO3 is 20% pure So, 100 g CaCO3 → 44 g CO2 = 1.76 g CO2 (a) 1.12 g (b) 1.76 g (c) 2.64 g (d) 1.32 g Ans: (b)",
+    "year": "2023",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2023_C11_Q13-explanation1.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2023_C11_Q13-explanation2.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2023_C11_Q13-explanation3.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2023_C11_Q13-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "What mass of 95% pure CaCO3 will be required to neutralise 50 mL of 0.5 M HCl according to the following reactions? [Calculate upto second place of decimal point]",
+    "options": {
+      "A": "3.65 g",
+      "B": "9.50 g",
+      "C": "1.25 g",
+      "D": "1.32 g"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2022_C11_Q14-explanation1.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2022_C11_Q14-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "An organic compound contains 80% (by wt.) carbon and the remaining percentage of hydrogen. The right option for the empirical formula of this compound is: [Atomic wt. of C is 12, H is 1]",
+    "options": {
+      "A": "CH3",
+      "B": "CH4",
+      "C": "CH",
+      "D": "CH2"
+    },
+    "answer": "a",
+    "explanation": "An empirical formula represents the simplest whole number ratio of various atoms present in a compound, whereas, the molecular formula shows the exact number of different types of atoms present in a molecule of a compound.",
+    "year": "2021",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Which one of the followings has maximum number of atoms?",
+    "options": {
+      "A": "1g of O2(g) (Atomic mass of O = 16)",
+      "B": "1g of Li(s) (Atomic mass of Li = 7)",
+      "C": "1g of Ag(s) (Atomic mass of Ag = 108)",
+      "D": "1g of Mg(s) (Atomic mass of Mg = 24)"
+    },
+    "answer": "b",
+    "explanation": "(a) no. of atoms (b) no. of atoms (c) no. of atoms (d) no. of atoms ∴ 1 gm of Li is having maximum no. of atoms.",
+    "year": "2020",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2020_C11_Q16-explanation1.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2020_C11_Q16-explanation2.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2020_C11_Q16-explanation3.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2020_C11_Q16-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The number of moles of hydrogen molecules required to produce 20 moles of ammonia through Haber's process is : (2019)",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "30",
+      "D": "40"
+    },
+    "answer": "c",
+    "explanation": "Haber's process 20 moles need to be produced 2 moles of NH3 → 3 moles of H2 Hence 20 moles of moles of H2",
+    "year": "2019",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2019_C11_Q17-explanation1.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2019_C11_Q17-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "In which case is the number of molecules of water maximum? (2018)",
+    "options": {
+      "A": "18 mL of water",
+      "B": "0.18 g of water",
+      "C": "0.00224 L of water vapours at 1 atm and 273 K",
+      "D": "10-3 mol of water"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2018_C11_Q18-explanation1.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2018_C11_Q18-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "A mixture of gases contains H2 and O2 gases in the ratio of 1 : 4 (w/w). What is the molar ratio of the two gases in the mixture ?",
+    "options": {
+      "A": "2:1",
+      "B": "1:4",
+      "C": "4:1",
+      "D": "16:1"
+    },
+    "answer": "c",
+    "explanation": "Q.9. 1.0 g of magnesium is burnt with 0.56 g O2 in a closed vessel. Which reactant is left in excess and how much ? (2014) (At. wt. Mg = 24; O = 16) Correct Answer: C ⌃ (a) Mg, 0.44 g (b) O2, 0.28 g (c) Mg, 0.16 g (d) O2, 0.16 g Ans: (c)",
+    "year": "2015",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2015_C11_Q19-explanation1.png",
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2015_C11_Q19-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "When 22.4 litres of H2 (g) is mixed with 11.2 litres of Cl2 (g) , each at S.T.P., the moles of HCl (g) formed is equal to : (2014)",
+    "options": {
+      "A": "0.5 mol of HCl (g)",
+      "B": "1.5 mol of HCl (g)",
+      "C": "1 mol of HCl (g)",
+      "D": "2 mol of HCl (g)"
+    },
+    "answer": "c",
+    "explanation": "1 mole = 22.4 liters at S.T.P. Here, Cl2 is limiting reagent. So, 1 mole of HCI(g) is formed.",
+    "year": "2014",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry/SOME_BASIC_CONCEPTS_OF_CHEMISTRY-2014_C11_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

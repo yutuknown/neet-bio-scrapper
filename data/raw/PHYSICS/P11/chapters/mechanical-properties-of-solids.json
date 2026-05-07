@@ -1,0 +1,306 @@
+[
+  {
+    "id": "Q1",
+    "text": "The maximum elongation of a steel wire of 1m length if the elastic limit of steel and its Young's modulus, respectively, are 8 × 108 Nm-2 and 2 × 1011 Nm-2, is: [2024]",
+    "options": {
+      "A": "4 mm",
+      "B": "0.4 mm",
+      "C": "40 mm",
+      "D": "8 mm"
+    },
+    "answer": "a",
+    "explanation": "First, we need to find the maximum force that can be applied to the steel wire within its elastic limit. This force can be calculated using the given area under stress and the stress limit provided by the elastic limit of steel. Let's assume the area of cross-section of the wire is A. The force exerted can be given by: where: σ=8×108N /m2 (Elastic limit of steel) To calculate the elongation (ΔL) under this force, we use Hooke's Law, which relates force, elongation, cross-sectional area, original length, and Young's modulus as follows: where: Y = 2 x 1011 N / m2 (Young's modulus of steel), L = 1 m (original length of the wire). Substituting for F from the earlier expression and rearranging the formula, we get: Thus, the maximum elongation of the wire within the elastic limit is 4mm. The answer is: Option A - 4 mm.",
+    "year": "2024",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q1-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q1-explanation2.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q1-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "A metallic bar of Young's modulus, 0.5 × 1011 Nm-2 and coefficient of linear thermal expansion 10-5∘C-1, length 1 m and area of cross-section 10-3 m2 is heated from 0∘C to 100∘C without expansion or bending. The compressive force developed in it is",
+    "options": {
+      "A": "5 x 103 N",
+      "B": "50 x 103 N",
+      "C": "100 x 103 N",
+      "D": "2 x 103 N [2024]"
+    },
+    "answer": "b",
+    "explanation": "Given the properties and conditions of the metallic bar, we are required to calculate the compressive force developed due to heating. Key inputs include the Young's modulus (E), coefficient of linear thermal expansion (α), change in temperature (ΔT), and the original dimensions of the bar. First, compute the linear expansion of the bar if it were free to expand. The change in length (ΔL) due to thermal expansion can be computed through the formula: Given: Thus: m This is the change in length that the bar would undergo if not constrained. However, in this scenario, the bar is constrained and does not actually expand. This constraint induces a compressive stress (constrained thermal stress) in the bar, which can be calculated using the formula relating stress, Young's modulus, and strain Where the strain (ε) under constrained conditions due to thermal expansion is: Therefore: This stress is the force per unit area. To find the compressive force, we need to multiply this stress by the cross-sectional area of the bar: Thus, the compressive force developed in the bar is 50×103 N. Hence, the correct answer is Option B: 50×103 N.",
+    "year": "2024",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q2-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q2-explanation2.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q2-explanation3.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q2-explanation4.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q2-explanation5.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q2-explanation6.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q2-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A thin flat circular disc of radius 4.5cm is placed gently over the surface of water. If surface tension of water is 0.07Nm-1, then the excess force required to take it away from the surface is",
+    "options": {
+      "A": "19.8 mN",
+      "B": "198 N",
+      "C": "1.98 mN",
+      "D": "99 N"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q3-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2024_P11_Q3-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Let a wire be suspended from the ceiling (rigid support) and stretched by a weight W attached at its free end. The longitudinal stress at any point of cross-sectional area A of the wire is [2023]",
+    "options": {
+      "A": "2W/A",
+      "B": "W/A",
+      "C": "W/2A",
+      "D": "Zero"
+    },
+    "answer": "",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2023_P11_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Given below are two statements: One is labelled as Assertion",
+    "options": {
+      "A": "and the other is labelled as Reason (R). Assertion",
+      "B": "The stretching of a spring is determined by the shear modulus of the material of the spring. Reason (R): A coil spring of copper has more tensile strength than a steel spring of same dimensions. In the light of the above statements, choose the most appropriate answer from the options given below [2022] A: Both",
+      "C": "and (R) are true and (R) is not the correct explanation of",
+      "D": "B:"
+    },
+    "answer": "b",
+    "explanation": "It is true that the stretching of spring is determined by shear modulus of the spring as when coil spring is stretched neither its length nor its volume changes, there is only change in its shape. The tensile strength of steel is more than that of copper. Hence Assertion is true and reason is false.",
+    "year": "2022",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "loose_lower_sequence",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Dimensions of stress are : [2020]",
+    "options": {
+      "A": "[ML0T-2]",
+      "B": "[ML-1T-2]",
+      "C": "[MLT-2]",
+      "D": "[ML2T-2]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2020_P11_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "A wire of length L, area of cross-section A is hanging from a fixed support. The length of the wire changes to L1 when mass M is suspended from its free end. The expression for Young's modulus is : [2020]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "from young's modulus formula",
+    "year": "2020",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2020_P11_Q7-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2020_P11_Q7-explanation2.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2020_P11_Q7-explanation3.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2020_P11_Q7-explanation4.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2020_P11_Q7-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "When a block of mass M is suspended by a long wire of length L, the length of the wire becomes (L + l). The elastic potential energy stored in the extended wire is: [2019]",
+    "options": {
+      "A": "Mgl",
+      "B": "MgL",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Solution: Given: Original length of the wire L.Extended length L + lL+l, so the extension is ll.Mass of the block M, so the force exerted by the block due to gravity is F = MgF=Mg, where gg is the acceleration due to gravity. Step 1: Determine the Force Acting on the Wire The force acting on the wire due to the suspended block is equal to the weight of the block: Step 2: Calculate the Elastic Potential Energy The elastic potential energy U stored in a stretched wire (or spring) with an extension ll is given by:",
+    "year": "2019",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2019_P11_Q8-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2019_P11_Q8-explanation2.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2019_P11_Q8-explanation3.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2019_P11_Q8-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Two wires are made of the same material and have the same volume. The first wire has cross-sectional area A and the second wire has cross-sectional area 3A. If the length of the first wire is increased by Δl on applying a force F, how much force is needed to stretch the second wire by the same amount ? [2018]",
+    "options": {
+      "A": "9F",
+      "B": "6F",
+      "C": "4F",
+      "D": "F"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2018_P11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The bulk modulus of a spherical object is 'B'. If it is subjected to uniform pressure 'p', the fractional decrease in radius is:- [2017]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Solution:",
+    "year": "2017",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2017_P11_Q10-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2017_P11_Q10-explanation2.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2017_P11_Q10-explanation3.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2017_P11_Q10-explanation4.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2017_P11_Q10-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Copper of fixed volume 'V' is drawn into wire of length 'l'. When this wire is subjected to a constant force 'F', the extension produced in the wire is 'Δl'. Which of the following graphs is straight line? [2014]",
+    "options": {
+      "A": "Δl versus l/l2",
+      "B": "Δl versus l",
+      "C": "Δl versus l/l",
+      "D": "Δl versus l2"
+    },
+    "answer": "d",
+    "explanation": "Solution: There is no Question for NEET 2021",
+    "year": "2014",
+    "chapter": "Mechanical Properties of Solids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-solids/MECHANICAL_PROPERTIES_OF_SOLIDS-2014_P11_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

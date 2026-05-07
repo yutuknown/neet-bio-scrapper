@@ -1,21 +1,85 @@
 {
-  "generated_at": "2026-05-06T17:42:26.541528Z",
-  "chapter_count": 13,
-  "anomaly_count": 12,
-  "all_empty_option_count": 10,
-  "partial_option_count": 2,
-  "image_backed_gap_count": 7,
+  "generated_at": "2026-05-07T19:13:38.346348Z",
+  "chapter_count": 32,
+  "anomaly_count": 34,
+  "all_empty_option_count": 34,
+  "partial_option_count": 0,
+  "image_backed_gap_count": 34,
   "chapters": [
     {
-      "chapter_slug": "biodiversity-and-its-conservation",
-      "question_count": 48,
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "anatomy-of-flowering-plants",
+      "question_count": 29,
       "anomaly_count": 0,
       "all_empty_option_count": 0,
       "partial_option_count": 0,
       "image_backed_gap_count": 0
     },
     {
-      "chapter_slug": "biotechnology-and-its-applications",
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "animal-kingdom",
+      "question_count": 42,
+      "anomaly_count": 3,
+      "all_empty_option_count": 3,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 3
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "biological-classification",
+      "question_count": 29,
+      "anomaly_count": 2,
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "biomolecules",
+      "question_count": 55,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "body-fluids-and-circulation",
+      "question_count": 28,
+      "anomaly_count": 4,
+      "all_empty_option_count": 4,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 4
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "breathing-and-exchange-of-gases",
+      "question_count": 25,
+      "anomaly_count": 4,
+      "all_empty_option_count": 4,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 4
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "cell-cycle-and-cell-division",
+      "question_count": 47,
+      "anomaly_count": 1,
+      "all_empty_option_count": 1,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "cell-the-unit-of-life",
       "question_count": 41,
       "anomaly_count": 0,
       "all_empty_option_count": 0,
@@ -23,6 +87,138 @@
       "image_backed_gap_count": 0
     },
     {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "chemical-coordination-and-integration",
+      "question_count": 34,
+      "anomaly_count": 1,
+      "all_empty_option_count": 1,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "excretory-products-and-their-elimination",
+      "question_count": 25,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "locomotion-and-movement",
+      "question_count": 31,
+      "anomaly_count": 2,
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "morphology-of-flowering-plants",
+      "question_count": 33,
+      "anomaly_count": 1,
+      "all_empty_option_count": 1,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "neural-control-and-coordination",
+      "question_count": 15,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "photosynthesis-in-higher-plants",
+      "question_count": 37,
+      "anomaly_count": 2,
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "plant-growth-and-development",
+      "question_count": 36,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "plant-kingdom",
+      "question_count": 33,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "respiration-in-plants",
+      "question_count": 24,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "structural-organisation-in-animals",
+      "question_count": 42,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "the-living-world",
+      "question_count": 8,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "biodiversity-and-its-conservation",
+      "question_count": 48,
+      "anomaly_count": 1,
+      "all_empty_option_count": 1,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "biotechnology-and-its-applications",
+      "question_count": 41,
+      "anomaly_count": 1,
+      "all_empty_option_count": 1,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "biotechnology-principle-and-processes",
       "question_count": 68,
       "anomaly_count": 0,
@@ -31,6 +227,8 @@
       "image_backed_gap_count": 0
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "ecosystem",
       "question_count": 23,
       "anomaly_count": 0,
@@ -39,30 +237,38 @@
       "image_backed_gap_count": 0
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "evolution",
       "question_count": 33,
+      "anomaly_count": 2,
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "human-health-and-diseases",
+      "question_count": 46,
+      "anomaly_count": 2,
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "human-reproduction",
+      "question_count": 44,
       "anomaly_count": 0,
       "all_empty_option_count": 0,
       "partial_option_count": 0,
       "image_backed_gap_count": 0
     },
     {
-      "chapter_slug": "human-health-and-diseases",
-      "question_count": 46,
-      "anomaly_count": 4,
-      "all_empty_option_count": 4,
-      "partial_option_count": 0,
-      "image_backed_gap_count": 2
-    },
-    {
-      "chapter_slug": "human-reproduction",
-      "question_count": 44,
-      "anomaly_count": 2,
-      "all_empty_option_count": 1,
-      "partial_option_count": 1,
-      "image_backed_gap_count": 0
-    },
-    {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "microbes-in-human-welfare",
       "question_count": 23,
       "anomaly_count": 4,
@@ -71,6 +277,8 @@
       "image_backed_gap_count": 4
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "molecular-basis-of-inheritance",
       "question_count": 92,
       "anomaly_count": 0,
@@ -79,32 +287,40 @@
       "image_backed_gap_count": 0
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "organisms-and-population",
-      "question_count": 36,
+      "question_count": 39,
       "anomaly_count": 0,
       "all_empty_option_count": 0,
       "partial_option_count": 0,
       "image_backed_gap_count": 0
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "principles-of-inheritance-and-variation",
-      "question_count": 54,
-      "anomaly_count": 0,
-      "all_empty_option_count": 0,
-      "partial_option_count": 0,
-      "image_backed_gap_count": 0
-    },
-    {
-      "chapter_slug": "reproductive-health",
-      "question_count": 36,
+      "question_count": 56,
       "anomaly_count": 2,
-      "all_empty_option_count": 1,
-      "partial_option_count": 1,
-      "image_backed_gap_count": 1
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
     },
     {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "reproductive-health",
+      "question_count": 39,
+      "anomaly_count": 2,
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "sexual-reproduction-in-flowering-plants",
-      "question_count": 49,
+      "question_count": 51,
       "anomaly_count": 0,
       "all_empty_option_count": 0,
       "partial_option_count": 0,
@@ -113,27 +329,30 @@
   ],
   "questions": [
     {
-      "chapter_slug": "human-health-and-diseases",
-      "chapter": "Human Health & Diseases",
-      "question_id": "Q11",
-      "year": "2024",
-      "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Some human org",
-      "answer": "b",
-      "images": 0,
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "animal-kingdom",
+      "chapter": "Animal Kingdom",
+      "question_id": "Q31",
+      "year": "2020",
+      "text": "Match the following columns and select the correct option",
+      "answer": "d",
+      "images": 2,
       "tables": 0,
       "non_empty_option_count": 0,
       "option_extraction": {
         "source": "fallback",
-        "status": "missing",
-        "imageTokenCount": 0,
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
         "nonEmptyOptionCount": 0
       },
       "parser_warnings": [
-        "Option content could not be extracted from the source block."
+        "Option content appears to be image-backed and could not be extracted as text."
       ],
       "anomaly_types": [
         "all_options_empty",
         "answer_without_full_options",
+        "image_backed_option_gap",
         "parser_warning"
       ],
       "options": {
@@ -144,11 +363,795 @@
       }
     },
     {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "animal-kingdom",
+      "chapter": "Animal Kingdom",
+      "question_id": "Q33",
+      "year": "2019",
+      "text": "Match the following organisms with respective characteristics. Select the correct option from the following",
+      "answer": "c",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "animal-kingdom",
+      "chapter": "Animal Kingdom",
+      "question_id": "Q39",
+      "year": "2016",
+      "text": "Which of the following characteristic features always holds true for the corresponding group of animals?",
+      "answer": "c",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "biological-classification",
+      "chapter": "Biological Classification",
+      "question_id": "Q3",
+      "year": "2024",
+      "text": "Match List I with List II Choose the",
+      "answer": "a",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "biological-classification",
+      "chapter": "Biological Classification",
+      "question_id": "Q5",
+      "year": "2024",
+      "text": "Match List-I with List-II: Choose the",
+      "answer": "c",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "body-fluids-and-circulation",
+      "chapter": "Body Fluids and Circulation",
+      "question_id": "Q17",
+      "year": "2020",
+      "text": "Match the following columns and select the correct option",
+      "answer": "c",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "body-fluids-and-circulation",
+      "chapter": "Body Fluids and Circulation",
+      "question_id": "Q18",
+      "year": "2019",
+      "text": "Match the Column - I with Column - II. Select the correct option",
+      "answer": "b",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "body-fluids-and-circulation",
+      "chapter": "Body Fluids and Circulation",
+      "question_id": "Q20",
+      "year": "2018",
+      "text": "Match the items given in Column I with those in Column II and select the correct option given below",
+      "answer": "a",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "body-fluids-and-circulation",
+      "chapter": "Body Fluids and Circulation",
+      "question_id": "Q21",
+      "year": "2018",
+      "text": "Match the items given in column I with those in column II and select the correct option given below",
+      "answer": "d",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "breathing-and-exchange-of-gases",
+      "chapter": "Breathing and Exchange of Gases",
+      "question_id": "Q1",
+      "year": "2025",
+      "text": "Match List-I with List-II. Choose the",
+      "answer": "b",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "breathing-and-exchange-of-gases",
+      "chapter": "Breathing and Exchange of Gases",
+      "question_id": "Q3",
+      "year": "2024",
+      "text": "Match List I with List II: Choose the",
+      "answer": "a",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "breathing-and-exchange-of-gases",
+      "chapter": "Breathing and Exchange of Gases",
+      "question_id": "Q5",
+      "year": "2024",
+      "text": "Match List-I with List-II: Choose the",
+      "answer": "c",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "breathing-and-exchange-of-gases",
+      "chapter": "Breathing and Exchange of Gases",
+      "question_id": "Q20",
+      "year": "2018",
+      "text": "Match the items given in column I with those in column II and select the correct option given below. [NEET 2018]",
+      "answer": "b",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "cell-cycle-and-cell-division",
+      "chapter": "Cell Cycle and Cell Division",
+      "question_id": "Q38",
+      "year": "2020",
+      "text": "Match the following with respect to meiosis: Select the correct option from the following: Code: Type Your AnswerView Answer View AnswerSolution",
+      "answer": "d",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "chemical-coordination-and-integration",
+      "chapter": "Chemical Coordination and Integration",
+      "question_id": "Q21",
+      "year": "2020",
+      "text": "Match the following columns and select the correct option",
+      "answer": "a",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "locomotion-and-movement",
+      "chapter": "Locomotion and Movement",
+      "question_id": "Q15",
+      "year": "2021",
+      "text": "Match List-I with List-II Choose the correct answer from the options given below",
+      "answer": "b",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "locomotion-and-movement",
+      "chapter": "Locomotion and Movement",
+      "question_id": "Q17",
+      "year": "2020",
+      "text": "Match the following columns and select the correct option",
+      "answer": "b",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "morphology-of-flowering-plants",
+      "chapter": "Morphology of Flowering Plants",
+      "question_id": "Q5",
+      "year": "2024",
+      "text": "Identify the type of flowers based on the position of calyx, corolla and androecium with respect to the ovary from the given figures (a) and Epigynous; (b) Hypogynous Hypogynous; (b) Epigynous Perigynous; (b) Epigynous Perigynous; (b) Perigynous",
+      "answer": "d",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "photosynthesis-in-higher-plants",
+      "chapter": "Photosynthesis in Higher Plants",
+      "question_id": "Q7",
+      "year": "2024",
+      "text": "Match List-I with List-II Choose the correct",
+      "answer": "c",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B11",
+      "chapter_slug": "photosynthesis-in-higher-plants",
+      "chapter": "Photosynthesis in Higher Plants",
+      "question_id": "Q16",
+      "year": "2023",
+      "text": "Match List - I with List - II Choose the correct",
+      "answer": "a",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "biodiversity-and-its-conservation",
+      "chapter": "Biodiversity and its Conservation",
+      "question_id": "Q48",
+      "year": "2014",
+      "text": "Given below is the representation of the extent of global diversity of invertebrates. What groups the four portions (A-D) represent respectively?",
+      "answer": "d",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "biotechnology-and-its-applications",
+      "chapter": "Biotechnology & its Applications",
+      "question_id": "Q28",
+      "year": "2020",
+      "text": "Match the following columns and select the correct option. Type Your AnswerView Answer View AnswerSolution",
+      "answer": "c",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "evolution",
+      "chapter": "Evolution",
+      "question_id": "Q16",
+      "year": "2021",
+      "text": "Match List-I with List-II [NEET 2021] Choose the correct answer from the options given below",
+      "answer": "c",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "evolution",
+      "chapter": "Evolution",
+      "question_id": "Q23",
+      "year": "2019",
+      "text": "Match the hominids with their correct brain size. [NEET 2019] Select the correct option",
+      "answer": "d",
+      "images": 2,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "human-health-and-diseases",
       "chapter": "Human Health & Diseases",
       "question_id": "Q27",
       "year": "2021",
-      "text": "Match List-I with List-II Choose the correct answer from the options given below. Type Your AnswerView Answer View AnswerSolution",
+      "text": "Match List-I with List-II Choose the correct answer from the options given below",
       "answer": "d",
       "images": 2,
       "tables": 0,
@@ -176,11 +1179,13 @@
       }
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "human-health-and-diseases",
       "chapter": "Human Health & Diseases",
       "question_id": "Q30",
       "year": "2020",
-      "text": "Match the following diseases with the causative organism and select the correct option. Type Your AnswerView Answer View AnswerSolution",
+      "text": "Match the following diseases with the causative organism and select the correct option",
       "answer": "d",
       "images": 2,
       "tables": 0,
@@ -208,99 +1213,8 @@
       }
     },
     {
-      "chapter_slug": "human-health-and-diseases",
-      "chapter": "Human Health & Diseases",
-      "question_id": "Q40",
-      "year": "2017",
-      "text": "Transplantation of tissues/org",
-      "answer": "a",
-      "images": 0,
-      "tables": 0,
-      "non_empty_option_count": 0,
-      "option_extraction": {
-        "source": "fallback",
-        "status": "missing",
-        "imageTokenCount": 0,
-        "nonEmptyOptionCount": 0
-      },
-      "parser_warnings": [
-        "Option content could not be extracted from the source block."
-      ],
-      "anomaly_types": [
-        "all_options_empty",
-        "answer_without_full_options",
-        "parser_warning"
-      ],
-      "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
-      }
-    },
-    {
-      "chapter_slug": "human-reproduction",
-      "chapter": "Human Reproduction",
-      "question_id": "Q27",
-      "year": "2022",
-      "text": "Given below are two statements: one is labelled as Assertion",
-      "answer": "b",
-      "images": 0,
-      "tables": 0,
-      "non_empty_option_count": 1,
-      "option_extraction": {
-        "source": "lower_markers",
-        "status": "partial",
-        "imageTokenCount": 0,
-        "nonEmptyOptionCount": 1
-      },
-      "parser_warnings": [
-        "Only part of the option set was extracted from the source block."
-      ],
-      "anomaly_types": [
-        "partial_options",
-        "answer_without_full_options",
-        "parser_warning"
-      ],
-      "options": {
-        "A": "and the other is labelled as Reason (R). [NEET 2022 Phase 2] Assertion",
-        "B": "",
-        "C": "",
-        "D": ""
-      }
-    },
-    {
-      "chapter_slug": "human-reproduction",
-      "chapter": "Human Reproduction",
-      "question_id": "Q40",
-      "year": "2016",
-      "text": "Fertilisation in hum",
-      "answer": "d",
-      "images": 0,
-      "tables": 0,
-      "non_empty_option_count": 0,
-      "option_extraction": {
-        "source": "fallback",
-        "status": "missing",
-        "imageTokenCount": 0,
-        "nonEmptyOptionCount": 0
-      },
-      "parser_warnings": [
-        "Option content could not be extracted from the source block."
-      ],
-      "anomaly_types": [
-        "all_options_empty",
-        "answer_without_full_options",
-        "parser_warning"
-      ],
-      "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
-      }
-    },
-    {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "microbes-in-human-welfare",
       "chapter": "Microbes in Human Welfare",
       "question_id": "Q11",
@@ -333,6 +1247,8 @@
       }
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "microbes-in-human-welfare",
       "chapter": "Microbes in Human Welfare",
       "question_id": "Q13",
@@ -365,6 +1281,8 @@
       }
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "microbes-in-human-welfare",
       "chapter": "Microbes in Human Welfare",
       "question_id": "Q15",
@@ -397,6 +1315,8 @@
       }
     },
     {
+      "subject": "",
+      "class_code": "B12",
       "chapter_slug": "microbes-in-human-welfare",
       "chapter": "Microbes in Human Welfare",
       "question_id": "Q23",
@@ -429,42 +1349,14 @@
       }
     },
     {
-      "chapter_slug": "reproductive-health",
-      "chapter": "Reproductive Health",
-      "question_id": "Q15",
-      "year": "2022",
-      "text": "IUDs are small objects made up of plastic or copper that are inserted in the uterine cavity. Which of the following statements are correct about IUDs ? [NEET 2022 Phase 2] a. IUDs decrease phagocytosis of sperm within the uterus. b. The released copper ions suppress the sperm motility. c. IUDs do not make the cervix hostile to the sperm. d. IUDs suppress the fertilization capacity of sperm. e. The IUDs require surgical intervention for their insertion in the uterine cavity. Choose the most appropriate answer from the options given below: A. a, b and e only B",
-      "answer": "",
-      "images": 0,
-      "tables": 0,
-      "non_empty_option_count": 3,
-      "option_extraction": {
-        "source": "lower_markers",
-        "status": "partial",
-        "imageTokenCount": 0,
-        "nonEmptyOptionCount": 3
-      },
-      "parser_warnings": [
-        "Only part of the option set was extracted from the source block."
-      ],
-      "anomaly_types": [
-        "partial_options",
-        "parser_warning"
-      ],
-      "options": {
-        "A": "",
-        "B": "and",
-        "C": "only C.",
-        "D": "only D."
-      }
-    },
-    {
-      "chapter_slug": "reproductive-health",
-      "chapter": "Reproductive Health",
-      "question_id": "Q25",
-      "year": "2017",
-      "text": "Match the following sexually transmitted diseases (Column I) with their causative agents (Column II) and select the correct option. [NEET 2017] Type Your AnswerView Answer View AnswerSolution:Ans. (d)Gonorrhoea is a sexually transmitted disease (STD) caused by infection with the Neisseria gonorrhoeae bacterium. N. gonorrhoeae infects the mucous membranes of the reproductive tract, including the cervix, uterus, and fallopian tubes in women, and the urethra in women and men.Syphilis is a chronic infectious disease caused by the spirochaete Treponema pallidum. Syphilis is usually transmitted by sexual contact or from mother to infant, although endemic syphilis is transmitted by non-sexual contact in communities living under poor hygiene conditions.Genital warts are caused by several of the epidermotropic human papillomaviruses (HPVs). HPV-6 and HPV-11 most commonly are isolated.Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV)",
-      "answer": "",
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "principles-of-inheritance-and-variation",
+      "chapter": "Principles of Inheritance & Variation",
+      "question_id": "Q7",
+      "year": "2024",
+      "text": "Match List I with List II Choose the",
+      "answer": "c",
       "images": 1,
       "tables": 0,
       "non_empty_option_count": 0,
@@ -479,6 +1371,109 @@
       ],
       "anomaly_types": [
         "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "principles-of-inheritance-and-variation",
+      "chapter": "Principles of Inheritance & Variation",
+      "question_id": "Q9",
+      "year": "2024",
+      "text": "Match List I with List II : Choose the",
+      "answer": "c",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "reproductive-health",
+      "chapter": "Reproductive Health",
+      "question_id": "Q8",
+      "year": "2023",
+      "text": "Match List I with List II. [NEET 2023] Choose the correct answer from the options given below:AA-III, B-I, C-IV, D-IIBA-III, B-IV, C-II, D-ICA-II, B-III, C-I, D-IDA-IV, B-II, C-I, D-III Correct",
+      "answer": "b",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "",
+      "class_code": "B12",
+      "chapter_slug": "reproductive-health",
+      "chapter": "Reproductive Health",
+      "question_id": "Q27",
+      "year": "2017",
+      "text": "Match the following sexually transmitted diseases (Column I) with their causative agents (Column II) and select the correct option. [NEET 2017]",
+      "answer": "d",
+      "images": 1,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
         "image_backed_option_gap",
         "parser_warning"
       ],

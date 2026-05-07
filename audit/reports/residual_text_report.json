@@ -1,14 +1,132 @@
 [
   {
-    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/principles-of-inheritance-and-variation.json",
-    "missing_question_ratio": 0.0357,
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Biodiversity and its Conservation",
+    "slug": "biodiversity-and-its-conservation",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/biodiversity-and-its-conservation.json",
+    "missing_question_ratio": 0.0,
     "residual_block_ratio": 0.0,
-    "schema_gap_risk": 0.025
+    "schema_gap_risk": 0.0
   },
   {
-    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/chapters/sexual-reproduction-in-flowering-plants.json",
-    "missing_question_ratio": 0.0392,
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Biotechnology & its Applications",
+    "slug": "biotechnology-and-its-applications",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/biotechnology-and-its-applications.json",
+    "missing_question_ratio": 0.0,
     "residual_block_ratio": 0.0,
-    "schema_gap_risk": 0.0275
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Biotechnology: Principle & Processes",
+    "slug": "biotechnology-principle-and-processes",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/biotechnology-principle-and-processes.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Ecosystem",
+    "slug": "ecosystem",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/ecosystem.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Evolution",
+    "slug": "evolution",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/evolution.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Human Health & Diseases",
+    "slug": "human-health-and-diseases",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/human-health-and-diseases.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Human Reproduction",
+    "slug": "human-reproduction",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/human-reproduction.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Microbes in Human Welfare",
+    "slug": "microbes-in-human-welfare",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/microbes-in-human-welfare.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Molecular Basis of Inheritance",
+    "slug": "molecular-basis-of-inheritance",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/molecular-basis-of-inheritance.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Organisms and Population",
+    "slug": "organisms-and-population",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/organisms-and-population.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Principles of Inheritance & Variation",
+    "slug": "principles-of-inheritance-and-variation",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/principles-of-inheritance-and-variation.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Reproductive Health",
+    "slug": "reproductive-health",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/reproductive-health.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
+  },
+  {
+    "subject": "biology",
+    "class_code": "B12",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "slug": "sexual-reproduction-in-flowering-plants",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/BIOLOGY/B12/chapters/sexual-reproduction-in-flowering-plants.json",
+    "missing_question_ratio": 0.0,
+    "residual_block_ratio": 0.0,
+    "schema_gap_risk": 0.0
   }
 ]

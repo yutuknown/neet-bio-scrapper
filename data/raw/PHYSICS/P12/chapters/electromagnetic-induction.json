@@ -1,0 +1,1054 @@
+[
+  {
+    "id": "Q1",
+    "text": "AB is a part of an electrical circuit (see figure). The potential difference \"VA - VB\", at the instant when current i = 2 A and is increasing at a rate of 1 amp/second is",
+    "options": {
+      "A": "9 volts",
+      "B": "10 volts",
+      "C": "5 volts",
+      "D": "6 volts"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2025",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2025_P12_Q1-main.jpg",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2025_P12_Q1-explanation1.jpg",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2025_P12_Q1-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "In the below diagram, a strong bar magnet is moving towards solenoid-2 from solenoid-1. The direction of induced current in solenoid-1 and that in solenoid-2, respectively, are through the directions",
+    "options": {
+      "A": "AB and DC",
+      "B": "BA and CD",
+      "C": "AB and CD",
+      "D": "BA and DC"
+    },
+    "answer": "a",
+    "explanation": "North of magnet is moving away from solenoid 1 so end B of solenoid 1 is South and as south of magnet is approaching solenoid 2 so end C of solenoid 2 is South.",
+    "year": "2024",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2024_P12_Q2-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2024_P12_Q2-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A sheet is placed on a horizontal surface in front of a strong magnetic pole. A force is needed to: A. hold the sheet there if it is magnetic. B. hold the sheet there if it is non-magnetic. C. move the sheet away from the pole with uniform velocity if it is conducting. D. move the sheet away from the pole with uniform velocity if it is both, non-conducting and non-polar. Choose the correct statement(s) from the options given below",
+    "options": {
+      "A": "A and C only",
+      "B": "A, C, and D only",
+      "C": "C only",
+      "D": "B and D only"
+    },
+    "answer": "a",
+    "explanation": "A. A force is needed to hold the sheet there if it is magnetic. A magnetic sheet implies it is made of a ferromagnetic material (e.g., iron, nickel) that can be attracted to a magnet. If the sheet is ferromagnetic, it will experience an attractive force toward the magnetic pole due to the magnetic field gradient. To hold the sheet in place (prevent it from moving toward the pole), an external force must counteract this attraction. Conclusion: This statement is correct. A force is needed to hold a magnetic sheet in place. B. A force is needed to hold the sheet there if it is non-magnetic. A non-magnetic sheet could mean it is neither ferromagnetic nor paramagnetic, typically implying it is a material like plastic, wood, or a diamagnetic substance that does not interact significantly with a magnetic field. In a static magnetic field, such a sheet experiences no magnetic force (diamagnetic effects are extremely weak and negligible for holding purposes). Thus, no force is needed to hold a non-magnetic sheet in place. Conclusion: This statement is incorrect. No force is needed to hold a non-magnetic sheet. C. A force is needed to move the sheet away from the pole with uniform velocity if it is conducting. A conducting sheet (e.g., made of copper or aluminum) can interact with a magnetic field if it is moved, due to electromagnetic induction. If the sheet is moved away from the magnetic pole with uniform velocity, the magnetic flux through the sheet changes (assuming a non-uniform field, common near a pole). This induces eddy currents in the conducting sheet, which, according to Lenz's law, produce a magnetic field opposing the change in flux. This results in a drag force opposing the motion. To maintain uniform velocity (constant speed, zero acceleration), a force must be applied to counteract this drag force. The drag force arises because the induced currents interact with the external magnetic field, creating a force that resists the motion. Conclusion: This statement is correct. A force is needed to move a conducting sheet away from the pole with uniform velocity due to induced eddy currents. D. A force is needed to move the sheet away from the pole with uniform velocity if it is both non-conducting and non-polar. A sheet that is non-conducting (e.g., an insulator like plastic or glass) does not allow current flow, so no eddy currents are induced when it is moved in a magnetic field. Non-polar is less standard in magnetism but likely means non-magnetic (neither ferromagnetic nor paramagnetic) and not polarized in an electrostatic sense (irrelevant here, as the problem involves a magnetic field, not an electric field). Thus, the sheet does not interact with the static magnetic field. Moving such a sheet away from the pole with uniform velocity requires no force to counteract magnetic effects, as there is no magnetic interaction (no attraction, repulsion, or induced forces). The only force needed would be to overcome friction or inertia, but the problem implies the force is related to the magnetic context, not mechanical resistances. Conclusion: This statement is incorrect. No magnetic-related force is needed to move a non-conducting, non-magnetic sheet with uniform velocity. Thus, only A and C are correct. Final Answer: (A) A and C only",
+    "year": "2024",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "An ideal inductor-resistor-battery circuit is switched on at t = 0 s. At time t, the current is i = i₀ (1 - e(-t/τ)) A, where i₀ is the steady-state value. The time at which the current becomes 0.5 i₀ is: [Given ln(2) = 0.693]",
+    "options": {
+      "A": "6.93 × 10³ s",
+      "B": "6.93 ms",
+      "C": "69.3 s",
+      "D": "6.93 s"
+    },
+    "answer": "b",
+    "explanation": "Given Data: Inductor (L) = 100 mH = 0.1 HResistance (R) = 10 ΩBattery voltage = 10 VAt time t, i(t) = 0.5 i₀ln(2) = 0.693 Step 1: Find the time constant (τ) The time constant τ is given by: τ = L / R Substitute the values: τ = 0.1 / 10 = 0.01 s Step 2: Use the equation for current to find time when i(t) = 0.5 i₀ The current equation is: i(t) = i₀ (1 - e(-t/τ)) When i(t) = 0.5 i₀, substitute this into the equation: 0.5 i₀ = i₀ (1 - e(-t/τ)) Cancel i₀ from both sides: 0.5 = 1 - e(-t/τ) Rearranging: e(-t/τ) = 0.5 Taking the natural logarithm on both sides: -t/τ = ln(0.5) -t/τ = -0.693 t = 0.693 × τ Substitute τ = 0.01 s: t = 0.693 × 0.01 = 6.93 × 10⁻³ s = 6.93 ms Conclusion: The time at which the current becomes 0.5 i₀ is 6.93 ms. Correct Answer: (b) 6.93 ms.",
+    "year": "2024",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2024_P12_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A conducting circular loop of face area 2.5 × 10⁻³ m² is placed perpendicular to a magnetic field which varies as B = 0.5 sin(100πt) T. The magnitude of induced EMF at time t = 0 s is: (b) 125π mV (c) 125π V (d) 12.5π mV",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "b",
+    "explanation": "The induced EMF in a conducting loop is given by Faraday's Law of Induction: ε = - dΦB / dt Where: ΦB is the magnetic flux through the loop,B is the magnetic field,A is the area of the loop,t is time. The magnetic flux ΦB is given by: ΦB = B A Since the loop is perpendicular to the magnetic field, the angle between the area vector and the magnetic field is 0 degrees, so: ΦB = B A Now, the magnetic field varies as: B = 0.5 sin(100πt) T The area of the loop is given as 2.5 × 10⁻³ m², so the magnetic flux at time t is: ΦB = (0.5 sin(100πt)) (2.5 × 10⁻³) ΦB = 1.25 × 10⁻³ sin(100πt) Weber To find the induced EMF, we differentiate the flux with respect to time: ε = - d / dt (1.25 × 10⁻³ sin(100πt)) ε = - 1.25 × 10⁻³ 100π cos(100πt) At t = 0 s, cos(100πt) = 1, so: ε = - 1.25 × 10⁻³ 100π ε = - 0.125π V Since we are asked for the magnitude: ε = 0.125π V = 125π mV Correct Answer: (b) 125π mV.",
+    "year": "2024",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "missing",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content could not be extracted from the source block."
+    ]
+  },
+  {
+    "id": "Q6",
+    "text": "A rod of length L rotates with a small uniform angular velocity ω about its perpendicular bisector. A uniform magnetic field B exists parallel to the axis of rotation. The potential difference between the centre of the rod and an end is",
+    "options": {
+      "A": "BωL² / 8",
+      "B": "BωL² / 2",
+      "C": "BωL² / 4",
+      "D": "zero"
+    },
+    "answer": "a",
+    "explanation": "Given: Length of the rod = LAngular velocity = ωMagnetic field B is parallel to the axis of rotation.The rod rotates about its perpendicular bisector. When a rod rotates in a magnetic field, a potential difference (also known as an electromotive force or EMF) is induced due to the motion of the charges in the rod within the magnetic field. This phenomenon is explained by Faraday's law of induction. The formula for induced EMF in a rotating rod is given by: ε = B ω r² / 2 Where: B is the magnetic field strength,ω is the angular velocity,r is the distance from the center of the rod to the point where we measure the potential difference. For a rod of length L rotating about its perpendicular bisector: The distance from the center of the rod to its end is L/2. Thus, the potential difference V between the center of the rod and one of its ends is: V = (B ω (L/2)²) / 2 Simplifying: V = B ω L² / 8 Correct Answer: (a) BωL² / 8.",
+    "year": "2024",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Let us consider two solenoids A and B, made from the same magnetic material of relative permeability μᵣ and of equal area of cross-section. The length of A is twice that of B, and the number of turns per unit length in A is half that of B. The ratio of self-inductances of the two solenoids, LA : LB is",
+    "options": {
+      "A": "1 : 2",
+      "B": "2 : 1",
+      "C": "8 : 1",
+      "D": "1 : 8"
+    },
+    "answer": "a",
+    "explanation": "⇒ L ∝ n2l = 1 : 2",
+    "year": "2024",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2024_P12_Q7-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2024_P12_Q7-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2024_P12_Q7-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2024_P12_Q7-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "An ac source is connected in the given circuit. The value of 0 will be",
+    "options": {
+      "A": "60o",
+      "B": "90o",
+      "C": "30o",
+      "D": "45o"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q8-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q8-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "If Z1 and Z2 are the impedances of the given circuits (a) and (b) as shown in figures, then choose the correct option",
+    "options": {
+      "A": "Z1 < Z2",
+      "B": "Z1 + Z2 = 20 Ω",
+      "C": "Z1 = Z2",
+      "D": "Z1 >Z2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q9-main.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The maximum power is dissipated for an ac in a/an",
+    "options": {
+      "A": "resistive circuit",
+      "B": "LC circuit",
+      "C": "inductive circuit",
+      "D": "capacitive circuit"
+    },
+    "answer": "a",
+    "explanation": "Power dissipated is maximum of purely resistive circuit.",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "An emf is generated by an ac generator having 100 turn coil, of loop area 1 m2. The coil rotates at a speed of one revolution per second and placed in a uniform magnetic field of 0.05 T perpendicular to the axis of rotation of the coil. The maximum value of emf is",
+    "options": {
+      "A": "3.14 V",
+      "B": "31.4 V",
+      "C": "62.8 V",
+      "D": "6.28 V"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "For very high frequencies, the effective impedance of the circuit (shown in the figure) will be",
+    "options": {
+      "A": "4 Ω",
+      "B": "6 Ω",
+      "C": "1 Ω",
+      "D": "3 Ω"
+    },
+    "answer": "d",
+    "explanation": "As frequency is very high XC ≈ 0 XL → α Effective circuit will be Effective impedance of circuit will be = 3Ω",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q12-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q12-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "In a series LCR circuit, the inductance L is 10 mH, capacitance C is 1 μF and resistance R is 100Ω. The frequency at which resonance occurs is",
+    "options": {
+      "A": "15.9 kHz",
+      "B": "1.59 rad/s",
+      "C": "1.59 kHz",
+      "D": "15.9 rad/s"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "A 12 V,60 W lamp is connected to the secondary of a step down transformer, whose primary is connected to ac mains of 220 V. Assuming the transformer to be ideal, what is the current in the primary winding ?",
+    "options": {
+      "A": "2.7 A",
+      "B": "3.7 A",
+      "C": "0.37 A",
+      "D": "0.27 A"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "An ac source is connected to a capacitor C. Due to decrease in its operating frequency",
+    "options": {
+      "A": "displacement current increases.",
+      "B": "displacement current decreases.",
+      "C": "capacitive reactance remains constant.",
+      "D": "capacitive reactance decreases."
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The magnetic energy stored in an inductor of inductance 4 μH carrying a current of 2 A is",
+    "options": {
+      "A": "4 μJ",
+      "B": "4 mJ",
+      "C": "8 mJ",
+      "D": "8 μJ"
+    },
+    "answer": "d",
+    "explanation": "Solution: Magnetic energy stored in an inductor",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The net impedance of circuit (as shown in figure) will be",
+    "options": {
+      "A": "15 Ω",
+      "B": "5√5 Ω",
+      "C": "25 Ω",
+      "D": "10√2 Ω"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q17-main.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2023_P12_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Given below are two statements Statement I : In an a.c circuit, the current through a capacitor leads the voltage across it. Statement II : In a.c circuit containing pure capacitance only, the phase difference between the current and voltage is π",
+    "options": {
+      "A": "Statement I is incorrect but Statement II is",
+      "B": "Both Statement I and Statement II are",
+      "C": "Both Statement I and Statement II are incorrect",
+      "D": "Statement I is correct but Statement II is incorrect"
+    },
+    "answer": "d",
+    "explanation": "Thus statement I is correct while II is incorrect.",
+    "year": "2022",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q18-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q18-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q18-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q18-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "An inductor of inductance 2 mH is connected to a 220 V, 50 Hz ac source. Let the inductive reactance in the circuit is X1. If a 220 V dc source replace the ac source in the circuit, then the inductive reactance in the circuit is X2, X1 and X2 respectively are",
+    "options": {
+      "A": "0.628 Ω, infinity",
+      "B": "6.28 Ω, zero",
+      "C": "6.28 Ω, infinity",
+      "D": "0.628 Ω, zero"
+    },
+    "answer": "d",
+    "explanation": "We know, for A.C. Source For D.C. Source The inductor behaves as a closed circuit offering no resistance at all (at steady state) as w = 0 (For D.C.)",
+    "year": "2022",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q19-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q19-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "A standard filament lamp consumes 100 W when connected to 200 V ac mains supply. The peak current through the bulb will be",
+    "options": {
+      "A": "2 A",
+      "B": "0.707 A",
+      "C": "1 A",
+      "D": "1.414 A"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The magnetic flux linked to a circular coil of radius R is. The magnitude of induced emf in the coil at t = 5 s is",
+    "options": {
+      "A": "192 V",
+      "B": "108 V",
+      "C": "197 V",
+      "D": "150 V"
+    },
+    "answer": "a",
+    "explanation": "Given magnetic flux is Induced emf is given by",
+    "year": "2022",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q21-main.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q21-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "The peak voltage of the ac source is equal to",
+    "options": {
+      "A": "The value of voltage supplied to the circuit",
+      "B": "The rms value of the ac source",
+      "C": "√2 times the rms value of the ac source",
+      "D": "1/√2 times the rms value of the ac source"
+    },
+    "answer": "c",
+    "explanation": "We know, RMS value of A.C.",
+    "year": "2022",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q22-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q22-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "A series LCR circuit with inductance 10 H, capacitance 10 μF, resistance 50 Ω is connected to an ac source of voltage, V = 200sin(100t) volt. If the resonant frequency of the LCR circuit is v0 and the frequency of the ac source is v, then",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q23-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q23-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q23-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q23-explanation4.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q23-explanation5.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q23-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "A big circular coil of 1000 turns and an average radius of 10 m is rotating about its horizontal diameter at 2 rad s-1 . If the vertical component of the earth's magnetic field at that place is 2 × 10-5 T and the electrical resistance of the coil is 12.56 ohm, then the maximum induced current in the coil will be",
+    "options": {
+      "A": "1.5 A",
+      "B": "1 A",
+      "C": "2 A",
+      "D": "0.25 A"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2022",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q24-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "A square loop of side 1 m and resistance 1Ω is placed in a magnetic field of 0.5 T. If the plane of the loop is perpendicular to the direction of the magnetic field, the magnetic flux through the loop is",
+    "options": {
+      "A": "0.5 weber",
+      "B": "1 Weber",
+      "C": "Zero Weber",
+      "D": "2 Weber"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2022",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q25-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2022_P12_Q25-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Two conducting circular loops of radii R1 and R2 are placed in the same plane with their centres coinciding. If R1 >> R2, the mutual inductance M between them will be directly proportional to",
+    "options": {
+      "A": "R1/R2",
+      "B": "R2/R1",
+      "C": "R12/R2",
+      "D": "R22/R1"
+    },
+    "answer": "d",
+    "explanation": "Solution: The magnetic field at the centre of the primary coil Considering it to be uniform, magnetic flux passing through the secondary coil is",
+    "year": "2021",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2021_P12_Q26-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2021_P12_Q26-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "The magnetic flux linked with a coil (in Wb) is given by the equation φ = 5t2 + 3t + 16 The magnitude of induced emf in the coil at the fourth second will be",
+    "options": {
+      "A": "33 V",
+      "B": "43 V",
+      "C": "108 V",
+      "D": "10 V"
+    },
+    "answer": "b",
+    "explanation": "We are given the magnetic flux: φ = 5t² + 3t + 16 To find the induced emf (e), we use Faraday's Law: e = dφ/dt Differentiate φ with respect to t: dφ/dt = d/dt (5t² + 3t + 16) = 10t + 3 Now plug in t = 4 seconds: e = 10(4) + 3 = 40 + 3 = 43 V",
+    "year": "2020",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "A wheel with 20 metallic spokes each 1 m long is rotated with a speed of 120 rpm in a plane perpendicular to a magnetic field of 0.4 G. The induced emf between the axle and rim of the wheel will be (1 G = 10-4 T)",
+    "options": {
+      "A": "2.51 × 10-4 V",
+      "B": "2.51 × 10-5 V",
+      "C": "4.0 × 10-5 V",
+      "D": "2.51 V"
+    },
+    "answer": "a",
+    "explanation": "Given, magnetic field, B = 0.4 G = 0.4 × 10 - 4T l = 1m Frequency, f = 12 rpm = 120 / 60 rps = 2 Hz Induced emf between the axle and rim of the wheel is given as",
+    "year": "2020",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2020_P12_Q28-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "A light bulb and an inductor coil are connected to AC ac source through a key as shown in the figure below. The key is closed and after sometime an iron rod is inserted into the interior of the inductor. The glow of the light bulb",
+    "options": {
+      "A": "decreases",
+      "B": "remains unchanged",
+      "C": "will fluctuate",
+      "D": "increases"
+    },
+    "answer": "a",
+    "explanation": "When an iron rod is inserted into the interior of the inductor, then inductance (L) of the coil increases. Hence, inductive reactance (XL = ωL)also increases. ∴ Current in the circuit is given as Hence, when XL increases, then current I decreases. Therefore, glow of the light bulb will decrease.",
+    "year": "2020",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2020_P12_Q29-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2020_P12_Q29-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2020_P12_Q29-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "A cycle wheel of radius 0.5 m is rotated with constant angular velocity of 10 rad/s in a region of magnetic field of 0.1 T which is perpendicular to the plane of the wheel. The EMF generated between its centre and the rim is",
+    "options": {
+      "A": "0.25 V",
+      "B": "0.125 V",
+      "C": "0.5 V",
+      "D": "zero"
+    },
+    "answer": "b",
+    "explanation": "When a conducting disc or wheel of radius r rotates with constant angular velocity of ω about its axis in a uniform magnetic field perpendicular to its plane and parallel to its axis of rotation, then,",
+    "year": "2019",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2019_P12_Q30-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2019_P12_Q30-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "A coil of 800 turns effective area 0.05 m 2 is kept perpendicular to a magnetic field 5 × 10-5 T. When the plane of the coil is rotated by 90º around any of its co-planar axis in 0.1 s, the emf induced in the coil will be",
+    "options": {
+      "A": "0.2 V",
+      "B": "2 ×10-3 V",
+      "C": "0.02 V",
+      "D": "2 V"
+    },
+    "answer": "c",
+    "explanation": "Given, area of coil, A = 0.05 m2 magnetic field, B = 5 × 10 -5 T and number of turns, N = 800 . The magnetic flux linked with the coil is φ = N (B ⋅ A) = N BA cosθ ... (i) where, θ is the angle between B and A. The emf induced when coil is rotated from θ1 = 0° to θ2 = 90° is",
+    "year": "2019",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2019_P12_Q31-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "In which of the following devices, the eddy current effect is not used?",
+    "options": {
+      "A": "Induction furnace",
+      "B": "Magnetic braking in train",
+      "C": "Electromagnet",
+      "D": "Electric heater"
+    },
+    "answer": "d",
+    "explanation": "Solution: A. Induction Furnace: Eddy currents are used in induction furnaces to heat metal for melting or heating purposes. The metal is placed inside a coil, and alternating current passes through the coil, inducing eddy currents in the metal, which heats it up due to its electrical resistance. B. Magnetic Braking in Train: Eddy currents are used in magnetic braking systems in trains. When a train's metal wheels pass through a magnetic field, eddy currents are induced in the wheels, creating a force that opposes the motion of the train, slowing it down. C. Electromagnet: Eddy currents can have an undesirable effect on electromagnets because they can cause energy loss and heating. However, in devices like transformers and electric motors, eddy currents can be minimized by using laminated cores or by using materials with high electrical resistivity. D. Electric Heater: Electric heaters typically do not use the eddy current effect. Instead, they use the resistance of a material to convert electrical energy into heat. The electric current passes through a resistive element, such as a wire or a coil, which heats up and transfers heat to the surrounding area.",
+    "year": "2019",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "The magnetic potential energy stored in a certain inductor is 25 mJ, when the current in the inductor is 60 mA. This inductor is of inductance",
+    "options": {
+      "A": "1.389 H",
+      "B": "138.88 H",
+      "C": "0.138 H",
+      "D": "13.89 H"
+    },
+    "answer": "d",
+    "explanation": "Given, magnetic potential energy stored in an inductor, U = 25 mJ = 25 × 10 -3 J Current in an inductor, I0 = 60 mA = 60 × 10-3 A As, the expression for energy stored in an inductor is given as where, L is the inductance of the inductor. Substituting the given values in above equation., we get",
+    "year": "2018",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2018_P12_Q33-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2018_P12_Q33-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "A long solenoid of diameter 0.1 m has 2 × 104 turns per meter. At the centre of the solenoid, a coil of 100 turns and a radius of 0.01 m is placed with its axis coinciding with the solenoid axis. The current in the solenoid reduces at a constant rate to 0 A from 4 A in 0.05 s. If the resistance of the coil is 10π2Ω. The total charge flowing through the coil during this time is",
+    "options": {
+      "A": "16 μC",
+      "B": "32 μC",
+      "C": "16 π μC",
+      "D": "32 π μC"
+    },
+    "answer": "",
+    "explanation": "Solution:",
+    "year": "2017",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2017_P12_Q34-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2017_P12_Q34-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2017_P12_Q34-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2017_P12_Q34-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "A uniform magnetic field is restricted within a region of radius r. The magnetic field changes with time at a rate dB/dT. Loop 1 of radius R > r encloses the region r and loop 2 of radius R is outside the region of magnetic field as shown in the figure. Then, the emf generated is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "c",
+    "explanation": "Induced emf in the region is given by Rate of change of magnetic flux associated with loop 1 Similarly e2 = emf associated with loop 2",
+    "year": "2016",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2016_P12_Q35-main.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2016_P12_Q35-main2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2016_P12_Q35-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2016_P12_Q35-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2016_P12_Q35-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q36",
+    "text": "A long solenoid has 1000 turns. When a current of 4A flows through it, the magnetic flux linked with each turn of the solenoid is 4 x 10-3 Wb. The self-inductance of the solenoid is",
+    "options": {
+      "A": "1H",
+      "B": "4H",
+      "C": "3H",
+      "D": "2H"
+    },
+    "answer": "a",
+    "explanation": "Solution: Given, Number of turns in the solenoid, N = 1000 Current, I = 4 A Magnetic flux, straight phi subscript straight B = 4 x 10-3 Wb Self-inductance of the solenoid is given by, Putting the value of the equation in (i), we get = 1H",
+    "year": "2016",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2016_P12_Q36-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2016_P12_Q36-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "An electron moves on a straight line path XY as shown. The abcd is a coil adjacent in the path of electron. What will be the direction of current, if any induced in the coil?",
+    "options": {
+      "A": "abcd",
+      "B": "adcb",
+      "C": "The current will reverse its direction as the electron goes past the coil",
+      "D": "No current induced"
+    },
+    "answer": "c",
+    "explanation": "When the electron moves from XX to XX, the flux linked with the coil abed (which is into the page) will first increase and then decrease as the electron passes by. So the induced current in the coil will be first anticlockwise and will reverse its direction (i.e. will become clockwise) as the electron goes past the coil.",
+    "year": "2015",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q37-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "A conducting square frame of side 'a' and a long straight wire carrying current I are located in the same plane as shown in the figure. The frame moves to the right with a constant velocity 'V'. The emf induced in the frame will be proportional to",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Solution: See figure alongside. Let x be the distance of the centre of the frame from the long straight wire carrying current I. Consider the point P at a distance y from the long straight wire carrying current I. The strength of magnetic induction at point P is given by Integrating over y from y = (x - a/2) to y = (x + a/2) We get 2014",
+    "year": "2015",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-main.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-main2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-main3.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-main4.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-explanation1.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-explanation2.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-explanation3.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-explanation4.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-explanation5.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-explanation6.png",
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q38-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "A thin semicircular conducting ring (PQR) of radius 'r' is falling with its plane vertical in a horizontal magnetic field B, as shown in figure. The potential difference developed across the ring when its speed is v, is",
+    "options": {
+      "A": "πrBv and R is at higher potential",
+      "B": "2rBv and R is at higher potential",
+      "C": "Zero",
+      "D": "Bvπr2/2 & P is at a higher potential"
+    },
+    "answer": "b",
+    "explanation": "Solution: Effective length = 2r Potential developed = 2rBv",
+    "year": "2015",
+    "chapter": "Electromagnetic Induction",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electromagnetic-induction/ELECTROMAGNETIC_INDUCTION-2015_P12_Q39-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

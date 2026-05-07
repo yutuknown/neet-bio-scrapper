@@ -1,17 +1,20 @@
 {
   "name": "neet-bio-scraper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "EduRev NEET previous-year-question scraper with structured JSON output and downloaded diagram assets.",
-  "main": "scraper/standalone_scraper.js",
+  "main": "scraper/index.js",
   "scripts": {
-    "scrape": "node scraper/standalone_scraper.js",
-    "scrape:single": "node scraper/standalone_scraper.js --pyq",
-    "scrape:chapters": "node scraper/course_chapter_links.js",
-    "scrape:pyq-links": "node scraper/pyq_links.js",
-    "scrape:multi": "node scraper/multi_chapter_scraper.js",
+    "scrape": "node scraper/index.js",
+    "scrape:class11": "node scraper/subjects/biology/class-11.scraper.js",
+    "scrape:class12": "node scraper/subjects/biology/class-12.scraper.js",
+    "scrape:single": "node scraper/subjects/biology/class-12.scraper.js --pyq",
+    "scrape:bio": "node scraper/runners/run-biology.js",
+    "scrape:physics": "node scraper/runners/run-physics.js",
+    "scrape:chemistry": "node scraper/runners/run-chemistry.js",
+    "scrape:all": "node scraper/runners/run-all.js",
     "audit:options": "python3 audit/scan_option_anomalies.py",
     "audit": "python3 audit/run_audit.py",
-    "dashboard:build": "node dashboard/build_data.js",
+    "dashboard:build": "node dashboard/build-data.js",
     "dashboard:serve": "python3 -m http.server 4173"
   },
   "keywords": [

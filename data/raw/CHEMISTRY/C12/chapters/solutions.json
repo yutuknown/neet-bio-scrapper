@@ -1,0 +1,667 @@
+[
+  {
+    "id": "Q1",
+    "text": "Which of the following aqueous will exhibit highest boiling point?",
+    "options": {
+      "A": "0.01M Na2SO4",
+      "B": "0.015M C6H12O6",
+      "C": "0.01M Urea",
+      "D": "0.01M KNO3"
+    },
+    "answer": "a",
+    "explanation": "Boiling point elevation is a colligative property: \\Delta T_b = i\\,K_b\\,mΔTb = i Kb m For the same solvent (water), K_bKb is constant, and at these low concentrations we can compare molalityi \\times \\text{molality}i×molality (≈ molarity). Na₂SO₄ → dissociates ideally into 3 ions (2 Na⁺ + SO₄²⁻), so i ≈ 3 i × M = 3 × 0.01 = 0.03KNO₃ → 2 ions, i \\approx 2i ≈ 2 2 \\times 0.01 = 0.022 × 0.01 = 0.02Glucose (C₆H₁₂O₆) → non-electrolyte, i = 1i = 1 1 \\times 0.015 = 0.0151×0.015=0.015Urea → non-electrolyte, i=1i = 1i=1 1×0.01=0.011 \\times 0.01 = 0.011×0.01=0.01 Largest iMiM → Na₂SO₄, so it gives the highest boiling point.",
+    "year": "2025",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-I, C-IV, D-II",
+      "B": "A-III, B-II, C-I, D-IV",
+      "C": "A-II, B-IV, C-I, D-III",
+      "D": "A-II, B-I, C-IV, D-III"
+    },
+    "answer": "d",
+    "explanation": "A. Humidity: Humidity refers to water vapor (liquid) dispersed in air (gas). This is an example of a liquid in gas solution. (A-II)B. Alloys: Alloys are homogeneous mixtures of metals or a metal and a non-metal in solid form. This is an example of a solid in solid solution. (B-I)C. Amalgams: Amalgams are alloys that consist of a metal (solid) dissolved in mercury (liquid). This is an example of a liquid in solid solution. (C-IV)D. Smoke: Smoke consists of tiny solid particles dispersed in a gas. This is an example of a solid in gas solution. (D-III) Therefore, the correct option is (d) A-II, B-I, C-IV, D-III.",
+    "year": "2025",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2025_C12_Q2-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "5 moles of liquid X and 10 moles of liquid Y make a having a vapour pressure of 70 torr. The vapour pressures of pure X and Y are 63 torr and 78 torr respectively. Which of the following is true regarding the described ?",
+    "options": {
+      "A": "The is ideal.",
+      "B": "The has volume greater than the sum of individual volumes.",
+      "C": "The shows positive deviation.",
+      "D": "The shows negative deviation."
+    },
+    "answer": "d",
+    "explanation": "Given: nX = 5nY = 10PX0 = 63 torrPY0 = 78 torrObserved total pressure = 70 torr 1. Mole Fractions: The total number of moles is: ntotal = nX + nY = 5 + 10 = 15 The mole fraction of X and Y are calculated as follows: χX = χX / ntotal = 5 / 15 = 0.333 χY = χY / ntotal = 10 / 15 = 0.667 2. Predicted Vapor Pressure (Raoult's Law, Ideal Solution): Using Raoult's Law: Pideal = χX PX0 + χY PY0 Substitute the values: Pideal = (0.333)(63) + (0.667)(78) First term: (0.333)(63) = 20.999 ≈ 21 Second term: (0.667)(78) = 52.026 ≈ 52 Thus: Pideal = 21 + 52 = 73 torr 3. Comparison with Observed: Predicted (ideal) pressure = 73 torrObserved pressure = 70 torr Since Pobs < Pideal, the solution shows a negative deviation from Raoult's law.",
+    "year": "2025",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The Henry's law constant (KH) values of three gases (A, B, C) in water are 145,2 × 10-5 and 35kbar respectively. The solubility of these gases in water follow the order",
+    "options": {
+      "A": "B > A > C",
+      "B": "B > C > A",
+      "C": "A > C > B",
+      "D": "A > B > C"
+    },
+    "answer": "",
+    "explanation": "H H H H H -5 H H H H Option B: B > C > A",
+    "year": "2024",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2024_C12_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The plot of osmotic pressure (П) vs concentration (molL-1) for a gives a straight line with slope 25.73L bar mol-1. The temperature at which the osmotic pressure measurement is done is (Use R = 0.083 L bar mol-1 K-1)",
+    "options": {
+      "A": "37∘C",
+      "B": "310∘C",
+      "C": "25.73∘C",
+      "D": "12.05∘C"
+    },
+    "answer": "a",
+    "explanation": "The relationship between the osmotic pressure (Π) of a solution and its concentration (c) can be derived from the van't Hoff equation for dilute solutions, which is given by: Π = cRT where: Π is the osmotic pressure, c is the concentration of the solution in moles per liter, R is the ideal gas constant in appropriate units, and T is the temperature in Kelvin. According to the problem, the slope of the Π vs c plot is given as 25.73L bar mol-1 which corresponds to the product RT from the van't Hoff equation. We are provided with the value of the gas constant R = 0.083 L bar mol-1 K-1. To find the temperature T, we use the following equation derived from the slope of the line: RT=25.73 L bar mol-1 To isolate T, we rearrange the equation: T=25.73 L bar mol-1 / 0.083 L bar mol-1 K-1 ≈ 310 K To convert this temperature from Kelvin to Celsius, we use the conversion formula: This value is closest to 37∘C, which corresponds to Option A. Therefore, the temperature at which the osmotic pressure measurement is done is approximately 37∘C.",
+    "year": "2024",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2024_C12_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Which of the following pairs of aqueous s will have the same value of osmotic pressure? (Assume complete dissociation in aqueous .)",
+    "options": {
+      "A": "0.1 M BaCl₂ and 0.2 M K₂SO₄",
+      "B": "0.1 M Na₃PO₄ and 0.1 M K₂SO₄",
+      "C": "0.2 M NaCl and 0.1 M K₂SO₄",
+      "D": "0.2 M NaCl and 0.1 M K₃[Fe(CN)₆]"
+    },
+    "answer": "d",
+    "explanation": "Osmotic pressure depends on the van't Hoff factor (i), which represents the number of particles a solute dissociates into, and the molarity (M) of the solution. For two solutions to have the same osmotic pressure, the product of i and M should be the same. Let's go through the options: (a) 0.1 M BaCl₂ and 0.2 M K₂SO₄: BaCl₂ dissociates into 3 ions, so i = 3.K₂SO₄ dissociates into 3 ions, so i = 3.The product of i and M for BaCl₂ = 0.1 × 3 = 0.3.The product of i and M for K₂SO₄ = 0.2 × 3 = 0.6.These values are not equal, so they do not have the same osmotic pressure. (b) 0.1 M Na₃PO₄ and 0.1 M K₂SO₄: Na₃PO₄ dissociates into 4 ions, so i = 4.K₂SO₄ dissociates into 3 ions, so i = 3.The product of i and M for Na₃PO₄ = 0.1 × 4 = 0.4.The product of i and M for K₂SO₄ = 0.1 × 3 = 0.3.These values are not equal, so they do not have the same osmotic pressure. (c) 0.2 M NaCl and 0.1 M K₂SO₄: NaCl dissociates into 2 ions, so i = 2.K₂SO₄ dissociates into 3 ions, so i = 3.The product of i and M for NaCl = 0.2 × 2 = 0.4.The product of i and M for K₂SO₄ = 0.1 × 3 = 0.3.These values are not equal, so they do not have the same osmotic pressure. (d) 0.2 M NaCl and 0.1 M K₃[Fe(CN)₆]: NaCl dissociates into 2 ions, so i = 2.K₃[Fe(CN)₆] dissociates into 4 ions, so i = 4.The product of i and M for NaCl = 0.2 × 2 = 0.4.The product of i and M for K₃[Fe(CN)₆] = 0.1 × 4 = 0.4.These values are equal, so they have the same osmotic pressure. Thus, the correct answer is (d) 0.2 M NaCl and 0.1 M K₃[Fe(CN)₆].",
+    "year": "2024",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match the equilibrium processes in List-I with their respective physical properties in List-II and choose the correct option",
+    "options": {
+      "A": "A-II, B-I, C-III, D-IV",
+      "B": "A-I, B-II, C-III, D-IV",
+      "C": "A-III, B-II, C-I, D-IV",
+      "D": "A-II, B-I, C-III, D-IV"
+    },
+    "answer": "a",
+    "explanation": "A. Liquid ⇌ Vapour: This process refers to boiling point, which is the temperature at which the liquid changes to vapor. So, A → II (Boiling point).B. Solid ⇌ Liquid: This process is the melting point, the temperature at which a solid changes to a liquid. So, B → I (Melting point).C. Solid ⇌ Vapour: This process is known as sublimation, where a solid directly changes into a vapor without passing through the liquid phase. So, C → III (Sublimation point).D. Solute(solid) ⇌ Solute(solution): This refers to the formation of a saturated solution, where the maximum amount of solute is dissolved in the solvent at a particular temperature. So, D → IV (Saturated solution). Thus, the correct answer is A-II, B-I, C-III, D-IV.",
+    "year": "2024",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2024_C12_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "When 5 g of a non-volatile, non-electrolyte solute is dissolved in 100 g of a certain solvent, the freezing point of the solvent decreases by 0.25 K. The molar mass of the solute is: Kf of the given solvent = 1.2 K kg mol⁻¹",
+    "options": {
+      "A": "242.8 g mol⁻¹",
+      "B": "238.2 g mol⁻¹",
+      "C": "241.8 g mol⁻¹",
+      "D": "240.0 g mol⁻¹"
+    },
+    "answer": "d",
+    "explanation": "To find the molar mass of the solute, we will use the formula for the depression in freezing point: ΔTf = Kf × m Where: ΔTf is the freezing point depression,Kf is the cryoscopic constant (freezing point depression constant) of the solvent,m is the molality of the solution. First, we can rearrange the equation to find m: m = ΔTf / Kf Now, we can calculate the molality m: Given: ΔTf = 0.25 K,Kf = 1.2 K kg mol⁻¹. So: m = 0.25 / 1.2 = 0.2083 mol/kg Now, molality (m) is defined as: m = (number of moles of solute) / (mass of solvent in kg) We know: The mass of the solvent is 100 g = 0.1 kg,The mass of the solute is 5 g. We can substitute the value of m into the formula to find the number of moles of solute: 0.2083 mol/kg = (number of moles of solute) / 0.1 kg Number of moles of solute = 0.2083 × 0.1 = 0.02083 mol Now, the molar mass M of the solute is given by: M = (mass of solute) / (number of moles of solute) Substituting the known values: M = 5 g / 0.02083 mol = 240.0 g/mol Thus, the molar mass of the solute is 240.0 g/mol, so the correct answer is (d) 240.0 g mol⁻¹.",
+    "year": "2024",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "What mass of glucose (C₆H₁₂O₆) must be dissolved in 1 liter of to make it isotonic with a 15 g/L of urea (NH₂CONH₂)? Given: Molar mass (g/mol) C: 12, H: 1, O: 16, N: 14",
+    "options": {
+      "A": "55 g",
+      "B": "15 g",
+      "C": "30 g",
+      "D": "45 g"
+    },
+    "answer": "d",
+    "explanation": "To make the glucose solution isotonic with a 15 g/L urea solution: Find the molarity of urea: Molar mass of urea = 60 g/mol.Molarity of urea = 15 g/L ÷ 60 g/mol = 0.25 mol/L. Glucose molarity for isotonic solution: Since glucose is a non-electrolyte, its van't Hoff factor (i) is 1. To match the osmotic pressure of urea, the molarity of glucose should also be 0.25 mol/L. Calculate mass of glucose: Moles of glucose needed = 0.25 mol.Molar mass of glucose = 180 g/mol.Mass of glucose = 0.25 mol × 180 g/mol = 45 g. Thus, the mass of glucose required is 45 g. The correct answer is (d) 45 g.",
+    "year": "2024",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Given below are two statements: one is labeled as Assertion (A) and the other is labeled as Reason (R): Assertion (A): Helium is used to dilute oxygen in the diving apparatus. Reason (R): Helium has a high solubility in O₂. In light of the above statements, choose the correct",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "d",
+    "explanation": "Assertion (A): Helium is used to dilute oxygen in diving apparatus is true. Helium is commonly used in helium-oxygen mixtures (like heliox) for deep-sea diving. This is because helium reduces the risk of nitrogen narcosis and allows divers to breathe more safely at greater depths. Reason (R): Helium has a high solubility in O₂ is false. Helium has very low solubility in oxygen (and in most gases). The reason helium is used in diving mixtures is not because it has high solubility in oxygen, but because it has low solubility and doesn't cause narcosis at high pressures, unlike nitrogen. Therefore, (A) is true, but (R) is false.",
+    "year": "2023",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Which of the following aqueous s of electrolytes will exhibit the least elevation in boiling point?",
+    "options": {
+      "A": "0.05 M NaCl",
+      "B": "0.1 M KCl",
+      "C": "0.1 M MgSO₄",
+      "D": "1 M NaCl"
+    },
+    "answer": "a",
+    "explanation": "The elevation in boiling point (ΔTb) for an electrolyte solution is given by: ΔTb = i × Kb × m where: i = van't Hoff factor (number of ions produced per molecule),Kb = ebullioscopic constant (constant for water),m = molality (moles of solute per kg of solvent). For dilute aqueous solutions (water density ≈ 1 kg/L), molarity (M) approximates molality (m). Thus, ΔTb ≈ i × Kb × M. Since Kb is constant, ΔTb depends on the product i × M. Calculate i × M for each option: (a) 0.05 M NaCl: NaCl → Na⁺ + Cl⁻, i = 2. i × M = 2 × 0.05 = 0.1.(b) 0.1 M KCl: KCl → K⁺ + Cl⁻, i = 2. i × M = 2 × 0.1 = 0.2.(c) 0.1 M MgSO₄: MgSO₄ → Mg²⁺ + SO₄²⁻, i = 3 (assuming complete dissociation). i × M = 3 × 0.1 = 0.3.(d) 1 M NaCl: NaCl → Na⁺ + Cl⁻, i = 2. i × M = 2 × 1 = 2. Comparison: The lowest i × M value is 0.1 for 0.05 M NaCl, indicating the least elevation in boiling point. Conclusion: The correct answer is (a) 0.05 M NaCl.",
+    "year": "2023",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "KH value for some gases at the same temperature 'T' are given : where KH is Henry's Law constant in water. The order of their solubility in water is",
+    "options": {
+      "A": "HCHO < CH4 < CO2 < Ar",
+      "B": "Ar < CO2 < CH4 < HCHO",
+      "C": "Ar < CH4 < CO2 < HCHO",
+      "D": "HCHO < CO2 < CH4 < Ar"
+    },
+    "answer": "b",
+    "explanation": "According to Henry's Law, p = KHx Where 'p' is partial pressure of gas in vapour phase. KH is Henry's Law constant. 'x' is mole fraction of gas in liquid. Higher the value of KH at a given pressure, lower is the solubility of the gas in the liquid. ∴ Solubility : Ar < CO2 < CH4 < HCHO",
+    "year": "2022",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2022_C12_Q12-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The following s were prepared by dissolving 10g of glucose (C6H12O6) in 250 ml of water (P1). 10g of urea (CH4N2O) in 250 ml of water (P2) and 10 g of sucrose (C12H22O11) in 250 ml of water (P3). The decreasing order of osmotic pressure of these s is",
+    "options": {
+      "A": "P2 > P3 > P1",
+      "B": "P3 > P1 > P2",
+      "C": "P2 > P1 > P3",
+      "D": "P1 > P2 > P3"
+    },
+    "answer": "c",
+    "explanation": "Osmotic pressure is given by: \\pi = i \\, C \\, R \\, Tπ = i C R T Since all are non-electrolytes, i = 1. At the same temperature, osmotic pressure depends only on molarity (moles per litre). Step 1: Molar masses Glucose (C₆H₁₂O₆): 180 g mol⁻¹Urea (CH₄N₂O): 60 g mol⁻¹Sucrose (C₁₂H₂₂O₁₁): 342 g mol⁻¹ Step 2: Number of moles in 10 g Glucose: 10/180 = 0.0556 molUrea: 10/60 = 0.1667 molSucrose: 10/342 = 0.0292 mol Step 3: Molarity (in 0.250 L solution) P₁ (Glucose): 0.0556 / 0.250 = 0.222 MP₂ (Urea): 0.1667 / 0.250 = 0.667 MP₃ (Sucrose): 0.0292 / 0.250 = 0.117 M Step 4: Order of osmotic pressures P₂ \\ (0.667) > P₁ \\ (0.222) > P₃ \\ (0.117)P2 (0.667) > P1 (0.222) > P3 (0.117)",
+    "year": "2021",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The correct option for the value of vapour pressure of a at 45°C with benzene to octane in a molar ratio 3 : 2 is: [At 45°C vapour pressure of benzene is 280 mm Hg and that of octane is 420 mm Hg. Assume Ideal gas]",
+    "options": {
+      "A": "336 mm of Hg",
+      "B": "350 mm of Hg",
+      "C": "160 mm of Hg",
+      "D": "168 mm of Hg"
+    },
+    "answer": "a",
+    "explanation": "Given, So, Total vapour pressure of solution,",
+    "year": "2021",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2021_C12_Q14-explanation1.png",
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2021_C12_Q14-explanation2.png",
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2021_C12_Q14-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The mixture which shows positive deviation from Raoult's law is",
+    "options": {
+      "A": "Acetone + Chloroform",
+      "B": "Chloroethane + Bromoethane",
+      "C": "Ethanol + Acetone",
+      "D": "Benzene + Toluene"
+    },
+    "answer": "c",
+    "explanation": "Raoult's law: If the interactions between unlike molecules (A-B) are weaker than those between like molecules (A-A or B-B), the escaping tendency of molecules increases → vapour pressure of the solution is higher than ideal → positive deviation.If A-B interactions are stronger, vapour pressure decreases → negative deviation. Now, analyze each option: (a) Acetone + Chloroform: Shows negative deviation, because strong hydrogen bonding forms between C=O of acetone and H of chloroform. (b) Chloroethane + Bromoethane: Nearly ideal behaviour, similar polarities and no strong interaction difference. (c) Ethanol + Acetone: Shows positive deviation, because acetone breaks the H-bonding network of ethanol, reducing A-B attractions compared to A-A. (d) Benzene + Toluene: Both are non-polar hydrocarbons with very similar forces, so nearly ideal behaviour.",
+    "year": "2020",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The freezing point depression constant (Kf) of benzene is 5.12 K kg mol-1. The freezing point depression for the of molality 0.078 m containing a non-electrolyte solute in benzene is (rounded off upto two decimal places)",
+    "options": {
+      "A": "0.40 K",
+      "B": "0.60 K",
+      "C": "0.20 K",
+      "D": "0.80 K"
+    },
+    "answer": "a",
+    "explanation": "ΔTf = ikfm ⇒ ΔTf = 1 × 5.12 × 0.078 ΔTf = 0.3993 ΔTf = 0.40 K",
+    "year": "2020",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "For an ideal , the correct option is",
+    "options": {
+      "A": "Δmix S = 0 at constant T and P",
+      "B": "Δmix V ≠ 0 at constant T and P",
+      "C": "Δmix H = 0 at constant T and P",
+      "D": "Δmix G = 0 at constant T and P"
+    },
+    "answer": "c",
+    "explanation": "For ideal solution, Δmix H = 0 Δmix S > 0 Δmix G < 0 Δmix V = 0",
+    "year": "2019",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The mixture that forms maximum boiling azeotrope is",
+    "options": {
+      "A": "Water + Nitric acid",
+      "B": "Ethanol + Water",
+      "C": "Acetone + Carbon disulphide",
+      "D": "Heptane + Octane"
+    },
+    "answer": "a",
+    "explanation": "Maximum boiling azeotrope is shown by solution which shows negative deviation from Raoult's law. thanol + water shows positive deviation (minimum-boiling), while water + nitric acid shows negative deviation (maximum-boiling).",
+    "year": "2019",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "If molality of the dilute s is doubled, the value of molal depression constant (Kf) will be",
+    "options": {
+      "A": "halved",
+      "B": "tripled",
+      "C": "unchanged",
+      "D": "doubled"
+    },
+    "answer": "c",
+    "explanation": "The value of molal depression constant, Kf is constant for a particular solvent, thus, it will be unchanged when molality of the dilute solution is doubled.",
+    "year": "2017",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Which one of the following is incorrect for ideal ?",
+    "options": {
+      "A": "Δ Hmix = 0",
+      "B": "Δ Umix = 0",
+      "C": "ΔP = Pobs - PCalculated by Raoult' Law",
+      "D": "Δ Gmix = 0"
+    },
+    "answer": "d",
+    "explanation": "For ideal solution, we have ΔHmix = 0, ΔVmix = 0 Now Umix = ΔHmix - PΔVmix ∴ ΔUmix = 0 Also, for an ideal solution, pA = xApAo, pB = xBpBo ∴ Δp = pobserved - pcalculated = 0 ΔGmix = ΔHmix - TΔSmix For an ideal solution, ΔSmix ≠ 0 ∴ ΔGmix ≠ 0",
+    "year": "2016",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The van't Hoff factor (i) for a dilute aqueous of the strong electrolyte barium hydroxide is",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "d",
+    "explanation": "Ba(OH)2 is a strong electrolyte and undergoes cent percent dissociation in a dilute aqueous solution. Ba(OH)2(aq) → Ba2+(aq) + 2OH-(aq) Thus, van't Hoff factor i = 3.",
+    "year": "2016",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "At 100°C the vapour pressure of a of 6.5 g of a solute in 100 g water is 732 mm. If Kb = 0.52, the boiling point of this will be",
+    "options": {
+      "A": "103°C",
+      "B": "101°C",
+      "C": "100°C",
+      "D": "102°C"
+    },
+    "answer": "b",
+    "explanation": "Given that ws = 6.5 g, wA = 100 g ps = 732 mm of Hg kb = 0.52, Tob = 100oC po = 760 mm of Hg ⇒ ⇒ n2 = 0.2046 mol ΔTb = Kb × m",
+    "year": "2016",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2016_C12_Q22-explanation1.png",
+      "CHEMISTRY/C12/chapters/solutions/SOLUTIONS-2016_C12_Q22-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Which of the following statements about the composition of the vapour over an ideal 1 : 1 molar mixture of benzene and toluene is correct? Assume that the temperature is constant at 25°C. (Given Vapour Pressure Data at 25ºC, Benzene = 12.8kPa, toluene = 3.85kPa)",
+    "options": {
+      "A": "Not enough information is given to make a prediction.",
+      "B": "The vapour will contain a higher percentage of benzene.",
+      "C": "The vapour will contain a higher percentage of toluene.The vapour will contain a higher percentage of toluene.",
+      "D": "The vapour will contain equal amounts of benzene and toluene."
+    },
+    "answer": "b",
+    "explanation": "pBenzene = xBenzene. poBenzene pToluene = xToluene. poToluene For an ideal 1 : 1 molar mixture of benzene and toluene xBenzene = 12 and xToluene = 12 pBenzene = 12poBenzene = 12×12.8 = 6.4 kPa pToluene = 12poToluene = 12×3.85 = 1.925 kPa Thus, the vapour will contain a high percentage of benzene as the partial vapour pressure of benzene is higher as compared to that of toluene.",
+    "year": "2016",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Which one is not equal to zero for an ideal ?",
+    "options": {
+      "A": "ΔP = Pobserved - PRaoult",
+      "B": "Δ Hmix",
+      "C": "ΔSmix",
+      "D": "Δ Vmix"
+    },
+    "answer": "c",
+    "explanation": "For an ideal solution, ΔSmix > 0 while ΔHmix, ΔVmix and ΔP all are 0.",
+    "year": "2015",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "The boiling point of 0.2 mol kg-1 of X in water is greater than equimolal of Y in water. Which one of the following statements is true in this case ?",
+    "options": {
+      "A": "Y is undergoing dissociation in water while X under goes no change",
+      "B": "X is undergoing dissociation in water",
+      "C": "Molecular mass of X is greater than the molecular mass of Y.",
+      "D": "Molecular mass of X is less than the molecular mass of Y."
+    },
+    "answer": "b",
+    "explanation": "ΔTb = iKbm Given, (ΔTb)x > (ΔTb)y ∴ ixKbm > iyKbm ⇒ ix > iy (Kb is same for same solvent) So, x is undergoing dissociation in water.",
+    "year": "2015",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Which one of the following electrolytes has the same value of van't Hoff's factor (i) as that of Al2(SO4)3 (if all are 100% ionised)",
+    "options": {
+      "A": "K4[Fe(CN)6]",
+      "B": "K2SO4",
+      "C": "K3[Fe(CN)6]",
+      "D": "Al(NO3)3"
+    },
+    "answer": "a",
+    "explanation": "Ai2(SO4)3 ⇌ 2Al+3 + 3SO42- van't Hoff factor, i = 5 K2SO4 ⇌ 2K+ + SO42- van't Hoff factor, i = 3 K3[Fe(CN)6] ⇌ 3K+ + [Fe(CN)6]2- van't Hoff factor, i = 4 Al(NO3)3 ⇌ Al3+ + 3NO3- van't Hoff factor, i = 4 K4[Fe(CN)6] ⇌ 4K+ + [Fe(CN)6]4- van't Hoff factor, i = 5",
+    "year": "2015",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Of the following 0.10 m aqueous s, which one will exhibit the largest freezing point depression?",
+    "options": {
+      "A": "Al2 (SO4 )3",
+      "B": "K2SO4",
+      "C": "KCl",
+      "D": "C6H12O6"
+    },
+    "answer": "a",
+    "explanation": "We know that depression in freezing point (ΔTf ) is given as ΔTf = iKfm So, ΔTf ∝ i Thus, more value of i (Van't Hoff factor), more will be depression in freezing point. Al2(SO4)3 ⇌ 2Al+3 + 3SO42- i is maximum i.e., 5 for Al2(SO4)3",
+    "year": "2014",
+    "chapter": "Solutions",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

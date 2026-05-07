@@ -1,0 +1,866 @@
+[
+  {
+    "id": "Q1",
+    "text": "The kinetic energies of two similar cars A and B are 100 J and 225 J respectively. On applying breaks, car A stops after 1000 m and car B stops after 1500 m. If FA and FB are the forces applied by the breaks on cars A and B, respectively, then the ratio FA / FB is: [2025]",
+    "options": {
+      "A": "1/3",
+      "B": "1/2",
+      "C": "3/2",
+      "D": "2/3"
+    },
+    "answer": "d",
+    "explanation": "From work energy theorm W . D = ΔKE ⇒ F . S = ΔKE ⇒ (ΔKE)A / (ΔKE)B = - FA SA / FB SB ⇒ (-100) / (225) = - FA(1000) / FB(1500) FA / FB = 2 / 3",
+    "year": "2025",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "A bob of heavy mass m is suspended by a light string of length l. The bob is given a horizontal velocity v0 as shown in figure. If the string gets slack at some point P making an angle θ from the horizontal, the ratio of the speed v of the bob at point P to its initial speed v0 is: [2025]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "At Point P, mg sin θ = m v2/ l ... (1) By conservation of mechanical energy at point P ∈ Q (1/2) mv02 = (1/2) mv2 + mg (I + I sin θ) ⇒ v02 / 2 = v2 / 2 + gl(1 + sin θ) Put gl = v2 / l sin θ using (1) v02 / 2 = v2 / 2 + (v2 / sin θ)(1 + sin θ) v02 / 2 = (3v2/2) + (v2 / sin θ) ⇒v / v0 = (sin θ /(2 + 3 sin θ))1/2",
+    "year": "2025",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2025_P11_Q2-explanation1.jpg",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2025_P11_Q2-explanation2.jpg",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2025_P11_Q2-explanation3.jpg",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2025_P11_Q2-explanation4.jpg",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2025_P11_Q2-explanation5.jpg",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2025_P11_Q2-explanation6.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "At any instant of time t, the displacement of any particle is given by 2t - 1 (SI unit) under the influence of force of 5N. The value of instantaneous power is (in SI unit)",
+    "options": {
+      "A": "10",
+      "B": "5",
+      "C": "7",
+      "D": "6"
+    },
+    "answer": "",
+    "explanation": "where P is the power, is the force vector, and is the velocity vector of the particle. In this question, the force exerted is given as a constant 5N. Since no direction is specified, and the displacement is given in a scalar form, we assume the force acts along the direction of displacement. Therefore, we can treat the vectors as scalars for simplicity. The displacement of the particle is given by: x = 2t - 1 The velocity, , is the derivative of displacement with respect to time. Deriving the displacement equation with respect to time t gives: The instantaneous power can now be calculated as: Watts Thus, the instantaneous power delivered by the force at any time t is 10 WattsWatts. The correct answer is Option A: 10.",
+    "year": "2024",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q3-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q3-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q3-explanation3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q3-explanation4.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q3-explanation5.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q3-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Two bodies A and B of same mass undergo completely inelastic one dimensional collision. The body A moves with velocity v1 while body B is at rest before collision. The velocity of the system after collision is v2. The ratio v1 : v2 is: [2024]",
+    "options": {
+      "A": "1 : 2",
+      "B": "2 : 1",
+      "C": "4 : 1",
+      "D": "1 : 4"
+    },
+    "answer": "b",
+    "explanation": "In a completely inelastic collision, the two bodies stick together and move with a common final velocity. Here, before the collision, body A is moving with a velocity v1 and body B is at rest. The conservation of momentum must hold true because no external forces are acting on the system. The momentum before the collision is only due to body A since body B is at rest. Therefore, the total initial momentum pinitial of the system is given by: where: mA and mB are the masses of bodies A and B respectively,m is the mass of each body,v1 is the velocity of body A, v0 = 0 is the velocity of body B because it is initially at rest. Since they undergo a completely inelastic collision, bodies A and B stick together after the collision and hence move with a common velocity v2. The total mass of the combined system post-collision is The momentum after the collision is given by: Applying the conservation of momentum (since no external force implies momentum is conserved), we equate pinitialinitial and pfinalfinal: Dividing through by m yields: Thus, solving for the ratio v1 / v2 gives: Therefore, the ratio of v1 to v2 is 2 :1, making the correct answer: Option B: 2 : 1",
+    "year": "2024",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q4-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q4-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q4-explanation3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q4-explanation4.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q4-explanation5.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2024_P11_Q4-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The potential energy of a long spring when stretched by 2 cm is U. If the spring is stretched by 8 cm, potential energy stored in it will be [2023]",
+    "options": {
+      "A": "2 U",
+      "B": "4 U",
+      "C": "8 U",
+      "D": "16 U"
+    },
+    "answer": "",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2023_P11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A particle moves with a velocity horizontally under the action of constant force . The instantaneous power supplied to the particle is : [2023]",
+    "options": {
+      "A": "200 W",
+      "B": "Zero",
+      "C": "100 W",
+      "D": "140 W"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2023_P11_Q6-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2023_P11_Q6-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2023_P11_Q6-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The restoring force of a spring with a block attached to the free end of the spring is represented by [2022]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Where F is restoring force x is displacement of block from equilibrium position",
+    "year": "2022",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2022_P11_Q7-main.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2022_P11_Q7-main2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2022_P11_Q7-main3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2022_P11_Q7-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2022_P11_Q7-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2022_P11_Q7-explanation3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2022_P11_Q7-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "An electric lift with a maximum load of 2000 kg (lift + passengers) is moving up with a constant speed of 1.5 ms-1 . The frictional force opposing the motion is 3000 N. The minimum power delivered by the motor to the lift in watts is : (g = 10 m s -2 ) [2022]",
+    "options": {
+      "A": "20000",
+      "B": "34500",
+      "C": "23500",
+      "D": "23000"
+    },
+    "answer": "b",
+    "explanation": "The power delivered by the motor to the lift can be calculated using the formula: Power = Force x Velocity In this case, the force is the sum of the weight of the lift and the passengers and the frictional force opposing the motion: Force = (Weight of lift + passengers) + Frictional force Weight of lift + passengers = Mass x gravity = (2000 kg / 1000) x 10 m/s2 = 20,000 N Therefore, Force = (20,000 N) + (3000 N) = 23,000 N Now, using the formula for power, we get: Power = Force x Velocity = (23,000 N) x (1.5 m/s) = 34,500 W Therefore, the minimum power delivered by the motor to the lift in watts is 34,500 W.",
+    "year": "2022",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The energy that will be ideally radiated by a 100 kW transmitter in 1 hour is [2022]",
+    "options": {
+      "A": "36 × 107 J",
+      "B": "36 × 104 J",
+      "C": "36 × 105 J",
+      "D": "1 × 105 J"
+    },
+    "answer": "a",
+    "explanation": "Energy = Power × tim E = 100 ×x 103 ×x 3600 = 36 ×x 107 J",
+    "year": "2022",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "A particle is released from height S from the surface of the earth. At a certain height, its kinetic energy is three times its potential energy. The height from the surface of the earth and the speed of the particle at that instant are respectively: [2021]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "U + KE = E 4U = E = mgS 4mgh = mgS h = S/4",
+    "year": "2021",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2021_P11_Q10-main.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2021_P11_Q10-main2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2021_P11_Q10-main3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2021_P11_Q10-main4.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2021_P11_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Water falls from a height of 60 m at the rate of 15 kg/s to operate a turbine. The losses due to frictional force are 10% of the input energy. How much power is generated by the turbine?(g = 10 m/s2) [2021]",
+    "options": {
+      "A": "12.3 kW",
+      "B": "7.0 kW",
+      "C": "10.2 kW",
+      "D": "8.1 kW"
+    },
+    "answer": "d",
+    "explanation": "Mass of water falling/second = 15 kg/s h = 60 m, g = 10 m/s2, loss = 10 % i.e., 90% is used. Power generated = 15 x 10 x 60 x 0.9 = 8100 W = 8.1 kW. Q.6. The energy required to break one bond in DNA is 10-20J. This value in eV is nearly: [2020] (a) 0.06 (b) 0.006 (c) 6 (d) 0.6 Ans: a 1.6 × 10-19 Joule = 1 eV",
+    "year": "2021",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2021_P11_Q11-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2021_P11_Q11-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A force F = 20 + 10 y acts on a particle in y direction where F is in newton and y in meter. Work done by this force to move the particle from y = 0 to y = 1 m is [2019]",
+    "options": {
+      "A": "30 J",
+      "B": "5 J",
+      "C": "25 J",
+      "D": "20 J"
+    },
+    "answer": "c",
+    "explanation": "Work done by variable force is",
+    "year": "2019",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q12-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q12-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Body A of mass 4m moving with speed u collides with another body B of mass 2m, at rest. The collision is head on and elastic in nature. After the collision the fraction of energy lost by the colliding body A is: [2019]",
+    "options": {
+      "A": "1/9",
+      "B": "8/9",
+      "C": "4/9",
+      "D": "5/9"
+    },
+    "answer": "b",
+    "explanation": "Fractional loss of KE of colliding body",
+    "year": "2019",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q13-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q13-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "A disc of radius 2 m and mass 100 kg rolls on a horizontal floor. Its centre of mass has speed of 20 cm/s. How much work is needed to stop it? [2019]",
+    "options": {
+      "A": "3 J",
+      "B": "30 kJ",
+      "C": "2 J",
+      "D": "1 J"
+    },
+    "answer": "a",
+    "explanation": "Work required = change in kinetic energy Final KE = 0 Initial KE |ΔKE| = 3 J",
+    "year": "2019",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q14-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q14-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The work done to raise a mass m from the surface of the earth to a height h, which is equal to the radius of the earth, is: [2019]",
+    "options": {
+      "A": "mgR",
+      "B": "2mgR",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Initial potential energy at earths surface is Final potential energy at height h = R As work done = Change in PE∴ W = Uf - Ui (∵ GM = gR2)",
+    "year": "2019",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q15-main.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q15-main2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q15-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q15-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q15-explanation3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2019_P11_Q15-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "A body initially at rest and sliding along a frictionless track from a height h (as shown in the figure) just completes a vertical circle of diameter AB = D. The height h is equal to [2018]",
+    "options": {
+      "A": "3/2 D",
+      "B": "D",
+      "C": "7/5 D",
+      "D": "5/4 D"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2018_P11_Q16-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2018_P11_Q16-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A moving block having mass m, collides with another stationary block having mass 4m. The lighter block comes to rest after collision. When the initial velocity of the lighter block is v, then the value of coefficient of restitution (e) will be :- [2018]",
+    "options": {
+      "A": "0.5",
+      "B": "0.25",
+      "C": "0.8",
+      "D": "0.4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2018_P11_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The kinetic energies of a planet in an elliptical orbit about the Sun, at positions A, B and C are KA, KB and KC respectively. AC is the major axis and SB is perpendicular to AC at the position of the Sun S as shown in the figure. Then [2018]",
+    "options": {
+      "A": "KA < KB < KC",
+      "B": "KA > KB > KC",
+      "C": "KB < KA < KC",
+      "D": "KB > KA > KC"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2018_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2018_P11_Q18-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Consider a drop of rain water having mass 1 g falling from a height of 1 km. It hits the ground with a speed of 50 m/s. Take 'g' constant with a value 10 m/s2. The work done by the [2017] (i) gravitational force and the (ii) resistive force of air is",
+    "options": {
+      "A": "(i) 1.25 J (ii) - 8.25 J",
+      "B": "(i) 100 J (ii) 8.75 J",
+      "C": "(i) 10 J (ii) - 8.75 J",
+      "D": "(i) - 10 J (ii) - 8.25 J"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2017_P11_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "A spring of force constant k is cut into lengths of ratio 1: 2 : 3. They are connected in series and the new force constant is k'. Then they are connected in parallel and force constant is k''. Then k' : k'' is [2017]",
+    "options": {
+      "A": "1 : 6",
+      "B": "1 : 9",
+      "C": "1 : 11",
+      "D": "1 : 14"
+    },
+    "answer": "c",
+    "explanation": "Force constant of spring after cutting the spring in the ratio 1:2:3, the force constants will be in the ratio 6:3:2 Force constant in series K' is given by Force constant in parallel K\" : 6k+3k+2k = 11k;hence K'/K\" = 1/11",
+    "year": "2017",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2017_P11_Q20-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2017_P11_Q20-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "A particle moves from a point when a force of N is applied. How much work has been done by the force ? [2016]",
+    "options": {
+      "A": "8 J",
+      "B": "11 J",
+      "C": "5 J",
+      "D": "2 J"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q21-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q21-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q21-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "A body of mass 1 kg begins to move under the action of a time dependent force , when are unit vectors along x and y axis. What power will be developed by the force at the time t ? [2016]",
+    "options": {
+      "A": "(2t3+ 3t5)W",
+      "B": "(2t2 + 3t3)W",
+      "C": "(2t2 + 4t4)W",
+      "D": "(2t3 + 3t4)W"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q22-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q22-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q22-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "A particle of mass 10 g moves along a circle of radius 6.4 cm with a constant tangential acceleration. What is the magnitude of this acceleration if the kinetic energy of the particle becomes equal to 8 × 10-4 J by the end of the second revoluation after the beginning of the motion ? [2016]",
+    "options": {
+      "A": "0.18 m/s2",
+      "B": "0.2 m/s2",
+      "C": "0.1 m/s2",
+      "D": "0.15 m/s2"
+    },
+    "answer": "c",
+    "explanation": "Given: Mass of particle, M = 10g =10/1000 Kg radius of circle R = 6.4 cm Kinetic energy E of particle = 8 × 10-4J acceleration at = ? Now, using",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q23-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q23-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "What is the minimum velocity with which a body of mass m must enter a vertical loop of radius R so that it can complete the loop?",
+    "options": {
+      "A": "√3gR",
+      "B": "√5gR",
+      "C": "√gR",
+      "D": "√2gR [2016]"
+    },
+    "answer": "b",
+    "explanation": "To complete the loop a body must enter a vertical loop of radius R with the minimum velocity v =√5gR2015",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Two particles A and B, move with constant velocities . At the initial moment their position vectors are respectively. The condition for particles A and B for their collision is [2015]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q25-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q25-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q25-explanation3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q25-explanation4.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q25-explanation5.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q25-explanation6.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q25-explanation7.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q25-explanation8.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "A ball is thrown vertically downwards from a height of 20 m with an initial velocity v0. It collides with the ground, losses 50 percent of its energy in collision and rebounds to the same height. The initial velocity v0 is (Take g = 10 m s-2) [2015]",
+    "options": {
+      "A": "28 m s-1",
+      "B": "10 m s-1",
+      "C": "14 m s-1",
+      "D": "20 m s-1"
+    },
+    "answer": "d",
+    "explanation": "When ball collides with the ground it loses its 50% of energy",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q26-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q26-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "The heart of a man pumps 5 litres of blood through the arteries per minute at a pressure of 150 mm of mercury. If the density of mercury be 13.6 × 103 kg/m3 and g = 10 m/s2 then the power (in watt) is [2015]",
+    "options": {
+      "A": "3.0",
+      "B": "1.50",
+      "C": "1.70",
+      "D": "2.35"
+    },
+    "answer": "c",
+    "explanation": "Here, Volume of blood pumped by man's heart, V = 5 litres = 5 × 10-3 m3 (∵ 1 litre = 10-3 m3) Time in which this volume of blood pumps, t = 1 min = 60 s Pressure at which the blood pumps, P = 150 mm of Hg = 0.15 m of Hg = (0.15 m)(13.6 × 103 kg/m3)(10 m/s2) = 20.4 × 103 N/m2",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q27-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Two particles of masses m1, m2 move with initial velocities u1 and u2. On collision, one of the particles get excited to higher level, after absorbing energy ε. If final velocities of particles be v1 and v2 then we must have : [2015]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q28-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q28-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q28-explanation3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q28-explanation4.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q28-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Two similar springs P and Q have spring constants KP and KQ, such that KP > KQ. They are stretched, first by the same amount (case a), then by the same force (case b). The work done by the springs WP and WQ are related as, in case (a) and case (b), respectively: [2015]",
+    "options": {
+      "A": "WP < WQ; WQ < WP",
+      "B": "WP = WQ; WP > WQ",
+      "C": "WP = WQ; WP = WQ",
+      "D": "WP > WQ; WQ > WP"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q29-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q29-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "A mass m moves in a circle on a smooth horizontal plane with velocity v0 at a radius R0. The mass is attached to a string which passes through a smooth hole in the plane as shown. The tension in the string is increased gradually and finally m moves in a circle of radius R0/2. The final value of the kinetic energy is : [2015]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "When a mass moves in a circle of radius R0 with velocity v0, its kinetic energy is given by The tension in the string is gradually increased and the radius of the circle decreased to R0/2. When the radius of the circle is R the tension in the string is the same as the centripetal force. where L = mRv is the angular momentum which is conserved.Work done in reducing the radius of the circle from R0 to R0/2 is",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation2.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation3.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation4.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation5.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation6.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation7.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation8.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q30-explanation9.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "A block of mass 10 kg, moving in x direction with a constant speed of 10 ms-1, is subjected to a retarding force F = 0.1 x J/m during its travel from x = 20 m to 30 m. Its final KE will be : [2015]",
+    "options": {
+      "A": "250 J",
+      "B": "475 J",
+      "C": "450 J",
+      "D": "275 J"
+    },
+    "answer": "b",
+    "explanation": "The block of mass M = 10 kg is moving in the x - direction with a speed v = 10 m/s. Its initial kinetic energy is It is subjected to a retarding force F = 0.1 x J/m during its travel from x = 20 m to 30 m.Work done is given by Final kinetic energy is, KEf = KEi + W = 500 - 25 = 475",
+    "year": "2016",
+    "chapter": "Work, Energy and Power",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q31-explanation1.png",
+      "PHYSICS/P11/chapters/work-energy-and-power/WORK_ENERGY_AND_POWER-2016_P11_Q31-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

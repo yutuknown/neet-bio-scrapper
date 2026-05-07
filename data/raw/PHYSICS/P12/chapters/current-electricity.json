@@ -1,0 +1,2070 @@
+[
+  {
+    "id": "Q1",
+    "text": "The current passing through the battery in the given circuit, is: [NEET 2025]",
+    "options": {
+      "A": "2.5 A",
+      "B": "1.5 A",
+      "C": "2.0 A",
+      "D": "0.5 A"
+    },
+    "answer": "d",
+    "explanation": "1. Between B and C: 2.5 Ω Between C and D: 1.5 Ω Total resistance in B-C-D path = 2.5 + 1.5 = 4 Ω 2. Between B and E: 6 Ω Between E and D: 1.5 Ω Total resistance in B-E-D path = 6 + 1.5 = 7.5 Ω3. The two paths B-C-D and B-E-D are in parallel: 1/R = 1/4 + 1/7.5 1/R = (7.5 + 4) / (4 × 7.5) = 11.5 / 30 R = 30 / 11.5 ≈ 2.61 Ω 4. Add all resistances in series from A to F via B and D: A-B = 5 Ω B-D (equivalent) = 2.61 Ω D-F = 1/3 Ω F-A = 3 Ω5. Total Resistance = 5 + 2.61 + 1/3 + 3 = 5 + 2.61 + 0.33 + 3 = 10.94 Ω Rounded simplification gives approximately 10 Ω.6. Apply Ohm's Law:I = V / R = 5 / 10 = 0.5 A",
+    "year": "2025",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2025_P12_Q1-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "A wire of resistance R is cut into 8 equal pieces. From these pieces two equivalent resistance are made by adding four of these together in parallel. Then these two sets are added in series. The net effective resistance of the combination is: [NEET 2025]",
+    "options": {
+      "A": "R/16",
+      "B": "R/8",
+      "C": "R/64",
+      "D": "R/32"
+    },
+    "answer": "a",
+    "explanation": "After being cut into 8 equal pieces, ⇒ Resistance of each piece = R′ = R / 8 Each set has 4 pieces in parallel combination 1 / R'' = 8 / R + 8 / R + 8 / R + 8 / R ⇒ Resistance of each set = R″ = R / 32 Both sets are connected in series ∴ Req = R″ + R″ = 2 × (R / 32) = R / 16",
+    "year": "2025",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2025_P12_Q2-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A constant voltage of 50 V is maintained between the points A and B of the circuit shown in the figure. The current through the branch CD of the circuit is: [NEET 2025]",
+    "options": {
+      "A": "2.5 A",
+      "B": "3.0 A",
+      "C": "1.5 A",
+      "D": "2.0 A"
+    },
+    "answer": "d",
+    "explanation": "RAB = (1Ω // 3Ω) in series with (2Ω // 4Ω) ⇒ (1 × 3) / (1 + 3) + (2 × 4) / (2 + 4) = 3 / 4 + 8 / 6 = (9 + 16) / 12 = 25 / 12 Ω Now total current through the cell I = 50 / (25 / 12) = 24 A I1Ω = (3 / 4) × 24 = 18 A, I3Ω = (1 / 4) × 24 = 6 A I2Ω = (4 / 6) × 24 = 16 A, I4Ω = (2 / 6) × 24 = 8 A Using junction rule at C, ICD = 18 - 16 = 2 A (from C to D)",
+    "year": "2025",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2025_P12_Q3-main.jpg",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2025_P12_Q3-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The terminal voltage of the battery, whose emf is 10V and internal resistance 1Ω, when connected through an external resistance of 4Ω as shown in the figure is: [NEET 2024]",
+    "options": {
+      "A": "4 V",
+      "B": "6 V",
+      "C": "8 V",
+      "D": "10 V"
+    },
+    "answer": "c",
+    "explanation": "Current in circuit Terminal voltage = E - iR = 10 - 2 x 1 = 8 V",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q4-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q4-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q4-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A wire of length 'l' and resistance 100Ω is divided into 10 equal parts. The first 5 parts are connected in series while the next 5 parts are connected in parallel. The two combinations are again connected in series. The resistance of this final combination is: [NEET 2024]",
+    "options": {
+      "A": "26Ω",
+      "B": "52Ω",
+      "C": "55Ω",
+      "D": "60Ω"
+    },
+    "answer": "b",
+    "explanation": "To solve this problem, we first need to understand how the resistance changes when we cut the wire into equal parts and how it behaves when connected in different configurations (series and parallel). Given: Original length of the wire, l. Total resistance of the wire R = 100Ω. The wire is divided into 10 equal parts. Resistance of each part: Since the wire is divided into 10 equal parts, the length of each part is l/10. Resistance is proportional to length (as long as the cross-sectional area and material of the wire remain constant). Therefore, the resistance of each part, denoted as r, is 1/10th of the total resistance: First 5 parts in series: When resistors are connected in series, the total resistance is the sum of the individual resistances: Next 5 parts in parallel: When resistors are connected in parallel, the total resistance parallel Rparallel can be calculated using the reciprocal formula: Thus, Rparallel = 2Ω Final combination in series: The total resistance of the combination, where the series and parallel groups are again connected in series, will be: Thus, the correct answer to the resistance of the final combination is: Option B: 52Ω",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q5-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q5-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q5-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q5-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Choose the correct circuit which can achieve the bridge balance",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram] [NEET 2024]"
+    },
+    "answer": "a",
+    "explanation": "In option (a), The diode can conduct and have resistance RD = 10Ω because diode have dynamic resistance. In that case bridge will be balanced.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q6-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q6-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q6-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q6-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Two heaters A and B have power rating of 1 kW and 2 kW, respectively. Those two are first connected in series and then in parallel to a fixed power source. The ratio of power outputs for these two cases is",
+    "options": {
+      "A": "1 : 1",
+      "B": "2 : 9",
+      "C": "1 : 2",
+      "D": "2 : 3 [NEET 2024]"
+    },
+    "answer": "b",
+    "explanation": "To find the ratio of power outputs when two heaters with different power ratings are connected first in series and then in parallel, we need to understand how the total power output varies based on the type of connection. Heater Specifications:Power of heater A kWW(PA)=1kW=1000WPower of heater B kWW(PB)=2kW=2000WScenario 1: Series Connection When resistors (or heaters in this case) are connected in series, the total resistance (Rseriesseries) is the sum of the individual resistances (RA and RB). Using the formula for electrical power: P = V2 / R, where P is power, V is voltage, and R is resistance, we can express the resistance of each heater as: Substitute the given power values: Then the total resistance for the series connection is: The total power output in series (Pseries) is: Scenario 2: Parallel Connection For parallel connections, the total resistance (Rparallelparallel) is given by: Reformulate to find Rparallelparallel: And the total power output in parallel (Pparallelparallel) is: However, simplifying, The ratio of powers is then: Solving and simplifying, Given that we know one ratio of the actual power values, we simplify further. For calculating power in simple terms, consider voltage to be normalized (taken out of the fraction): Therefore, the ratio of the power outputs when the heaters are connected first in series and then in parallel is 2:9, which corresponds to Option B.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation5.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation6.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation7.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation8.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation9.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation10.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q7-explanation11.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The equivalent resistance RAB between points A and B in the given network is: [NEET 2024]",
+    "options": {
+      "A": "1R",
+      "B": "3/5R",
+      "C": "7/8R",
+      "D": "5/8R"
+    },
+    "answer": "a",
+    "explanation": "To find the equivalent resistance between A and B for the given network, observe that two resistors in series (R) are connected in parallel with two other resistors in series (R). This is a combination of series and parallel connections.The two resistors in series will have a combined resistance of 2R.The equivalent resistance of these two resistors (2R) is in parallel with the other two resistors in series (2R).To find the total equivalent resistance between A and B: 1/Req = 1/(2R) + 1/(2R) Req = R. So, the correct answer is (a) 1R.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q8-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The value of R in the given circuit when there is no current in the 5 Ω resistor is: [NEET 2024]",
+    "options": {
+      "A": "12 Ω",
+      "B": "9 Ω",
+      "C": "3 Ω",
+      "D": "2 Ω"
+    },
+    "answer": "d",
+    "explanation": "In this circuit, the condition is given that there is no current in the 5Ω resistor. For this to happen, the potential difference across the 5Ω resistor must be zero, meaning the two resistors (R and the 5Ω) must be in parallel and the total voltage across them is zero. To ensure this, the equivalent resistance (R) should be calculated to balance the circuit. Solving this gives R = 2Ω. Thus, the correct answer is (d) 2Ω.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q9-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "There are two heaters A and B. The heater A takes time t₁ to boil a given quantity of water, while B takes time t₂ to boil the same quantity of water across the same supply voltage. If the two heaters are connected in series, the time taken by this combination to boil the same quantity of water will be: [NEET 2024]",
+    "options": {
+      "A": "t₁t₂ / (t₁ + t₂)",
+      "B": "t₁ + t₂",
+      "C": "1/2 (t₁ + t₂)",
+      "D": "t₁t₂ / 2(t₁ + t₂)"
+    },
+    "answer": "b",
+    "explanation": "To understand this problem, let's recall the concept of the relationship between power, time, and energy. The power consumed by each heater is inversely related to the time taken to boil the same amount of water. The energy required to heat a specific amount of water is the same for both heaters, and it's given by the equation: Energy (E) = Power (P) × Time (t). Now, when two heaters are connected in series, the total resistance increases (since the resistances of the two heaters add up), and this results in a decrease in the overall power. As power is inversely proportional to time for the same amount of energy, the time taken to boil the water will increase. However, the total time taken is the sum of the individual times when two resistances are connected in series. Thus, the time taken by the combination of heaters A and B to boil the same quantity of water is the sum of the times for each heater when they are connected individually. Hence, the correct answer is: (b) t₁ + t₂.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Arrange the following in the order of their resistance: [NEET 2024] A. (0 to 1 A) ranged ammeter B. (0 to 100 mA) ranged milli-ammeter C. (0 to 500 μA) ranged micro-ammeter D. (0 to 100 V) ranged voltmeter",
+    "options": {
+      "A": "A > B > C > D",
+      "B": "D > C > B > A",
+      "C": "C > B > A > D",
+      "D": "D > C > A > B"
+    },
+    "answer": "b",
+    "explanation": "The resistance of a meter (ammeter or voltmeter) is inversely related to its range for the same given quantity (current or voltage). In general: Voltmeters have a high resistance because they need to measure large voltage differences with minimal current flow. Therefore, the voltmeter (D) will have the highest resistance. Micro-ammeters (C), which measure lower currents (in the microampere range), will have a higher resistance than milli-ammeters (B), which measure currents in the milliampere range. Ammeter (A), which measures current in the range of 0 to 1 A, will have the lowest resistance. Thus, the correct order of increasing resistance is: D > C > B > A",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A uniform wire of diameter d carries a current of 100 mA when the mean drift velocity of electrons in the wire is v. For a wire of diameter d/2 = 2d of the same material to carry a current of 200 mA, the mean drift velocity of electrons in the wire is",
+    "options": {
+      "A": "4v",
+      "B": "8v",
+      "C": "v",
+      "D": "2v [NEET 2024]"
+    },
+    "answer": "b",
+    "explanation": "We know that the current (I) in a wire is related to the drift velocity (v) and the cross-sectional area (A) of the wire by the formula: I = n A e v Where:I is the current,n is the number of charge carriers,A is the cross-sectional area of the wire,e is the charge of an electron,v is the drift velocity.The area of the wire is related to its diameter (d). The formula for the area (A) of the wire is:A = π × d² / 4Step 1: First wireThe current in the first wire is 100 mA.The diameter of the wire is d, and the drift velocity is v. So, the equation for the first wire is:100 mA = n × (π × d² / 4) × e × vStep 2: Second wireThe current in the second wire is 200 mA.The diameter of the second wire is d/2, so its area will be π × (d/2)² / 4 = π × d² / 16.We need to find the drift velocity (v₂) for this second wire. So, the equation for the second wire is:200 mA = n × (π × d² / 16) × e × v₂Step 3: Comparing the two equations By comparing the two equations, we see that the current is proportional to the area and drift velocity. We can set up the ratio: (200 / 100) = (Area of second wire × drift velocity of second wire) / (Area of first wire × drift velocity of first wire) Simplifying: 2 = (π × d² / 16 × v₂) / (π × d² / 4 × v) This simplifies further to: 2 = v₂ / (4 × v) So, v₂ = 8v. Final answer: The drift velocity in the second wire is 8 times the drift velocity in the first wire. So, the correct answer is: (b) 8v.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "In an electrical circuit, the voltage is measured as V = (200 ± 4) volts and the current is measured as I = (20 ± 0.2) A. The value of the resistance is: [NEET 2024]",
+    "options": {
+      "A": "(10 ± 4.2) Ω",
+      "B": "(10 ± 0.3) Ω",
+      "C": "(10 ± 0.1) Ω",
+      "D": "(10 ± 0.8) Ω"
+    },
+    "answer": "b",
+    "explanation": "Using Ohm's Law: R = V / I Given: V = (200 ± 4) V I = (20 ± 0.2) A The calculated resistance: R = 200 V / 20 A = 10 Ω To find the uncertainty in R, we apply error propagation: ΔR = R × √[(ΔV/V)² + (ΔI/I)²] Where: ΔV = 4 V ΔI = 0.2 A Substituting the values: ΔR = 10 × √[(4/200)² + (0.2/20)²] = 10 × √[0.0004 + 0.0001] = 10 × √0.0005 ≈ 0.3 Ω Therefore, the resistance is R = 10 ± 0.3 Ω. So, the correct answer is (b) (10 ± 0.3) Ω.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "A uniform metal wire of length l has 10 Ω resistance. Now this wire is stretched to a length 2l and then bent to form a perfect circle. The equivalent resistance across any arbitrary diameter of that circle is: [NEET 2024]",
+    "options": {
+      "A": "10 Ω",
+      "B": "5 Ω",
+      "C": "40 Ω",
+      "D": "20 Ω"
+    },
+    "answer": "a",
+    "explanation": "Given:Original length of wire = lOriginal resistance = 10 ΩWire is stretched to length = 2lThen bent into a circular loop.When a wire is stretched:Volume remains constant (V = A × L, where A = cross-sectional area, L = length).If length doubles (new length = 2l), area reduces to half (new area = A/2).Resistance formula: R = ρ × (L / A)New resistance after stretching: Rnew = ρ × (2l / (A/2)) = 4 × ρ × (l / A) = 4 × 10 Ω = 40 ΩTotal resistance of stretched wire = 40 ΩThe wire is bent into a circle with circumference = 2l.The circle has two semicircular arcs, each of length = l.Resistance of each semicircular arc = 40 Ω / 2 = 20 ΩEquivalent resistance across diameter:The two semicircular arcs are in parallel (since current splits at the diameter endpoints).Equivalent resistance: Req = (20 Ω × 20 Ω) / (20 Ω + 20 Ω) = 400 / 40 = 10 Ω",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The given circuit shows a uniform straight wire AB of 40cm length fixed at both ends. In order to get zero reading in the galvanometer G, the free end of J is to be placed from the end B at: [NEET 2024]",
+    "options": {
+      "A": "32 cm",
+      "B": "8 cm",
+      "C": "16 cm",
+      "D": "24 cm"
+    },
+    "answer": "d",
+    "explanation": "Step-by-step solution: Given information: The length of the wire AB = 40 cm. Two resistors, 8 Ω and 12 Ω, are connected to the wire, and the wire is fixed at both ends A and B. We need to find the position where the free end J should be placed such that the galvanometer reading is zero. Concept of null deflection: For zero current to flow through the galvanometer, the potential difference across it must be zero. This occurs when the ratio of the lengths of the wire segment from A to J (where the galvanometer is connected) and from J to B is such that the potential drop in the 8 Ω and 12 Ω resistors balance each other. Using the principle of potential division: The potential drop across a resistor is proportional to its resistance. Let the length AJ = x cm and the length JB = (40 - x) cm. The potential drop in the 8 Ω resistor is proportional to x and the potential drop in the 12 Ω resistor is proportional to (40 - x). Setting up the equation: The voltage drop across 8 Ω should balance the voltage drop across 12 Ω: (8 Ω) × (x / 40) = (12 Ω) × ((40 - x) / 40) Simplifying: 8x = 12(40 - x) 8x = 480 - 12x 8x + 12x = 480 20x = 480 x = 480 / 20 x = 24 cm Final answer: The free end of the galvanometer should be placed at 24 cm from the end B for zero reading on the galvanometer. Correct answer: (d) 24 cm.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q15-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The amplitude of the charge oscillating in a circuit decreases exponentially as Q = Q₀ e(-Rt/2L) where Q₀ is the charge at t = 0 s. The time at which charge amplitude decreases to 0.50 Q₀ is nearly: [NEET 2024] (Given that R = 1.5Ω, L = 12mH,ln(2) = 0.693)",
+    "options": {
+      "A": "19.01 ms",
+      "B": "11.09 ms",
+      "C": "19.01 s",
+      "D": "11.09 s"
+    },
+    "answer": "b",
+    "explanation": "Given the formula for the charge oscillation: Q = Q₀ e(-Rt/2L) Where: R = 1.5 Ω (resistance) L = 12 mH = 12 × 10⁻³ H (inductance) ln(2) = 0.693 The charge decreases to 0.50 Q₀, so: 0.50 Q₀ = Q₀ e(-Rt/2L) Simplifying: 0.50 = e(-Rt/2L) Taking the natural logarithm of both sides: ln(0.50) = -Rt/2L Substitute the values: ln(0.50) = -0.693 So: -0.693 = -Rt / (2 × 12 × 10⁻³) Rearranging to solve for time t: t = (0.693 × 2 × 12 × 10⁻³) / 1.5 t = (0.693 × 24 × 10⁻³) / 1.5 t ≈ 11.09 ms Thus, the correct answer is (b) 11.09 ms.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The steady-state current in the circuit shown below is: [NEET 2024]",
+    "options": {
+      "A": "0.67 A",
+      "B": "1.5 A",
+      "C": "2 A",
+      "D": "1 A"
+    },
+    "answer": "c",
+    "explanation": "To find the steady-state current in the circuit, we ignore the capacitor because, in the steady state, it behaves like an open circuit (i.e., no current flows through it). Now, we are left with just the resistors in the circuit. First, calculate the total resistance of the parallel resistors: The resistors of 5Ω and 3Ω are in parallel. The formula for the equivalent resistance of two parallel resistors is: 1 / Rparallel = 1 / 5 + 1 / 3 1 / Rparallel = (3 + 5) / 15 = 8 / 15 Rparallel = 15 / 8 = 1.875Ω Now, the total resistance of the circuit is the sum of the 2Ω resistor and the 1.875Ω from the parallel combination: Rtotal = 2Ω + 1.875Ω = 3.875Ω Using Ohm's law (V = IR), the total current (I) is: I = V / Rtotal = 10V / 3.875Ω ≈ 2.58A Thus, the correct answer is (c) 2 A.",
+    "year": "2024",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2024_P12_Q17-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "If the galvanometer G does not show any deflection in the circuit shown, the value of R is given by [NEET 2023]",
+    "options": {
+      "A": "200 Ω",
+      "B": "50 Ω",
+      "C": "100 Ω",
+      "D": "400 Ω"
+    },
+    "answer": "c",
+    "explanation": "Since the galvanometer does not show any deflection, the potential of each point can be found easily as shown in the image below: i400=(10-2)/400 =8/400= 1/50 A The current through R will also be the same as no current is flowing through the other side. iR=1/50 A R=VR/IR = (2-0)/(1/50)=100Ω",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q18-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Resistance of a carbon resistor determined from color codes is (22000 ± 5%) Ω. The colour of the third band must be [NEET 2023]",
+    "options": {
+      "A": "Red",
+      "B": "Green",
+      "C": "Orange",
+      "D": "Yellow"
+    },
+    "answer": "c",
+    "explanation": "Resistance = (22 × 103) Ω ± 5% The third band corresponds to the decimal multiplier. Decimal multiplier = 103 ⇒ Colour → Orange",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The magnitude and direction of the current in the following circuit is [NEET 2023]",
+    "options": {
+      "A": "0.2 A from B to A through E",
+      "B": "0.5 A from A to B through E",
+      "C": "5/9 A from A to B through E",
+      "D": "1.5 A from B to A through E"
+    },
+    "answer": "b",
+    "explanation": "In the given image, the net current will flow from A to B because 10V > 5V. Applying KVL from A to B to C to D we get, -2i+10-5-1i-7i=0 5-10i=0 i=1/2 A i=0.5 A In clockwise direction (from A to B)",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q20-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "10 resistors, each of resistance R are connected in series to a battery of emf E and negligible internal resistance. Then those are connected in parallel to the same battery, the current is increased n times. The value of n is [NEET 2023]",
+    "options": {
+      "A": "10",
+      "B": "100",
+      "C": "1",
+      "D": "1000"
+    },
+    "answer": "b",
+    "explanation": "In series combination Req = 10R In parallel combination",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q21-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "The resistance of platinum wire at 0°C is 2 Ω and 6.8 Ω at 80°C. The temperature coefficient of resistance of the wire is [NEET 2023]",
+    "options": {
+      "A": "3 × 10-4 °C-1",
+      "B": "3 × 10-3 °C-1",
+      "C": "3 × 10-2 °C-1",
+      "D": "3 × 10-1 °C-1"
+    },
+    "answer": "c",
+    "explanation": "Using R = R0(1 + αΔT) where a is the thermal coefficient of resistance 6.8 = 2{1 + α(80 - 0)}",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "A certain wire A has a resistance of 81 Ω. The resistance of another wire B of the same material and equal length but of diameter thrice the diameter of A will be : [NEET 2023]",
+    "options": {
+      "A": "81 Ω",
+      "B": "9 Ω",
+      "C": "729 Ω",
+      "D": "243 Ω"
+    },
+    "answer": "b",
+    "explanation": "If the diameter becomes thrice then the cross-section area will become 9 times so Resistance will become 1/9 times",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q23-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q23-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q23-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "To produce an instantaneous displacement current of 2 mA in the space between the parallel plates of a capacitor of capacitance 4μF, the rate of change of applied variable potential difference (dv/dt) must be [NEET 2023]",
+    "options": {
+      "A": "800 V/s",
+      "B": "500 V/s",
+      "C": "200 V/s",
+      "D": "400 V/s"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2023_P12_Q24-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "On the basis of electrical conductivity, which one of the following materials has the smallest resistivity? [NEET 2023]",
+    "options": {
+      "A": "Germanium",
+      "B": "Silver",
+      "C": "Glass",
+      "D": "Silicon"
+    },
+    "answer": "b",
+    "explanation": "The resistivity of a material is inversely related to its electrical conductivity. The material with the smallest resistivity will have the highest electrical conductivity. Among the options: Germanium and Silicon are semiconductors with higher resistivity compared to conductors. Silver is one of the best conductors of electricity, and it has the lowest resistivity among common materials. Glass is an insulator and has a much higher resistivity compared to metals and semiconductors. Thus, Silver has the smallest resistivity and is the best conductor among the listed materials.",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "A copper wire of radius 1 mm contains 1022 free electrons per cubic metre. The drift velocity for free electrons when 10A current flows through the wire will be: (Given, charge on electron = 1.6 × 10-19 C) [NEET 2023]",
+    "options": {
+      "A": "6.25 × 10⁴ / π m/s",
+      "B": "6.25 / π × 10³ m/s",
+      "C": "6.25 / π m/s",
+      "D": "6.25 × 10⁵ / π m/s"
+    },
+    "answer": "b",
+    "explanation": "To find the drift velocity, we can use the formula for drift velocity: I = n × A × e × vd Where: I is the current (10 A), n is the number of free electrons per unit volume (1 × 10²² electrons/m³), A is the cross-sectional area of the wire, e is the charge of an electron (1.6 × 10⁻¹⁹ C), vd is the drift velocity. First, let's calculate the cross-sectional area (A) of the wire: The radius of the wire is given as 1 mm = 1 × 10⁻³ m. The area of the cross-section (A) of the wire is given by the formula: A = π × r², where r is the radius of the wire. A = π × (1 × 10⁻³ m)² = π × 10⁻⁶ m² Now, rearranging the drift velocity formula to solve for v_d: vd = I / (n × A × e) Substitute the known values: vd = 10 A / (1 × 10²² electrons/m³ × π × 10⁻⁶ m² × 1.6 × 10⁻¹⁹ C) Simplifying the expression: vd= 10 / (1.6 × 10⁻² × π) vd ≈ 6.25 × 10³ / π m/s Thus, the correct answer is (b) 6.25 / π × 10³ m/s.",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "The emf of a cell having internal resistance 1 Ω is balanced against a length of 330 cm on a potentiometer wire. When an external resistance of 2 Ω is connected across the cell, the balancing length will be: [NEET 2023]",
+    "options": {
+      "A": "220 cm",
+      "B": "330 cm",
+      "C": "115 cm",
+      "D": "332 cm"
+    },
+    "answer": "a",
+    "explanation": "The potential difference across the cell is given by: V = E - I × r Where: E is the emf of the cell, I is the current, r is the internal resistance of the cell. When an external resistance R is connected, the total resistance in the circuit becomes (R + r), and the current I' is given by: I' = E / (R + r) Since the potentiometer is used to measure the potential difference, the balancing length will be proportional to the potential difference. The new potential difference across the cell with the external resistance connected is: V' = I' × r The new balancing length is the ratio of the new potential difference to the original potential difference. Since the current decreases when the external resistance is added, the balancing length will decrease as well. Based on the current distribution, the balancing length will be 220 cm. Therefore, the correct answer is (a) 220 cm.",
+    "year": "2023",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The reciprocal of resistance is",
+    "options": {
+      "A": "conductance",
+      "B": "reactance",
+      "C": "mobility",
+      "D": "conductivity"
+    },
+    "answer": "a",
+    "explanation": "R = 1/G Thus reciprocal of resistance (R) is conductance (G)",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "The distance between the two plates of a parallel plate capacitor is doubled and the area of each plate is halved. If C is its initial capacitance, its final capacitance is equal to",
+    "options": {
+      "A": "C/4",
+      "B": "2C",
+      "C": "C/2",
+      "D": "4C"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "A cell of emf 4 V and internal resistance 0.5 Ω is connected to a 7.5 Ω external resistance. The terminal potential difference of the cell is",
+    "options": {
+      "A": "0.375 V",
+      "B": "3.75 V",
+      "C": "4.25 V",
+      "D": "4V"
+    },
+    "answer": "b",
+    "explanation": "From Kirchhoff's loop law : Terminal potential difference across cell,",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q30-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q30-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q30-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "The equivalent resistance of the infinite network given below is",
+    "options": {
+      "A": "[diagram]",
+      "B": "2 Ω",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Let net resistance of the given infinite network be 'R' Now, the circuit can be modified as",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q31-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q31-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q31-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q31-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q31-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q31-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "The effective capacitances of two capacitors are 3 μF and 16 μF, when they are connected in series and parallel respectively. The capacitance of two capacitors are",
+    "options": {
+      "A": "1.2 μF, 1.8 μF",
+      "B": "10μF, 6 μF",
+      "C": "8 μF, 8 μF",
+      "D": "12 μF, 4 μF"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q32-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "The sliding contact C is at one fourth of the length of the potentiometer wire (AB) from A as shown in the circuit diagram. If the resistance of the wire AB is R0, then the potential drop (V) across the resistor R is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Equivalent resistance across point AC From voltage divider rule",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q33-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q33-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q33-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q33-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q33-main5.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q33-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q33-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q33-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "A capacitor of capacitance C = 900 pF is charged fully by 100 V battery B as shown in figure (a). Then it is disconnected from the battery and connected to another uncharged capacitor of capacitance C = 900 pF as shown in figure (b). The electrostatic energy stored by the system (b) is",
+    "options": {
+      "A": "4.5 x 10-6 J",
+      "B": "3.25 x 10-6 J",
+      "C": "2.25 x 10-6 J",
+      "D": "1.5 x 10-6 J"
+    },
+    "answer": "c",
+    "explanation": "q1 = CV = 900 x 10-12 x 100 = 9 x 10-8 J = 225 x 10-8 U = 2.25 x 10-6 J",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q34-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q34-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q34-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "A copper wire of length 10 m and radius (10-2/√π) m has an electrical resistance of 10 Ω. The current density in the wire for an electric field strength of 10 (V/m) is",
+    "options": {
+      "A": "106 A/m2",
+      "B": "10-5 A/m2",
+      "C": "105 A/m2",
+      "D": "104 A/m2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q35-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "A Wheatstone bridge is used to determine the value of unknown resistance X by adjusting the variable resistance Y as shown in the figure. For the most precise measurement of X, the resistances P, and Q",
+    "options": {
+      "A": "Should be approximately equal and are small",
+      "B": "Should be very large and unequal",
+      "C": "Do not play any significant role",
+      "D": "Should be approximately equal to 2X"
+    },
+    "answer": "a",
+    "explanation": "We know, a Wheatstone bridge is said to be most precise when it is most sensitive. This can be done by making the ratio of arms equal. Thus (1) is the correct option.",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q36-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Two resistors of resistance, 100 Ω and 200 Ω are connected in parallel in an electrical circuit. The ratio of the thermal energy developed in 100 Ω to that in 200 Ω in a given time is",
+    "options": {
+      "A": "2 : 1",
+      "B": "1 : 4",
+      "C": "4 : 1",
+      "D": "1 : 2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2022_P12_Q37-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "As the temperature increases, the electrical resistance",
+    "options": {
+      "A": "Decreases for both conductors and semiconductors",
+      "B": "Increases for conductors but decreases for semiconductors",
+      "C": "Decreases for conductors but increases for semiconductors",
+      "D": "Increases for both conductors and semiconductors"
+    },
+    "answer": "b",
+    "explanation": "As the temperature increases, the resistivity of the conductor increases hence the electrical resistance increases. However, for semiconductors, the resistivity decreases with the temperature. Hence the electrical resistance of semiconductors decreases.",
+    "year": "2022",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Column Igives certain physical terms associated with the flow of current through a metallic conductor. Column IIgives some mathematical relations involving electrical quantities. Match Column-I and Column-IIwith appropriate relations. (2021)",
+    "options": {
+      "A": "(A)-(R), (B)-(P), (C)-(S), (D)-(Q)",
+      "B": "(A)-(R), (B)-(Q), (C)-(S), (D)-(P)",
+      "C": "(A)-(R), (B)-(S), (C)-(P), (D)-(Q)",
+      "D": "(A)-(R), (B)-(S), (C)-(Q), (D)-(P)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2021",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q39-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q39-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q39-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "In a potentiometer circuit, a cell of EMF 1.5 V gives a balance point at 36 cm length of wire. If another cell of EMF 2.5 V replaces the first cell, then at what length of the wire, does the balance point occur?",
+    "options": {
+      "A": "64 cm",
+      "B": "62 cm",
+      "C": "60 cm",
+      "D": "21.6 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2021",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q40-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "The effective resistance of a parallel connection that consists of four wires of equal length, equal area of cross-section, and the same material is 0.25Ω. What will be the effective resistance if they are connected in series?",
+    "options": {
+      "A": "1Ω",
+      "B": "4Ω",
+      "C": "0.25Ω",
+      "D": "0.5Ω"
+    },
+    "answer": "b",
+    "explanation": "R = 1Ω Rseries = 4R = 4(1) = 4Ω.",
+    "year": "2021",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q41-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "Three resistors having resistances r1, r2, and r3 are connected as shown in the given circuit. The ratio i3/i1of currents in terms of resistances used in the circuit are",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "v = ir i = v/r i ∝ i/r [ v is same for r2 & r3]",
+    "year": "2021",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q42-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q42-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q42-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q42-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q42-main5.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q42-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2021_P12_Q42-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "Which of the following graphs represents the variation of resistivity (r) with temperature (T) For copper?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "The relation between resistivity and temperature is given by ρ = ρ0e-αT",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q43-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q43-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q43-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q43-main4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "text": "A charged particle having drift velocity of 7.5×10-4 m s-1 in an electric field of 3×10-10 Vm-1 has a mobility in m2 V-1 s-1 of",
+    "options": {
+      "A": "2.5×10-6",
+      "B": "2.25×10-15",
+      "C": "2.25×1015",
+      "D": "2.5×106"
+    },
+    "answer": "d",
+    "explanation": "μ = 2.5 × 106(μ = mobility)",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q44-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q44-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "text": "The color code of resistance is given below: The values of resistance and tolerance, respectively, are",
+    "options": {
+      "A": "4.7 kΩ, 5%",
+      "B": "470Ω, 5%",
+      "C": "470 kΩ, 5%",
+      "D": "47 kΩ, 10%"
+    },
+    "answer": "b",
+    "explanation": "R = 47 × 101Ω ± 5% = 470 Ω ± 5% So, 470, 5%",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q45-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q45-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q45-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "text": "The solids which have the negative temperature coefficient of resistance are",
+    "options": {
+      "A": "semiconductors only",
+      "B": "insulators and semiconductors",
+      "C": "metals",
+      "D": "insulators only"
+    },
+    "answer": "b",
+    "explanation": "Insulators have a negative temperature coefficient because as temperature increases, the resistance of insulators decreases. The resistivity of the semiconductor material decreases with the rise in temperature, resulting in a negative temperature coefficient of resistance.",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "text": "Two solid conductors are made up of same material, have same length and same resistance. One of them has a circular cross-section of area A1 and the other one has a square cross-section of area A2 . The ratio A1 / A2",
+    "options": {
+      "A": "1.5",
+      "B": "1",
+      "C": "0.8",
+      "D": "2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q47-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q48",
+    "text": "The equivalent resistance between A and B for the mesh shown in the figure is",
+    "options": {
+      "A": "7.2 Ω",
+      "B": "16 Ω",
+      "C": "30 Ω",
+      "D": "4.8 Ω"
+    },
+    "answer": "b",
+    "explanation": "Equivalent resistance between points A and B is given as",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q48-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q48-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q48-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q49",
+    "text": "For the circuit shown in the figure, the current I will be",
+    "options": {
+      "A": "0.75 A",
+      "B": "1 A",
+      "C": "1.5 A",
+      "D": "0.5 A"
+    },
+    "answer": "b",
+    "explanation": "The circuit diagram is shown below Applying KVL in the loop, we get 4I + I⋅1 -4+ I⋅1 -2 =0 ⇒ 6I = 6 ⇒ I = 1 A",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q49-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q49-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q50",
+    "text": "For the circuit given below, the Kirchhoff's loop rule for the loop BCDEB is given by the equation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "b",
+    "explanation": "The circuit diagram is given below Applying KVL rule in loop BCDEB,",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q50-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q50-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q50-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q50-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q51",
+    "text": "A resistance wire connected in the left gap of a metre bridge balances a 10 Ω resistance in the right gap at a point which divides the bridge wire in the ratio 3 : 2. If the length of the resistance wire is 1.5 m, then the length of 1 Ω of the resistance wire is",
+    "options": {
+      "A": "1.0 × 10-1 m",
+      "B": "1.5 × 10-1 m",
+      "C": "1.5 × 10-2 m",
+      "D": "1.0 × 10-2 m"
+    },
+    "answer": "a",
+    "explanation": "According to the question, the metre bridge is shown below, Given, At balance condition in metre bridge, Now, length of given wire whose resistance 15 Ω is 1.5 m. Therefore, length of 1Ω resistance wire is= Hence, correct option is (a).",
+    "year": "2020",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q51-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q51-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q51-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2020_P12_Q51-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q52",
+    "text": "Six similar bulbs are connected as shown in the figure with a DC source of emf E and zero internal resistance. The ratio of power consumption by the bulbs when (i) all are glowing and (ii) in the situation when two from section A and one from section B are glowing, will be",
+    "options": {
+      "A": "4 : 9",
+      "B": "9 : 4",
+      "C": "1 : 2",
+      "D": "2 : 1"
+    },
+    "answer": "b",
+    "explanation": "Solution: (i) All bulbs are glowing (ii) Two from section A and one from section B are glowing.",
+    "year": "2019",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q52-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q52-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q52-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q52-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q52-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q53",
+    "text": "In the circuits shown below, the readings of the voltmeters and the ammeters will be",
+    "options": {
+      "A": "V2 > V1 and i1 = i2",
+      "B": "V1 = V2 and i1 > i2",
+      "C": "V1 = V2 and i1 = i2",
+      "D": "V2 > V1 and i1 > i2"
+    },
+    "answer": "c",
+    "explanation": "Solution: For ideal voltmeter, resistance is infinite and for the ideal ammeter, resistance is zero.",
+    "year": "2019",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q53-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q53-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q54",
+    "text": "The meter bridge shown in the balance position with P/Q = l1 / l2. If we now interchange the positions of galvanometer and cell, will the bridge work? If yes, that will be balanced condition?",
+    "options": {
+      "A": "[diagram]",
+      "B": "no, no null point",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "For balanced position in a meterbridge Now, if position of G and cell is interchanged, The balance condition still remains the same if the jockey points as the same point as given in the initial condition, for which there is no deflection in the galvanometer or no current will be drawn from the cell. Thus, the bridge will work as usual and balance condition is same, P / Q = l1 /l2",
+    "year": "2019",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q54-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q54-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q54-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q54-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q54-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q54-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q54-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q55",
+    "text": "The reading of an ideal voltmeter in the circuit shown is",
+    "options": {
+      "A": "0.6 V",
+      "B": "0 V",
+      "C": "0.5 V",
+      "D": "0.4 V"
+    },
+    "answer": "d",
+    "explanation": "The given circuit diagram can be drawn as shown below The equivalent resistance of circuit is given by As the resistance of two branches is same i.e. 50 Ω. So, the current I1 = I2",
+    "year": "2019",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q55-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q55-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q55-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2019_P12_Q55-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q56",
+    "text": "A set of 'n' equal resistors, of value 'R' each, are connected in series to a battery of emf 'E' and internal resistance 'R'. The current drawn is I. Now, the 'n' resistors are connected in parallel to the same battery. Then the current drawn from the battery becomes 10 I. The value of 'n' is",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "20",
+      "D": "9"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2018_P12_Q56-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q57",
+    "text": "A battery consists of a variable number 'n' of identical cells (having internal resistance 'r' each) which are connected in series. The terminals of the battery are short-circuited and the current I is measured. Which of the graphs shows the correct relationship between I and n?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2018_P12_Q57-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2018_P12_Q57-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2018_P12_Q57-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2018_P12_Q57-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2018_P12_Q57-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q58",
+    "text": "Current sensitivity of a moving coil galvanometer is 5 div/mA and its voltage sensitivity (angular deflection per unit voltage applied) is 20 div/V. The resistance of the galvanometer is",
+    "options": {
+      "A": "40 Ω",
+      "B": "25 Ω",
+      "C": "250 Ω",
+      "D": "500 Ω"
+    },
+    "answer": "c",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2018_P12_Q58-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q59",
+    "text": "A carbon resistor of (47 ± 4.7) kΩ is to be marked with rings of different colours for its identification. The colour code sequence will be",
+    "options": {
+      "A": "Yellow - Green - Violet - Gold",
+      "B": "Yellow - Violet - Orange - Silver",
+      "C": "Violet - Yellow - Orange - Silver",
+      "D": "Green - Orange - Violet - Gold"
+    },
+    "answer": "b",
+    "explanation": "Given, R = (47 ± 4.7) kΩ = 47 × 103 ± 10% ΩAs per the colour code for carbon resistors, the colour assigned to numbers. 4 - Yellow 7 - Violet 3 - Orange For ±10% accuracy, the colour is silver. Hence, the bands of colours on carbon resistor in sequence are yellow, violet, orange and silver. Note To remember the colour code sequence for carbon resistor, the following sentence should be kept in memory. B B Roy of Great Britain has a Very Good Wife.",
+    "year": "2018",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q60",
+    "text": "The resistance of a wire is 'R' ohm. If it is melted and stretched to 'n' times its original length, its new resistance will be",
+    "options": {
+      "A": "R/n",
+      "B": "n2R",
+      "C": "R/n2",
+      "D": "nR"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2017",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2017_P12_Q60-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q61",
+    "text": "A potentiometer is an accurate and versatile device to make electrical measurements of E.M.F. because the method involves",
+    "options": {
+      "A": "Potential gradients",
+      "B": "A condition of no current flow through the galvanometer",
+      "C": "A combination of cells, galvanometer, and resistances",
+      "D": "Cells"
+    },
+    "answer": "b",
+    "explanation": "Solution: In zero deflection conditions, the potentiometer draws no current.",
+    "year": "2017",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q62",
+    "text": "A potentiometer is an accurate and versatile device to make electrical measurement of EMF because the method involves",
+    "options": {
+      "A": "cells",
+      "B": "potential gradients",
+      "C": "a condition of no current flow through the galvanometer",
+      "D": "a combination of cells, galvanometer and resistances"
+    },
+    "answer": "c",
+    "explanation": "When a cell is balanced against potential drop across a certain length of potentiometer wire, no current flows through the cell ∴ emf of cell = potential drop across balance length of potentiometer wire. So, potentiometer is a more accurate device for measuring emf of a cell or no current flows through the cell during measurement of emf.",
+    "year": "2017",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q63",
+    "text": "A potentiometer wire is 100 cm long and a constant potential difference is maintained across it. Two cells are connected in series first to support one another and then in opposite directions. The balance points are obtained at 50 cm and 10 cm from the positive end of the wire in the two cases. The ratio of emf's is",
+    "options": {
+      "A": "3:2",
+      "B": "5:1",
+      "C": "5:4",
+      "D": "3:4"
+    },
+    "answer": "a",
+    "explanation": "Solution:According to the question, the emf of the cell is directly proportional to the balancing length. i.e., E∝ ℓ ... (i) Now, in the first case, cells are connected in series That is, Net EMF = E1 + E2 From equation (i), E1 + E2 = 50 cm (given) ... (ii) Now, the cells are connected in series in the opposite direction, Net emf = E1 - E2 From equation (i) E1 - E2 = 10 ... (iii) From equation (ii) and (iii),",
+    "year": "2016",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q63-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q64",
+    "text": "The charge flowing through a resistance R varies with time t as Q = at - bt2, where a and b are positive constants. The total heat produced in R is",
+    "options": {
+      "A": "a3R/b",
+      "B": "a3R/6b",
+      "C": "a3R/3b",
+      "D": "a3R/2b"
+    },
+    "answer": "b",
+    "explanation": "Solution: Given, Charge, Q = at - bt2 ... (i) We know that, Current, I = dθ/dt So, equation (i) can be written as, For maximum value of t, the current is given by, a-2bt = 0 Therefore, t = a/2b ..(iii) Total heat produced (H) can be given as, On solving the above equation, we get Given, Charge, Q = at - bt2 ... (i) We know that, Current, I = dθ/dt So, equation (i) can be written as, For maximum value of t, the current is given by, a-2bt = 0 Total heat produced (H) can be given as, On solving the above equation, we get",
+    "year": "2016",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q64-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q64-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q64-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q64-explanation4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q64-explanation5.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q64-explanation6.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q64-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q65",
+    "text": "The potential difference (VA - VB )between the points A and B in the given figure is",
+    "options": {
+      "A": "3 V",
+      "B": "+3 V",
+      "C": "+6 V",
+      "D": "+9 V"
+    },
+    "answer": "d",
+    "explanation": "Applying KVL,",
+    "year": "2016",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q65-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q65-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q65-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q66",
+    "text": "A filament bulb (500 W, 100 V) is to be used in a 230 V main supply. When a resistance R is connected in series, it works perfectly and the bulb consumes 500 W. The value of R is",
+    "options": {
+      "A": "230 Ω",
+      "B": "46 Ω",
+      "C": "26 Ω",
+      "D": "13 Ω"
+    },
+    "answer": "c",
+    "explanation": "If a rated voltage and power are given, then ∴ Current in the bulb, i = P/V (∵ P = Vi) ∴ Resistance of bulb, ∴ Resistance R is connected in series.",
+    "year": "2016",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q66-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q66-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q66-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2016_P12_Q66-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q67",
+    "text": "A, B, and C are voltmeters of resistance R, 1.5 R and 3R respectively as shown in the figure. When some potential difference is applied between X and Y, the voltmeter readings are VA, VB and VC respectively. Then",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2015",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q67-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q67-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q67-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q67-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q67-main5.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q67-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q67-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q68",
+    "text": "A potentiometer wire has a length of 4 m and resistance 8 Ω. The resistance must be connected in series with the wire and an accumulator of e.m.f. 2V, so as to get a potential gradient of 1 mV per cm on the wire is",
+    "options": {
+      "A": "48 Ω",
+      "B": "32 Ω",
+      "C": "40 Ω",
+      "D": "44 Ω"
+    },
+    "answer": "b",
+    "explanation": "Solution: Figure alongside shows a potentiometer wire of length L = 4m and resistance RAB = 8Ω. Resistance connected in series is R. When an accumulator of emf ε = 2V is used, we have current I given by, The resistance per unit length of the potentiometer wire is given by,",
+    "year": "2015",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q68-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q68-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q68-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q68-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q69",
+    "text": "Across a metallic conductor of non-uniform cross-section, a constant potential difference is applied. The quantity which remains constant along the conductor is",
+    "options": {
+      "A": "electric filed",
+      "B": "current density",
+      "C": "Current",
+      "D": "drift velocity"
+    },
+    "answer": "c",
+    "explanation": "Solution: As the cross-sectional area of the conductor is non-uniform so current density will be different. As, I = JA It is clear from Eq. (i) that when an area increases the current density decreases so the number of the flow of electrons will be same and thus the current will be constant.",
+    "year": "2015",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q70",
+    "text": "Two metal wires of identical dimensions are connected in series. If σ1 and σ2 are the conductivities of the metal wires respectively, the effective conductivity of the combination is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Net resistance of a metal wire having resistivity ρ, we have Then, net effective resistance of two metal wires, ⇒ Net effective conductivity of combined wires,",
+    "year": "2015",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q70-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q70-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q70-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q70-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q70-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q70-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q70-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q70-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q71",
+    "text": "A circuit contains an ammeter, a battery of 30 V and a resistance 40.8 Ω all connected in series. If the ammeter has a coil of resistance 480 Ω and a shunt of 20 Ω, then reading in the ammeter will be",
+    "options": {
+      "A": "0.5 A",
+      "B": "0.25 A",
+      "C": "2 A",
+      "D": "1 A"
+    },
+    "answer": "a",
+    "explanation": "Effective resistance of a circuit, = 40.8 + 19.2 = 60 Ω So, current flowing across ammeter, Hence, reading of ammeter = 0.5 A",
+    "year": "2015",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q71-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q71-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q71-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q72",
+    "text": "A potentiometer wire of length L and a resistance r are connected in series with a battery of e.m.f. E0 and a resistance r1 . An unknown e.m.f. is balanced at a length l of the potentiometer wire. The e.m.f. E will be given by",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "b",
+    "explanation": "Consider a potentiometer wire of length L and a resistance r are connected in series with a battery of emf E0 and a resistance r1 as shown in figure. Current in wire Potential gradient, emf produced across E will be given by",
+    "year": "2015",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q72-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q72-main2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q72-main3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q72-main4.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q72-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q72-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q72-explanation3.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2015_P12_Q72-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q73",
+    "text": "In an ammeter, 0.2% of the main current passes through the galvanometer. If the resistance of the galvanometer is G, the resistance of the ammeter will be",
+    "options": {
+      "A": "1/500 G",
+      "B": "500/499 G",
+      "C": "1/499 G",
+      "D": "499/500 G"
+    },
+    "answer": "a",
+    "explanation": "Solution: Let the shunt resistance be S.",
+    "year": "2014",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q73-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q73-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q74",
+    "text": "The resistance in the two arms of the meter bridge is 5 Ω and R Ω, respectively. When the resistance R is shunted with an equal resistance, the new balance point is at 1.6ℓ1. The resistance 'R' is",
+    "options": {
+      "A": "20 Ω",
+      "B": "25 Ω",
+      "C": "10 Ω",
+      "D": "15 Ω"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2014",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q74-main.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q74-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q74-explanation2.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q74-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q75",
+    "text": "Two cities are 150 km apart. Electric power is sent from one city to another city through copper wires. The fall of potential per km is 8 volts and the average resistance per km is 0.5 Ω. The power loss in the wire is",
+    "options": {
+      "A": "19.2 J",
+      "B": "12.2 kW",
+      "C": "19.2 W",
+      "D": "19.2 kW"
+    },
+    "answer": "d",
+    "explanation": "Solution: Total voltage drop across wire = 150 x 8 = 1200 volt Total resistance of wire = 150 x 0.5 = 75 Ω ∴ current through wire",
+    "year": "2014",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q75-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q76",
+    "text": "A potentiometer circuit has been set up for finding the internal resistance of a given cell. The main battery, used across the potentiometer wire, has an EMF of 2.0 V and a negligible internal resistance. The potentiometer wire itself is 4 m long. When the resistance, R connected across the given cell, has a value of: (i) infinity (ii) 9.5 Ω, the 'balancing lengths', on the potentiometer wire are found to be 3m and 2.85m, respectively. The value of internal resistance of the cell is",
+    "options": {
+      "A": "0.5 Ω",
+      "B": "0.75 Ω",
+      "C": "0.25 Ω",
+      "D": "0.95 Ω"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2014",
+    "chapter": "Current Electricity",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q76-explanation1.png",
+      "PHYSICS/P12/chapters/current-electricity/CURRENT_ELECTRICITY-2014_P12_Q76-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

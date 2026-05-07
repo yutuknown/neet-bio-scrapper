@@ -1,0 +1,389 @@
+[
+  {
+    "id": "Q1",
+    "text": "Given below are two statements: Statement I: The cerebral hemispheres are connected by nerve tract known as corpus callosum. Statement II: The brain stem consists of the medulla oblongata, pons and cerebrum",
+    "options": {
+      "A": "Both Statement I and Statement II are correct.",
+      "B": "Both Statement I and Statement II are incorrect.",
+      "C": "Statement I is correct but Statement II is incorrect.",
+      "D": "Statement I is incorrect but Statement II is correct."
+    },
+    "answer": "c",
+    "explanation": "Statement I describes the corpus callosum, a structure in the brain. The corpus callosum is a large bundle of nerve fibers that connects the two cerebral hemispheres, allowing for communication between them. This statement is correct. Statement II mentions the brain stem and lists its components as the medulla oblongata, pons, and cerebrum. The error here is in including the cerebrum as part of the brain stem. In actuality, the brain stem consists of the medulla oblongata, the pons, and the midbrain, not the cerebrum. The cerebrum is part of the forebrain and is responsible for higher cognitive functions such as thinking, perceiving, planning, and understanding language. Therefore, Statement II is incorrect. Based on the analysis above, the correct answer is: Option C: Statement I is correct but Statement II is incorrect.",
+    "year": "2024",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-II, B-III, C-I, D-IV",
+      "B": "A-III, B-IV, C-II, D-I",
+      "C": "A-I, B-III, C-II, D-IV",
+      "D": "A-II, B-I, C-III, D-IV"
+    },
+    "answer": "b",
+    "explanation": "Sol: To match List I with List II correctly, we start by identifying the function of each brain region described in List I and match these descriptions to the corresponding functions stated in List II: Pons: The pons is part of the brainstem located between the midbrain and the medulla oblongata. It principally acts as a bridge connecting various parts of the brain, and it is also involved in controlling essential functions like sleep and respiration. Hypothalamus: The hypothalamus is a small portion at the base of the brain that plays a crucial role in hormone release and regulation of essential bodily functions, including temperature control, thirst, hunger, sleep, mood, and sexual behavior. It contains several neurosecretory cells that produce hormones. Medulla: The medulla oblongata, also part of the brainstem, primarily controls autonomic functions such as breathing, heart rate, and digestion (including gastric secretions). Cerebellum: The cerebellum is located at the back of the brain and is responsible for controlling motor skills, balance, coordination, and posture. It helps refine the movements dictated by the motor cortex. Now, let's match these descriptions to those listed in List II: A. Pons should match with \"Connects different regions of the brain.\" - this corresponds to III. B. Hypothalamus should match with \"Neurosecretory cells.\" - this corresponds to IV. C. Medulla should match with \"Controls respiration and gastric secretions.\" - this corresponds to II. D. Cerebellum should match with \"Provides additional space for Neurons, regulates posture and balance.\" - this corresponds to I. When we look at the given options: Option A: A-II, B-III, C-I, D-IV (wrong) Option B: A-III, B-IV, C-II, D-I (correct) Option C: A-I, B-III, C-II, D-IV (wrong) Option D: A-II, B-I, C-III, D-IV (wrong) The correct answer is Option B: A-III, B-IV, C-II, D-I.",
+    "year": "2024",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/neural-control-and-coordination/NEURAL_CONTROL_AND_COORDINATION-2024_B11_Q2-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-IV, C-II, D-",
+      "B": "A-I, B-II, C-IV, D-III",
+      "C": "A-II, B-I, C-III, D-IV",
+      "D": "A-IV, B-II, C-III, D-I"
+    },
+    "answer": "a",
+    "explanation": "A. Limbic system: The limbic system is involved in emotions, and the amygdala is a major component of the limbic system, which plays a key role in emotional responses. Thus, A corresponds to III (Amygdala).B. Arachnoid: The arachnoid is one of the cranial meninges (protective layers surrounding the brain). Therefore, B corresponds to IV (Cranial meninge).C. Corpus callosum: The corpus callosum is a tract of nerve fibers that connects the two cerebral hemispheres, allowing communication between them. Thus, C corresponds to II (Tract of nerve fibres).D. Hypothalamus: The hypothalamus is involved in regulating various physiological processes such as body temperature. Therefore, D corresponds to I (Body temperature). Thus, the correct match is: A-III: Limbic system is related to the amygdala.B-IV: Arachnoid is a cranial meninge.C-II: Corpus callosum is a tract of nerve fibres.D-I: Hypothalamus regulates body temperature.",
+    "year": "2024",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/neural-control-and-coordination/NEURAL_CONTROL_AND_COORDINATION-2024_B11_Q3-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-I, C-IV, D-II",
+      "B": "A-I, B-IV, C-II, D-III",
+      "C": "A-IV, B-III, C-II, D-I",
+      "D": "A-II, B-III, C-I, D-IV"
+    },
+    "answer": "a",
+    "explanation": "A. Schwann cells: Schwann cells are responsible for the formation of the myelin sheath around neurons in the peripheral nervous system. Thus, A corresponds to III (Myelin Sheath).B. Synaptic knob: The synaptic knob is the part of a neuron that releases neurotransmitters into the synapse to transmit nerve signals to the next neuron. Thus, B corresponds to I (Neurotransmitter).C. Bipolar neurons: Bipolar neurons are primarily found in the retina, where they play a role in visual processing. Thus, C corresponds to IV (Retina).D. Multipolar neurons: Multipolar neurons are found in the cerebral cortex, where they play a key role in complex brain functions. Thus, D corresponds to II (Cerebral cortex). Thus, the correct match is: A-III: Schwann cells form the myelin sheath.B-I: Synaptic knobs release neurotransmitters.C-IV: Bipolar neurons are found in the retina.D-II: Multipolar neurons are found in the cerebral cortex.",
+    "year": "2024",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/neural-control-and-coordination/NEURAL_CONTROL_AND_COORDINATION-2024_B11_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The parts of human brain that helps in regulation of sexual behaviour, expression of excitement, pleasure, rage, fear etc. are: (2023)",
+    "options": {
+      "A": "Corpora quadrigemina and hippocampus",
+      "B": "Brain stem and epithalamus",
+      "C": "Corpus callosum and thalamus",
+      "D": "Limbic system and hypothalamus"
+    },
+    "answer": "d",
+    "explanation": "The limbic system, which includes structures such as the amygdala and hippocampus, plays a significant role in regulating emotions, including fear, pleasure, and anger. The hypothalamus, another component of the limbic system, is involved in various functions, including the regulation of sexual behavior and responses to pleasure and excitement. Therefore, option D is correct.Option (A), (B) and (C) are not correct because corpora quadrigemina is a part of the midbrain and consists of four round swellings. Corpus callosum is a tract of nerve fibres that connects right and left cerebral hemispheres. Thalamus is a major coordinating centre in the forebrain for sensory and motor signalling. Midbrain, pons and medulla oblongata together form the brain stem.",
+    "year": "2023",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The brain stem of the human brain consists of",
+    "options": {
+      "A": "Mid-brain, Pons and Medulla Oblongata",
+      "B": "Forebrain, Cerebellum and Pons",
+      "C": "Thalamus, Hypothalamus and Corpora quadrigemina",
+      "D": "Amygdala, Hippocampus and Corpus Callosum"
+    },
+    "answer": "a",
+    "explanation": "The brain stem is the part of the brain that connects the brain to the spinal cord and is responsible for many vital functions such as heart rate, breathing, and sleep. It consists of three main parts: Mid-brain: Involved in vision, hearing, and motor control.Pons: Acts as a bridge connecting different parts of the brain and is involved in regulating sleep and respiration.Medulla Oblongata: Controls autonomic functions such as breathing, heart rate, and blood pressure. Thus, the correct answer is (a).",
+    "year": "2023",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Select the incorrect statement regarding synapses",
+    "options": {
+      "A": "Electrical current can flow directly from one neuron into the other across the electrical synapse.",
+      "B": "Chemical synapses use neurotransmitters.",
+      "C": "Impulse transmission across a chemical synapse is always faster than that across an electrical synapse.",
+      "D": "The membranes of presynaptic and postsynaptic neurons are ibn close proximity in an electrical synapse."
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the correct answer as impulse transmission across an electrical synapse is always faster than that across a chemical synapse. \u2192 Chemical synapses use chemicals for transmission which are known as neurotransmitters. \u2192 The membranes of presynaptic and postsynaptic neurons are in close proximity in an electrical synapse. \u2192 In an electrical synapse, the transmission of the impulse occurs in the form of an electrical current from one neuron to the next neuron.",
+    "year": "2022",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Match List-I with List - II",
+    "options": {
+      "A": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+      "B": "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)",
+      "C": "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)",
+      "D": "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)"
+    },
+    "answer": "a",
+    "explanation": "Option (a) is the correct answer because (a) Multipolar neurons are present in cerebral cortex. (b) Bipolar neurons are found in the retina of the eye. (c) Myelinated nerve fibres are found in spinal and cranial nerves (d) Unmyelinated nerve fibres are commonly found in autonomous and somatic neural systems.",
+    "year": "2022",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/neural-control-and-coordination/NEURAL_CONTROL_AND_COORDINATION-2022_B11_Q8-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Which part of the brain is responsible for thermoregulation?",
+    "options": {
+      "A": "Medulla oblongata",
+      "B": "Cerebrum",
+      "C": "Hypothalamus",
+      "D": "Corpus callosum"
+    },
+    "answer": "c",
+    "explanation": "Hypothalamus is responsible for thermoregulation.",
+    "year": "2019",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Nissl's bodies are mainly composed of",
+    "options": {
+      "A": "Proteins and lipids",
+      "B": "DNA and RNA",
+      "C": "Nucleic acids and SER",
+      "D": "Free ribosomes and RER."
+    },
+    "answer": "d",
+    "explanation": "Nissl granules are composed of free ribosomes and RER. They are responsible for protein synthesis.",
+    "year": "2018",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Which of the following structures or regions is incorrectly paired with its functions?",
+    "options": {
+      "A": "Medulla oblongataControls respiration and cardiovascular reflexes",
+      "B": "Limbic system Consists of fibre tracts that interconnect different regions of brain controls movement",
+      "C": "Hypothalamus Production of releasing hormones and regulation of temperature, hunger and thirst",
+      "D": "Corpus callosum Band of fibers connecting left and right cerebral hemispheres"
+    },
+    "answer": "b",
+    "explanation": "Medulla oblongata possess important centres for : Respiration, Cardiovascular reflexes, Gastric secretions.Corpus callosum : It is a tract of nerve fibres by which the hemispheres are connected with each other.Hypothalamus : It is centre for body temperature, urge for eating(hunger) and drinking (thirst).The limbic system (emotional motor system) is responsible for the experience and expression of emotion but not movement. It is located in the core of the brain and includes the amygdala, hippocampus and hypothalamus.",
+    "year": "2018",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [
+      [
+        [
+          "(a) Medulla oblongata",
+          "Controls respiration and cardiovascular reflexes"
+        ],
+        [
+          "(b) Limbic system",
+          "Consists of fibre tracts that interconnect different regions of brain controls movement"
+        ],
+        [
+          "(c) Hypothalamus",
+          "Production of releasing hormones and regulation of temperature, hunger and thirst"
+        ],
+        [
+          "(d) Corpus callosum",
+          "Band of fibers connecting left and right cerebral hemispheres"
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Myelin sheath is produced by",
+    "options": {
+      "A": "Astrocytes and Schwann cells",
+      "B": "Oligodendrocytes and osteoclasts",
+      "C": "Osteoclasts and astrocytes",
+      "D": "Schwann cells and oligodendrocytes."
+    },
+    "answer": "d",
+    "explanation": "Myelin sheath wrapped around the nerve axon. Oligodendrocytes are neuroglial cells which produce myelin sheath in central nervous system while Schwann cell produces myelin sheath in peripheral nervous system.",
+    "year": "2017",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Receptor sites for neurotransmitters are present on",
+    "options": {
+      "A": "Pre-synaptic membrane",
+      "B": "Tips of axons",
+      "C": "Post-synaptic membrane",
+      "D": "Membranes of synaptic vesicles."
+    },
+    "answer": "c",
+    "explanation": "Pre-synaptic membrane is involved in the release of neurotransmitter in the chemical synapse. The receptors sites for neurotransmitters are present on postsynaptic membrane of neuron.",
+    "year": "2017",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Which of the following regions of the brain is incorrectly paired with its function?",
+    "options": {
+      "A": "Cerebellum - language comprehension",
+      "B": "Corpus callosum - communication between the left and right cerebral cortices",
+      "C": "Cerebrum - calculation and contemplation",
+      "D": "Medulla oblongata - homeostatic control"
+    },
+    "answer": "a",
+    "explanation": "The cerebellum is mainly responsible for coordination and balance. It does not handle language comprehension, which is linked to other brain areas.",
+    "year": "2015",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Injury localized to the hypothalamus would most likely disrupt: (2014)",
+    "options": {
+      "A": "Short - term memory.",
+      "B": "Co-ordination during locomotion.",
+      "C": "Executive functions, such as decision making.",
+      "D": "Regulation of body temperature."
+    },
+    "answer": "",
+    "explanation": "hypothalamus Body temperatureHunger and thirstHormonal balance Injury to this area would primarily disrupt the regulation of body temperature.",
+    "year": "2014",
+    "chapter": "Neural Control and Coordination",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

@@ -1,0 +1,929 @@
+[
+  {
+    "id": "Q1",
+    "text": "A model for the quantized motion of an electron in a uniform magnetic field B states that the flux passing through the orbit of the electron is n (h/e) where n is an integer, h is Planck's constant and e is the magnitude of the electron's charge. According to the model, the magnetic moment of an electron is its lowest energy state will be (m is the mass of the electron)",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Magnetic moment M = IA = I (πr2) M = (ev / 2π) × (πr2) ...(1) Given B (πr2) = n (h / e) ⇒ r2 = h / (Bπe) ...(2) (∵ n = 1) And when charge is moving in external magnetic field Then r = mv / qB ⇒ v / r = eB / m ...(3) (∵ q = e) Put value from equation (2) and (3) in equation (1) M = (ev / 2π) × (πr2) M = (e / 2π) × (eB / m) × π × (h / Bπe) = eh / 2πm",
+    "year": "2025",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q1-main.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q1-main2.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q1-main3.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q1-main4.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "An electron (mass 9 × 10-31 kg and charge 1.6 × 10-19C) moving with speed c/100 (c=speed of light) is injected into a magnetic field of magnitude 9 × 10-4 T perpendicular to its direction of motion. We wish to apply an uniform electric field together with the magnetic field so that the electron does not deflect from its path. Then (speed of light c = 3 × 108 ms-1)",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "For particle To Remain undeflected",
+    "year": "2025",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q2-main.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q2-main2.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q2-main3.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q2-main4.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q2-main5.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q2-main6.jpg",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2025_P12_Q2-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A 2 amp current is flowing through two different small circular copper coils having radii ratio 1 : 2. The ratio of their respective magnetic moments will be",
+    "options": {
+      "A": "2 : 1",
+      "B": "4 : 1",
+      "C": "1 : 4",
+      "D": "1 : 2"
+    },
+    "answer": "c",
+    "explanation": "Magnetic moment of current carrying circular loop = IA M = IA M ∝ A [I - same] M1 / M2 = A1 / A2 = (πr12) / (πr22) = (1/2)2 = 1 / 4",
+    "year": "2025",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "A tightly wound 100 turns coil of radius 10cm carries a current of 7A. The magnitude of the magnetic field at the centre of the coil is (Take permeability of free space as 4π × 10-7SI units)",
+    "options": {
+      "A": "44 mT",
+      "B": "4.4 T",
+      "C": "4.4 mT",
+      "D": "44 T"
+    },
+    "answer": "c",
+    "explanation": "The magnitude of magnetic field due to circular coil of N turns is given by",
+    "year": "2024",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2024_P12_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A sheet is placed on a horizontal surface in front of a strong magnetic pole. A force is needed to: A. hold the sheet there if it is magnetic. B. hold the sheet there if it is non-magnetic. C. move the sheet away from the pole with uniform velocity if it is conducting. D. move the sheet away from the pole with uniform velocity if it is both, non-conducting and non-polar. Choose the correct statement(s) from the options given below",
+    "options": {
+      "A": "B and D only",
+      "B": "A and C only",
+      "C": "A, C and D only",
+      "D": "C only [2024]"
+    },
+    "answer": "b",
+    "explanation": "To understand which statement(s) is/are correct, we must explore the interactions between the magnetic field and different types of materials (magnetic, non-magnetic, conducting, non-conducting) Statement A: If a sheet is magnetic and placed near a strong magnetic pole, it will experience a magnetic force due to the magnetic field. This force could either attract or repel the sheet depending on the polarity of the magnetic pole and the induced or inherent poles in the sheet. A force is needed to hold the sheet stationary against this magnetic force. Hence, statement A is true Statement B: If the sheet is non-magnetic, it will not experience any magnetic force because non-magnetic materials do not respond to magnetic fields in a manner where a force would be exerted on them. Thus, no external force is needed to hold a non-magnetic sheet in place near a magnetic pole. Statement B is false Statement C: If the sheet is conducting and you move it away from the magnetic pole, it will experience a change in the magnetic flux through it. According to Faraday's Law of Electromagnetic Induction, a change in magnetic flux induces an electromotive force (EMF) and consequently, currents known as eddy currents in the conductor. These induced currents produce their own magnetic fields, which interact with the original magnetic field, leading to a force (Lenz's Law). To move the sheet away with uniform velocity, a force must counteract this magnetic interaction. Therefore, statement C is true Statement D: If the sheet is non-conducting and non-polar, it will neither induce currents (since it's non-conducting) nor experience magnetic forces (since it's non-magnetic). Thus, moving such a sheet away from a magnetic pole with uniform velocity does not require overcoming any electromagnetic forces. Statement D is false Given these explanations, the correct statements are A and C only The correct choice is: Option B: A and C only.",
+    "year": "2024",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A long straight wire of length 2 m and mass 250 g is suspended horizontally in a uniform horizontal magnetic field of 0.7 T. The amount of current flowing through the wire will be (g = 9.8 ms-2)",
+    "options": {
+      "A": "2.45 A",
+      "B": "2.25 A",
+      "C": "2.75 A",
+      "D": "1.75 A"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q6-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q6-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "A uniform electric field and a uniform magnetic field are acting along the same direction in a certain region. If an electron is projected in the region such that its velocity is pointed along the direction of fields, then the electron",
+    "options": {
+      "A": "will turn towards right of direction of motion",
+      "B": "will turn towards left of direction of motion",
+      "C": "speed will decrease",
+      "D": "speed will increase"
+    },
+    "answer": "c",
+    "explanation": "Speed of electron will decrease due to electric force magnetic force of electron is zero.",
+    "year": "2023",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "A very long conducting wire is bent in a semi-circular shape from A to B as shown in the figure. The magnetic field at point P for steady current configuration is given by",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Pointed away from the page.",
+    "year": "2023",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q8-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q8-main2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q8-main3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q8-main4.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q8-main5.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "A wire carrying a current I along the positive x-axis has length L. It is kept in a magnetic field The magnitude of the magnetic force acting on the wire is",
+    "options": {
+      "A": "3 lL",
+      "B": "√5 lL",
+      "C": "5 lL",
+      "D": "√3 lL"
+    },
+    "answer": "c",
+    "explanation": "Magnetic force acting on a current-carrying wire is",
+    "year": "2023",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q9-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2023_P12_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Two very long, straight, parallel conductors A and B carry current of 5 A and 10 A respectively and are at a distance of 10 cm from each other. The direction of current in two conductors is same. The force acting per unit length between two conductors is",
+    "options": {
+      "A": "1 x 10-4 Nm-1 and is repulsive",
+      "B": "2 x 10-4 Nm-1 and is attractive",
+      "C": "2 x 10-4 Nm-1 and is repulsive",
+      "D": "1 x 10-4 Nm-1 and is attractive"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2022_P12_Q10-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2022_P12_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The magnetic field on the axis of a circular loop of radius 100 cm carrying current I = √2 A, at point 1 m away from the centre of the loop is given by",
+    "options": {
+      "A": "6.28 x 10-4 T",
+      "B": "3.14 x 10-7 T",
+      "C": "6.28 x 10-7 T",
+      "D": "3.14 x 10-4 T"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2022_P12_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A long solenoid of radius 1 mm has 100 turns per mm. If 1 A current flows in the solenoid, the magnetic field strength at the center of the solenoid is",
+    "options": {
+      "A": "12.56 × 10-2 T",
+      "B": "12.56 × 10-4 T",
+      "C": "6.28 × 10-4 T",
+      "D": "6.28 × 10-2 T"
+    },
+    "answer": "a",
+    "explanation": "We know, the magnetic field at the center of the solenoid",
+    "year": "2022",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2022_P12_Q12-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "From Ampere's circuital law for a long straight wire of circular cross-section carrying a steady current, the variation of the magnetic field in the inside and outside region of the wire is",
+    "options": {
+      "A": "A linearly increasing function of distance up to the boundary of the wire and then linearly decreasing for the outside region.",
+      "B": "A linearly increasing function of distance r up to the boundary of the wire and then decreasing one with 1/r dependence for the outside region.",
+      "C": "A linearly decreasing function of distance up to the boundary of the wire and then a linearly increasing one for the outside region.",
+      "D": "Uniform and remains constant for both regions."
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2022_P12_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Given below are two statements Statement I: Biot-Savart's law gives us the expression for the magnetic field strength of an infinitesimal current element (Idl) of a current-carrying conductor only. Statement II: Biot-Savart's law is analogous to Coulomb's inverse square law of charge q, with the former being related to the field produced by a scalar source, Idl while the latter being produced by a vector source, q. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are incorrect",
+      "B": "Statement I is correct and Statement II is incorrect",
+      "C": "Statement I is incorrect and Statement II is",
+      "D": "Both Statement I and Statement II are"
+    },
+    "answer": "b",
+    "explanation": "According to Biot-Savart's law which applies to infinitesimal elements. It is analogous to Coulomb's law, where IdI is the vector source and the electric field is produced by scalar source q. Here, statement I is correct and statement II is incorrect.",
+    "year": "2022",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2022_P12_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A square loop of side 1 m and resistance 1 Ω is placed in a magnetic field of 0.5 T. If the plane of loop is perpendicular to the direction of magnetic field, the magnetic flux through the loop is",
+    "options": {
+      "A": "2 weber",
+      "B": "0.5 weber",
+      "C": "1 weber",
+      "D": "Zero weber"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2022_P12_Q15-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2022_P12_Q15-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Two toroids 1 and 2 have total number of turns 200 and 100 respectively with average radii 40 cm and 20 cm respectively. If they carry same current i, the ratio of the magnetic fields along the two loops is",
+    "options": {
+      "A": "1 : 1",
+      "B": "4 : 1",
+      "C": "2 : 1",
+      "D": "1 : 2"
+    },
+    "answer": "a",
+    "explanation": "1 : 1",
+    "year": "2021",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q16-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q16-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A thick current-carrying cable of radius 'R' carries current 'I' uniformly distributed across its cross-section. The variation of magnetic field B(r) due to the cable with the distance 'r' from the axis of the cable is represented by",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Inside a current-carrying cylindrical conductor",
+    "year": "2021",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q17-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q17-main2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q17-main3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q17-main4.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q17-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q17-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "An infinitely long straight conductor carries a current of 5 A as shown. An electron is moving with a speed of 105 m/s parallel to the conductor. The perpendicular distance between the electron and the conductor is 20 cm at an instant. Calculate the magnitude of the force experienced by the electron at that instant",
+    "options": {
+      "A": "4π× 10-20 N",
+      "B": "8 × 10-20 N",
+      "C": "4 × 10-20 N",
+      "D": "8π× 10-20 N"
+    },
+    "answer": "b",
+    "explanation": "f = 8 × 10-20 Newton.",
+    "year": "2021",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q18-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Uniform conducting wire of length 12a and resistance 'R' is wound up as a current-carrying coil in the shape of, (i) an equilateral triangle of side 'a' (ii) a square of side 'a' The magnetic dipole moments of the coil in each case respectively are",
+    "options": {
+      "A": "3Ia2 and 4Ia2",
+      "B": "4Ia2 and 3Ia2",
+      "C": "√3Ia2 and 3Ia2",
+      "D": "3Ia2 and Ia2"
+    },
+    "answer": "c",
+    "explanation": "(no. of turns = 4) M2 = a2I × 3 = 3Ia2 (no. of turns = 3)",
+    "year": "2021",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "In the product What will be the complete expression for ?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Let the expression of B= Bi i+Bj j+Bk k Let's first find the cross-product of v and B. We get three equations: On solving the above equations we get, Bi =-6Bj =-6Bk =-8 Thus the magnetic field vector is, B= -6i-6j-8k",
+    "year": "2021",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q20-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q20-main2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q20-main3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q20-main4.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q20-main5.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q20-main6.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q20-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2021_P12_Q20-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "A long solenoid of 50 cm in length having 100 turns carries a current of 2.5 A. The magnetic field at the center of the solenoid is : (μ0 = 4π × 10-7 Tm A-1)",
+    "options": {
+      "A": "6.28×10-5 T",
+      "B": "3.14×10-5 T",
+      "C": "6.28×10-4 T",
+      "D": "3.14×10-4 T"
+    },
+    "answer": "c",
+    "explanation": "The magnetic field for the solenoid is given by B = μ0 nI n = N/ℓ = 4π × 10-7 × 200 × 2.5 = 4 × 3.14 × 10-7 × 500 = 2000 × 3.14 × 10-7 = 6.14 × 10-4 T",
+    "year": "2020",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2020_P12_Q21-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "A straight conductor carrying current i splits into two parts as shown in the figure. The radius of the circular loop is R. The total magnetic field at the centre P at the loop is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "a",
+    "explanation": "The magnetic field at the centre of an arc subtended at an angle θ is given by Then, the magnetic field due to larger arc AB is which acts in inward direction according to right hand thumb rule. And magnetic field due to smaller arc AB is which acts in outward direction. The resultant magnetic field which acts in inward direction as B1> B2. Two arcs can also be seen as the two resistances in parallel combination. So, the potential across them will be same i.e. From Eq. (iii) and (v), we get",
+    "year": "2019",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-main2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-explanation2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-explanation3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-explanation4.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-explanation5.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-explanation6.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q22-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q23",
+    "text": "Ionized hydrogen atoms and? a-particles with the same momenta enter perpendicular to a constant magnetic field, B. The ratio of the radii of their paths will be",
+    "options": {
+      "A": "2:1",
+      "B": "1:2",
+      "C": "4:1",
+      "D": "1:4"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2019",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "A cylindrical conductor of radius R is carrying a constant current. The plot of the magnitude of the magnetic field. B with the distance d from the center of the conductor, is correctly represented by the figure",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Inside (d < R) The magnetic field inside the conductor A straight line passing through the origin at the surface (d = R) Maximum at surface Outside (d > R)",
+    "year": "2019",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q24-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q24-main2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q24-main3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q24-main4.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q24-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q24-explanation2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q24-explanation3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2019_P12_Q24-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "A metallic rod of mass per unit length 0.5 kgm-1 is lying horizontally on a smooth inclined plane which makes an angle of 30° with the horizontal. The rod is not allowed to slide down by flowing a current through it when a magnetic field of induction 0.25 T is acting on it in the vertical direction. The current flowing in the rod to keep it stationary is",
+    "options": {
+      "A": "14.76 A",
+      "B": "5.98 A",
+      "C": "7.14 A",
+      "D": "11.32 A"
+    },
+    "answer": "d",
+    "explanation": "For Equilibrium, mg sin 30° =1lBcos30°",
+    "year": "2018",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2018_P12_Q25-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "A 250-turn rectangular coil of length 2.1 cm and width 1.25 cm carries a current of 85 µA and is subjected to a magnetic field of strength 0.85 T. Work done for rotating the coil by 180º against the torque is",
+    "options": {
+      "A": "4.55 µJ",
+      "B": "2.3 µJ",
+      "C": "1.15 µJ",
+      "D": "9.1 µJ"
+    },
+    "answer": "d",
+    "explanation": "W = MB (cosθ1- cosθ2) When it is rotated by an angle of 180º then W = 2MB W = 2 (NIA)B = 2 x 250 x 85 x 10-6[1.25 x 2.1 x 10-4] x 85 x 10-2 = 9.1μJ",
+    "year": "2017",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "An arrangement of three parallel straight wires placed perpendicular to the plane of paper carrying the same current 'I' along the same direction is shown in Fig. The magnitude of force per unit length on the middle wire 'B' is given by",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2017_P12_Q27-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2017_P12_Q27-main2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2017_P12_Q27-main3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2017_P12_Q27-main4.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2017_P12_Q27-main5.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2017_P12_Q27-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "mixed_option_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "A long straight wire of radius a carries a steady current I. The current is uniformly distributed over its cross-section. The ratio of the magnetic fields B and B ′ at radial distances a /2 and 2a respectively, from the axis of the wire is",
+    "options": {
+      "A": "1/2",
+      "B": "1",
+      "C": "4",
+      "D": "1/4"
+    },
+    "answer": "b",
+    "explanation": "Consider two amperian loops of radius a / 2 and 2a as shown in the diagram.Applying Ampere's circuital law for these loops we get, Similarly, for bigger amperian loop.",
+    "year": "2016",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q28-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q28-explanation2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q28-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "A long wire carrying a steady current is bent into a circular loop of one turn. The magnetic field at the centre of the loop is B. It is then bent into a circular coil of n turns. The magnetic field at the centre of this coil of n turns will be",
+    "options": {
+      "A": "nB",
+      "B": "n2B",
+      "C": "2nB",
+      "D": "2n2B"
+    },
+    "answer": "b",
+    "explanation": "(For a circular coil) where, n : Number of turns in circular coil",
+    "year": "2016",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q29-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q29-explanation2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q29-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "A square loop ABCD carrying a current i, is placed near and coplanar with a long straight conductor XY carrying a current I, the net force on the loop will be",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Consider the given figure, From the above figure, it can be seen that the direction of currents in a long straight conductor XY and arm AB of a square loop ABCD are in the same direction. So, there exist a force of attraction between the two, which will be experienced by FBA as In the case of XY and arm CD, the direction of currents are in the opposite direction. So, there exist a force of repulsion which will be experienced by CD as Therefore, net force on the loop ABCD will be",
+    "year": "2016",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q30-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q30-main2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q30-main3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q30-main4.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q30-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q30-explanation2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q30-explanation3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q30-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "A long straight wire of radius a carries a steady current I. The current is uniformly distributed over its cross-section. The ratio of the magnetic fields B and B`, at radial distances a/2 and 2a respectively, from the axis of the wire is",
+    "options": {
+      "A": "4",
+      "B": "1/4",
+      "C": "1/2",
+      "D": "1"
+    },
+    "answer": "d",
+    "explanation": "Consider two amperian loops of radius a/2 and 2a as shown in the diagram. Applying Ampere's circuital law for these loops, we get B1 acts at a distance a/2 from the axis of the wire. Similarly, for a bigger amperian loop, Total current enclosed by amperian loop 2. at a distance 2a from the axis of the wire.",
+    "year": "2016",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q31-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q31-explanation2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q31-explanation3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q31-explanation4.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2016_P12_Q31-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "An electron moving in a circular orbit of radius r makes n rotations per second. The magnetic field produced at the centre has magnitude",
+    "options": {
+      "A": "[diagram]",
+      "B": "Zero",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "As I = q/t. So, for an electron revolving in a circular orbit of radius r q = e and t = T The magnetic field produced at the centre is",
+    "year": "2015",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2015_P12_Q32-main.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2015_P12_Q32-main2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2015_P12_Q32-main3.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2015_P12_Q32-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2015_P12_Q32-explanation2.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2015_P12_Q32-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "An electron is moving in a circular path under the influence of a transverse magnetic field of 3. 57 × 10-2 T. If the value of e/m is 1.76 × 1011 C/kg, the frequency of revolution of the electron is",
+    "options": {
+      "A": "1 GHz",
+      "B": "100 MHz",
+      "C": "62.8 MHz",
+      "D": "6.28 MHz"
+    },
+    "answer": "a",
+    "explanation": "As we know that, radius of a charged particle in a magnetic field B is given by where, r = charge on the particle v = speed of the particle ∴The time taken to complete the circle, Type Your AnswerView Answer View AnswerSolution:",
+    "year": "2015",
+    "chapter": "Moving Charges and Magnetism",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2015_P12_Q33-explanation1.png",
+      "PHYSICS/P12/chapters/moving-charges-and-magnetism/MOVING_CHARGES_AND_MAGNETISM-2015_P12_Q33-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

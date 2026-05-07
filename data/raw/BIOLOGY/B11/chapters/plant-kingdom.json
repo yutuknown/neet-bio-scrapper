@@ -1,0 +1,804 @@
+[
+  {
+    "id": "Q1",
+    "text": "Which one of the following is the characteristic feature of gymnosperms?",
+    "options": {
+      "A": "Seeds are absent.",
+      "B": "Gymnosperms have flowers for reproduction.",
+      "C": "Seeds are enclosed in fruits.",
+      "D": "Seeds are naked."
+    },
+    "answer": "d",
+    "explanation": "Gymnosperms are seed-producing plants that do not form flowers or fruits. Their seeds are naked, meaning they are not enclosed within fruits, but are exposed on the surface of cone scales or other structures. This is a key distinguishing feature from angiosperms, which have seeds enclosed within fruits.",
+    "year": "2025",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Match List-I with List-II Choose the option with all correct matches",
+    "options": {
+      "A": "A-III, B-IV, C-I, D-II",
+      "B": "A-IV, B-III, C-II, D-I",
+      "C": "A-III, B-IV, C-II, D-I",
+      "D": "A-IV, B-III, C-I, D-II"
+    },
+    "answer": "d",
+    "explanation": "A. Pteridophyte: Salvinia (IV) Correct. Salvinia is an aquatic fern, hence a pteridophyte. B. Bryophyte: Polystichum (III) Correct. Polytrichum is a moss. C. Angiosperm: Salvia (I) Correct. Salvia is a flowering plant (angiosperm). D. Gymnosperm: Ginkgo (II) Correct. Ginkgo is a well-known gymnosperm.",
+    "year": "2025",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/plant-kingdom/PLANT_KINGDOM-2025_B11_Q2-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "In bryophytes, the gemmae help in which one of the following?",
+    "options": {
+      "A": "Nutrient absorption",
+      "B": "Gaseous exchange",
+      "C": "Sexual reproduction",
+      "D": "Asexual reproduction"
+    },
+    "answer": "d",
+    "explanation": "Gemmae are small, multicellular, green, disc-like structures found in bryophytes (e.g., Marchantia). They are produced in gemma cups and serve the purpose of asexual reproduction. When detached from the parent plant, they develop into new individuals, genetically identical to the parent.",
+    "year": "2025",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Given below are the stages in the life cycle of pteridophytes. Arrange the following stages in the correct sequence. A. Prothallus stage B. Meiosis in spore mother cells C. Fertilisation D. Formation of archegonia and antheridia in the gametophyte E. Transfer of antherozoids to the archegonia in the presence of water",
+    "options": {
+      "A": "D, E, C, A and B",
+      "B": "E, D, C, B and A",
+      "C": "B, A, D, E and C",
+      "D": "B, A, E, C and D"
+    },
+    "answer": "c",
+    "explanation": "The life cycle of pteridophytes includes alternation of generations. The correct sequence is: B. Meiosis in spore mother cells - forms haploid spores A. Prothallus stage - spores germinate into gametophyte (prothallus) D. Formation of archegonia and antheridia in gametophyte - gametophyte develops sex organs E. Transfer of antherozoids to archegonia in presence of water - fertilisation requires water for sperm movement C. Fertilisation - results in diploid zygote developing into sporophyte",
+    "year": "2025",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The correct sequence of events in the life cycle of bryophytes is A. Fusion of antherozoid with egg B. Attachment of gametophyte to substratum C. Reduction division to produce haploid spores D. Formation of sporophyte E. Release of antherozoids into water",
+    "options": {
+      "A": "B, E, A, D, C",
+      "B": "D, E, A, B, C",
+      "C": "D, E, A, C, B",
+      "D": "B, E, A, C, D"
+    },
+    "answer": "a",
+    "explanation": "In the life cycle of bryophytes, the gametophyte is the dominant phase. The correct sequence is: B. The gametophyte first attaches to the substratum. E. The male sex organs (antheridia) release antherozoids into water. A. Antherozoids swim and fuse with the egg in archegonia to form a zygote. D. The zygote develops into a sporophyte. C. The sporophyte undergoes reduction division (meiosis) to produce haploid spores.",
+    "year": "2025",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Read the following statements and choose the set of correct statements: In the members of Phaeophyceae, A. Asexual reproduction occurs usually by biflagellate zoospores. B. Sexual reproduction is by oogamous method only. C. Stored food is in the form of carbohydrates which is either mannitol or laminarin. D. The major pigments found are chlorophyll a, c and carotenoids and xanthophyll. E. Vegetative cells have a cellulosic wall, usually covered on the outside by gelatinous coating of algin",
+    "options": {
+      "A": "A, B, C and D only",
+      "B": "B, C, D and E only",
+      "C": "A, C, D and E only",
+      "D": "A, B, C and E only"
+    },
+    "answer": "c",
+    "explanation": "Let's analyze each statement: Statement A: Asexual reproduction occurs usually by biflagellate zoospores: This statement is true for Phaeophyceae (brown algae). Asexual reproduction in these algae generally involves the release of biflagellate zoospores that swim away and eventually settle and grow into new individuals.Statement B: Sexual reproduction is by oogamous method only: This statement is partially true. While sexual reproduction in Phaeophyceae often is oogamous (involving a large non-motile egg and a smaller motile sperm), there are instances where isogamy (both gametes are motile and similar in size) occurs, though it is less common. Thus, the statement might be misleading as it implies that oogamy is the only method of sexual reproduction.Statement C: Stored food is in the form of carbohydrates which is either mannitol or laminarin: This statement is correct. In brown algae, the primary carbohydrates stored are mannitol and laminarin. These serve as crucial energy storage compounds.Statement D: The major pigments found are chlorophyll a, c and carotenoids and xanthophyll: This statement is true. The brown algae have chlorophyll a, c, various carotenoids, and xanthophylls like fucoxanthin which give them their distinctive brown color.Statement E: Vegetative cells have a cellulosic wall, usually covered on the outside by a gelatinous coating of algin: This statement is true. Brown algae have cell walls made of cellulose and are often covered by a layer of alginates, which can form a gelatinous coating. This helps in providing structural support and protection against dessication and mechanical damage. Given these analyses: A, C, D, and E are true. B is not exclusively true as it suggests that oogamy is the only form of sexual reproduction. Thus, the correct option is: Option C: A, C, D and E only",
+    "year": "2024",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-I, B-III, C-II, D-IV",
+      "B": "A-IV, B-III, C-II, D-I",
+      "C": "A-III, B-II, C-IV, D-I",
+      "D": "A-II, B-I, C-IV, D-III"
+    },
+    "answer": "b",
+    "explanation": "A. Microscopic angiosperm → Wolffia (IV): Wolffia is a genus of tiny floating aquatic plants known as the smallest flowering plants. Hence, it is the microscopic angiosperm.B. Tallest gymnosperm → Sequoia (III): The Sequoia (often referred to as the Giant Sequoia or Redwoods) is the tallest gymnosperm, known for its height.C. Thalloid bryophyte → Marchantia (II): Marchantia is a type of thalloid bryophyte, meaning its plant body is undifferentiated into roots, stems, and leaves (a thallus).D. Heterosporous pteridophyte → Salvinia (I): Salvinia is a heterosporous pteridophyte, meaning it produces two types of spores (microspores and megaspores) for reproduction. Therefore, the correct matching is: A-IV (Wolffia)B-III (Sequoia)C-II (Marchantia)D-I (Salvinia) Thus, the correct answer is (B) A-IV, B-III, C-II, D-I.",
+    "year": "2024",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/plant-kingdom/PLANT_KINGDOM-2024_B11_Q7-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Which of the following is the correct match?",
+    "options": {
+      "A": "Gymnosperms: Cedrus, Pinus, Sequoia",
+      "B": "Angiosperms: Wolffia, Eucalyptus, Sequoia",
+      "C": "Bryophytes : Polytrichum, Polysiphonia, Sphagnum",
+      "D": "Pteridophytes : Equisetum, Ginkgo, Adiantum"
+    },
+    "answer": "a",
+    "explanation": "Gymnosperms are seed-producing plants that do not have flowers or fruits. The examples listed in option (a) - Cedrus, Pinus, Sequoia - are all gymnosperms. Cedrus and Pinus are types of conifers (cone-bearing trees), and Sequoia is known for being the tallest tree and is also a gymnosperm. Let's review the other options: (b) Angiosperms: Wolffia, Eucalyptus, Sequoia: Wolffia and Eucalyptus are angiosperms, but Sequoia is a gymnosperm, not an angiosperm. This makes option (b) incorrect. (c) Bryophytes: Polytrichum, Polysiphonia, Sphagnum: Polytrichum and Sphagnum are bryophytes (non-vascular plants), but Polysiphonia is a type of red algae, not a bryophyte. Therefore, this option is incorrect. (d) Pteridophytes: Equisetum, Ginkgo, Adiantum: Equisetum and Adiantum are pteridophytes (ferns), but Ginkgo is a gymnosperm, not a pteridophyte. So, this option is also incorrect. Therefore, the correct match is (a) Gymnosperms: Cedrus, Pinus, Sequoia.",
+    "year": "2024",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Identify the pair of heterosporous pteridophytes among the following",
+    "options": {
+      "A": "Lycopodium and Selaginella",
+      "B": "Selaginella and Salvinia",
+      "C": "Psilotum and Salvinia",
+      "D": "Equisetum and Salvinia"
+    },
+    "answer": "b",
+    "explanation": "Selaginella and Salvinia are heterosporous pteridophytes. They produces two different kind of spores. Psilotum, Lycopodium and Equisetum are homosporous pteridophytes.",
+    "year": "2023",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Given below are two statements : One labelled as Assertion A and the other labelled as Reason R: Assertion A: The first stage of gametophyte in the life cycle of moss is protonema stage. Reason R: Protonema develops directly from spores produced in capsule. In the light of the above statements, choose the most appropriate answer from options given below",
+    "options": {
+      "A": "Both A and R are correct and R is the correct explanation of A",
+      "B": "Both A and R are correct but R is NOT the correct explanation of A",
+      "C": "A is correct but R is not",
+      "D": "A is not correct but R is"
+    },
+    "answer": "a",
+    "explanation": "The life cycle of mosses consists of two stages: the gametophyte stage and the sporophyte stage. Assertion A states : \"The first stage of the gametophyte in the life cycle of moss is the protonema stage.\" This statement is correct. After a spore germinates, it forms a mass of green, branched, one-cell-thick filaments known as the protonema, which is indeed the first stage of the gametophyte generation in mosses. Reason R states : \"Protonema develops directly from spores produced in the capsule.\" This statement is also correct. The spores are produced in a capsule, which is the sporophyte part of the moss life cycle. When these spores are released and germinate, they grow into the protonema. Not only are both statements correct, but Reason R provides a correct explanation for Assertion A. Therefore, the answer is : Option A : Both A and R are correct and R is the correct explanation of A.",
+    "year": "2023",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R): Assertion (A): In gymnosperms, the pollen grains are released from the microsporangium and carried by air currents. Reason (R): Air currents carry the pollen grains to the mouth of the archegonia where the male gametes are discharged and pollen tube is not formed",
+    "options": {
+      "A": "(A) is False, (R) is True.",
+      "B": "Both (A) and (R) are True and (R) correctly explains (A).",
+      "C": "Both (A) and (R) are True and (R) does not correctly explain (A).",
+      "D": "(A) is True, (R) is False."
+    },
+    "answer": "d",
+    "explanation": "Assertion (A): \"In gymnosperms, the pollen grains are released from the microsporangium and carried by air currents.\" This is True. In gymnosperms, the pollen grains are released from the microsporangium (pollen sacs) and are carried by wind (air currents) to reach the female cones for fertilization. Reason (R): \"Air currents carry the pollen grains to the mouth of the archegonia where the male gametes are discharged and pollen tube is not formed.\" This is False. In gymnosperms, the pollen grains do not reach the mouth of the archegonia (female reproductive organ). Instead, the pollen grains land on the ovule, where a pollen tube is formed to carry the male gametes (sperm) to the egg cell for fertilization. Hence, the statement that \"pollen tube is not formed\" is incorrect. Therefore, the correct answer is (d) (A) is True, (R) is False.",
+    "year": "2023",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(A)-II, (B)-III, (C)-I, (D)-IV",
+      "B": "(A)-III, (B)-I, (C)-IV, (D)-II",
+      "C": "(A)-II, (B)-III, (C)-IV, (D)-I",
+      "D": "(A)-III, (B)-IV, (C)-I, (D)-II"
+    },
+    "answer": "d",
+    "explanation": "Pteropsida (A) corresponds to Adiantum (III): Pteropsida includes ferns, and Adiantum is a type of fern.Lycopsida (B) corresponds to Selaginella (IV): Lycopsida is a class of club mosses, and Selaginella is a type of club moss.Psilopsida (C) corresponds to Psilotum (I): Psilopsida is a group of primitive vascular plants, and Psilotum is an example.Sphenopsida (D) corresponds to Equisetum (II): Sphenopsida includes horsetails, and Equisetum is a type of horsetail. Thus, the correct answer is (d) (A-III) (B-IV) (C-I) (D-II).",
+    "year": "2023",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/plant-kingdom/PLANT_KINGDOM-2023_B11_Q12-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Which classes of algae possess pigment fucoxanthin and pigment phycoerythrin, respectively?",
+    "options": {
+      "A": "Phaeophyceae and Chlorophyceae",
+      "B": "Phaeophyceae and Rhodophyceae",
+      "C": "Chlorophyceae and Rhodophyceae",
+      "D": "Rhodophyceae and Phaeophyceae"
+    },
+    "answer": "b",
+    "explanation": "Fucoxanthin is a type of carotenoid pigment that is primarily found in the class Phaeophyceae (brown algae). It gives these algae their characteristic brown or olive color and plays a role in capturing light energy for photosynthesis.Phycoerythrin is a phycobilin pigment found in Rhodophyceae (red algae). It imparts a red or pink color to these algae and is important for capturing light in the red and blue wavelengths, which helps red algae to thrive in deeper waters where light penetration is limited. Summary: Phaeophyceae (Brown algae) possess fucoxanthin as their primary pigment, which gives them their brownish color.Rhodophyceae (Red algae) possess phycoerythrin, which gives them their red or pink color. Thus, the correct match is (b) Phaeophyceae and Rhodophyceae.",
+    "year": "2023",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Match the plant with the kind of life cycle it exhibits",
+    "options": {
+      "A": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "B": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "C": "(a)- (iv),(b)-(i), (c)-(ii), (d)- (iii)",
+      "D": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    },
+    "answer": "d",
+    "explanation": "Spirogyra is an alga. It shows haplontic life-cycle.Fern is pteridophyte. The dominant phase of life-cycle is diploid sporophyte. Its gametophyte is called prothallus.Funaria is a bryophyte. Its gametophyte is a leafy stage.Cycas is a gymnosperm. The main plant body in gymnosperm is sporophyte. They have highly reduced gametophyte stage.",
+    "year": "2022",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/plant-kingdom/PLANT_KINGDOM-2022_B11_Q14-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Which of the following is incorrectly matched?",
+    "options": {
+      "A": "Ulothrix - Mannitol",
+      "B": "Porphyra - Floridian Starch",
+      "C": "Volvox - Starch",
+      "D": "Ectocarpus - Fucoxanthin"
+    },
+    "answer": "a",
+    "explanation": "Ulothrix is a member of Chlorophyceae (green algae), with reserve food material, starch. Mannitol is stored food material of Phaeophyceae (brown algae).",
+    "year": "2022",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Hydrocolloid carrageen is obtained from",
+    "options": {
+      "A": "Phaeophyceae and Rhodophyceae",
+      "B": "Rhodophyceae only",
+      "C": "Phaeophyceae only",
+      "D": "Chlorophyceae and Phaeophyceae"
+    },
+    "answer": "b",
+    "explanation": "Hydrocolloids are water holding substances for e.g. carrageen obtained from red algae (Rhodophyceae).",
+    "year": "2022",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+      "B": "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)",
+      "C": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "D": "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)"
+    },
+    "answer": "c",
+    "explanation": "Chlamydomonas is a unicellular alga. Cycas is a gymnosperm. Selaginella is a heterosporous pteridophyte and Sphagnum is a moss.",
+    "year": "2022",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/plant-kingdom/PLANT_KINGDOM-2022_B11_Q17-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Read the following statements and identify the characters related to the alga shown in the diagram : (a) It is a member of Chlorophyceae (b) Food is stored in the form of starch (c) It is monoecious plant showing oogonium and antheridium (d) Food is stored in the form of laminarin or mannitol (e) It shows dominance of pigments Chlorophyll a, c and Fucoxanthin",
+    "options": {
+      "A": "(c), (d) and (e) only",
+      "B": "(a), and (b) only",
+      "C": "(a), (b) and (c) only",
+      "D": "(a), (c) and (d) only"
+    },
+    "answer": "c",
+    "explanation": "Alga shown in the diagram is Chara. It is a member of Chlorophyceae. Food is stored in the form of starch.Chara is monoecious plant showing oogonium and antheridium on the same plant body.",
+    "year": "2022",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Gemmae are present in",
+    "options": {
+      "A": "Some Gymnosperms",
+      "B": "Some Liverworts",
+      "C": "Mosses",
+      "D": "Pteridophytes"
+    },
+    "answer": "b",
+    "explanation": "Gemmae are green, multicellular asexual buds that are produced by some liverworts like Marchantia.Mosses reproduce vegetatively by fragmentation and budding of protonema.Pteridophytes and Gymnosperms normally do not reproduce asexually",
+    "year": "2021",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Which of the following algae produce Carrageen?",
+    "options": {
+      "A": "Blue-green algae",
+      "B": "Green algae",
+      "C": "Brown algae",
+      "D": "Red algae"
+    },
+    "answer": "d",
+    "explanation": "The cell wall of red algae is composed of agar, carrageen and funori along with cellulose.In brown algae cell wall contains algin while in green algae it is composed of cellulose and pectin.In blue green algae cell wall is composed of mucopeptides.",
+    "year": "2021",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Which of the following algae contains mannitol as reserve food material?",
+    "options": {
+      "A": "Volvox",
+      "B": "Ulothrix",
+      "C": "Ectocarpus",
+      "D": "Gracilaria"
+    },
+    "answer": "c",
+    "explanation": "Ectocarpus is a brown alga belongs to the class Phaeophyceae. Members of this class have mannitol and laminarin as stored food mterial.Ulothrix and Volvox belong to Chlorophyceae (green algae). Members of this class have starch as reserve food material. Gracilaria is a member of red algae (Rhodophyceae). This class is characterised by having floridean starch as stored food material.",
+    "year": "2021",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which of the following pairs is of unicellular algae?",
+    "options": {
+      "A": "Anabaena and volvox",
+      "B": "Chlorella and spirulina",
+      "C": "Laminaria and Sargossum",
+      "D": "Gelidium and Gracilaria"
+    },
+    "answer": "b",
+    "explanation": "Chlorella and Spirulina are unicellular algae. Gelidium, Gracilaria, Laminaria and Sargassum are multicellular. Volvox is colonial.",
+    "year": "2020",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Floridean starch has structure similar to",
+    "options": {
+      "A": "Amylopectin and glycogen",
+      "B": "Mannitol and algin",
+      "C": "Laminarin and cellulose",
+      "D": "Starch and cellulose"
+    },
+    "answer": "a",
+    "explanation": "Floridean starch is stored food material in red algae. Its structure is similar to Amylopectin and Glycogen.",
+    "year": "2020",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Strobili or cones are found in",
+    "options": {
+      "A": "Marchantia",
+      "B": "Equisetum",
+      "C": "Salvinia",
+      "D": "Pteris"
+    },
+    "answer": "b",
+    "explanation": "Strobili or cones are found in Equisetum. Strobili or cones are the dense and compact structure present on non flowering plants. They contain sporangia and perform function of protecting spores from wild animals and harsh conditions of environment.",
+    "year": "2020",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "From evolutionary point of view, retention of the female gametophyte with developing young embryo on the parent sporophyte for some time, is first observed in______",
+    "options": {
+      "A": "Gymnosperms",
+      "B": "Liverworts",
+      "C": "Mosses",
+      "D": "Pteridophytes"
+    },
+    "answer": "d",
+    "explanation": "The female gametophytes in pteridophytes are retained on the parent sporophytes for variable periods. The developments of the zygotes into young embryos take place within the female gametophytes. This event is a precursor to the seed habit and considered as an important step in evolution.",
+    "year": "2019",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Which of the following statements is correct?",
+    "options": {
+      "A": "Ovules are not enclosed by ovary wall in gymnosperms",
+      "B": "Selaginella is heterosporous, while Salvinia is homosporous",
+      "C": "Horsetails are gymnosperms",
+      "D": "Stems are usually unbranched in both Cycas and Cedrus"
+    },
+    "answer": "a",
+    "explanation": "The gymnosperms are a group of seed producing plants. The name is based on the unenclosed condition of their seeds (called ovules in their unfertilized state) Horsetail /snake grass/puzzle grass is equisetum (a pteridophyte), a living fossil. Majority of pteridophytes are homosporous and few are heterosporous like Selaginella, Salvinia and Marsilea. The stems in Cycas is unbranched and in Pinus and Cedrus is branched.",
+    "year": "2018",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Which one is wrongly matched?",
+    "options": {
+      "A": "Uniflagellate gametes - Polysiphonia",
+      "B": "Biflagellate zoospores - Brown algae",
+      "C": "Gemma cups - Marchantia",
+      "D": "Unicellular organism - Chlorella"
+    },
+    "answer": "a",
+    "explanation": "Polysiphonia is a member of Rhodophycea (red algae) and reproduce asexually by non-motile spores and sexually by non-motile gametes. Chlorella is a unicellular green alga. Gemma cups are green, multicellular, asexual bud found in Marchantia. Asexual reproduction in most brown algae is biflagellated zoospores that are pear-shaped.",
+    "year": "2018",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "An example of colonial alga is",
+    "options": {
+      "A": "Volvox",
+      "B": "Ulothrix",
+      "C": "Spirogyra",
+      "D": "Chlorella"
+    },
+    "answer": "a",
+    "explanation": "Volvox is motile colonial fresh water green alga. It forms spherical colonies.",
+    "year": "2017",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Select the mismatch",
+    "options": {
+      "A": "Cycas - Dioecious",
+      "B": "Salvinia - Heterosporous",
+      "C": "Equisetum - Homosporous",
+      "D": "Pinus - Dioecious"
+    },
+    "answer": "d",
+    "explanation": "Pinus is a monoecious plant, i.e., in Pinus male and female cones or strobili arc borne on the same plant.",
+    "year": "2017",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Conifers are adapted to tolerate extreme environmental conditions because of",
+    "options": {
+      "A": "Broad hardy leaves",
+      "B": "Superficial stomata",
+      "C": "Thick cuticle",
+      "D": "Presence of vessels"
+    },
+    "answer": "c",
+    "explanation": "Needle like leaves with thick cuticle and sunken stomata are xerophytic adaptations of conifers for tolerating extreme environmental conditions.",
+    "year": "2016",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Which one of the following statements is wrong?",
+    "options": {
+      "A": "Algae increase the level of dissolved oxygen in the immediate environment",
+      "B": "Algin is obtained from red algae, and carrageenan from brown algae",
+      "C": "Agar-agar is obtained from Gelidiam and Gracilaria",
+      "D": "Laminaria and Sargassum are used as food"
+    },
+    "answer": "b",
+    "explanation": "Alginic acid is obtained from brown algae whereas carrageenan is obtained from red algae.",
+    "year": "2016",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "Select the correct statement",
+    "options": {
+      "A": "Sequoia is one of the tallest trees.",
+      "B": "The leaves of gymnosperms are not well adapted to extremes of climate.",
+      "C": "Gymnosperms are both homosporous and heterosporous.",
+      "D": "Salvinia, Ginkgo and Pinus all are gymnosperms."
+    },
+    "answer": "a",
+    "explanation": "Sequoia semepervirans is one of the tallest trees.",
+    "year": "2016",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "In bryophytes and pteridophytes, transport of male gametes requires",
+    "options": {
+      "A": "Birds",
+      "B": "Water",
+      "C": "Wind",
+      "D": "Insects"
+    },
+    "answer": "b",
+    "explanation": "The sperms of bryophytes and pteridophytes are flagellated and hence require an external supply of water to reach archaegonia.",
+    "year": "2016",
+    "chapter": "Plant Kingdom",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

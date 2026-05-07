@@ -1,0 +1,592 @@
+[
+  {
+    "id": "Q1",
+    "text": "The complex II of the mitochondrial electron transport chain is also known as ( NEET 2025)",
+    "options": {
+      "A": "Cytochrome c oxidase",
+      "B": "NADH dehydrogenase",
+      "C": "Cytochrome bc",
+      "D": "Succinate dehydrogenase"
+    },
+    "answer": "d",
+    "explanation": "Complex II in the mitochondrial electron transport chain is succinate dehydrogenase, which is also an enzyme of the TCA cycle.It catalyses the oxidation of succinate to fumarate, reducing FAD to FADH\u2082 in the process.Electrons from FADH\u2082 are then passed to ubiquinone (Coenzyme Q).Unlike Complex I, Complex II does not pump protons across the inner mitochondrial membrane.Other options:(a) Cytochrome c oxidase \u2192 Complex IV(b) NADH dehydrogenase \u2192 Complex I(c) Cytochrome bc \u2192 Complex III",
+    "year": "2025",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Identify the step in tricarboxylic acid cycle, which does not involve oxidation of substrate",
+    "options": {
+      "A": "Malic acid \u2192 Oxaloacetic acid",
+      "B": "Succinic acid \u2192 Malic acid",
+      "C": "Succinyl-CoA \u2192 Succinic acid",
+      "D": "Isocitrate \u2192 \u03b1-ketoglutaric acid"
+    },
+    "answer": "c",
+    "explanation": "The tricarboxylic acid cycle (TCA cycle), also known as the Krebs cycle or citric acid cycle, is a series of enzyme-catalyzed chemical reactions that form a key part of aerobic respiration in cells. This cycle is primarily used to generate high-energy electron carriers and carbon dioxide. Most of the steps in the TCA cycle involve the oxidation of the substrate, where electrons are transferred to NAD+ to form NADH or to FAD to form FADH2.Each option provided corresponds to a step in the TCA cycle:Option A: Malic acid \u2192 Oxaloacetic acid involves the enzyme malate dehydrogenase, where malate is oxidized to oxaloacetate. NAD+ is reduced to NADH in this process, indicating an oxidation reaction. Option B: Succinic acid \u2192 Malic acid is not a direct step in the TCA cycle. Instead, succinic acid is first converted to fumarate by succinate dehydrogenase, involving the reduction of FAD to FADH2, then fumarate is hydrated to malate by fumarase. Both involve transformations but particularly the conversion of succinate to fumarate involves oxidation. Option C: Succinyl-CoA \u2192 Succinic acid involves the conversion of Succinyl-CoA to Succinic acid catalyzed by succinyl-CoA synthetase. In this process, a high-energy thioester bond in Succinyl-CoA is broken to release a molecule of coenzyme A (CoA) and produce succinate. This step does not involve the transfer of electrons or the reduction of NAD+ or FAD; rather, it's coupled with the phosphorylation of GDP to GTP (or ADP to ATP in some organisms), which is a substrate-level phosphorylation. Option D: Isocitrate \u2192\u03b1-ketoglutaric acid involves the enzyme isocitrate dehydrogenase that catalyzes the oxidative decarboxylation of isocitrate into alpha-ketoglutarate. NAD+ is reduced to NADH, showing that this step involves oxidation.Therefore, the correct answer is Option C (Succinyl-CoA \u2192 Succinic acid). This is the step in the TCA cycle that does not involve the oxidation of the substrate but instead involves substrate-level phosphorylation, which is associated with the energy conversion of GTP formation rather than an electron transfer process.",
+    "year": "2024",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-I, B-II, C-III, D-IV",
+      "B": "A-II, B-I, C-IV, D-III",
+      "C": "A-III, B-IV, C-I, D-II",
+      "D": "A-IV, B-III, C-II, D-I"
+    },
+    "answer": "b",
+    "explanation": "To correctly match the given processes in List I with their locations in List II, let's go through each item:Citric Acid Cycle (A) occurs in the mitochondrial matrix. This process, also known as the Krebs cycle, takes place in the matrix of mitochondria where enzymes for the cycle are located.Glycolysis (B) takes place in the cytoplasm of the cell. It is the process of breaking down glucose into pyruvate, generating small amounts of energy (ATP) and does not involve the mitochondria.Electron Transport System (C) occurs at the inner mitochondrial membrane. This is where the electron transport chains are located and where ATP is produced by oxidative phosphorylation. Proton gradient (D) is formed across the inner mitochondrial membrane, with protons accumulating in the intermembrane space. Protons (H+ ions) are pumped from the mitochondrial matrix to the intermembrane space, creating a gradient that drives ATP synthesis.Now using the above information, let's match these with the correct options: A. Citric Acid Cycle - II. Mitochondrial Matrix B. Glycolysis - I. Cytoplasm C. Electron Transport System - IV. Inner Mitochondrial Membrane D. Proton Gradient - III. Intermembrane Space of MitochondriaComparing these to the options provided:Option A: A-I, B-II, C-III, D-IV - Incorrect Option B: A-II, B-I, C-IV, D-III - Correct Option C: A-III, B-IV, C-I, D-II - Incorrect Option D: A-IV, B-III, C-II, D-I - IncorrectTherefore, Option B is the correct match: A-II, B-I, C-IV, D-III",
+    "year": "2024",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/respiration-in-plants/RESPIRATION_IN_PLANTS-2024_B11_Q3-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "In glycolysis, the conversion of 1, 3-bisphosphoglyceric acid to 3-phosphoglyceric acid is",
+    "options": {
+      "A": "Energy yielding process",
+      "B": "Energy utilising process",
+      "C": "Phosphorylation process",
+      "D": "Isomerisation process"
+    },
+    "answer": "a",
+    "explanation": "In glycolysis, the conversion of 1,3-bisphosphoglyceric acid (1,3-BPG) to 3-phosphoglyceric acid (3-PGA) is an energy-yielding process because it results in the production of ATP. During this step, phosphoglycerate kinase catalyses the transfer of a phosphate group from 1,3-BPG to ADP, forming ATP and 3-PGA. This reaction is an example of substrate-level phosphorylation, where ATP is directly produced from the substrate (1,3-BPG). Thus, this is an energy-yielding process as ATP is produced.",
+    "year": "2024",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Which of the following statements are correct about respiration? A. Energy of oxidation-reduction is utilised for phosphorylation. B. Oxygen acts as the final hydrogen acceptor. C. The photo-oxidative energy is utilised for production of proton gradient required for phosphorylation. D. The role of oxygen is limited to the terminal stage of the respiration process. E. Protons cross the outer membrane of mitochondria through the channel formed by an integral membrane protein complex",
+    "options": {
+      "A": "A, B, C, E only",
+      "B": "A, B, D only",
+      "C": "B, C, D, E only",
+      "D": "A, C, D only"
+    },
+    "answer": "b",
+    "explanation": "A. Energy of oxidation-reduction is utilized for phosphorylation: This statement is correct. In cellular respiration, the energy released through oxidation-reduction reactions (such as in the electron transport chain) is used to drive the phosphorylation of ADP to ATP, a process known as oxidative phosphorylation.B. Oxygen acts as the final hydrogen acceptor: This statement is correct. In the electron transport chain (ETC), oxygen acts as the final electron acceptor, combining with electrons and protons (hydrogens) to form water. This is why oxygen is essential for aerobic respiration.C. The photo-oxidative energy is utilized for the production of proton gradient required for phosphorylation: This statement is incorrect. Photo-oxidative energy is involved in photosynthesis, not respiration. In respiration, the proton gradient is generated by the electron transport chain, not by photo-oxidation.D. The role of oxygen is limited to the terminal stage of the respiration process: This statement is correct. Oxygen is used at the final step of the electron transport chain, where it accepts electrons to form water.E. Protons cross the outer membrane of mitochondria through the channel formed by an integral membrane protein complex: This statement is incorrect. The outer mitochondrial membrane is permeable to small molecules and ions through porins, but proton pumping occurs across the inner mitochondrial membrane, not the outer membrane. The proton gradient is established across the inner membrane by complexes in the electron transport chain.Thus, the correct statements are A, B, and D, making the correct answer (B).",
+    "year": "2024",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-IV, B-I, C- III, D- II",
+      "B": "A-I, B-IV, C- II, D- III",
+      "C": "A-III, B-I, C- IV, D- II",
+      "D": "A-I, B-II, C- IV, D- III"
+    },
+    "answer": "b",
+    "explanation": "A. ETS Complex I: Complex I is known as NADH dehydrogenase, which catalyzes the transfer of electrons from NADH to the electron transport chain. Therefore, A corresponds to I (NADH Dehydrogenase).B. ETS Complex II: Complex II is known as succinate dehydrogenase, which is involved in the citric acid cycle and also feeds electrons into the electron transport chain. Therefore, B corresponds to IV (Succinate Dehydrogenase).C. ETS Complex III: Complex III is known as Cytochrome b-c1 complex, which transfers electrons from coenzyme Q to cytochrome c. Therefore, C corresponds to II (Cytochrome bC1).D. ETS Complex IV: Complex IV is known as cytochrome c oxidase, which catalyzes the final step in the electron transport chain, transferring electrons to oxygen to form water. Therefore, D corresponds to III (Cytochrome C oxidase).Thus, the correct matching is:A-I: Complex I is NADH Dehydrogenase.B-IV: Complex II is Succinate Dehydrogenase.C-II: Complex III is Cytochrome bC1.D-III: Complex IV is Cytochrome C oxidase.",
+    "year": "2024",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/respiration-in-plants/RESPIRATION_IN_PLANTS-2024_B11_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Which of the following are correct about cellular respiration? A. Cellular respiration is the breaking of C-C bonds of complex organic molecules by oxidation. B. The entire cellular respiration takes place in mitochondria. C. Fermentation takes place under anaerobic conditions in germinating seeds. D. The fate of pyruvate formed during glycolysis depends on the type of organism also. E. Water is formed during respiration as a result of O\u2082 accepting electrons and getting reduced",
+    "options": {
+      "A": "A, C, D, E only",
+      "B": "A, B, E only",
+      "C": "A, B, C, E only",
+      "D": "B, C, D, E only"
+    },
+    "answer": "a",
+    "explanation": "A. Cellular respiration is the breaking of C-C bonds of complex organic molecules by oxidation: This statement is correct. In cellular respiration, complex organic molecules like glucose are broken down through oxidation to release energy.B. The entire cellular respiration takes place in mitochondria: This statement is incorrect. While most of cellular respiration (including the citric acid cycle and oxidative phosphorylation) occurs in the mitochondria, glycolysis occurs in the cytoplasm, not in the mitochondria.C. Fermentation takes place under anaerobic conditions in germinating seeds: This statement is correct. Fermentation occurs in the absence of oxygen (anaerobic conditions), such as in germinating seeds when oxygen is limited.D. The fate of pyruvate formed during glycolysis depends on the type of organism also: This statement is correct. The fate of pyruvate can vary depending on the organism and the presence of oxygen. Under aerobic conditions, pyruvate enters the mitochondria for the citric acid cycle, whereas under anaerobic conditions, it may be converted into lactic acid or ethanol, depending on the organism.E. Water is formed during respiration as a result of O\u2082 accepting electrons and getting reduced: This statement is correct. In the final step of the electron transport chain, oxygen (O\u2082) acts as the final electron acceptor, combining with electrons and protons to form water.Thus, the correct answer is (a) A, C, D, E only.",
+    "year": "2024",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Which of the following combinations is required for chemiosmosis?",
+    "options": {
+      "A": "Membrane, proton pump, proton gradient, NADP synthase",
+      "B": "Proton pump, electron gradient, ATP synthase",
+      "C": "Proton pump, electron gradient, NADP synthase",
+      "D": "Membrane, proton pump, proton gradient, ATP synthase"
+    },
+    "answer": "d",
+    "explanation": "Chemiosmosis is a process by which ATP (adenosine triphosphate) is produced in the cell. It relies on a concentration gradient of protons (H+ ions) across a membrane. The proton gradient is created by a proton pump. As protons flow back across the membrane, down their concentration gradient, they pass through a protein complex called ATP synthase, which uses the energy of the proton flow to produce ATP.",
+    "year": "2023",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A - III, B - IV, C - II, D - I",
+      "B": "A - II, B - IV, C - I, D - III",
+      "C": "A - III, B - I, C - II, D - IV",
+      "D": "A - II, B - IV, C - III, D - I"
+    },
+    "answer": "d",
+    "explanation": "Pyruvate, which is formed by the glycolytic catabolism of carbohydrates in the cytosol, after it enters mitochondrial matrix undergoes oxidative decarboxylation by a complex set of reactions catalyzed by pyruvate dehydrogenase.The scheme of glycolysis was given by Gustav Embden, Otto Meyrhof and J. Parnas, and is often referred to as the EMP pathway.In electron transport system, the energy of oxidation-reduction is utilized for the production of proton gradient required for phosphorylation, thus, this process is also called oxidative phosphorylation.The TCA (tricarboxylic acid cycle) starts with the condensation of acetyl group with oxaloacetic acid (OAA) and water to yield citric acid. The reaction is catalysed by the enzyme citrate synthase. Thus, option (C) is correct.",
+    "year": "2023",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/respiration-in-plants/RESPIRATION_IN_PLANTS-2023_B11_Q9-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "How many times does decarboxylation occur during each TCA cycle?",
+    "options": {
+      "A": "Thrice",
+      "B": "Many",
+      "C": "Once",
+      "D": "Twice"
+    },
+    "answer": "d",
+    "explanation": "These carboxyl groups are removed with the release of a molecule in two different steps.- The first oxidative decarboxylation takes place at the fourth step of the TCA cycle where isocitrate is converted to 5-carbon \u03b1-ketoglutarate, with the release of a pair of hydrogen atoms and a molecule of carbon dioxide.- The second oxidative decarboxylation occurs at the fifth step of the Krebs' cycle where a molecule of coenzyme-A reacts with the \u03b1-ketoglutarate to form a 4-carbon compound succinyl- coenzyme A and releasing carbon dioxide and a pair of hydrogen atoms.",
+    "year": "2023",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/respiration-in-plants/RESPIRATION_IN_PLANTS-2023_B11_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Fatty acids are connected with the respiratory pathway through",
+    "options": {
+      "A": "Acetyl CoA",
+      "B": "\u03b1 - Ketoglutaric acid",
+      "C": "Dihydroxy acetone phosphate",
+      "D": "Pyruvic acid"
+    },
+    "answer": "a",
+    "explanation": "Fatty acids are metabolized through \u03b2-oxidation, a process that occurs in the mitochondria, where fatty acids are broken down into two-carbon units. These two-carbon units are converted into acetyl-CoA, which then enters the TCA cycle (also known as the citric acid cycle or Krebs cycle) for further energy production. Thus, fatty acids are connected with the respiratory pathway through acetyl-CoA, which is a key molecule that enters the TCA cycle and ultimately contributes to the production of ATP.",
+    "year": "2023",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "What amount of energy is released from glucose during lactic acid fermentation?",
+    "options": {
+      "A": "More than 18%",
+      "B": "About 10%",
+      "C": "Less than 7%",
+      "D": "Approximately 15%"
+    },
+    "answer": "c",
+    "explanation": "Less than seven percent of the energy in glucose is released during lactic acid fermentation and not all of it is trapped as high energy bonds of ATP.",
+    "year": "2022",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "What is the net gain of ATP when each molecule of glucose is converted to two molecules of pyruvic acid?",
+    "options": {
+      "A": "Six",
+      "B": "Two",
+      "C": "Eight",
+      "D": "Four"
+    },
+    "answer": "b",
+    "explanation": "During glycolysis, total 4 ATPs are produced from one glucose molecule with a net gain of 2 ATPs.",
+    "year": "2022",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The number of time(s) decarboxylation of isocitrate occurs during single TCA cycle is",
+    "options": {
+      "A": "Four",
+      "B": "One",
+      "C": "Two",
+      "D": "Three"
+    },
+    "answer": "c",
+    "explanation": "The number of times decarboxylation of isocitrate occurs during a single TCA cycle is two. During the TCA cycle, the decarboxylation of isocitrate occurs in two distinct steps: Isocitrate is first converted to \u03b1-ketoglutarate through a decarboxylation reaction, where one molecule of CO2 is released. Isocitrate \u2192 \u03b1-ketoglutarate + CO2 . The \u03b1-ketoglutarate formed in the previous step is then decarboxylated again to succinyl CoA, resulting in the release of a second molecule of CO2. \u03b1-ketoglutarate\u2192 Succinyl-CoA + CO2.",
+    "year": "2022",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/respiration-in-plants/RESPIRATION_IN_PLANTS-2022_B11_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Which of the following statements is incorrect?",
+    "options": {
+      "A": "Oxidation-reduction reactions produce proton gradient in respiration.",
+      "B": "During aerobic respiration, the role of oxygen is limited to the terminal stage.",
+      "C": "In ETC (Electron Transport Chain), one molecule of NADH+H+ gives rise to 2ATP molecules, and one FADH2 gives rise to 3 ATP molecules. \u200b",
+      "D": "ATP is synthesized through complex V. Type Your AnswerView Answer View AnswerSolution:"
+    },
+    "answer": "c",
+    "explanation": "Aerobic respiration is a process by which food (glucose) is oxidized to produce cellular energy.The complete process of aerobic respiration occurs in four different stages:Step 1: Glycolysis: involves the breakdown of glucose (6 carbon) into two molecules of pyruvic acids,2 ATP and 2NADH molecules.Step 2: Formation of Acetyl Coenzyme A: Pyruvate is converted into acetyl CoA, one Co2, NADH.Step 3: Citric Acid Cycle: Oxaloacetate combines with the acetyl-coenzyme A and produces citric acid, 2 molecules of carbon dioxide,3 NADH, 1FADH2, and 1 GTP.Step 4: Electron Transport Chain: ATP molecules are produced by transferring electrons from NADH and FALet us see the options to reach the correct answer: \u200bAerobic respirationIn ETS, electrons are transferred through a series of co-enzymes and cytochromes; oxygen is the final acceptor of electrons. Oxygen combines with protons and electrons to form water.Thus, the role of oxygen in aerobic respiration is essential in the terminal stage.Synthesis of ATPElectrons are transferred from one carrier to another through complex I to IV in the electron transport chain.These electrons are then coupled to ATP synthase present in complex V for the synthesis of ATP molecules.ATP molecules are synthesized from ADP and inorganic phosphate.Factors affecting the number of ATP molecules synthesized in ETSThe number of ATP molecules produced is dependent on the nature of electron donors.There are two donor molecules: NADH and FADH2.NADH produces more electrons as it gives its electrons to complex I which then passes to complex III and eventually to complex IV.FADH2 molecules start the electron transfer process at complex II.As NADH starts the process at complex I, it has more chance to pump protons across the gradients which increases the activity of ATP synthase thus, from one NADH molecule 3 ATP molecules are produced.While from one FADH2 molecule only 2 ATP molecules are produced.Oxidative phosphorylationThe process of synthesis of ATP coupled with the movement of electrons through ETS is associated with the consumption of oxygen.This process draws the energy required for creating a proton gradient from the oxidation and reduction reactions that occur in mitochondria.",
+    "year": "2021",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The number of substrate level phosphorylations in one turn of citric acid cycle is",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Zero",
+      "D": "One"
+    },
+    "answer": "d",
+    "explanation": "One substrate level phosphorylation in one turn of citric acid cycle as per following reaction:",
+    "year": "2020",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/respiration-in-plants/RESPIRATION_IN_PLANTS-2020_B11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Conversion of glucose to glucose-6-phosphate, the first irreversible reaction of glycolysis, is catalysed by",
+    "options": {
+      "A": "Phosphofructokinase",
+      "B": "Aldolase",
+      "C": "Hexokinase",
+      "D": "Enolase"
+    },
+    "answer": "c",
+    "explanation": "Hexokinase catalyse the conversion of Glucose to Glucose-6 phosphate. It is the first step of activation phase of glycolysis.",
+    "year": "2019",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "What is the role of NAD+ in cellular respiration?",
+    "options": {
+      "A": "It functions as an enzyme.",
+      "B": "It functions as an electron carrier.",
+      "C": "It is a nucleotide source for ATP synthesis.",
+      "D": "It is the final electron acceptor for anaerobic respiration."
+    },
+    "answer": "b",
+    "explanation": "NAD+ act as an electron carrier in cellular respiration.",
+    "year": "2018",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Which of these statements is incorrect?",
+    "options": {
+      "A": "Enzymes of TCA cycle are present in mitochondrial matrix.",
+      "B": "Glycolysis occurs in cytosol.",
+      "C": "Glycolysis operates as long as it is supplied with NAD that can pick up hydrogen atoms.",
+      "D": "Oxidative phosphorylation takes place in outer mitochondrial membrane."
+    },
+    "answer": "d",
+    "explanation": "Oxidative phosphorylation takes place in inner mitochondrial membrane via F0 - F1 particles.",
+    "year": "2018",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Which statement is wrong for Krebs' cycle?",
+    "options": {
+      "A": "There is one point in the cycle where FAD+ is reduced to FADH2.",
+      "B": "During conversion of succinyl CoA to succinic acid, a molecule of GTP is synthesised.",
+      "C": "The cycle starts with condensation of acetyl group (acetyl CoA) with pyruvic acid to yield citric acid.",
+      "D": "There are three points in the cycle where NAD+ is reduced to NADH+ H+."
+    },
+    "answer": "c",
+    "explanation": "Krebs cycle begins with condensation of acetyl CoA (2C) with oxaloacetic acid (4C) to form citric acid (6C).",
+    "year": "2017",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Which of the following biomolecules is common to respiration-mediated breakdown of fats, carbohydrates and proteins?",
+    "options": {
+      "A": "Glucose-6-phosphate",
+      "B": "Fructose 1, 6-bisphosphate",
+      "C": "Pyruvic acid",
+      "D": "Acetyl CoA"
+    },
+    "answer": "d",
+    "explanation": "Carbohydrates are usually first converted into glucose before they are used for respiration. Fats are broken down into glycerol and fatty acids first. If fatty acids were to be respired they would first be degraded to acetyl CoA and enter the pathway. Glycerol would enter the pathway after being converted to 3-phosphoglyceraldehyde (PGAL). The proteins are degraded by proteases to individual amino acids (after deamination) and depending on their structure enter the pathway within the Krebs' cycle or as pyruvate or acetyl CoA. Thus, acetyl CoA is the common metabolite of all the three (carbohydrates, proteins and fats).",
+    "year": "2016",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Oxidative phosphorylation is",
+    "options": {
+      "A": "Formation of ATP by transfer of phosphate group from a substrate to ADP",
+      "B": "Oxidation of phosphate group in ATP",
+      "C": "Addition of phosphate group to ATP",
+      "D": "Formation of ATP by energy released from electrons removed during substrate oxidation."
+    },
+    "answer": "d",
+    "explanation": "Oxidative phosphorylation is the synthesis of energy rich ATP molecules with the help of energy liberated during oxidation of reduced co-enzymes (NADH, FADH2) produced in respiration. The enzyme required for this synthesis is called ATP synthase. It is located in F1 or head piece of F0 - F1 or elementary particles present in the inner mitochondrial membrane.F1 particle is capable of ATP synthesis. ATP synthase becomes active in ATP formation only when there is a proton gradient having higher concentration of H+ or protons on the F0 side as compared to F1 side. This higher concentration creates an electric potential across the mitochondrial membrane. The proton gradient and membrane electric potential together form proton motive force (PMF). The flow of protons through the F0 channel which induces F1 particle to function as ATP synthase. The energy of the proton gradient is used in attaching a phosphate radicle to ADP by high-energy bond. This produces ATP.",
+    "year": "2016",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Cytochromes are found in",
+    "options": {
+      "A": "cristae of mitochondria",
+      "B": "lysosomes",
+      "C": "matrix of mitochondria",
+      "D": "outer wall of mitochondria."
+    },
+    "answer": "a",
+    "explanation": "Cytochromes are found in mitochondria. These are located on the inner membrane of mitochondria and are related with phosphorylation.",
+    "year": "2015",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "In which one of the following processes CO2 in not released?",
+    "options": {
+      "A": "Aerobic respiration in plants",
+      "B": "Aerobic respiration in animals",
+      "C": "Alcoholic fermentation",
+      "D": "Lactate fermentation"
+    },
+    "answer": "d",
+    "explanation": "Lactic acid fermentation: It occurs in lactic acid bacteria (Lactobacillus) and muscles (Human). Pyruvic acid produced in glycolysis is reduced by NADH2 to form lactic acid without producing carbon dioxide. .saq-container{background:#fff;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:30px;box-shadow:0 1px 4px #0000001a;padding:15px 20px 20px}.saq-label{display:inline-block;font-size:11px;font-weight:600;letter-spacing:0.07em;color:#64748b;border:1px solid #cbd5e1;border-radius:20px;padding:2px 10px;margin-bottom:14px;text-transform:uppercase;background:#fff}.saq-textarea{width:100%;box-sizing:border-box;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:14px;color:#374151;resize:vertical;outline:none;transition:border-color 0.2s;background:#fff;min-height:90px;margin-top:10px;margin-bottom:20px;height:50px}.saq-textarea:focus{border-color:#3b82f6;box-shadow:0 0 0 3px rgba(59,130,246,0.12)}.saq-textarea::placeholder{font-style:italic}.saq-view-btn{padding:9px 12px;background:#F7FCFF;color:#000 !important;border-radius:10px;font-size:18px !important;font-weight:700;cursor:pointer;transition:background .15s ease;letter-spacing:.01em;text-align:center;border:none}.saq-view-btn:hover{background:#193f68;color:#fff !important;border:none}.saq-input-wrap .saq-view-btn{width:100%;background:#193f68;color:white !important}.saq-solution-panel{background:#f0f7ff;border-radius:8px;padding:14px 16px;margin:-20px;margin-top:-15px}.saq-solution-title{font-size:14px;font-weight:700;color:#043899!important;margin-bottom:7px}.saq-solution-body{font-size:14px;color:#1a202c;line-height:1.65}.saq-solution-body strong,.saq-solution-body b{font-weight:700}.saq-solution-body img{max-width:100%;height:auto}.saq-solution-body p{margin:6px 0}.saq-btn-wrapper{display:flex;gap:20px;margin-bottom:30px;margin-top:20px}.saq-btn-wrapper .saq-view-btn{width:50%}@media (max-width:500px){.saq-btn-wrapper .saq-view-btn{font-size:16px !important}} (function(){function showContainer(qid){document.getElementById('saq-wrap-'+qid).style.display='block';document.getElementById('saq-btn-wrap-'+qid).style.display='none';} window.saqTry=function(qid){showContainer(qid);document.getElementById('saq-input-'+qid).style.display='block';};window.saqShowSolution=function(qid){showContainer(qid);var panel=document.getElementById('saq-sol-'+qid);var input=document.getElementById('saq-input-'+qid);var ta=document.getElementById('saq-ta-'+qid);var bottomBtn=document.getElementById('saq-view-bottom-'+qid);if(bottomBtn)bottomBtn.style.display='none';if(panel){panel.style.display='block';} if(ta&&ta.value.trim()===''){if(input)input.style.display='none';}else if(ta){ta.disabled=true;if(panel){panel.style.marginTop='0px';}}};})();",
+    "year": "2014",
+    "chapter": "Respiration in Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/respiration-in-plants/RESPIRATION_IN_PLANTS-2014_B11_Q24-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

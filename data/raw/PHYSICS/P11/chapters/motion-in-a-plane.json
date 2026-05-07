@@ -1,0 +1,762 @@
+[
+  {
+    "id": "Q1",
+    "text": "A bob is whirled in a horizontal plane by means of a string with an initial speed of ω rpm. The tension in the string is T. If speed becomes 2ω while keeping the same radius, the tension in the string becomes: [2024]",
+    "options": {
+      "A": "T",
+      "B": "4T",
+      "C": "T/4",
+      "D": "√2T"
+    },
+    "answer": "",
+    "explanation": "When the speed is ω, the tension is given by: T=mrω 2",
+    "year": "2024",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2024_P11_Q1-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2024_P11_Q1-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "A particle moving with uniform speed in a circular path maintains: [2024]",
+    "options": {
+      "A": "Constant velocity",
+      "B": "Constant acceleration",
+      "C": "Constant velocity but varying acceleration",
+      "D": "Varying velocity and varying acceleration"
+    },
+    "answer": "d",
+    "explanation": "Varying velocity and varying acceleration Uniform speed: The magnitude of the velocity (speed) remains constant.Circular motion: The direction of the velocity is constantly changing as the particle moves along the curved path.Velocity: Velocity is a vector quantity, meaning it has both magnitude (speed) and direction. While the speed is constant, the direction of the velocity is always changing in circular motion.Acceleration: (i) In circular motion, there is always centripetal acceleration, which acts towards the center of the circular path. This acceleration changes the direction of the velocity but not its magnitude.(ii) Since the direction of the velocity is changing, the particle experiences a varying velocity.(iii) The magnitude of the centripetal acceleration remains constant as long as the speed is constant, but the direction of the acceleration changes as the particle moves along the circular path.Conclusion: (i) The velocity of the particle is varying because its direction is constantly changing. (ii) The acceleration is varying because its direction (towards the center of the circle) changes as the particle moves along the path.So, option (d) Varying velocity and varying acceleration is the correct answer.",
+    "year": "2024",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "For a smoothly running analog clock, the ratio of the number of rotations made in a day by the hour hand to the second hand, respectively, is: [2024]",
+    "options": {
+      "A": "24 : 1",
+      "B": "1 : 720",
+      "C": "1 : 60",
+      "D": "2 : 5"
+    },
+    "answer": "b",
+    "explanation": "Number of rotations by the hour hand:The hour hand completes 1 full rotation every 12 hours.Therefore, in 24 hours, the hour hand completes 2 full rotations.Number of rotations by the second hand:The second hand completes 1 full rotation every 60 seconds, which is 1 minute.In 1 hour (60 minutes), the second hand completes 60 rotations.Therefore, in 24 hours, the second hand completes: 60 rotations/hour × 24 hours = 1440 rotations.Ratio of rotations: The ratio of rotations made by the hour hand to the second hand is:Hour hand rotations: 2Second hand rotations: 1440So, the ratio is: 2 : 1440 = 1 : 720Thus, the correct answer is (b) 1 : 720.",
+    "year": "2024",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "A body is falling freely in a resistive medium. The motion of the body is described by dv/dt = (4 - 2v), where v is the velocity of the body at any instant (in ms-1). The initial acceleration and terminal velocity of the body, respectively, are: [2024]",
+    "options": {
+      "A": "4 m/s2, 2 m/s",
+      "B": "2 m/s2, 4 m/s",
+      "C": "6 m/s2, 2 m/s",
+      "D": "2 m/s2, 6 m/s"
+    },
+    "answer": "a",
+    "explanation": "We are given the differential equation describing the velocity of the body falling in a resistive medium: dv/dt = (4 - 2v) where v is the velocity at any instant and dv/dt is the acceleration. Step 1: Initial acceleration To find the initial acceleration, substitute the initial velocity v = 0. When the body starts falling, its velocity is zero. Thus, dv/dt = 4 - 2(0) = 4 m/s² So, the initial acceleration is 4 m/s². Step 2: Terminal velocity The terminal velocity is the velocity at which the acceleration becomes zero, i.e., when dv/dt = 0. Set dv/dt = 0 in the equation: 0 = 4 - 2v Solving for v: 2v = 4 → v = 2 m/s So, the terminal velocity is 2 m/s. Final Answer:Initial acceleration: 4 m/s²Terminal velocity: 2 m/sThus, the correct answer is (a) 4 m/s², 2 m/s",
+    "year": "2024",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A ball is projected from point A with velocity 20 ms-1 at an angle 60∘ to the horizontal direction. At the highest point B of the path (as shown in figure), the velocity vms-1 of the ball will be: [2023]",
+    "options": {
+      "A": "20 m/s",
+      "B": "10√3 m/s",
+      "C": "Zero m/s",
+      "D": "10 m/s"
+    },
+    "answer": "d",
+    "explanation": "10 m/s Given: Initial velocity of the ball: u=20 m/s Angle of projection: 60º At the highest point B, the velocity of the ball is v m/s.We are asked to find the velocity v at the highest point BB.The horizontal component of the velocity is given by: where, u = 20 m/s and θ = 60° At the top most point of its trajectory particle will have only horizontal component of velocity",
+    "year": "2023",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q5-main.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q5-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q5-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q5-explanation3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q5-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A particle is executing uniform circular motion with velocity and acceleration . [2023] Which of the following is true?",
+    "options": {
+      "A": "[diagram] is a constant; [diagram] is not a constant",
+      "B": "[diagram] is not a constant; [diagram] is not a constant",
+      "C": "[diagram] is a constant; [diagram] is a constant",
+      "D": "[diagram] is not a constant; [diagram] is a constant"
+    },
+    "answer": "b",
+    "explanation": "Velocity is not constant: While the speed (the magnitude of velocity) is constant, the direction of velocity is continuously changing as the object moves around the circular path. Velocity is a vector, so any change in direction results in a change in velocity, even if the speed is the same. Acceleration is not constant: The acceleration in uniform circular motion is called centripetal acceleration, and its direction is always pointing toward the center of the circular path. Since the particle's position on the circular path changes continuously, the direction of the acceleration vector also changes constantly. This means that while the magnitude of the acceleration (centripetal force) is constant, its direction is not, so overall, the acceleration is not constant.",
+    "year": "2023",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-main.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-main2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-main3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-main4.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-main5.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-main6.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-main7.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-main8.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q6-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 10,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "A bullet is fired from a gun at the speed of 280 m s-1 in the direction 30° above the horizontal. The maximum height attained by the bullet is (g = 9.8 m s-2, sin30° = 0.5) [2023]",
+    "options": {
+      "A": "2800 m",
+      "B": "2000 m",
+      "C": "1000 m",
+      "D": "3000 m"
+    },
+    "answer": "c",
+    "explanation": "1000 m Given: We Know that,",
+    "year": "2023",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q7-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q7-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The angular acceleration of a body, moving along the circumference of a circle, is [2023]",
+    "options": {
+      "A": "Along the radius, away from centre",
+      "B": "Along the radius towards the centre",
+      "C": "Along the tangent to its position",
+      "D": "Along the axis of rotation"
+    },
+    "answer": "d",
+    "explanation": "Along the axis of rotation Angular acceleration refers to the rate of change of angular velocity. In circular motion, angular acceleration is related to the change in how fast the body rotates around the center of the circle, rather than the linear acceleration, which deals with motion along the circle itself.Angular acceleration acts along the axis of rotation and is perpendicular to the plane of the circle in which the body is moving.Linear acceleration (tangential or radial) deals with motion in the plane of the circle, but angular acceleration always points along the axis of rotation (which is perpendicular to the plane of motion).So, the correct option is (d) Along the axis of rotation.",
+    "year": "2023",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "A horizontal bridge is built across a river. A student standing on the bridge throws a small ball vertically upwards with a velocity 4 m s-1. The ball strikes the water surface after 4 s. The height of bridge above water surface is (Take g = 10 m s-2 ) [2023]",
+    "options": {
+      "A": "60 m",
+      "B": "64 m",
+      "C": "68 m",
+      "D": "56 m"
+    },
+    "answer": "b",
+    "explanation": "64 m Given: Initial vertical velocity of the ball: u = 4 m/s (thrown upwards)Time taken to hit the water surface: t = 4 secondsGravitational acceleration: g = 10 m/s2 We need to find the height of the bridge above the water surface.The equation for vertical displacement is: Here, sss is the net vertical displacement from the bridge to the water (so it's positive downwards), m/su = 4 \\, \\text{m/s}u = 4m/s upward, and g = 10 \\, \\text{m/s}^2g = 10m/s2 downward.So,",
+    "year": "2023",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q9-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q9-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q9-explanation3.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The position of a particle is given by; , where t is in seconds and r in metres. Find the magnitude and direction of the velocity v(t), at t = 1 s, with respect to the x - axis. [2023]",
+    "options": {
+      "A": "4√2 ms - 1, 45∘",
+      "B": "4√2 ms - 1, 60∘",
+      "C": "3√2 ms - 1, 30∘",
+      "D": "3√2 ms - 1, 45∘"
+    },
+    "answer": "a",
+    "explanation": "Given: Position vector , where t is in seconds and in meters. Step 1: Find the velocity vector by differentiating the position vector with respect to time. Step 2: Evaluate the velocity at t = 1s. Step 3: Calculate the magnitude of the velocity vector. Step 4: Find the direction with respect to the x-axis. The angle θ between the velocity vector and the x-axis is: Therefore, at t = 1s, the velocity has a magnitude of 4√2 m/s and makes an angle of 45° with the x-axis. This confirms that option (a) 4√2 m/s, 45° is the correct answer.",
+    "year": "2023",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q10-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q10-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q10-explanation3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q10-explanation4.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q10-explanation5.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q10-explanation6.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2023_P11_Q10-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "A cricket ball is thrown by a player at a speed of 20 m/s in a direction 30∘ above the horizontal. The maximum height attained by the ball during its motion is (g = 10 m/s2) [2023]",
+    "options": {
+      "A": "25 m",
+      "B": "5 m",
+      "C": "10 m",
+      "D": "20 m"
+    },
+    "answer": "b",
+    "explanation": "5m",
+    "year": "2022",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q11-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q11-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A ball is projected with a velocity, 10 ms-1 , at an angle of 60° with the vertical direction. Its speed at the highest point of its trajectory will be [2022]",
+    "options": {
+      "A": "5√3 ms-1",
+      "B": "5 ms-1",
+      "C": "10 ms-1",
+      "D": "Zero"
+    },
+    "answer": "a",
+    "explanation": "Given: Initial velocity of the ball: u=20m/s Angle of projection: 60∘ At the highest point B, the velocity of the ball is v m/s.We are asked to find the velocity v at the highest point B.The horizontal component of the velocity is given by: where, u = 20 m/s and Since only the horizontal component of the velocity remains at the highest point, the velocity v at point B is equal to the horizontal velocity: v =10 m/s",
+    "year": "2022",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q12-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q12-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q12-explanation3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q12-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The angular speed of a fly wheel moving with uniform angular acceleration changes from 1200 rpm to 3120 rpm in 16 seconds. The angular acceleration in rad/s2 is [2022]",
+    "options": {
+      "A": "4𝝅",
+      "B": "12𝝅",
+      "C": "104𝝅",
+      "D": "2𝝅"
+    },
+    "answer": "a",
+    "explanation": "4𝝅 Given: Initial angular speed: ω1=1200 rpm Final angular speed: ω2 = 3120 rpmTime taken for the change: t = 16 secondsWe are asked to find the angular acceleration α in rad/s².We know that, 4𝝅",
+    "year": "2022",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q13-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q13-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2022_P11_Q13-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "A car starts from rest and accelerates at 5 m/s2. At t = 4 s, a ball is dropped out of a window by a person sitting in the car. What is the velocity and acceleration of the ball at t = 6 s ? [2021]",
+    "options": {
+      "A": "20√2m/s, 0 m/s2",
+      "B": "20√2m/s, 10 m/s2",
+      "C": "20 m/s,5 m/s2",
+      "D": "20 m/s, 0"
+    },
+    "answer": "b",
+    "explanation": "20√2m/s, 10 m/s2 Velocity of car at t = 4 sec is v = u + at v = 0 + 5(4) = 20 m/s At t = 6 sec acceleration is due to gravity ∴ a = g = 10 m/s vx = 20 m/s (due to car) vy = u + at = 0 + g(2) (downward) = 20 m/s (downward) = 20√2 m/s.",
+    "year": "2021",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2021_P11_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A particle moving in a circle of radius R with a uniform speed takes a time T to complete one revolution. If this particle were projected with the same speed at an angle 'θ'to the horizontal, the maximum height attained by it equals 4R. The angle of projection,θ, is then given by: [2021]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "The time period of the particle in circular motion is given by The maximum height H attained by a projectile is given by:",
+    "year": "2021",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2021_P11_Q15-main.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2021_P11_Q15-main2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2021_P11_Q15-main3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2021_P11_Q15-main4.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2021_P11_Q15-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2021_P11_Q15-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2021_P11_Q15-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "When an object is shot from the bottom of a long smooth inclined plane kept at an angle 60o with horizontal, it can travel a distance x1 along the plane. But when the inclination is decreased to 30o and the same object is shot with the same velocity, it can travel x2 distance. Then x1 : x2 will be : [2019]",
+    "options": {
+      "A": "1 : √2",
+      "B": "√2 : 1",
+      "C": "1 : √3",
+      "D": "1 : 2√3"
+    },
+    "answer": "c",
+    "explanation": "When an object is shot on an inclined plane at an angle θ\\thetaθ with respect to the horizontal, the distance traveled xxx along the plane is given by the equation: Where:v is the initial velocity of the object.θ is the angle of inclination.g is the acceleration due to gravity.Case 1: Inclination = 60°For θ=60∘, the distance traveled is x1: Case 2: Inclination = 30°For θ=30∘, the distance traveled is x2: Ratio of distances traveled:Now, to find the ratio x1/x2, we simply divide x1 by x2:",
+    "year": "2019",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q16-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q16-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q16-explanation3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q16-explanation4.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q16-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The speed of a swimmer in still water is 20 m/s. The speed of river water is 10 m/s and is flowing due east. If he is standing on the south bank and wishes to cross the river along the shortest path, the angle at which he should make his strokes w.r.t. north is given by: [2019]",
+    "options": {
+      "A": "30° west",
+      "B": "0° west",
+      "C": "60° west",
+      "D": "45° west"
+    },
+    "answer": "a",
+    "explanation": "30° west Given: The swimmer's velocity in still water is 20 m/s. The river's velocity is 10 m/s, flowing due east. The swimmer should swim at an angle to counteract the river's flow and move directly north. Let the angle the swimmer needs to make with the north be θ (measured with respect to the north).The swimmer's velocity has two components:Vertical (northward) component: vscosθHorizontal (westward) component: v_s \\sin \\thetavssinθFor the swimmer to cancel the eastward current of the river, the swimmer's westward component must equal the river's eastward speed. Thus, we can write: vssin⁡θ = 10 m/swhere vs = 20 m/s (the swimmer's speed in still water).Solving: Thus, the swimmer should make an angle of 30° west of north to cancel out the eastward current and cross the river along the shortest path.",
+    "year": "2019",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q17-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q17-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "A particle moving with velocity is acted by three forces shown by the vector triangle PQR. The velocity of the particle will: [2019]",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Remain constant",
+      "D": "Change according to the smallest force"
+    },
+    "answer": "c",
+    "explanation": "Remain constant As forces are forming closed loop in same order",
+    "year": "2019",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q18-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q18-explanation3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q18-explanation4.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q18-explanation5.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2019_P11_Q18-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "The x and y coordinates of the particle at any time are x = 5t - 2t2 and y = 10t respectively, where x and y are in meters and t in seconds. The acceleration of the particle at t = 2s is:- [2017]",
+    "options": {
+      "A": "5 m/s2",
+      "B": "4 m/s2",
+      "C": "8 m/s2",
+      "D": "0"
+    },
+    "answer": "b",
+    "explanation": "- 4 m/s2 Given: We know that,",
+    "year": "2017",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2017_P11_Q19-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2017_P11_Q19-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "One end of string of length l is connected to a particle of mass 'm' and the other end is connected to a small peg on a smooth horizontal table. If the particle moves in circle with speed 'v' the net force on the particle (directed towards centre) will be (T represents the tension in the string):- [2017]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "Zero",
+      "D": "T"
+    },
+    "answer": "d",
+    "explanation": "T Centripetal force is the force which makes a body move in a circular path. If a body of mass \"m\" moves with a velocity \"v\" in a circular path of radius \"r\", then Centripetal force, F is equal to:F = mv²/rIf a particle connected to a string revolves in a circular path around a centre, the centripetal force is provided by the tension produced in the string.Centripetal force (mv²/r) is provided by the tension so the net force will be equal to tension i.e. T.",
+    "year": "2017",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2017_P11_Q20-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2017_P11_Q20-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "In the given figure, a = 15 m s-2 represents the total acceleration of particle moving in the clockwise direction in a circle of radius R = 2.5 m at a given instant of time. The speed of the particle is [2016]",
+    "options": {
+      "A": "4.5 m s-1",
+      "B": "5.0 m s-1",
+      "C": "5.7 m s-1",
+      "D": "6.2 m s-1"
+    },
+    "answer": "c",
+    "explanation": "5.7 m s-1",
+    "year": "2016",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2016_P11_Q21-main.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2016_P11_Q21-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2016_P11_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "If the magnitude of sum of two vectors is equal to the magnitude of difference of the two vectors, the angle between these vectors is: [2016]",
+    "options": {
+      "A": "180 degree",
+      "B": "0 degree",
+      "C": "90 degree",
+      "D": "45 degree"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2016_P11_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "If vectors are functions of time, then the value of t at which they are orthogonal to each other is [2015]",
+    "options": {
+      "A": "t = π/ω",
+      "B": "t = 0",
+      "C": "t = π/4ω",
+      "D": "t = π/2ω"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q23-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q23-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q23-explanation3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q23-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "The positions vector of a particle as a function of time is given by + . Where R is in meters, t is in seconds and denote unit vectors along x-and y-directions, respectively. Which one of the following statements is wrong for the motion of particle?",
+    "options": {
+      "A": "Magnitude of the velocity of particle is 8 meter/second.",
+      "B": "Path of the particle is a circle of radius 4 meter.",
+      "C": "Acceleration vector is along - [diagram]",
+      "D": "Magnitude of acceleration vector is v2 / R, where v is the velocity of particle. [2015]"
+    },
+    "answer": "a",
+    "explanation": "Magnitude of the velocity of particle is 8 meter/second Its magnitude is",
+    "year": "2015",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q24-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q24-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q24-explanation3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q24-explanation4.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q24-explanation5.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q24-explanation6.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q24-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "A ship A is moving Westwards with a speed of 10 km h-1 and a ship B 100 km South of A, is moving Northwards with a speed of 10 km h-1. The time after which the distance between them becomes shortest, is: [2015]",
+    "options": {
+      "A": "10√2h",
+      "B": "0 h",
+      "C": "5h",
+      "D": "5√2h"
+    },
+    "answer": "c",
+    "explanation": "5h",
+    "year": "2015",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q25-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2015_P11_Q25-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "A particle is moving such that its position coordinates (x, y) are (2m, 3m) at time t = 0, (6m, 7m) at time t = 2s and (13m, 14m) at time t= 5s. Average velocity vector from t = 0 to t = 5s is: [2014]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Given: Average velocity Vector,",
+    "year": "2014",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2014_P11_Q26-explanation1.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2014_P11_Q26-explanation2.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2014_P11_Q26-explanation3.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2014_P11_Q26-explanation4.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2014_P11_Q26-explanation5.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2014_P11_Q26-explanation6.png",
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2014_P11_Q26-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "A projectile is fired from the surface of the earth with a velocity of 5 ms-1 and angle with the horizontal. Another projectile fired from another planet with a velocity of 3 ms-1 at the same angle follows a trajectory which is identical with the trajectory of the projectile fired from the earth. The value of the acceleration due to gravity on the planet is (in ms-2) is (Given g = 9.8 m s-2)",
+    "options": {
+      "A": "3.5",
+      "B": "5.9",
+      "C": "16.3",
+      "D": "110.8"
+    },
+    "answer": "a",
+    "explanation": "3.5 The equation of trajectory isy = x tan θ - (gx²)/(2u² cos² θ)where θ is the angle of projection and u is the velocity with which projectile is projected.For equal trajectories and for same angles of projection,u²/g = constant⇒ 0.8/g' = 5²/gwhere g' is acceleration due to gravity on the planet.g' = (0.8 × 9)/25 = 3.5 m s⁻²",
+    "year": "2014",
+    "chapter": "Motion in a Plane",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/motion-in-a-plane/MOTION_IN_A_PLANE-2014_P11_Q27-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

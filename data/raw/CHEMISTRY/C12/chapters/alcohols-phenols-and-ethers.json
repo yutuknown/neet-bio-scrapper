@@ -1,0 +1,814 @@
+[
+  {
+    "id": "Q1",
+    "text": "The total number of possible isomers (both structural as well as stereoisomers) of cyclic ethers of molecular formula C4H8O is",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "a",
+    "explanation": "Possible structures include:Four-membered rings (oxetanes) with different substitution patterns.Three-membered rings (epoxides) with different substitution patterns.Considering stereoisomerism: Epoxides can have cis and trans stereoisomers due to the planar nature of the three-membered ring. Oxetanes with different substitutions can also exhibit stereoisomerism. Upon counting all possible structural and stereoisomers:Three-membered ring (epoxides): 6 isomers (including stereoisomers).Four-membered ring (oxetanes): 4 isomers (including stereoisomers).Total number of isomers = 6 (epoxides) + 4 (oxetanes) = 10.Therefore, the total number of possible isomers (both structural and stereoisomers) of cyclic ethers with the molecular formula C₄H₈O is 10.",
+    "year": "2025",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Identify the correct reagents that would bring about the following transformation",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q2-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q2-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q2-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q2-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q2-main5.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q2-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Which one of the following alcohols reacts instantaneously with Lucas reagent?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Tertiary alcohols react instantaneously with Lucas reagent and gives immediate turbidity. In case of tertiary alcohols, they form halides easily with Lucas reagent (conc. HCl and ZnCl2)",
+    "year": "2024",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q3-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q3-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q3-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q3-main4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Intramolecular hydrogen bonding is present in",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "HF"
+    },
+    "answer": "a",
+    "explanation": "In o-nitrophenol intramolecular H-bonding is present.",
+    "year": "2024",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q4-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q4-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q4-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Major products A and B formed in the following reaction sequence, are",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q5-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q5-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q5-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q5-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The major product D formed in the following reaction sequence is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "CH3CH2OH",
+      "D": "CH3CH2Cl"
+    },
+    "answer": "c",
+    "explanation": "Step 1: Methanol (CH₃OH) reacts with SOCl₂SOCl₂ (thionyl chloride) is a reagent that is used to convert alcohols to alkyl chlorides.CH₃OH + SOCl₂ → CH₃Cl (methyl chloride) + SO₂ + HCl This reaction replaces the hydroxyl group (-OH) with a chlorine atom (-Cl), forming CH₃Cl (methyl chloride).Step 2: Reaction of CH₃Cl with KCN in ethanolKCN (potassium cyanide) reacts with CH₃Cl (methyl chloride) to replace the chlorine atom with a cyano group (-CN), forming CH₃CN (acetonitrile).CH₃Cl + KCN → CH₃CN + KCl This reaction results in the formation of acetonitrile (CH₃CN).Step 3: Reduction of acetonitrile (CH₃CN) with Na/H₂Na/H₂ (sodium in hydrogen) is a strong reducing agent that reduces nitriles to primary amines.CH₃CN + Na/H₂ → CH₃CH₂NH₂ (ethylamine). This step reduces acetonitrile to ethylamine (CH₃CH₂NH₂).Step 4: Reaction of ethylamine with NaNO₂ and HClNaNO₂ (sodium nitrite) reacts with ethylamine (CH₃CH₂NH₂) in the presence of HCl (hydrochloric acid) to form a diazonium salt.The reaction proceeds as follows: CH₃CH₂NH₂ + NaNO₂ + HCl → CH₃CH₂N₂⁺Cl⁻ (ethyl diazonium chloride)However, ethyl diazonium chloride is unstable and undergoes hydrolysis when treated with water.Step 5: Hydrolysis of the diazonium saltThe diazonium salt formed in the previous step undergoes hydrolysis to form ethanol (CH₃CH₂OH).CH₃CH₂N₂⁺Cl⁻ + H₂O → CH₃CH₂OH + N₂ (nitrogen gas).The major product of the reaction is ethanol (CH₃CH₂OH).Thus, the correct answer is (c) CH₃CH₂OH (ethanol).",
+    "year": "2024",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q6-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q6-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q6-main3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Identify D in the following sequence of reactions",
+    "options": {
+      "A": "n-Propyl alcohol",
+      "B": "Isopropyl alcohol",
+      "C": "Propanal",
+      "D": "Propionic acid ​"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q7-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2024_C12_Q7-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Consider the following reaction and identify the product (P)",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q8-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q8-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q8-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q8-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q8-main5.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Consider the following reaction Identify products A and B",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q9-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q9-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q9-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q9-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q9-main5.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Which amongst the following will be most readily dehydrated under acidic conditions?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Due to presence of conjugation in product.",
+    "year": "2023",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q10-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q10-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q10-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q10-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Reagents that can be used to convert alcohols to carboxylic acids are: (a) CrO₃ - H₂SO₄ (b) K₂Cr₂O₇ + H₂SO₄ (c) KMnO₄ + KOH/H₃O⁺ (d) Cu, 573 K (e) CrO₃ + (CH₃CO)₂O",
+    "options": {
+      "A": "(b), (c) and (d) only",
+      "B": "(b), (d) and (e) only",
+      "C": "(a), (b) and (c) only",
+      "D": "(a), (b) and (e) only"
+    },
+    "answer": "c",
+    "explanation": "(A) CrO₃ - H₂SO₄: This is a strong oxidizing agent, known as Jones reagent, which can oxidize alcohols (primary alcohols specifically) to carboxylic acids.(B) K₂Cr₂O₇ + H₂SO₄: This is another powerful oxidizing agent (chromic acid), which can also oxidize alcohols to carboxylic acids.(C) KMnO₄ + KOH/H₃O⁺: Potassium permanganate (KMnO₄) is a strong oxidizing agent that can oxidize alcohols to carboxylic acids.(D) Cu, 573 K: This reagent is used for the dehydrogenation of alcohols, typically producing aldehydes or ketones, not carboxylic acids.(E) CrO₃ + (CH₃CO)₂O: This is an esterification reaction (formation of esters), not related to the conversion of alcohols to carboxylic acids.Hence, (A), (B), and (C) are the correct reagents for converting alcohols to carboxylic acids.",
+    "year": "2023",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Consider the following reactions: Identify 'X' in above reactions",
+    "options": {
+      "A": "B2H6",
+      "B": "LiAlH4",
+      "C": "NaBH4",
+      "D": "H2/Pd"
+    },
+    "answer": "a",
+    "explanation": "First Reaction: Carboxylic acids are reduced to primary alcohols by strong reducing agents such as:LiAlH₄Borane (B₂H₆ / BH₃)The sequence:(i) X(ii) \\text{(i) X} \\quad \\text{(ii) } H_2O_2/NaOH(i) X (ii) H2O2/NaOHrepresents Hydroboration-Oxidation of alkenes, which gives anti-Markovnikov alcohols.⇒ Borane (B₂H₆ / BH₃)LiAlH₄ does not react with alkenes in this way.The reagent required for hydroboration is:So, X must be one of these. Conclusion:Since B₂H₆:reduces carboxylic acids to primary alcoholsconverts alkenes to alcohols via hydroboration-oxidationThus, 'X' is B₂H₆. Answer: (a) B₂H₆",
+    "year": "2023",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q12-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The major product formed in the following conversion is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Starting compound: The starting compound is a β-keto ester (a compound containing both a carbonyl group and an ester group).The structure has a ketone (C=O) group attached to the second carbon and an ester (C=O) group attached to the first carbon.First step (NaBH₄):Sodium borohydride (NaBH₄) is a mild reducing agent. It selectively reduces ketones but does not affect esters.NaBH₄ will reduce the ketone group to a secondary alcohol, resulting in the intermediate product where the carbonyl group is replaced by an -OH group.Second step (H₂SO₄, Δ):The ester group undergoes decarboxylation under acidic conditions (using sulfuric acid, H₂SO₄, and heat).This reaction removes the CO₂ group, leading to the formation of a cyclohexene structure with a double bond between two adjacent carbons.Major product: The major product is the cyclic alkene formed after the decarboxylation step, which is the 1-cyclohexene structure. Thus, the correct answer is Option 1, which shows the major product as 1-cyclohexene.",
+    "year": "2023",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q13-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q13-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q13-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q13-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2023_C12_Q13-main5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Match the reagents (List-I) with the product (List-II) obtained from phenol",
+    "options": {
+      "A": "(a) - (iv), (b) - (ii), (c) - (i), (d) - (iii)",
+      "B": "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
+      "C": "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+      "D": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (I)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2022_C12_Q14-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2022_C12_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Which one of the following reaction sequence is incorrect method to prepare phenol?",
+    "options": {
+      "A": "[diagram]",
+      "B": "Aniline, NaNO2 + HCl, H2O, heating",
+      "C": "Cumene, O2, H3O+",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "At STP condition substitution at sp2 carbon atom is not feasible.",
+    "year": "2022",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2022_C12_Q15-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2022_C12_Q15-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2022_C12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Given below are two statements: Statement I: The acidic strength of monosubstituted nitrophenol is higher than phenol because of the electron-withdrawing into the group. Statement II: o-nitrophenol, m-nitrophenol, and p-nitrophenol will have same acidic strength as they have one nitro group attached to the phenolic ring. In light of the above statements",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect",
+      "B": "Statement I is incorrect but Statement II is",
+      "C": "Both Statement I and Statement II are",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "a",
+    "explanation": "Statement I is correct, Statement II incorrect.",
+    "year": "2022",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2022_C12_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Given below are two statements: Statement -I: In Lucas test, primary, secondary and tertiary alcohols are distinguished on the basis of their reactivity with conc. HCl + ZnCl2, known as Lucas Reagent. Statement -II: Primary alcohols are most reactive and immediately produce turbidity at room temperature on reaction with Lucas Reagent",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect",
+      "B": "Statement I is incorrect but Statement II is",
+      "C": "Both statement I and Statement II are",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "a",
+    "explanation": "Primary, secondary and tertiary alcohols can be differentiated by their reaction with (HCl + anhy ZnCl2) Lucas reagent",
+    "year": "2022",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2022_C12_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Anisole on cleavage with HI gives",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2020_C12_Q18-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2020_C12_Q18-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2020_C12_Q18-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2020_C12_Q18-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2020_C12_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "The structure of intermediate A in the following reaction, is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2019",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2019_C12_Q19-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2019_C12_Q19-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2019_C12_Q19-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2019_C12_Q19-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2019_C12_Q19-main5.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2019_C12_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "In the reaction the electrophile involved is",
+    "options": {
+      "A": "dichloromethyl cation [diagram]",
+      "B": "formyl cation [diagram]",
+      "C": "dichloromethyl anion [diagram]",
+      "D": "dichlorocarbene [diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q20-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q20-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q20-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q20-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q20-main5.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The compound A on treatment with Na gives B, and with PCl5 gives C. B and C react together to give diethyl ether. A, B and C are in the order",
+    "options": {
+      "A": "C2H5OH, C2H6, C2H5Cl",
+      "B": "C2H5OH, C2H5Cl, C2H5ONa",
+      "C": "C2H5Cl,C2H6,C2H5OH",
+      "D": "C2H5OH,C2H5ONa,C2H5Cl"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q21-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Identify the major products P, Q and R in the following sequence of reaction",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q22-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q22-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q22-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q22-main4.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2018_C12_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The heating of phenylmethyl ethers with HI produces",
+    "options": {
+      "A": "iodobenzene",
+      "B": "phenol",
+      "C": "benzene",
+      "D": "ethyl chlorides"
+    },
+    "answer": "b",
+    "explanation": "In case of phenyl methyl ether, methyl phenyl oxonium ion is formed by protonation of ether. The O-CH3 bond is weaker than O-C6H5 bond as O-C6H5 has partial double bond character. Therefore, the attack by I- ion breaks O-CH3 bond to form CH3I.",
+    "year": "2017",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2017_C12_Q23-explanation1.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2017_C12_Q23-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Which one is the most acidic compound?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Electron withdrawing group at o and p-position w.r.t. OH group of phenol, increase the acidic strength. Picric acid (2, 4, 6-trinitrophenol) is extremely more acidic among the given compounds due to the presence of three strong electron withdrawing groups ( NO2 group) at ortho and para-positions.",
+    "year": "2017",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2017_C12_Q24-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2017_C12_Q24-main2.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2017_C12_Q24-main3.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2017_C12_Q24-main4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "The reaction: can be classified as",
+    "options": {
+      "A": "Williamson alcohol synthesis reaction",
+      "B": "Williamson ether synthesis reaction",
+      "C": "Alcohol formation reaction",
+      "D": "Dehydration reaction"
+    },
+    "answer": "b",
+    "explanation": "The treatment of sodium alkoxide with a suitable alkyl halide to form an ether is called as Williamson ether synthesis reaction.",
+    "year": "2016",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2016_C12_Q25-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Reaction of phenol with chloroform in the presence of dilute sodium hydroxide finally introduces which one of the following functional groups?",
+    "options": {
+      "A": "COOH",
+      "B": "CHCl2",
+      "C": "CHO",
+      "D": "CH2Cl"
+    },
+    "answer": "c",
+    "explanation": "This is Reimer-Tiemann reaction.",
+    "year": "2015",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2015_C12_Q26-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Which of the following reaction(s) can be used for the preparation of alkyl halides?",
+    "options": {
+      "A": "(I) and (II) only",
+      "B": "(IV) only",
+      "C": "(III) and (IV) only",
+      "D": "(I), (III), and (IV) only"
+    },
+    "answer": "d",
+    "explanation": "Lucas reagent [HCl + ZnCl2] can be used for 1° / 2° / 3° alcohol but if ZnCl2 is absent then only 3° alcohol can be used because it is most reactive due to 3° carbocation.",
+    "year": "2015",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2015_C12_Q27-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The reaction (AIPMT 2015 Cancelled Paper)",
+    "options": {
+      "A": "Gatterman - Koch reaction",
+      "B": "Williamson Synthesis",
+      "C": "Williamson's continuous etherification process",
+      "D": "Etard reaction"
+    },
+    "answer": "b",
+    "explanation": "The reaction is called Williamson synthesis",
+    "year": "2015",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2015_C12_Q28-main.png",
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2015_C12_Q28-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Which of the following will not be soluble sodium hydrogen carbonate?",
+    "options": {
+      "A": "o-Nitrophenol",
+      "B": "Benzenesulphonic acid",
+      "C": "2, 4, 6 - trinitrophenol",
+      "D": "Benzoic acid"
+    },
+    "answer": "a",
+    "explanation": "Acid reacts with sodium hydrogen carbonate as follows : Among all the given options ortho-nitrophenol is weaker acid than HCO3 hence, it does not react with NaHCO3.",
+    "year": "2014",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers/ALCOHOLS_PHENOLS_AND_ETHERS-2014_C12_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

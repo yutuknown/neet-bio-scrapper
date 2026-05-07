@@ -1,0 +1,994 @@
+[
+  {
+    "id": "Q1",
+    "text": "To an AC power supply of 220 V at 50 Hz, a resistor of 20 Ω, a capacitor of reactance 25 Ω and an inductor of reactance 45 Ω are connected in series. The corresponding current in the circuit and the phase angle between the current and the voltage is, respectively: [2025]",
+    "options": {
+      "A": "15.6 A and 30°",
+      "B": "15.6 A and 45°",
+      "C": "7.8 A and 30°",
+      "D": "7.8 A and 45°"
+    },
+    "answer": "d",
+    "explanation": "XL = 45 W, XC = 25 W, R = 20 W ⇒ I = 220 / √((XL - XC)2 + R2) = 220 / √((45 - 25)2 + 202) ⇒ = 220 / (2√2) = 11 / √2 = 7.779 A ⇒ tan φ = (XL - XC) / R = (45 - 25) / 20 = 1 ⇒ φ = 45°",
+    "year": "2025",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "In an ideal transformer, the turns ratio is NP / NS = 1/2. The ratio VS : VP is equal to (the symbols carry their usual meaning)",
+    "options": {
+      "A": "1 : 2",
+      "B": "2 : 1",
+      "C": "1 : 1",
+      "D": "1 : 4 [2024]"
+    },
+    "answer": "",
+    "explanation": "P P S S P S S P S P S P",
+    "year": "2024",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2024_P12_Q2-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2024_P12_Q2-explanation2.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2024_P12_Q2-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A 10μF capacitor is connected to a 210V, 50 Hz source as shown in figure. The peak current in the circuit is nearly (π=3.14)",
+    "options": {
+      "A": "0.58 A",
+      "B": "0.93 A",
+      "C": "1.20 A",
+      "D": "0.35 A [2024]"
+    },
+    "answer": "b",
+    "explanation": "Capacitive Reactance",
+    "year": "2024",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2024_P12_Q3-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2024_P12_Q3-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "An ac source is connected in the given circuit. The value of �ϕ will be",
+    "options": {
+      "A": "60o",
+      "B": "90o",
+      "C": "30o",
+      "D": "45o"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q4-main.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "If Z1 and Z2 are the impedances of the given circuits (a) and (b) as shown in figures, then choose the correct option",
+    "options": {
+      "A": "Z1 < Z2",
+      "B": "Z1 + Z2 = 20 Ω",
+      "C": "Z1 = Z2",
+      "D": "Z1 >Z2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q5-main.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The maximum power is dissipated for an ac in a/an",
+    "options": {
+      "A": "resistive circuit",
+      "B": "LC circuit",
+      "C": "inductive circuit",
+      "D": "capacitive circuit"
+    },
+    "answer": "a",
+    "explanation": "Power dissipated is maximum of purely resistive circuit.",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "For very high frequencies, the effective impedance of the circuit (shown in the figure) will be",
+    "options": {
+      "A": "4 Ω",
+      "B": "6 Ω",
+      "C": "1 Ω",
+      "D": "3 Ω"
+    },
+    "answer": "d",
+    "explanation": "As frequency is very high XC ≈ 0 XL → α Effective circuit will be Effective impedance of circuit will be = 3Ω",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q7-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q7-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The magnetic energy stored in an inductor of inductance 4 μH carrying a current of 2 A is",
+    "options": {
+      "A": "4 mJ",
+      "B": "8 mJ",
+      "C": "8 μJ",
+      "D": "4 μJ"
+    },
+    "answer": "c",
+    "explanation": "The formula for calculating the magnetic energy stored in an inductor is given by: where: E is the energy stored (in joules, J), L is the inductance of the inductor (in henrys, H), I is the current flowing through the inductor (in amperes, A). Plugging the given values into the formula: Hence, the energy stored in the inductor is 8 μJ.",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q8-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q8-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "In a series LCR circuit, the inductance L is 10 mH, capacitance C is 1 μF, and resistance R is 100 Ω. The frequency at which resonance occurs is",
+    "options": {
+      "A": "15.9 rad/s",
+      "B": "15.9 kHz",
+      "C": "1.59 rad/s",
+      "D": "1.59 kHz"
+    },
+    "answer": "d",
+    "explanation": "Solution:",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "A 12 V, 60 W lamp is connected to the secondary of a step-down transformer, whose primary is connected to AC mains of 220 V. Assuming the transformer to be ideal, what is the current in the primary winding?",
+    "options": {
+      "A": "0.27 A",
+      "B": "2.7 A",
+      "C": "3.7 A",
+      "D": "0.37 A"
+    },
+    "answer": "a",
+    "explanation": "Solution: For ideal transformer Pinput = Poutput (VI)in = 60 220 × I = 60 I = 0.27 A",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "An AC source is connected to a capacitor C. Due to a decrease in its operating frequency",
+    "options": {
+      "A": "Capacitive reactance decreases",
+      "B": "Displacement current increases",
+      "C": "Displacement current decreases",
+      "D": "Capacitive reactance remains constant"
+    },
+    "answer": "c",
+    "explanation": "Solution: Since ω decreasing XC will increase hence current will decrease. Also conduction current = displacement current. Therefore displacement current will decrease.",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The net impedance of the circuit (as shown in the figure) will be",
+    "options": {
+      "A": "10√2 Ω",
+      "B": "15 Ω",
+      "C": "5√5",
+      "D": "25 Ω"
+    },
+    "answer": "c",
+    "explanation": "Solution:",
+    "year": "2023",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q12-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2023_P12_Q12-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Given below are two statements Statement I : In an a.c circuit, the current through a capacitor leads the voltage across it. Statement II : In a.c circuit containing pure capacitance only, the phase difference between the current and voltage is π",
+    "options": {
+      "A": "Statement I is incorrect but Statement II is",
+      "B": "Both Statement I and Statement II are",
+      "C": "Both Statement I and Statement II are incorrect",
+      "D": "Statement I is correct but Statement II is incorrect"
+    },
+    "answer": "d",
+    "explanation": "Thus statement I is correct while II is incorrect.",
+    "year": "2022",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q13-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q13-explanation2.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q13-explanation3.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q13-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "An inductor of inductance 2 mH is connected to a 220 V, 50 Hz ac source. Let the inductive reactance in the circuit is X1. If a 220 V dc source replace the ac source in the circuit, then the inductive reactance in the circuit is X2, X1 and X2 respectively are",
+    "options": {
+      "A": "0.628 Ω, infinity",
+      "B": "6.28 Ω, zero",
+      "C": "6.28 Ω, infinity",
+      "D": "0.628 Ω, zero"
+    },
+    "answer": "d",
+    "explanation": "We know, for A.C. Source For D.C. Source The inductor behaves as a closed circuit offering no resistance at all (at steady state) as w = 0 (For D.C.)",
+    "year": "2022",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q14-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q14-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A standard filament lamp consumes 100 W when connected to 200 V ac mains supply. The peak current through the bulb will be",
+    "options": {
+      "A": "2 A",
+      "B": "0.707 A",
+      "C": "1 A",
+      "D": "1.414 A"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "A series LCR circuit with inductance 10 H, capacitance 10 µF, and resistance 50 Ω is connected to an AC source of voltage, V = 200sin(100t) volt. If the resonant frequency of the LCR circuit is νo and the frequency of the AC source is ν, then",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2022",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q16-main.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q16-main2.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q16-main3.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q16-main4.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The peak voltage of the AC source is equal to",
+    "options": {
+      "A": "The rms value of the AC source",
+      "B": "√2 times the rms value of the AC source",
+      "C": "1/√2 times the rms value of the AC source",
+      "D": "The value of the voltage supplied to the circuit"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2022",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2022_P12_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "A capacitor of capacitance 'C', is connected across an ac source of voltage V, given by V = V0sinωt The displacement current between the plates of the capacitor, would then be given by",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Given, V = V0sinωt We know, q = CV Now displacement current Id is given by,",
+    "year": "2021",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2021_P12_Q18-main.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2021_P12_Q18-main2.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2021_P12_Q18-main3.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2021_P12_Q18-main4.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2021_P12_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "An inductor of inductance L, a capacitor of capacitance C, and a resistor of resistance 'R' are connected in series to an AC source of potential difference 'V' volts as shown in Fig. Potential difference across L, C, and R is 40 V, 10 V, and 40V, respectively. The amplitude of the current flowing through the LCR series circuit is 10√2A. The impedance of the circuit is",
+    "options": {
+      "A": "4Ω",
+      "B": "5Ω",
+      "C": "4√2Ω",
+      "D": "5√2Ω"
+    },
+    "answer": "b",
+    "explanation": "Solution: I0 = 10√2 A",
+    "year": "2021",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2021_P12_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "A step-down transformer connected to an AC mains supply of 220 V is made to operate at 11 V, 44 W lamp. Ignoring power losses in the transformer, what is the current in the primary circuit?",
+    "options": {
+      "A": "2 A",
+      "B": "4 A",
+      "C": "0.2 A",
+      "D": "0.4 A"
+    },
+    "answer": "c",
+    "explanation": "Solution:",
+    "year": "2021",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2021_P12_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "A series LCR circuit containing a 5.0 H inductor, 80 μF capacitor, and 40 Ω resistor is connected to a 230 V variable frequency AC source. The angular frequencies of the source at which power transferred to the circuit are half the power at the resonant angular frequency are likely to be",
+    "options": {
+      "A": "46 rad/s and 54 rad/s",
+      "B": "42 rad/s and 58 rad/s",
+      "C": "25 rad/s and 75 rad/s",
+      "D": "50 rad/s and 25 rad/s"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2021",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "A 40 μF capacitor is connected to a 200 V. 50 Hz ac supply. The rms value of the current on the circuit is, nearly",
+    "options": {
+      "A": "2.05 A",
+      "B": "2.5 A",
+      "C": "25.1 A",
+      "D": "1.7 A"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2020_P12_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "A series LCR circuit is connected to an AC voltage source. When L is removed from the circuit, the phase difference between current and voltage is π/3. If instead C is removed from the circuit, the phase difference is again π/3 between current and voltage. The power factor of the circuit is",
+    "options": {
+      "A": "1.0",
+      "B": "1.0",
+      "C": "Zero",
+      "D": "0.5"
+    },
+    "answer": "a",
+    "explanation": "Solution: When the inductor alone is removed, When the capacitor alone is removed, Thus, for the original circuit, Power factor = cos Δϕ = R/Z = R/R = 1",
+    "year": "2020",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2020_P12_Q23-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2020_P12_Q23-explanation2.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2020_P12_Q23-explanation3.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2020_P12_Q23-explanation4.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2020_P12_Q23-explanation5.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2020_P12_Q23-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Which of the following acts as a circuit protection device?",
+    "options": {
+      "A": "Conductor",
+      "B": "Inductor",
+      "C": "Switch",
+      "D": "Fuse"
+    },
+    "answer": "d",
+    "explanation": "Solution: Fuse wire has less melting point so when excess current flows, due to heat produced in it, it melts.",
+    "year": "2019",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "A parallel plate capacitor of capacitance 20 mF is being charged by a voltage source whose potential is changing at the rate of 3 V/s. The conduction current through the connecting wires, and the displacement current through the plates of the capacitor, would be, respectively",
+    "options": {
+      "A": "Zero, 60 μA",
+      "B": "60 μA, 60 μA",
+      "C": "60 μA, zero",
+      "D": "Zero, zero"
+    },
+    "answer": "b",
+    "explanation": "Solution: The capacitance of capacitor C = 20 mF = 20 × 10-6 F Rate of change of potential ic = 20 × 10-6 × 3 = 60 × 10-6 A = 60 μA As we know id = ic = 60 mA",
+    "year": "2019",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2019_P12_Q25-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2019_P12_Q25-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "The magnetic potential energy stored in a certain inductor is 25 mJ when the current in the inductor is 60 mA. This inductor is of inductance",
+    "options": {
+      "A": "0.138 H",
+      "B": "138.88 H",
+      "C": "1.389 H",
+      "D": "13.89 H"
+    },
+    "answer": "d",
+    "explanation": "Solution: Energy stored in the inductor Energy stored in the inductor",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q26-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q26-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "In the circuit shown in the figure, the input voltage Vi is 20 V, VBE = 0, and VCE = 0. The values of IB, IC, and β are given by",
+    "options": {
+      "A": "IB = 40 µA, IC = 10 mA, β = 250",
+      "B": "IB = 25 µA, IC = 5 mA, β = 200",
+      "C": "IB = 20 µA, IC = 5 mA, β = 250",
+      "D": "IB = 40 µA, IC = 5 mA, β = 125"
+    },
+    "answer": "d",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q27-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q27-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "An inductor 20 mH, a capacitor 100 μF, and a resistor 50 Ω are connected in series across a source of emf, V = 10 sin 314 t. The power loss in the circuit is",
+    "options": {
+      "A": "0.79 W",
+      "B": "0.43 W",
+      "C": "2.74 W",
+      "D": "1.13 W"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q28-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q28-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Figure shows a circuit that contains three identical resistors with resistance R = 9.0 Ω each, two identical inductors with inductance L = 2.0 m Heach, and an ideal battery with emf ε = 18 V. The current 'i' through the battery just after the switch closed is",
+    "options": {
+      "A": "0.2 A",
+      "B": "2 A",
+      "C": "0 ampere",
+      "D": "2 mA"
+    },
+    "answer": "b",
+    "explanation": "Solution: 2016",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q29-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q29-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Which of the following combinations should be selected for better tuning of an L-C-R circuit used for combination ?",
+    "options": {
+      "A": "R = 20 Ω, L = 1.5 H, C = 35 μF",
+      "B": "R = 25 Ω, L = 2.5 H, C = 45 μF",
+      "C": "R = 15 Ω, L = 3.5 H, C = 30 μF",
+      "D": "R = 25 Ω, L = 1.5 H, C = 45 μF"
+    },
+    "answer": "c",
+    "explanation": "Quality factor of an L-C-R circuit is given by, As Q3 is maximum of Q1, Q2, Q3, and Q4. Hence, option (c) should be selected for better tuning of an L-C-R circuit.",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q30-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "The potential differences across the resistance, capacitance and inductance are 80 V, 40 V and 100 V respectively in an L-C-R circuit. The power factor of this circuit is",
+    "options": {
+      "A": "0.4",
+      "B": "0.5",
+      "C": "0.8",
+      "D": "1.0"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q31-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "A 100 Ω resistance and a capacitor of 100 Ω reactance are connected in series across a 220 V source. When the capacitor is 50% charged, the peak value of the displacement current is",
+    "options": {
+      "A": "2.2 A",
+      "B": "11 A",
+      "C": "4.4 A",
+      "D": "11√2 A"
+    },
+    "answer": "a",
+    "explanation": "Peak value of displacement current = Maximum conduction current in the circuit",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q32-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q32-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "An inductor of 20 mH, a capacitor of 50 μF and a resistor. 40Ω are connected in series across a source of emf V = 10 sin 340 t. The power loss in the A.C. circuit is",
+    "options": {
+      "A": "0.89W",
+      "B": "0.51W",
+      "C": "0.67W",
+      "D": "0.76W"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q33-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q33-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "A small signal voltage V(t) = V0 sinωt is applied across an ideal capacitor C",
+    "options": {
+      "A": "Current I(t), leads voltage V(t) by 180 degree",
+      "B": "Current I(t), lags voltage V(t) by 90 degree",
+      "C": "Over a full cycle the capacitor C does not consume any energy from the voltage source.",
+      "D": "Current I(t) is in phase with voltage V(t)"
+    },
+    "answer": "c",
+    "explanation": "Solution: A capacitor does not consume energy effectively over full cycles.",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "A resistance 'R' draws power 'P' when connected to an AC source. If an inductance is now placed in series with the resistance, such that the impedance of the circuit becomes 'Z', the power drawn will be",
+    "options": {
+      "A": "P",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Solution: A resistance R draws power P when connected to an AC source. The magnitude of voltage of the AC source is V2 = RP ∴ V= An inductor of inductance L and reactance ωL is now placed in series with the resistance 2015",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q35-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q35-explanation2.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q35-explanation3.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q35-explanation4.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q35-explanation5.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q35-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "A series R-C circuit is connected to an alternating voltage source. Consider two situations",
+    "options": {
+      "A": "ia > ib",
+      "B": "Va = Vb",
+      "C": "Va < Vb",
+      "D": "Va > Vb"
+    },
+    "answer": "d",
+    "explanation": "For series R - C circuit, capacitive reactance, Current through resistor, i = Current in the circuit When mica is introduced capacitance will increase, hence voltage across capacitor gets decrease.2014",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q36-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q36-explanation2.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q36-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "A transformer having an efficiency of 90% is working on 200 V and 3 kW power supply. If the current in the secondary coil is 6A, the voltage across the secondary coil and the current in the primary coil respectively are",
+    "options": {
+      "A": "450 V, 13.5 A",
+      "B": "600 V, 15 A",
+      "C": "300 V, 15 A",
+      "D": "450 V, 15 A"
+    },
+    "answer": "d",
+    "explanation": "Solution: Initial power = 3000 W As the efficiency is 90%, then the final power That is,",
+    "year": "2018",
+    "chapter": "Alternating Current",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q37-explanation1.png",
+      "PHYSICS/P12/chapters/alternating-current/ALTERNATING_CURRENT-2018_P12_Q37-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

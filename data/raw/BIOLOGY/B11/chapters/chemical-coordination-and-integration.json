@@ -1,0 +1,895 @@
+[
+  {
+    "id": "Q1",
+    "text": "Match List- I with List-II. Choose the correct answer from the options given below",
+    "options": {
+      "A": "A-II, B-IV, C-I, D-III",
+      "B": "A-III, B-II, C-IV, D-I",
+      "C": "A-IV, B-II, C-I, D-III",
+      "D": "A-IV, B-II, C-III, D-I"
+    },
+    "answer": "c",
+    "explanation": "A. Progesterone - IV (Corpus luteum): Progesterone is a steroid hormone primarily produced by the corpus luteum in the ovaries.It plays a critical role in regulating the menstrual cycle and maintaining pregnancy by preparing the uterine lining for implantation of the fertilized egg.During pregnancy, the placenta also produces progesterone to support fetal development. B. Relaxin - II (Ovary): Relaxin is a hormone secreted mainly by the ovary, specifically by the corpus luteum, during pregnancy.It helps relax the ligaments in the pelvis and softens the cervix to prepare for childbirth.It also plays a role in inhibiting uterine contractions during early pregnancy. C. Melanocyte-Stimulating Hormone (MSH) - I (Pars intermedia): MSH is produced by the pars intermedia of the pituitary gland (a part of the intermediate lobe of the pituitary).It regulates the production and release of melanin in the skin, which affects pigmentation. D. Catecholamines - III (Adrenal Medulla): Catecholamines such as adrenaline (epinephrine) and noradrenaline (norepinephrine) are produced by the adrenal medulla.These hormones are part of the body's response to stress (\"fight-or-flight\" response), increasing heart rate, blood pressure, and glucose levels.Catecholamines also stimulate the breakdown of glycogen resulting in an increased concentration of glucose in blood. In addition, they also stimulate the breakdown of lipids and proteins.",
+    "year": "2025",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/chemical-coordination-and-integration/CHEMICAL_COORDINATION_AND_INTEGRATION-2025_B11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Consider the following statements regarding function of adrenal medullary hormones: A. It causes pupilary constriction B. It is a hyperglycemic hormone C. It causes piloerection D. It increases strength of heart contraction Choose the correct answer from the options given below",
+    "options": {
+      "A": "A, C and D only",
+      "B": "D only",
+      "C": "C and D only",
+      "D": "B, C and D only"
+    },
+    "answer": "d",
+    "explanation": "A. It causes pupillary constriction: This statement is incorrect. Adrenal medullary hormones cause pupillary dilation (mydriasis) to allow more light into the eyes and enhance vision during stressful situations. Pupillary constriction (miosis) is associated with the parasympathetic response, not the sympathetic response mediated by the adrenal medulla.B. It is a hyperglycemic hormone: Adrenal medullary hormones, particularly adrenaline, increase blood glucose levels by stimulating glycogenolysis (breakdown of glycogen into glucose) in the liver. This ensures that the body has an immediate supply of energy during stressful situations. Hence, this statement is correct.C. It causes piloerection: Piloerection, or the \"goosebumps\" phenomenon, is caused by the contraction of arrector pili muscles in response to adrenaline. This is part of the fight-or-flight response. Hence, this statement is correct.D. It increases the strength of heart contraction: Adrenaline and noradrenaline stimulate beta-adrenergic receptors in the heart, leading to increased heart rate and stronger heart contractions. This ensures better blood circulation during stress or emergency. Hence, this statement is correct.",
+    "year": "2025",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Which of the following hormones released from the pituitary is actually synthesized in the hypothalamus?",
+    "options": {
+      "A": "Follicle - stimulating hormone (FSH)",
+      "B": "Adenocorticotrophic hormone (ACTH)",
+      "C": "Luteinizing hormone (LH)",
+      "D": "Anti - diuretic hormone (ADH)"
+    },
+    "answer": "d",
+    "explanation": "Anti-diuretic hormone (ADH) is a hormone produced by the hypothalamus and stored in the pituitary gland.Vasopressin acts mainly at the kidney and stimulates resorption of water and electrolytes by the distal tubules and thereby reduces loss of water through urine (diuresis). Hence, it is also called as anti- diuretic hormone (ADH).An impairment affecting synthesis or release of ADH results in a diminished ability of the kidney to conserve water leading to water loss and dehydration. This condition is known as Diabetes Insipidus. Other Options Luteinizing hormone (LH): LH is synthesized and secreted by the anterior pituitary gland.It plays a key role in regulating the reproductive system, including ovulation in females and testosterone production in males. Follicle-stimulating hormone (FSH): FSH is also synthesized and secreted by the anterior pituitary gland.It is involved in the regulation of reproductive processes, such as the maturation of ovarian follicles in females and spermatogenesis in males. Adrenocorticotrophic hormone (ACTH): ACTH is synthesized and secreted by the anterior pituitary gland.It stimulates the adrenal cortex to produce glucocorticoids, such as cortisol, which are vital for stress response and metabolism. Other Options: Anti-diuretic hormone (ADH) is a hormone produced by the hypothalamus and stored in the pituitary gland.Vasopressin acts mainly at the kidney and stimulates resorption of water and electrolytes by the distal tubules and thereby reduces loss of water through urine (diuresis). Hence, it is also called as anti- diuretic hormone (ADH).An impairment affecting synthesis or release of ADH results in a diminished ability of the kidney to conserve water leading to water loss and dehydration. This condition is known as Diabetes Insipidus. Luteinizing hormone (LH): LH is synthesized and secreted by the anterior pituitary gland.It plays a key role in regulating the reproductive system, including ovulation in females and testosterone production in males. Follicle-stimulating hormone (FSH): FSH is also synthesized and secreted by the anterior pituitary gland.It is involved in the regulation of reproductive processes, such as the maturation of ovarian follicles in females and spermatogenesis in males. Adrenocorticotrophic hormone (ACTH): ACTH is synthesized and secreted by the anterior pituitary gland.It stimulates the adrenal cortex to produce glucocorticoids, such as cortisol, which are vital for stress response and metabolism.",
+    "year": "2025",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Match the List-I with List-II",
+    "options": {
+      "A": "A-I, B-III, C-IV, D-II",
+      "B": "A-III, B-I, C-IV, D-II",
+      "C": "A-II, B-I, C-III, D-IV",
+      "D": "A-IV, B-III, C-II, D-I"
+    },
+    "answer": "b",
+    "explanation": "A. Heart - III. Atrial Natriuretic Factor (ANF): The atrial wall of our heart secretes a very important peptide hormone called atrial natriuretic factor (ANF), which decreases blood pressure.When blood pressure is increased, ANF is secreted which causes dilation of the blood vessels. This reduces the blood pressure.ANF helps regulate blood pressure and fluid balance by promoting sodium excretion and reducing water reabsorption in the kidneys.This hormone counteracts the effects of aldosterone and reduces blood volume, thereby lowering blood pressure. B. Kidney - I. Erythropoietin: The juxtaglomerular cells of kidney produce a peptide hormone called erythropoietin which stimulates erythropoiesis (formation of RBC). C. Gastro-intestinal Tract - IV. Secretin: Endocrine cells present in different parts of the gastro-intestinal tract secrete four major peptide hormones, namely gastrin, secretin, cholecystokinin (CCK) and gastric inhibitory peptide (GIP).Secretin acts on the exocrine pancreas and stimulates secretion of water and bicarbonate ions. D. Adrenal Cortex - II. Aldosterone: The adrenal cortex produces aldosterone, a steroid hormone that is part of the mineralocorticoid group.Aldosterone regulates sodium and potassium levels in the body by increasing sodium reabsorption and potassium excretion in the kidneys.This hormone is crucial for maintaining blood pressure and electrolyte balance.",
+    "year": "2025",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/chemical-coordination-and-integration/CHEMICAL_COORDINATION_AND_INTEGRATION-2025_B11_Q4-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Why can't insulin be given orally to diabetic patients?",
+    "options": {
+      "A": "Because of structural variation",
+      "B": "Its bioavailability will be increased",
+      "C": "Human body will elicit strong immune response",
+      "D": "It will be digested in Gastro-Intestinal (GI) tract"
+    },
+    "answer": "d",
+    "explanation": "Insulin is a protein-based molecule, and like other proteins consumed in food, it is broken down into amino acids by digestive enzymes in the stomach and intestines.This enzymatic breakdown prevents insulin from retaining its functional structure and biological activity, rendering it ineffective if taken orally.Since oral delivery is not feasible, insulin is typically given via injections (subcutaneous, intravenous, or intramuscular).Research is ongoing for alternative delivery methods, such as inhalable insulin, transdermal patches, and oral formulations with protective coatings or encapsulations. Other Options: Human body will elicit a strong immune response: The human immune system does not typically produce a strong immune response to insulin, especially if it is human recombinant insulin, which mimics the natural hormone produced in the body. Immune responses are more relevant in cases of non-human insulin or impurities in synthetic formulations, which are rare in modern medicine. Because of structural variation: Insulin's structure is not a limiting factor for its administration. Its molecular structure is well-suited for interaction with insulin receptors, and it performs its function effectively once in the bloodstream. Its bioavailability will be increased: This statement is incorrect because oral administration of insulin would result in extremely low bioavailability due to enzymatic breakdown in the GI tract. Bioavailability refers to the proportion of a drug that enters circulation and can have an active effect. Oral insulin delivery significantly reduces this proportion.",
+    "year": "2025",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Which of the following is not a steroid hormone?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Testosterone",
+      "C": "Progesterone",
+      "D": "Glucagon"
+    },
+    "answer": "",
+    "explanation": "Cortisol (Option A) Testosterone (Option B) Progesterone (Option C) Glucagon (Option D)",
+    "year": "2024",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-I, B-III, C-II, D-IV",
+      "B": "A-IV, B-II, C-I, D-III",
+      "C": "A-III, B-IV, C-II, D-I",
+      "D": "A-III, B-IV, C-I, D-II"
+    },
+    "answer": "d",
+    "explanation": "To solve the matching question, we need to correctly link each disease (List-I) with their corresponding characteristics (List-II). Here is the breakdown of each disease and its effects: Exophthalmic goiter: Also known as Graves' disease, this is an autoimmune disorder that involves an overactive thyroid (hyperthyroidism) and is characterized by symptoms such as protruding eyeballs. Therefore, this matches with \"Hyper secretion of thyroid hormone & protruding eye balls.\" - from List II (III). Acromegaly: This condition is caused by excessive secretion of growth hormone, usually from a benign tumor in the pituitary gland, leading to enlarged features (bones, especially in the hands, feet, and face). Thus, it corresponds with \"Excessive secretion of growth hormone.\" - from List II (IV). Cushing's syndrome: This syndrome is the result of prolonged exposure to high levels of the hormone cortisol. It features symptoms including obesity majorly centered around the abdomen and upper back, moon face, and hyperglycemia. Therefore, it fits \"Excess secretion of cortisol, moon face & hyperglycemia.\" - from List II (I). Cretinism: This is a condition arising from the deficiency of thyroid hormone in childhood, which causes impaired neurological function, stunted physical growth, and possibly other symptoms. It matches with \"Hypo-secretion of thyroid hormone and stunted growth.\" - from List II (II). Now, compare these with the available options: Therefore, the correct answer is Option D.",
+    "year": "2024",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/chemical-coordination-and-integration/CHEMICAL_COORDINATION_AND_INTEGRATION-2024_B11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R : Assertion A : FSH acts upon ovarian follicles in female and Leydig cells in male. Reason R : Growing ovarian follicles secrete estrogen in female while interstitial cells secrete androgen in male human being",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "answer": "d",
+    "explanation": "Sol: Assertion A states that FSH (Follicle Stimulating Hormone) acts on ovarian follicles in females and Leydig cells in males.In females, FSH stimulates the growth and maturation of ovarian follicles, which is essential for oocyte development and the production of estrogen.In males, FSH actually acts on Sertoli cells, not Leydig cells. Sertoli cells support sperm development, while Leydig cells produce testosterone, influenced by Luteinizing Hormone (LH). Reason R accurately describes hormone secretion: Growing ovarian follicles secrete estrogen, which is vital for regulating the female reproductive cycle and secondary sexual characteristics.In males, Leydig cells (also known as interstitial cells) secrete androgens, including testosterone, important for male reproductive functions. Thus, Assertion A is false because it incorrectly states that FSH acts on Leydig cells in males. However, Reason R is true as it correctly describes the hormone secretion by ovarian follicles and Leydig cells. Therefore, the correct answer is: Option D: A is false but R is true.",
+    "year": "2024",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-I, C-IV, D-II",
+      "B": "A-III, B-IV, C-I, D-II",
+      "C": "A-III, B-I, C-II, D-IV",
+      "D": "A-I, B-II, C-III, D-IV"
+    },
+    "answer": "a",
+    "explanation": "A. Parathyroid hormone: This hormone is responsible for increasing blood calcium levels by promoting calcium release from bones and increasing calcium absorption in the kidneys and intestines. Thus, it corresponds to III (Increases blood Ca²⁺ level).B. Epinephrine and Nor-epinephrine: These hormones are involved in the fight or flight response, increasing heart rate, blood flow to muscles, and energy supply during stressful situations. Therefore, B corresponds to I (Flight or fight response).C. Thyroid stimulating hormone: This hormone stimulates the synthesis of T₃ and T₄ hormones, which regulate metabolism. Thus, C corresponds to IV (Synthesis of T₃ and T₄ hormones).D. Melatonin: This hormone regulates the body's biological clock, influencing sleep-wake cycles and seasonal rhythms. Therefore, D corresponds to II (Regulates the body's biological clock). Thus, the correct match is: A-III: Parathyroid hormone increases blood Ca²⁺ levels.B-I: Epinephrine and nor-epinephrine regulate the fight or flight response.C-IV: Thyroid stimulating hormone stimulates the synthesis of T₃ and T₄ hormones.D-II: Melatonin regulates the biological clock.",
+    "year": "2024",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/chemical-coordination-and-integration/CHEMICAL_COORDINATION_AND_INTEGRATION-2024_B11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "With regard to hormones, identify the correct statements. A. Epinephrine is a peptide hormone. B. Progesterone is a peptide hormone. C. Hormones that interact with membrane-bound receptors normally do not enter the target cell, but generate second messengers. D. Hormones that interact with intracellular receptors mostly regulate gene expression. E. Insulin is an amino acid derivative hormone",
+    "options": {
+      "A": "A and B only",
+      "B": "C and E only",
+      "C": "C and D only",
+      "D": "B and C only"
+    },
+    "answer": "c",
+    "explanation": "A. Epinephrine is a peptide hormone: This statement is incorrect. Epinephrine (also known as adrenaline) is a catecholamine hormone, derived from the amino acid tyrosine, and not a peptide hormone.B. Progesterone is a peptide hormone: This statement is incorrect. Progesterone is a steroid hormone, derived from cholesterol, not a peptide hormone.C. Hormones that interact with membrane-bound receptors normally do not enter the target cell, but generate second messengers: This statement is correct. Peptide hormones and other hydrophilic hormones bind to membrane-bound receptors, which then activate second messenger systems (like cAMP or calcium ions) inside the cell to carry out their effects.D. Hormones that interact with intracellular receptors mostly regulate gene expression: This statement is correct. Steroid hormones and thyroid hormones pass through the cell membrane and bind to intracellular receptors, typically affecting gene transcription and regulating gene expression.E. Insulin is an amino acid derivative hormone: This statement is incorrect. Insulin is a peptide hormone, not an amino acid derivative. Thus, the correct statements are C and D, making the correct answer (c).",
+    "year": "2024",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-II,B-I,C-IV,D-III",
+      "B": "A-III,B-II,C-I,D-IV",
+      "C": "A-IV,B-III,C-II,D-I",
+      "D": "A-I,B-IV,C-III,D-II"
+    },
+    "answer": "c",
+    "explanation": "A. Epinephrine: Epinephrine is often referred to as the emergency hormone because it prepares the body for the \"fight or flight\" response, increasing heart rate and blood flow. Thus, A corresponds to IV (Emergency hormone).B. Thyroxine: Thyroxine (T₄) regulates the basal metabolic rate (BMR), influencing metabolism and energy production in the body. Thus, B corresponds to III (Basal metabolic rate).C. Oxytocin: Oxytocin is involved in smooth muscle contraction, particularly during childbirth (uterine contractions) and in milk ejection during lactation. Thus, C corresponds to II (Smooth muscle contraction).D. Glucagon: Glucagon raises blood glucose levels by promoting the breakdown of glycogen into glucose, leading to hyperglycemia. Thus, D corresponds to I (Hyperglycemia). Thus, the correct match is: A-IV: Epinephrine is the emergency hormone.B-III: Thyroxine regulates basal metabolic rate.C-II: Oxytocin promotes smooth muscle contraction.D-I: Glucagon leads to hyperglycemia.",
+    "year": "2024",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/chemical-coordination-and-integration/CHEMICAL_COORDINATION_AND_INTEGRATION-2024_B11_Q11-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Diuresis is prevented by",
+    "options": {
+      "A": "Renin from JG cells via switching off the osmoreceptors.",
+      "B": "ANF from atria of the heart.",
+      "C": "Aldosterone from adrenal medulla.",
+      "D": "Vasopressin from Neurohypophysis."
+    },
+    "answer": "d",
+    "explanation": "Vasopressin (also known as antidiuretic hormone (ADH)) is secreted by the neurohypophysis (posterior pituitary). It plays a key role in regulating water balance in the body by increasing the reabsorption of water in the kidneys, thus preventing diuresis (excessive urination). When vasopressin is released, it acts on the kidneys to reduce urine output and conserve water, thereby preventing diuresis. Why the other options are incorrect: (a) Renin from JG cells via switching off the osmoreceptors: Renin is involved in regulating blood pressure and fluid balance, but it does not directly prevent diuresis in the same way as vasopressin.(b) ANF from atria of the heart: Atrial natriuretic factor (ANF) actually promotes diuresis by increasing the excretion of sodium and water, thereby lowering blood volume and blood pressure.(c) Aldosterone from adrenal medulla: Aldosterone, secreted by the adrenal cortex (not the adrenal medulla), helps regulate sodium and water balance, but it does not directly prevent diuresis; instead, it promotes sodium retention, which indirectly helps control blood volume and pressure. Thus, (d) Vasopressin from Neurohypophysis is the correct answer as it directly prevents diuresis by promoting water reabsorption in the kidneys.",
+    "year": "2024",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Identify the wrong statements: A. Erythropoietin is produced by juxtaglomerular cells of the kidney. B. Leydig cells produce Androgens. C. Atrial Natriuretic factor, a peptide hormone, is secreted by the seminiferous tubules of the testes. D. Cholecystokinin is produced by the gastrointestinal tract. E. Gastrin acts on the intestinal wall and helps in the production of pepsinogen",
+    "options": {
+      "A": "D and E only",
+      "B": "A and B only",
+      "C": "C and E only",
+      "D": "A and C only"
+    },
+    "answer": "c",
+    "explanation": "A. Erythropoietin is produced by juxtaglomerular cells of the kidney: This statement is incorrect. Erythropoietin is actually produced by the peritubular capillary cells in the kidneys (primarily in response to low oxygen levels), not by the juxtaglomerular cells, which secrete renin.B. Leydig cells produce Androgens: This statement is correct. Leydig cells in the testes are responsible for producing androgens, primarily testosterone, which is crucial for male reproductive function and secondary sexual characteristics.C. Atrial Natriuretic factor, a peptide hormone, is secreted by the seminiferous tubules of the testes: This statement is incorrect. Atrial Natriuretic factor (ANF) is produced by the atria of the heart, not the seminiferous tubules of the testes. ANF helps regulate blood pressure by promoting sodium excretion and water loss.D. Cholecystokinin is produced by the gastrointestinal tract: This statement is correct. Cholecystokinin (CCK) is a peptide hormone produced by the duodenum in the gastrointestinal tract. It stimulates the release of bile from the gallbladder and digestive enzymes from the pancreas.E. Gastrin acts on intestinal wall and helps in the production of pepsinogen: This statement is incorrect. Gastrin is produced by the stomach and stimulates the secretion of gastric juices, including hydrochloric acid (HCl). It does not act on the intestinal wall to produce pepsinogen; pepsinogen is produced by chief cells in the stomach lining and is activated to pepsin by the acidic environment created by gastrin. Thus, the wrong statements are C and E, making the correct answer (3).",
+    "year": "2024",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Which of the following are NOT under the control of thyroid hormone? A. Maintenance of water and electrolyte balance B. Regulation of basal metabolic rate C. Normal rhythm of sleep-wake cycle D. Development of immune system E. Support the process of RBCs formation",
+    "options": {
+      "A": "A and D only",
+      "B": "B and C only",
+      "C": "C and D only",
+      "D": "D and E only"
+    },
+    "answer": "c",
+    "explanation": "Option (C) is the correct answer because thyroid hormones play an important role in the regulation of basal metabolic rate, maintenance of water and electrolyte balance and support the process of RBCs formation, whereas this hormone is not involved in regulating normal rhythm of sleep-wake cycle and development of immune system.",
+    "year": "2023",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "(A)IV, (B)II ,(C)III, (D)I",
+      "B": "(A)IV, (B)III,(C)II ,(D)I",
+      "C": "(A)III (B)II (C)IV (D)I",
+      "D": "(A)II (B)IV (C)I (D)III"
+    },
+    "answer": "b",
+    "explanation": "A. CCK (Cholecystokinin): CCK is a hormone produced in the pancreas that stimulates the release of bile from the gallbladder and digestive enzymes from the pancreas. Thus, A corresponds to IV (Pancreas).B. GIP (Gastric Inhibitory Peptide): GIP is produced by the gastric gland and inhibits gastric secretion, as well as stimulating insulin release. Thus, B corresponds to III (Gastric gland).C. ANF (Atrial Natriuretic Factor): ANF is a hormone produced in the heart that helps to regulate blood pressure by promoting sodium and water excretion. Thus, C corresponds to II (Heart).D. ADH (Antidiuretic Hormone): ADH plays a role in regulating water balance by increasing water reabsorption in the kidneys. Thus, D corresponds to I (Kidney).",
+    "year": "2023",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/chemical-coordination-and-integration/CHEMICAL_COORDINATION_AND_INTEGRATION-2023_B11_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Which of the following statements are correct with respect to the hormone and its function? A: Thyrocalcitonin (TCT) regulates the blood calcium level. B: In males, FSH and androgens regulate spermatogenesis. C: Hyperthyroidism can lead to goitre. D: Glucocorticoids are secreted in Adrenal Medulla. E: Parathyroid hormone is regulated by circulated levels of sodium ions",
+    "options": {
+      "A": "(C) and (E) only",
+      "B": "(A) and (B) only",
+      "C": "(B) and (C) only",
+      "D": "(A) and (D) only"
+    },
+    "answer": "b",
+    "explanation": "A: Thyrocalcitonin (TCT) regulates the blood calcium level: This statement is correct. Thyrocalcitonin (also called calcitonin) is produced by the thyroid gland and helps to lower blood calcium levels by inhibiting calcium release from bones and promoting calcium excretion in the kidneys.B: In males, FSH and androgens regulate spermatogenesis: This statement is correct. In males, Follicle-stimulating hormone (FSH) and androgens (e.g., testosterone) regulate the process of spermatogenesis (the production of sperm in the testes).C: Hyperthyroidism can lead to goitre: This statement is incorrect. Goitre is typically associated with hypothyroidism (underproduction of thyroid hormones), where the thyroid gland enlarges due to lack of iodine or insufficient thyroid hormone production. Hyperthyroidism, on the other hand, is an overproduction of thyroid hormones.D: Glucocorticoids are secreted in the Adrenal Medulla: This statement is incorrect. Glucocorticoids (e.g., cortisol) are secreted by the adrenal cortex, not the medulla. The adrenal medulla produces catecholamines (epinephrine and norepinephrine).E: Parathyroid hormone is regulated by circulated levels of sodium ions: This statement is incorrect. Parathyroid hormone (PTH) regulates calcium levels in the blood, not sodium. It increases blood calcium levels by promoting calcium release from bones, reabsorption in the kidneys, and activation of vitamin D. Thus, the correct statements are (A) and (B), making the answer (b).",
+    "year": "2023",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Given below are two statements: Statement I: Parathyroid hormone acts on bones and stimulates the process of bone resorption. Statement II: Parathyroid hormone along with Thyrocalcitonin plays a significant role in carbohydrate metabolism",
+    "options": {
+      "A": "Statement I is correct but Statement II is false",
+      "B": "Statement I is incorrect but Statement II is true",
+      "C": "Both Statement I and Statement II are true",
+      "D": "Both Statement I and Statement II are false"
+    },
+    "answer": "a",
+    "explanation": "Statement I: Parathyroid hormone acts on bones and stimulates the process of bone resorption: This statement is correct. Parathyroid hormone (PTH) stimulates bone resorption by activating osteoclasts, which break down bone tissue and release calcium into the blood. This helps to increase the blood calcium levels.Statement II: Parathyroid hormone along with Thyrocalcitonin plays a significant role in carbohydrate metabolism: This statement is false. Parathyroid hormone and thyrocalcitonin (calcitonin) are primarily involved in the regulation of calcium and phosphate levels in the body, not carbohydrate metabolism. While they have important roles in maintaining bone health and calcium balance, they do not directly regulate carbohydrate metabolism. Insulin, glucagon, and other hormones are primarily responsible for carbohydrate metabolism. Thus, the correct answer is (a): \"Statement I is correct but Statement II is false.\"",
+    "year": "2023",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Which of the following are not the effects of parathyroid hormone? (A) Stimulates the process of bone resorption. (B) Decreases Ca2+ level in blood. (C) Reabsorption of Ca2+ by renal tubules. (D) Decreases the absorption of Ca2+ from digested food. (E) Increases metabolism of carbohydrates",
+    "options": {
+      "A": "(B), (D) and (E) only",
+      "B": "(A) and (E) only",
+      "C": "(B) and (C) only",
+      "D": "(A) and (C) only"
+    },
+    "answer": "a",
+    "explanation": "Parathyroid glands are located at the back of the thyroid glands.They secrete a hormone known as parathyroid hormone or parathormone (PTH). It regulates the level of calcium in the blood. PTH increases the level of calcium in the blood when it's too low. It increases bone resorption by increasing the activity of osteoclasts and thus adding more calcium to blood. It also increases the reabsorption of calcium ions from renal tubules and digested food. PTH also decreases the metabolism of carbohydrates.",
+    "year": "2022",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Give below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): FSH which interacts with membrane bound receptors does not enter the target cell. Reason (R): Binding of FSH to its receptors generates second messenger (cyclic AMP) for its biochemical and physiological responses",
+    "options": {
+      "A": "(A) is not correct but (R) is",
+      "B": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "C": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+      "D": "(A) is correct but (R) is not correct"
+    },
+    "answer": "c",
+    "explanation": "Assertion (A) is correct because FSH, or follicle-stimulating hormone, is a peptide hormone that does not enter the target cell. Instead, it interacts with membrane-bound receptors on the surface of the target cell. This is a common feature of peptide hormones, as they are too large and hydrophilic to pass through the cell membrane.Reason (R) is also correct. When FSH binds to its receptor, it triggers a cascade of intracellular events, including the production of second messengers like cyclic AMP (cAMP). The second messengers then go on to activate various biochemical and physiological responses within the target cell, such as cell growth and hormone production. This is a typical process for signal transduction initiated by the binding of a hormone to its cell surface receptor.However, (R) is not the correct explanation of (A) because it doesn't directly address why FSH doesn't enter the target cell. The reason FSH does not enter the target cell is that it is a peptide hormone, which cannot cross the cell membrane. Instead, it interacts with cell surface receptors to initiate a signaling cascade. The generation of second messengers, like cAMP, is a part of the signaling process that takes place after FSH binds to its receptor, but it is not the reason why FSH doesn't enter the cell.",
+    "year": "2022",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Erythropoietin hormone which stimulates R.B.C. formation is produced by",
+    "options": {
+      "A": "The cells of bone marrow",
+      "B": "Juxtaglomerular cells of the kidney",
+      "C": "Alpha cells of the pancreas",
+      "D": "The cells of the rostral adenohypophysis"
+    },
+    "answer": "b",
+    "explanation": "Option (b) is correct because The juxtaglomerular cells of kidney produce peptide hormone called erythropoietin which stimulates (erythropoiesis). It stimulates the stem cells of the bone marrow to increase red blood cell production.Alpha cells of pancreas produce hormone glucagon.The cells of rostral adenohypophysis synthesizes hormones of anterior lobe of pituitary.The cells of bone marrow are responsible for formation of formed elements.",
+    "year": "2021",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Match the following columns and select the correct option",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "a",
+    "explanation": "Grave's disease is due to excess secretion of thyroid hormones (T3 & T4). Diabetes mellitus is due to hyposecretion of insulin from beta-cells of pancreas. Diabetes insipidus is due to hyposecretion of ADH from posterior pituitary. Addison's disease is due to hyposecretion of hormone from adrenal cortex.",
+    "year": "2020",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/chemical-coordination-and-integration/CHEMICAL_COORDINATION_AND_INTEGRATION-2020_B11_Q21-explanation1.png",
+      "BIOLOGY/B11/chapters/chemical-coordination-and-integration/CHEMICAL_COORDINATION_AND_INTEGRATION-2020_B11_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q22",
+    "text": "Select the correct statement",
+    "options": {
+      "A": "Insulin acts on pancreatic cells and adipocytes.",
+      "B": "Insulin is associated with hyperglycemia.",
+      "C": "Glucocorticoids stimulate gluconeogenesis.",
+      "D": "Glucagon is associated with hypoglycemia."
+    },
+    "answer": "c",
+    "explanation": "Glucagon is associated with hyperglycemia. Insulin acts on hepatocytes and adipocytes and is associated with hypoglycemia. Glucocorticoid stimulates gluconeogenesis, so increase blood sugar level.",
+    "year": "2020",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Match the following hormones with their respective disease: (A) Insulin (i) Addison's disease (B) Thyroxin (ii) Diabetes insipidus (C) Corticoids (iii) Acromegaly (D) Growth hormone (iv) Goitre (v) Diabetes mellitus Select the correct option. (ii) (iv) (i) (iii) (b) (v) (i) (ii) (iii) (c) (ii) (iv) (iii) (i) (d) (v) (iv) (i) (iii)",
+    "options": {
+      "A": "(ii) (iv) (i) (iii)",
+      "B": "(v) (i) (ii) (iii)",
+      "C": "(ii) (iv) (iii) (i)",
+      "D": "(v) (iv) (i) (iii)"
+    },
+    "answer": "d",
+    "explanation": "Diabetes mellitus is caused due to deficiency of insulin.Goite is caused due to deficiency of Iodine which leads to less secretion of thyroxine.Addison's disease is caused due to hyposecretion of corticoids.Acromegaly is caused due to hypersecretion of growth hormones after puberty.",
+    "year": "2019",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [
+      [
+        [
+          "(A) Insulin",
+          "(i) Addison's disease"
+        ],
+        [
+          "(B) Thyroxin",
+          "(ii) Diabetes insipidus"
+        ],
+        [
+          "(C) Corticoids",
+          "(iii) Acromegaly"
+        ],
+        [
+          "(D) Growth hormone",
+          "(iv) Goitre"
+        ],
+        [
+          "",
+          "(v) Diabetes mellitus"
+        ]
+      ],
+      [
+        [
+          "",
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ],
+        [
+          "(a)",
+          "(ii)",
+          "(iv)",
+          "(i)",
+          "(iii)"
+        ],
+        [
+          "(b)",
+          "(v)",
+          "(i)",
+          "(ii)",
+          "(iii)"
+        ],
+        [
+          "(c)",
+          "(ii)",
+          "(iv)",
+          "(iii)",
+          "(i)"
+        ],
+        [
+          "(d)",
+          "(v)",
+          "(iv)",
+          "(i)",
+          "(iii)"
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "table",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Which of the following is an amino acid derived hormone?",
+    "options": {
+      "A": "Epinephrine",
+      "B": "Ecdysone",
+      "C": "Estradiol",
+      "D": "Estriol"
+    },
+    "answer": "a",
+    "explanation": "Epinephrine is derived from amino acid tyrosine by the removal of carboxylic group.",
+    "year": "2018",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "GnRH, a hypothalamic hormone, needed in reproduction, acts on",
+    "options": {
+      "A": "Anterior pituitary gland and stimulates secretion of LH and FSH",
+      "B": "Posterior pituitary gland and stimulates secretion of oxytocin and FSH",
+      "C": "Posterior pituitary gland and stimulates secretion of LH and relaxin",
+      "D": "Anterior pituitary gland and stimulates secretion of LH and oxytocin."
+    },
+    "answer": "a",
+    "explanation": "Gonadotropin releasing hormone (GnRH) is secreted by the hypothalamus which stimulates the anterior lobe of pituitary gland to secrete luteinising hormone (LH) and Follicle Stimulating Hormone (FSH).",
+    "year": "2017",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "A temporary endocrine gland in the human body is",
+    "options": {
+      "A": "Corpus cardiacum",
+      "B": "Corpus luteum",
+      "C": "Corpus allatum",
+      "D": "Pineal gland."
+    },
+    "answer": "b",
+    "explanation": "Corpus luteum is the temporary endocrine gland formed in the ovary after ovulation. It release hormones like progesterone, oestrogen etc.",
+    "year": "2017",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Graves' disease is caused due to",
+    "options": {
+      "A": "Hyposecretion of thyroid gland",
+      "B": "Hypersecretion of thyroid gland",
+      "C": "Hyposecrction of adrenal gland",
+      "D": "Hypersecretion of adrenal gland."
+    },
+    "answer": "b",
+    "explanation": "Exophthalmic goitre or Graves' disease is a thyroid enlargement (goitre) in which the thyroid secretes excessive amount of thyroid hormone. It is characterised by exophthalmia (protrusion of eye balls because of fluid accumulation behind them), loss of weight, slightly rise in the body temperature, excitability, rapid heart beat, nervousness and restlessness.",
+    "year": "2016",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Name a peptide hormone which acts mainly on hepatocytes, adipocytes and enhances cellular glucose uptake and utilisation",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Secretin",
+      "D": "Gastrin"
+    },
+    "answer": "a",
+    "explanation": "Insulin is a peptide hormone, secreted by the β cells of the islets of Langerhans in the pancreas, that promotes the uptake of glucose by body cells, particularly in the liver (hepatocytes) and muscles (adipocytes) and thereby controls its concentration in the blood.",
+    "year": "2016",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "The posterior pituitary gland is not a true endocrine gland because",
+    "options": {
+      "A": "It is provided with a duct",
+      "B": "It only stores and releases hormones",
+      "C": "It is under the regulation of hypothalamus",
+      "D": "It secretes enzymes."
+    },
+    "answer": "b",
+    "explanation": "Posterior lobe of pituitary gland does not secrete any hormone. Its hormones are synthesised by the hypothalamus. It only stores and releases these hormones. Hence, it cannot be considered as true gland.",
+    "year": "2016",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Changes in GnRH pulse frequency in females is controlled by circulating levels of",
+    "options": {
+      "A": "Estrogen and progesterone",
+      "B": "Estrogen and inhibin",
+      "C": "Progesterone only",
+      "D": "Progesterone and inhibin"
+    },
+    "answer": "a",
+    "explanation": "At the pituitary, GnRH stimulates the synthesis and secretion of the gonadotropins, follicle-stimulating hormone (FSH), and luteinizing hormone (LH). These processes are controlled by the size and frequency of GnRH pulses, as well as by feedback from progesterone and estrogens. Low-frequency GnRH pulses are required for FSH release, whereas highfrequency GnRH pulses stimulate LH pulses in a one to one manner.",
+    "year": "2016",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Which one of the following hormones is not involved in sugar metabolism? (AIPMT 2015)",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Insulin",
+      "C": "Glucagon",
+      "D": "Cortisone"
+    },
+    "answer": "a",
+    "explanation": "Aldosterone is produced by adrenal cortex and plays an important role in the regulation of Na+ and K+ levels in body.",
+    "year": "2015",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "Which one of the following hormones though synthesised elsewhere is stored and released by the master gland? (AIPMT 2015)",
+    "options": {
+      "A": "Luteinizing hormone",
+      "B": "Prolactin",
+      "C": "Melanocyte stimulating hormone",
+      "D": "Antidiuretic hormone"
+    },
+    "answer": "d",
+    "explanation": "ADH (Antidiuretic hormone) and oxytocin are produced by hypothalamus and stored in posterior pituitary.",
+    "year": "2015",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "A chemical signal that has both endocrine and neural roles is? (AIPMT 2015 Cancelled Paper)",
+    "options": {
+      "A": "Calcitonin",
+      "B": "Epinephrine",
+      "C": "Cortisol",
+      "D": "Melatonin"
+    },
+    "answer": "b",
+    "explanation": "Epinephrine acts as both a hormone and a neurotransmitter. It is crucial for the body's fight-or-flight response. Functions include: Increasing heart rate, Enhancing alertness, Boosting energy availability.",
+    "year": "2015",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Identify the hormone with its correct matching of source and function: (AIPMT 2014)",
+    "options": {
+      "A": "Oxytocin - posterior pituitary, growth and maintenance of mammary glands.",
+      "B": "Melatonin - pineal gland, regulates the normal rhythm of sleepwake cycle.",
+      "C": "Progesterone - corpus-luteum, stimulatiuon of growth and activities of female secondary sex orgAns:",
+      "D": "Atrial natriuretic factor - ventricular wall increases the blood pressure."
+    },
+    "answer": "b",
+    "explanation": "Melatonin is produced by the pineal gland. It is essential for regulating the sleep-wake cycle. Melatonin helps maintain our body's natural circadian rhythms.Oxytocin is produced by hypothalamus and generally secreted by posterior pituitary. It stimulates secretion of milk from mammary glands; causes contraction of uterus at the time of child birth.Progesterone is secreted by corpus luteum. It stimulates uterus for pregnancy, implantation, formation of placenta and development of mammary glands.Atrial natriuretic factor is secreted by atrial wall in response to an increased return of the venous blood. This hormone regulates the blood volume through increased excretion of ions and water.",
+    "year": "2014",
+    "chapter": "Chemical Coordination and Integration",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

@@ -1,0 +1,669 @@
+{
+  "generated_at": "2026-05-07T19:15:40.123087Z",
+  "chapter_count": 42,
+  "anomaly_count": 7,
+  "all_empty_option_count": 7,
+  "partial_option_count": 0,
+  "image_backed_gap_count": 6,
+  "chapters": [
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "gravitation",
+      "question_count": 35,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "kinetic-theory",
+      "question_count": 20,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "laws-of-motion",
+      "question_count": 27,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "mechanical-properties-of-fluids",
+      "question_count": 22,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "mechanical-properties-of-solids",
+      "question_count": 11,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "motion-in-a-plane",
+      "question_count": 27,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "motion-in-a-straight-line",
+      "question_count": 19,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "oscillations",
+      "question_count": 20,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "system-of-particles-and-rotational-motion",
+      "question_count": 42,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "thermal-properties-of-matter",
+      "question_count": 21,
+      "anomaly_count": 1,
+      "all_empty_option_count": 1,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "thermodynamics",
+      "question_count": 22,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "units-and-measurements",
+      "question_count": 29,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "waves",
+      "question_count": 25,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "work-energy-and-power",
+      "question_count": 31,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "alternating-current",
+      "question_count": 37,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "atoms",
+      "question_count": 9,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "current-electricity",
+      "question_count": 76,
+      "anomaly_count": 2,
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 2
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "dual-nature-of-radiation-and-matter",
+      "question_count": 39,
+      "anomaly_count": 1,
+      "all_empty_option_count": 1,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "electric-charges-and-fields",
+      "question_count": 28,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "electromagnetic-induction",
+      "question_count": 39,
+      "anomaly_count": 2,
+      "all_empty_option_count": 2,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "electromagnetic-waves",
+      "question_count": 26,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "magnetism-and-matter",
+      "question_count": 3,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "moving-charges-and-magnetism",
+      "question_count": 33,
+      "anomaly_count": 1,
+      "all_empty_option_count": 1,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 1
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "nuclei",
+      "question_count": 20,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "ray-optics-and-optical-instruments",
+      "question_count": 61,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "wave-optics",
+      "question_count": 10,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C11",
+      "chapter_slug": "chemical-bonding-and-molecular-structure",
+      "question_count": 49,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C11",
+      "chapter_slug": "classification-of-elements-and-periodicity-in-properties",
+      "question_count": 24,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C11",
+      "chapter_slug": "equilibrium",
+      "question_count": 43,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C11",
+      "chapter_slug": "hydrocarbons",
+      "question_count": 48,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C11",
+      "chapter_slug": "redox-reactions",
+      "question_count": 14,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C11",
+      "chapter_slug": "some-basic-concepts-of-chemistry",
+      "question_count": 20,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C11",
+      "chapter_slug": "structure-of-atom",
+      "question_count": 31,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "alcohols-phenols-and-ethers",
+      "question_count": 29,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "aldehydes-ketones-and-carboxylic-acids",
+      "question_count": 46,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "amines",
+      "question_count": 24,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "biomolecules",
+      "question_count": 22,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "chemical-kinetics",
+      "question_count": 35,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "coordination-compounds",
+      "question_count": 41,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "electrochemistry",
+      "question_count": 32,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "haloalkanes-and-haloarenes",
+      "question_count": 27,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    },
+    {
+      "subject": "chemistry",
+      "class_code": "C12",
+      "chapter_slug": "solutions",
+      "question_count": 27,
+      "anomaly_count": 0,
+      "all_empty_option_count": 0,
+      "partial_option_count": 0,
+      "image_backed_gap_count": 0
+    }
+  ],
+  "questions": [
+    {
+      "subject": "physics",
+      "class_code": "P11",
+      "chapter_slug": "thermal-properties-of-matter",
+      "chapter": "Thermal Properties of Matter",
+      "question_id": "Q5",
+      "year": "2021",
+      "text": "A cup of coffee cools from 90\u00b0C to 80\u00b0C in t minutes, when the room temperature is 20\u00b0C. The time taken by a similar cup of coffee to cool from 80\u00b0C to 60\u00b0C at room temperature same at 20\u00b0C. [2021]",
+      "answer": "d",
+      "images": 9,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "current-electricity",
+      "chapter": "Current Electricity",
+      "question_id": "Q50",
+      "year": "2020",
+      "text": "For the circuit given below, the Kirchhoff's loop rule for the loop BCDEB is given by the equation",
+      "answer": "b",
+      "images": 4,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "current-electricity",
+      "chapter": "Current Electricity",
+      "question_id": "Q72",
+      "year": "2015",
+      "text": "A potentiometer wire of length L and a resistance r are connected in series with a battery of e.m.f. E0 and a resistance r1 . An unknown e.m.f. is balanced at a length l of the potentiometer wire. The e.m.f. E will be given by",
+      "answer": "b",
+      "images": 8,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 4,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "dual-nature-of-radiation-and-matter",
+      "chapter": "Dual Nature of Radiation and Matter",
+      "question_id": "Q33",
+      "year": "2016",
+      "text": "Electrons of mass m with de-Broglie wavelength \u03bb fall on the target in an X-ray tube. The cut-off wavelength (\u03bb 0 ) of the emitted X-ray is",
+      "answer": "a",
+      "images": 3,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 1,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "electromagnetic-induction",
+      "chapter": "Electromagnetic Induction",
+      "question_id": "Q5",
+      "year": "2024",
+      "text": "A conducting circular loop of face area 2.5 \u00d7 10\u207b\u00b3 m\u00b2 is placed perpendicular to a magnetic field which varies as B = 0.5 sin(100\u03c0t) T. The magnitude of induced EMF at time t = 0 s is: (b) 125\u03c0 mV (c) 125\u03c0 V (d) 12.5\u03c0 mV",
+      "answer": "b",
+      "images": 0,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "missing",
+        "imageTokenCount": 0,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content could not be extracted from the source block."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "electromagnetic-induction",
+      "chapter": "Electromagnetic Induction",
+      "question_id": "Q35",
+      "year": "2016",
+      "text": "A uniform magnetic field is restricted within a region of radius r. The magnetic field changes with time at a rate dB/dT. Loop 1 of radius R > r encloses the region r and loop 2 of radius R is outside the region of magnetic field as shown in the figure. Then, the emf generated is",
+      "answer": "c",
+      "images": 5,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "subject": "physics",
+      "class_code": "P12",
+      "chapter_slug": "moving-charges-and-magnetism",
+      "chapter": "Moving Charges and Magnetism",
+      "question_id": "Q22",
+      "year": "2019",
+      "text": "A straight conductor carrying current i splits into two parts as shown in the figure. The radius of the circular loop is R. The total magnetic field at the centre P at the loop is",
+      "answer": "a",
+      "images": 9,
+      "tables": 0,
+      "non_empty_option_count": 0,
+      "option_extraction": {
+        "source": "fallback",
+        "status": "image_backed_unresolved",
+        "imageTokenCount": 2,
+        "nonEmptyOptionCount": 0
+      },
+      "parser_warnings": [
+        "Option content appears to be image-backed and could not be extracted as text."
+      ],
+      "anomaly_types": [
+        "all_options_empty",
+        "answer_without_full_options",
+        "image_backed_option_gap",
+        "parser_warning"
+      ],
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    }
+  ]
+}

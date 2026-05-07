@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "Q1",
+    "text": "A uniform rod of mass 20 kg and length 5 m leans against a smooth vertical wall making an angle of 60∘ with it. The other end rests on a rough horizontal floor. The friction force that the floor exerts on the rod is: (take g = 10 m/s2) [2025]",
+    "options": {
+      "A": "200N",
+      "B": "200√3N",
+      "C": "100N",
+      "D": "100√3N"
+    },
+    "answer": "d",
+    "explanation": "For translational equilibrium N1 = Mg N2 = f For rotational equilibrium Torque about A, MgL/2 cosθ = N2L sinθ (Mg/2) cotθ = N2 = f (Mg/2) cot 30° = f (Mg/2) √3 = N2 100√3 = f",
+    "year": "2025",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2025_P11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "The sun rotates around its centre once in 27 days. What will be the period of revolution if the sun were to expand to twice its present radius without any external influence? Assume the sun to be a sphere of uniform density. [2025]",
+    "options": {
+      "A": "115 days",
+      "B": "108 days",
+      "C": "100 days",
+      "D": "105 days"
+    },
+    "answer": "b",
+    "explanation": "Assuming the Sun to be a solid sphere, I = (2/5) m R2 Using conservation of angular momentum, I'ω' = Iω ⇒ (2/5) m (2R)2 × (2π / T') = (2/5) m R2 × (2π / T) ⇒ T' = 4T = 4 × 27 = 108 days",
+    "year": "2025",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A sphere of radius R is cut from a larger solid sphere of radius 2 R as shown in the figure. The ratio of the moment of inertia of the smaller sphere to that of the rest part of the sphere about the Y -axis is: [2025]",
+    "options": {
+      "A": "7/57",
+      "B": "7/64",
+      "C": "7/8",
+      "D": "7/40"
+    },
+    "answer": "a",
+    "explanation": "For a larger solid sphere about diameter Y-axis: Iwhole = (2 / 5) × M × (2R)² = (8 / 5) × M × R² Density of sphere is uniform: M / Vwhole = Msmaller / Vsmaller M / ((4/3)π(2R)³) = M′ / ((4/3)πR³) ⇒ M′ = M / 8 Using parallel axis theorem for smaller sphere: I′ = Icm + M′ × R² = (2 / 5) × (M / 8) × R² + (M / 8) × R² = (7 / 40) × M × R² Ratio: Ratio = Ismaller / Iremaining = I′ / (Iwhole - I′) = ((7 / 40) × M × R²) / (((8 / 5) - (7 / 40)) × M × R²) = 7 / 57",
+    "year": "2025",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2025_P11_Q3-main.jpg",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2025_P11_Q3-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is 2400gcm2. The length of the 400g rod is nearly: [2024]",
+    "options": {
+      "A": "8.5 cm",
+      "B": "17.5 cm",
+      "C": "20.7 cm",
+      "D": "72.0 cm"
+    },
+    "answer": "",
+    "explanation": "Explanation:Moment of Inertia of rod =",
+    "year": "2024",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2024_P11_Q4-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2024_P11_Q4-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A wheel of a bullock cart is rolling on a level road as shown in the figure below. If its linear speed is v in the direction shown, which one of the following options is correct (P and Q are any highest and lowest points on the wheel, respectively)? [2024]",
+    "options": {
+      "A": "Point P moves slower than point Q",
+      "B": "Point P moves faster than point Q",
+      "C": "Both the points P and Q move with equal speed",
+      "D": "Point P has zero speed"
+    },
+    "answer": "b",
+    "explanation": "Point P moves faster than point Q Explanation:In the case of pure rolling, The linear speed of the centre of the wheel is v. Points P and QQ are the highest and lowest points on the wheel, respectively.For rolling motion, every point on the wheel has two components of velocity:The translational velocity due to the movement of the entire wheel (v).The rotational velocity due to the wheel spinning. The velocity of a point on the rim is ωR (where ω is the angular velocity, and RR is the radius of the wheel). For the topmost point (P): (i) The translational velocity is v (forward direction). (ii) The rotational velocity at P is v (forward direction, since it rotates along with the wheel). (iii) So, the total velocity of P is v+v= 2v (forward).For the bottommost point (Q): (i) The translational velocity is v (forward). (ii) The rotational velocity at Q is v (backward direction, because it rotates in the opposite direction of translational motion). (iii) So, the total velocity at Q is v-v=0.",
+    "year": "2024",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2024_P11_Q5-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2024_P11_Q5-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Consider a thin circular ring (A), a circular disc (B), a hollow cylinder (C) and a solid cylinder (D) of the same radii R and of the same masses. If IA , IB , IC and ID are their moments of inertia about the axis shown, then choose the correct answer from the options given below: [2024]",
+    "options": {
+      "A": "IA = IC and 2IB = ID",
+      "B": "IA = 2IB and 2IC = ID",
+      "C": "2IA = IC and IB = 2ID",
+      "D": "IA = IB = IC = 2ID"
+    },
+    "answer": "a",
+    "explanation": "Explanation: We are given four objects: a thin circular ring (A), a circular disc (B), a hollow cylinder (C), and a solid cylinder (D), all with the same radius (R) and the same mass (M). We need to find the relationship between their moments of inertia about the same axis.Moment of Inertia Formulas:Thin Circular Ring (A): Moment of inertia = MR²Circular Disc (B): Moment of inertia = 1/2 M R²Hollow Cylinder (C): Moment of inertia = MR²Solid Cylinder (D): Moment of inertia = 1/2 M R²Now, let's analyze the given options:Option (a): IA = IC and 2IB = IDFrom the formulas:IA = MR²IC = M R² Hence, IA = IC is correct.For the second part:2IB = 2 × (1/2 M R²) = MR²ID = 1/2 × MR² Hence, 2IB = ID is correct.So, option (a) is correct. Final Answer: (a) IA = IC and 2IB = ID.",
+    "year": "2024",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2024_P11_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "A body of mass 6 kg is moving from its initial position A to the next position B as shown in figure. From A to B, the value of momentum of the body is: (in SI unit) ? [2024]",
+    "options": {
+      "A": "24",
+      "B": "12",
+      "C": "8",
+      "D": "6"
+    },
+    "answer": "c",
+    "explanation": "Explanation: To find the momentum of the body at position B, we need to use the formula for momentum: Momentum = Mass × VelocityStep 1: Calculate the velocity of the body The graph shows a linear relationship between the position x and time t, which indicates that the body is moving with constant velocity. We can calculate the velocity by finding the slope of the line joining points A and B, as velocity is the rate of change of position (displacement per time).From the graph:Position at A: xA = 4 m Position at B: xB = 8 m Time at A : tA = 1 s Time at B: tB = 4 sThe velocity v is given by: v = (xB - xA) / (tB - tA)Substitute the values: v = (8 m - 4 m) / (4 s - 1 s) = 4 m / 3 s = 4/3 m/sStep 2: Calculate the momentum Now, we can calculate the momentum at position B using the formula for momentum: Momentum = Mass × Velocity Given the mass of the body is 6 kg and the velocity is 4/3 m/s, the momentum at position B is: Momentum = 6 kg × (4/3) m/s = 8 kg·m/s Thus, the momentum of the body at position B is 8 kg·m/s. Final Answer: (c) 8",
+    "year": "2024",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2024_P11_Q7-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The radius of gyration of a solid sphere of mass 5 kg about XY - axis is 5 m as shown in the figure. If the radius of the sphere is 5x/√ 7 m , then the value of x is: [2024]",
+    "options": {
+      "A": "5",
+      "B": "√2",
+      "C": "√3",
+      "D": "√5"
+    },
+    "answer": "d",
+    "explanation": "Explanation: We are given the radius of gyration k = 5 m for a solid sphere, and the mass M = 5 kg. We are also given the radius of the sphere in the form R = 5x/√7 m, and we need to find the value of x.Step 1: Moment of inertia and radius of gyration The moment of inertia I of a solid sphere about an axis passing through its center is given by the formula: I = (2/5)MR² The radius of gyration k is related to the moment of inertia by: I = Mk²Step 2: Calculate moment of inertia using k = 5 m Substitute the given value for k and M = 5 kg into the equation: I = 5 × 5² = 125 kg·m²Step 3: Moment of inertia of the sphere Now, use the formula for the moment of inertia of a solid sphere: I = (2/5) M R² Substitute the known values for I and M: 125 = (2/5) × 5 ×R² Simplify: 125 = 2 × R² Solve for R²: R² = 125 / 2 = 62.5 Thus, R = √62.5.Step 4: Relate the given radius expression to the calculated radius We are given the radius as R = 5x/√7. Equate this with R = √62.5: 5x/√7 = √62.5 Square both sides: (5x/√7)² = 62.5 Simplify: 25x² / 7 = 62.5 Multiply both sides by 7: 25x² = 437.5 Now, divide by 25: x² = 437.5 / 25 = 17.5 Thus, x = √17.5. Since 17.5 ≈ 5 × √5, we get: x = √5 Final Answer: (d) √5.",
+    "year": "2024",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2024_P11_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Let ω1 , ω2 and ω3 be the angular speeds of the second hand, minute hand, and hour hand of a smoothly running analog clock, respectively. If x1 , x2 and x3 are their respective angular distance in 1 minute 1 minute then the factor that remains constant (k) is",
+    "options": {
+      "A": "ω1/x1 = ω2/x2 = ω3/x3 = k",
+      "B": "ω1x1 = ω2x2 = ω3x3 = k",
+      "C": "ω1 x21 = ω2 x22 = ω3 x23 = k",
+      "D": "ω21 x1 = ω22 x2 = ω23 x3 = k"
+    },
+    "answer": "a",
+    "explanation": "Explanation: We are given the angular speeds (ω1, ω2, ω3) of the second hand, minute hand, and hour hand of a smoothly running analog clock, and the angular distances (x1, x2, x3) covered by the hands in one minute.Step 1: Understanding the problemThe angular speed is the rate at which an object moves through an angle.The angular distance is how much angle the hand covers in a given time.In one minute, the relation between angular speed and angular distance is:x1 = ω1 × 1 minutex2 = ω2 × 1 minutex3 = ω3 × 1 minuteStep 2: Relating angular speeds and angular distancesThe second hand completes 360 degrees (or 2π radians) in 60 seconds, so its angular speed (ω1) is: ω1 = 2π / 60 radians per secondThe minute hand completes 360 degrees in 3600 seconds (or 60 minutes), so its angular speed (ω2) is: ω2 = 2π / 3600 radians per secondThe hour hand completes 360 degrees in 43200 seconds (12 hours), so its angular speed (ω3) is: ω3 = 2π / 43200 radians per secondStep 3: Relationship between angular speed and angular distanceThe angular distances in one minute are:x1 = ω1 × 60 secondsx2 = ω2 × 60 secondsx3 = ω3 × 60 secondsStep 4: Factor that remains constant (k)The factor that remains constant is k, and it should be: ω1 / x1 = ω2 / x2 = ω3 / x3 = kThus, the correct answer is (a) ω1 / x1 = ω2 / x2 = ω3 / x3 = k.",
+    "year": "2024",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The ratio of radius of gyration of a solid sphere of mass M and radius R about its own axis to the radius of gyration of the thin hollow sphere of same mass and radius about its axis is [2023]",
+    "options": {
+      "A": "3 : 5",
+      "B": "5 : 3",
+      "C": "2 : 5",
+      "D": "5 : 2"
+    },
+    "answer": "",
+    "explanation": "Explanation:The moment of inertia II of a body about a given axis is related to the radius of gyration KK by the equation: Where:II= Moment of inertiaMM = Mass of the bodyKK = Radius of gyrationFor a solid sphere rotating about its own axis, the moment of inertia is given by: For a thin hollow sphere rotating about its own axis, the moment of inertia is given by: Now, we take the ratio of the radius of gyration of the solid sphere to the hollow sphere:",
+    "year": "2023",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2023_P11_Q10-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2023_P11_Q10-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2023_P11_Q10-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2023_P11_Q10-explanation4.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2023_P11_Q10-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The angular acceleration of a body, moving along the circumference of a circle, is : [2023]",
+    "options": {
+      "A": "along the radius towards the centre",
+      "B": "along the tangent to its position",
+      "C": "along the axis of rotation",
+      "D": "along the radius, away from centre"
+    },
+    "answer": "c",
+    "explanation": "along the axis of rotation Explanation:Angular acceleration refers to the rate of change of angular velocity of a body moving in a circular path. Angular acceleration is a vector quantity, and its direction depends on the direction of the change in angular velocity.When a body moves along the circumference of a circle, its angular acceleration is associated with the axis of rotation, which is perpendicular to the plane of motion.The direction of angular acceleration is the same as the direction of the change in angular velocity. For rotational motion, the axis of rotation determines the orientation of angular velocity and angular acceleration.",
+    "year": "2023",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2023_P11_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Two particles A and B initially at rest, move toward each other under the mutual force of attraction. At an instance when the speed of A is v and speed of B is 3v, the speed of the centre-of-mass will be: [2023]",
+    "options": {
+      "A": "2 v",
+      "B": "zero",
+      "C": "v",
+      "D": "4 v"
+    },
+    "answer": "b",
+    "explanation": "Explanation: ​We are given two particles, A and B, initially at rest, moving towards each other under their mutual force of attraction. At an instant, the speed of A is v, and the speed of B is 3v. We need to find the speed of the center of mass.Step 1: Definition of the center of mass speed The speed of the center of mass (vcm) for two particles is given by the formula: vcm = (mA vA + mB vB) / (mA + mB) Where:mA and mB are the masses of particles A and B, respectively,vA and vB are the velocities of particles A and B, respectively.Since the particles are moving toward each other, we take their velocities to be in opposite directions.Step 2: Applying the given informationAt the given instant, the speed of particle A is v, and the speed of particle B is 3v.Initially, both particles were at rest, so their initial momenta were zero.Since the total momentum of the system must be conserved, the total momentum of the system is zero at any point. Therefore, the center of mass should not be moving if the system is isolated and has no external forces acting on it.Step 3: Reasoning about the situationThe fact that both particles started at rest and are now moving towards each other under mutual attraction means that the total momentum of the system is zero.Because the total momentum of the system is zero, the center of mass does not have any velocity at that moment.Final Answer: (b) zero The speed of the center of mass is zero.",
+    "year": "2023",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "A constant torque of 100 N-m turns a wheel of moment of inertia 300 kg-m2 about an axis passing through its centre. Starting from rest, its angular velocity after 3 s is: [2023]",
+    "options": {
+      "A": "1 rad/s",
+      "B": "5 rad/s",
+      "C": "10 rad/s",
+      "D": "15 rad/s"
+    },
+    "answer": "a",
+    "explanation": "Explanation: ​We are given the following information:A constant torque (τ) of 100 N-m is applied to a wheel.The moment of inertia (I) of the wheel is 300 kg-m².The wheel starts from rest.We need to find the angular velocity (ω) of the wheel after 3 seconds.Step 1: Use the relation between torque and angular acceleration The relationship between torque (τ), moment of inertia (I), and angular acceleration (α) is given by: τ = I α Where:τ is the applied torque,I is the moment of inertia,α is the angular acceleration.Rearranging the equation to solve for angular acceleration: α = τ / I Substitute the given values: α = 100 N-m / 300 kg-m² = 1/3 rad/s²Step 2: Use the equation for angular velocity The angular velocity (ω) after a time t, starting from rest (initial angular velocity ω₀ = 0), is given by: ω = ω₀ + α t Since the wheel starts from rest, ω₀ = 0. Therefore: ω = α * t Substitute the values for α and t: ω = (1/3) × 3 = 1 rad/s Final Answer: (a) 1 rad/s",
+    "year": "2023",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "An energy of 484 J is spent in increasing the speed of a flywheel from 60 rpm to 360 rpm. The moment of inertia of the flywheel is",
+    "options": {
+      "A": "0.07 kg-m2",
+      "B": "0.7 kg-m2",
+      "C": "3.22 kg-m2",
+      "D": "30.8 kg-m2"
+    },
+    "answer": "b",
+    "explanation": "0.7 kg-m2 Explanation: Given:Energy spent E=484JE = 484 \\, \\text{J JInitial angular speed ω1 = 60 rpmFinal angular speed ω2 = 360rpm1. Convert the angular speeds to radians per second (rad/s): 2. The change in rotational kinetic energy is given by: 3. Substitute the known values into the equation:",
+    "year": "2022",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q14-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q14-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q14-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q14-explanation4.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q14-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "loose_lower_sequence",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The angular speed of a fly wheel moving with uniform angular acceleration changes from 1200 rpm to 3120 rpm in 16 seconds. The angular acceleration in rad/s2 is [2022]",
+    "options": {
+      "A": "2π",
+      "B": "4π",
+      "C": "12π",
+      "D": "104π"
+    },
+    "answer": "b",
+    "explanation": "4π Explanation:Given:Initial angular speed, ω1=1200 rpmFinal angular speed, ω2=3120 rpmTime interval, t=16 secondsConvert angular speeds to radians per second (rad/s): Angular acceleration α is given by the formula:",
+    "year": "2022",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q15-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q15-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Two objects of mass 10 kg and 20 kg respectively are connected to the two ends of a rigid rod of length 10 m with negligible mass. The distance of the center of mass of the system from the 10 kg mass is [2022]",
+    "options": {
+      "A": "20/3 m",
+      "B": "10 m",
+      "C": "5 m",
+      "D": "10/3 m"
+    },
+    "answer": "a",
+    "explanation": "20/3 m Explanation: Given:Mass of the first object, m1=10 kgMass of the second object, m2=20kgm_2 = 20 \\, \\text{kg} kgLength of the rod, L=10mL = 10 \\, \\text{m} mWe need to find the distance of the center of mass from the 10 kg mass.",
+    "year": "2022",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The ratio of the radius of gyration of a thin uniform disc about an axis passing through its center and normal to its plane to the radius of gyration of the disc about its diameter is [2022]",
+    "options": {
+      "A": "√2: 1",
+      "B": "4: 1",
+      "C": "1: √2",
+      "D": "2: 1"
+    },
+    "answer": "a",
+    "explanation": "√2: 1 Explanation:",
+    "year": "2022",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q17-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2022_P11_Q17-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "From a circular ring of mass 'M' and radius 'R' an arc corresponding to a 90° sector is removed. The moment of inertia of the remaining part of the ring about an axis passing through the centre of the ring and perpendicular to the plane of the ring is 'K' times 'MR2'. Then the value of 'K' is : [2021]",
+    "options": {
+      "A": "1/4",
+      "B": "1/8",
+      "C": "3/4",
+      "D": "7/8"
+    },
+    "answer": "c",
+    "explanation": "3/4 Explanation:The moment of inertia of a full circular ring about its center and perpendicular to the plane is: Since a 90° sector is removed, this represents 14\\frac{1}{4} of the total mass of the ring. The mass of the removed sector is: The moment of inertia of the removed sector is proportional to its mass, so: Now, The moment of inertia of the remaining part is given as K \\times M R^2K×MR2, so:",
+    "year": "2021",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2021_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2021_P11_Q18-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2021_P11_Q18-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2021_P11_Q18-explanation4.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2021_P11_Q18-explanation5.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2021_P11_Q18-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Find the torque about the origin when a force of acts on a particle whose position vector is [2020]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Explanation: Given:",
+    "year": "2020",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-main.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-main2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-main3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-main4.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-main5.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-main6.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q19-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Two particles of mass 5kg and 10 kg respectively are attached to the two ends of a rigid rod of length 1m with negligible mass. The centre of mass of the system from the 5kg particle is nearly at a distance of: [2020]",
+    "options": {
+      "A": "67 cm",
+      "B": "80 cm",
+      "C": "33 cm",
+      "D": "50 cm"
+    },
+    "answer": "a",
+    "explanation": "67 cm Explanation: Given:Mass of the first particle, m1=5kgMass of the second particle, m2=10kgLength of the rod, L=1m =100cmWe need to find the distance of the center of mass from the 5 kg particle.",
+    "year": "2020",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q20-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2020_P11_Q20-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "A solid cylinder of mass 2 kg and radius 4 cm is rotating about its axis at the rate of 3 rpm. The torque required to stop after 2π revolutions is [2019]",
+    "options": {
+      "A": "2 × 10-6 N m",
+      "B": "2 × 10-3 N m",
+      "C": "12 × 10-4 N m",
+      "D": "2 × 106 N m"
+    },
+    "answer": "a",
+    "explanation": "2 × 10-6 N m Explanation: According to the work-energy theorem, we have: where:W = work doneI = moment of inertiaωf = final angular velocityωi= initial angular velocityAngular Displacement: Moment of Inertia (for a solid cylinder): Initial Angular velocity: Rotational Kinetic Energy and Work Done: The rotational kinetic energy is equal to the work done by torque (ττ) over angular displacement (θθ): Substituting in Eqn 1, W=Iω22=τ×θ ⇒",
+    "year": "2019",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q21-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q21-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q21-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q21-explanation4.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q21-explanation5.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q21-explanation6.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q21-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Two particles A and B are moving in uniform circular motion in concentric circles of radii rA and rB with speed vA and vB respectively. Their time period of rotation is the same. The ratio of angular speed of A to that of B will be: [2019]",
+    "options": {
+      "A": "rA : rB",
+      "B": "vA : vB",
+      "C": "rB : rA",
+      "D": "1 : 1"
+    },
+    "answer": "d",
+    "explanation": "1 : 1 Explanation:",
+    "year": "2019",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "A disc of radius 2 m and mass 100 kg rolls on a horizontal floor. Its centre of mass has speed of 20 cm/s. How much work is needed to stop it? [2019]",
+    "options": {
+      "A": "1 J",
+      "B": "2 J",
+      "C": "3 J",
+      "D": "30 J"
+    },
+    "answer": "c",
+    "explanation": "3 J Explanation: Given:Radius of the disc, R=2 mMass of the disc, M=100 kgSpeed of the center of mass, vcm=20 cm/s = 0.2m/sWe need to find the work required to stop the disc.When the disc is rolling on a horizontal surface, it has both translational kinetic energy and rotational kinetic energy. For a solid disc, the moment of inertia about its axis is:",
+    "year": "2019",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q23-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q23-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2019_P11_Q23-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Three objects, A : (a solid sphere), B : (a thin circular disk) and C = (a circular ring), each have the same mass M and radius R. They all spin with the same angular speed ω about their own symmetry axes. The amounts of work (W) required to bring them to rest, would satisfy the relation:- [2018]",
+    "options": {
+      "A": "WC > WB > WA",
+      "B": "WA > WB > WC",
+      "C": "WB > WA > WC",
+      "D": "WB > WA > WC"
+    },
+    "answer": "a",
+    "explanation": "WC > WB > WA Explanation:",
+    "year": "2018",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q24-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q24-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "The moment of the force, at (2, 0, -3), about the point (2, -2, -2), is given by:- [2018]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Explanation:",
+    "year": "2018",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q25-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q25-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q25-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q25-explanation4.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q25-explanation5.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q25-explanation6.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q25-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "A solid sphere is in rolling motion. In rolling motion a body possesses translational kinetic energy (Kt) as well as rotational kinetic energy (Kr) simultaneously. The ratio Kt : (Kt + Kr) for the sphere is [2018]",
+    "options": {
+      "A": "7 : 10",
+      "B": "5 : 7",
+      "C": "10 : 7",
+      "D": "2 : 5"
+    },
+    "answer": "b",
+    "explanation": "5 : 7 Explanation: Given: I",
+    "year": "2018",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q26-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q26-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q26-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2018_P11_Q26-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "A rope is wound around a hollow cylinder of mass 3 kg and radius 40 cm. What is the angular acceleration of the cylinder if the rope is pulled with a force of 30 N ? [2017]",
+    "options": {
+      "A": "0.25 rad/s2",
+      "B": "25 rad/s2",
+      "C": "5 m/s2",
+      "D": "25 m/s2"
+    },
+    "answer": "b",
+    "explanation": "25 rad/s2 Explanation:Given:Mass of the hollow cylinder, kgM = 3 \\, \\text{kg}M =3 kgRadius of the cylinder, mR = 40 \\, \\text{cm} = 0.4 \\, \\text{m}R = 40 cm = 0.4 mForce applied on the rope, F = 30 NWe need to find the angular acceleration α of the cylinder. The moment of inertia I of a hollow cylinder about its axis is: The angular acceleration is related to torque and moment of inertia by the equation: \\alpha",
+    "year": "2017",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q27-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q27-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q27-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Two discs of same moment of inertia rotating about their regular axis passing through centre and perpendicular to the plane of disc with angular velocities ω1 and ω2. They are brought into contact face to face coinciding the axis of rotation. The expression for loss of energy during this process is:- [2017]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Explanation: The initial kinetic energy of the system (both discs) before being brought into contact is: When the two discs are brought into contact and rotate together, the total angular momentum is conserved. Therefore: After the discs are brought into contact, the final kinetic energy of the system is: The energy lost during the process is the difference between the initial and final kinetic energies:",
+    "year": "2017",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation4.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation5.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation6.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation7.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation8.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q28-explanation9.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Which of the following statements are correct ? [2017]",
+    "options": {
+      "A": "(a) and (b)",
+      "B": "(b) and (c)",
+      "C": "(c) and (d)",
+      "D": "(b) and (d)"
+    },
+    "answer": "d",
+    "explanation": "(b) and (d) Explanation: (a) Centre of mass of a body always coincides with the centre of gravity of the body:False: The center of mass and the center of gravity coincide only in a uniform gravitational field. In non-uniform fields, they may not coincide because the center of gravity depends on the distribution of gravitational forces.(b) Centre of mass of a body is the point at which the total gravitational torque on the body is zero:True: The center of mass is the point where all the mass of the body can be considered to be concentrated, and the total gravitational torque about this point is zero.(c) A couple on a body produces both translational and rotational motion in a body:False: A couple consists of two equal and opposite forces whose lines of action do not coincide. A couple produces only rotational motion without any translational motion, as the net force is zero but the net torque is not.(d) Mechanical advantage greater than one means that small effort can be used to lift a large load:True: Mechanical advantage (MA) is the ratio of load to effort. When MA is greater than 1, a small effort is sufficient to lift a large load, making it easier to perform the task.Conclusion:(b) is true because the center of mass is the point where the total gravitational torque is zero.(d) is true because mechanical advantage greater than 1 means a small effort can lift a large load.",
+    "year": "2017",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2017_P11_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "From a disc of radius R and mass M1 a circular hole of diameter R1 whose rim passes through the centre is cut. What is the moment of inertia of the remaining part of the disc about at perpendicular axis, passing through the centre ? [2016]",
+    "options": {
+      "A": "9MR2/32",
+      "B": "15MR2/32",
+      "C": "13MR2/32",
+      "D": "11 MR2/32"
+    },
+    "answer": "c",
+    "explanation": "13MR2/32 Explanation: Option C is correct Answer.",
+    "year": "2016",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q30-explanation1.jpg",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q30-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "A disk and a sphere of same radius but different masses roll off on two inclined planes of the same altitude and length. Which one of the two objects gets to the bottom of the plane first ? [2016]",
+    "options": {
+      "A": "Depends on their masses",
+      "B": "Disk",
+      "C": "Sphere",
+      "D": "both reach at the same time"
+    },
+    "answer": "c",
+    "explanation": "Sphere Explanation:",
+    "year": "2016",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q31-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "A uniform circular disc of radius 50 cm at rest is free to turn about an axis which is perpendicular to its plane and passes through its centre. It is subjected to a torque which produces a constant angular acceleration of 2.0 rad s-2. Its net acceleration in ms-2 at the end of 2.0 s is approximately : [2016]",
+    "options": {
+      "A": "3.0",
+      "B": "8.0",
+      "C": "7.0",
+      "D": "6.0"
+    },
+    "answer": "b",
+    "explanation": "8.0 Explanation: The angular speed of disc increases with time, and hence centripetal acceleration also increases.",
+    "year": "2016",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q32-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q32-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "A light rod of length l has two masses m1 and m2 attached to its two ends. The moment of inertia of the system about an axis perpendicular to the rod and passing through the centre of mass is [2016]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Explanation:",
+    "year": "2016",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q33-main.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q33-main2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q33-main3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q33-main4.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q33-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q33-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "A solid sphere of mass m and radius R is rotating about its diameter. A solid cylinder of same mass and same radius is also rotating about its geometrical axis with an angular speed twice that of the sphere. The ratio of their kinetic energies of rotation (Esphere / Ecylinder) will be [2016]",
+    "options": {
+      "A": "2 : 3",
+      "B": "1 : 5",
+      "C": "1 : 4",
+      "D": "3 : 1"
+    },
+    "answer": "b",
+    "explanation": "1 : 5 Explanation:",
+    "year": "2016",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2016_P11_Q34-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "Three identical spherical shells, each of mass m and radius r are placed as shown in figure. Consider an axis XX' which is touching to two shells and passing through diameter of third shell. Moment of inertia of the system consisting of these three spherical shells about XX' axis is : [2015]",
+    "options": {
+      "A": "4 mr2",
+      "B": "11/5 mr2",
+      "C": "3 mr2",
+      "D": "16/5 mr2"
+    },
+    "answer": "a",
+    "explanation": "4 mr2 Explanation: Similarly the moment of inertia of the spherical shell C about the XX' axis is",
+    "year": "2015",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q35-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q35-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q35-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q35-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "A rod of weight W is supported by two parallel knife edges A and B and is in equilibrium in a horizontal position. The knives are at a distance d from each other. The centre of mass of the rod is at distance x from A. The normal reaction on A is [2015]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Explanation: Given situation is shown in figure. N1 = Normal reaction on A N2 = Normal reaction on B W = Weight of the rod In vertical equilibrium, N1 + N2 = W ...(i) Torque balance about centre of mass of the rod, N1x = N2(d - x) Putting value of N2 from equation (i) N1x = (W - N1)(d - x) ⇒ N1x = Wd - Wx - N1d + N1x ⇒ N1d = W(d - x)",
+    "year": "2015",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q36-main.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q36-main2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q36-main3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q36-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q36-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q36-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q36-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Three identical spherical shells, each of mass m and radius r are placed as shown in figure. Consider an axis XX' which is touching to two shells and passing through diameter of third shell. Moment of inertia of the system consisting of these three spherical shells about XX' axis is [2015]",
+    "options": {
+      "A": "16/5mr2",
+      "B": "4mr2",
+      "C": "11/5mr2",
+      "D": "3mr2"
+    },
+    "answer": "b",
+    "explanation": "4mr2 Explanation: Net moment of inertia of the system, I = I1 + I2 + I3 The moment of inertia of a shell about its diameter,",
+    "year": "2015",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q37-main.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q37-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "An automobile moves on a road with a speed of 54 km h-1. The radius of its wheels is 0.45 m and the moment of inertia of the wheel about its axis of rotation is 3 kg m2. If the vehicle is brought to rest in 15 s, the magnitude of average torque transmitted by its brakes to the wheel is",
+    "options": {
+      "A": "10.86 kg m2 s-2",
+      "B": "2.86 kg m2 s-2",
+      "C": "6.66 kg m2 s-2",
+      "D": "8.58 kg m2 s-2"
+    },
+    "answer": "c",
+    "explanation": "6.66 kg m2 s-2 Explanation: Here, Speed of the automobile, Radius of the wheel of the automobile, R = 0.45 m Moment of inertia of the wheel about its axis of rotation, I = 3 kg m2 Time in which the vehicle brought to rest, t = 15 s The initial angular speed of the wheel is",
+    "year": "2015",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q38-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q38-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q38-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "A force is acting at a point . The value of αfor which angular momentum about origin is conserved is [2015]",
+    "options": {
+      "A": "Zero",
+      "B": "1",
+      "C": "1",
+      "D": "2"
+    },
+    "answer": "c",
+    "explanation": "-1 Explanation: From Newton's second law for rotational motion,",
+    "year": "2015",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q39-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q39-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2015_P11_Q39-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "A solid cylinder of mass 50 kg and radius 0.5 m is free to rotate about the horizontal axis. A massless string is wound round the cylinder with one end attached to it and other hanging freely. Tension in the string required to produce an angular acceleration of 2 revolutions s-2 is: [2014]",
+    "options": {
+      "A": "78.5 N",
+      "B": "157 N",
+      "C": "25 πN",
+      "D": "50 N"
+    },
+    "answer": "b",
+    "explanation": "157 N Explanation:",
+    "year": "2014",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2014_P11_Q40-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2014_P11_Q40-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "The ratio of the accelerations for a solid sphere (mass 'm' and radius 'R') rolling down an incline of angle 'θ' without slipping and slipping down the incline without rolling is : [2014]",
+    "options": {
+      "A": "2 : 5",
+      "B": "7 : 5",
+      "C": "5 : 7",
+      "D": "2 :3"
+    },
+    "answer": "c",
+    "explanation": "5 :7 Explanation:",
+    "year": "2014",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2014_P11_Q41-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2014_P11_Q41-explanation2.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2014_P11_Q41-explanation3.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2014_P11_Q41-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "A body of mass (4m) is lying in x-y plane at rest. It suddenly explodes into three pieces. Two pieces, each of mass (m) move perpendicular to each other with equal speeds (ν). The total kinetic energy generated due to explosion is : [2014]",
+    "options": {
+      "A": "2 mν2",
+      "B": "4 mν2",
+      "C": "mν2",
+      "D": "3/2 mν2"
+    },
+    "answer": "d",
+    "explanation": "3/2 mv2 Explanation:",
+    "year": "2014",
+    "chapter": "System of Particles and Rotational Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2014_P11_Q42-explanation1.png",
+      "PHYSICS/P11/chapters/system-of-particles-and-rotational-motion/SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION-2014_P11_Q42-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

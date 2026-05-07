@@ -2,7 +2,7 @@ const data = window.__DASHBOARD_DATA__ || {};
 
 const state = {
   activeTab: 'overview',
-  selectedChapterSlug: null,
+  selectedChapterKey: null,
   questionSearch: '',
   yearFilter: '',
   chapterFilter: '',
@@ -38,7 +38,7 @@ function getChapters() {
 
 function getSelectedChapter() {
   const chapters = getChapters();
-  return chapters.find((chapter) => chapter.slug === state.selectedChapterSlug) || chapters[0] || null;
+  return chapters.find((chapter) => chapter.key === state.selectedChapterKey) || chapters[0] || null;
 }
 
 function getFilteredChapters() {
@@ -95,14 +95,14 @@ function renderChapterList() {
     return;
   }
 
-  if (!chapters.some((chapter) => chapter.slug === state.selectedChapterSlug)) {
-    state.selectedChapterSlug = chapters[0].slug;
+  if (!chapters.some((chapter) => chapter.key === state.selectedChapterKey)) {
+    state.selectedChapterKey = chapters[0].key;
   }
 
   container.innerHTML = chapters
     .map((chapter) => {
       return `
-        <button class="chapter-button ${chapter.slug === state.selectedChapterSlug ? 'active' : ''}" data-chapter-slug="${chapter.slug}">
+        <button class="chapter-button ${chapter.key === state.selectedChapterKey ? 'active' : ''}" data-chapter-key="${chapter.key}">
           <div class="chapter-title">${chapter.title}</div>
           <div class="meta-row">
             ${riskBadge(chapter.risk)}
@@ -114,9 +114,9 @@ function renderChapterList() {
     })
     .join('');
 
-  container.querySelectorAll('[data-chapter-slug]').forEach((button) => {
+  container.querySelectorAll('[data-chapter-key]').forEach((button) => {
     button.addEventListener('click', () => {
-      state.selectedChapterSlug = button.dataset.chapterSlug;
+      state.selectedChapterKey = button.dataset.chapterKey;
       state.selectedQuestionId = null;
       renderExplorerFilters();
       renderChapterList();
@@ -447,7 +447,7 @@ function attachEvents() {
 
 function init() {
   const firstChapter = getChapters()[0];
-  state.selectedChapterSlug = firstChapter ? firstChapter.slug : null;
+  state.selectedChapterKey = firstChapter ? firstChapter.key : null;
   attachEvents();
   renderAll();
 }

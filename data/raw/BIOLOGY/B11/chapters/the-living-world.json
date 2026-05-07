@@ -1,0 +1,198 @@
+[
+  {
+    "id": "Q1",
+    "text": "'X' and 'Y' are the components of Binomial nomenclature. This naming system was proposed by 'Z'",
+    "options": {
+      "A": "X - Generic name, Y - Specific epithet, Z - Carolus Linnaeus",
+      "B": "X - Specific epithet, Y - Generic name, Z - R.H. Whittaker",
+      "C": "X - Specific epithet, Y - Generic name, Z - Carolus Linnaeus",
+      "D": "X - Generic name, Y - Specific epithet, Z - R.H. Whittaker"
+    },
+    "answer": "a",
+    "explanation": "In the binomial nomenclature system proposed by Carolus Linnaeus, 'X' is the generic name, and 'Y' is the specific epithet, which together uniquely identify a species.",
+    "year": "2023",
+    "chapter": "The Living World",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "House fly belongs to _______ family",
+    "options": {
+      "A": "Cyprinidae",
+      "B": "Hominidae",
+      "C": "Calliphoridae",
+      "D": "Muscidae"
+    },
+    "answer": "d",
+    "explanation": "The house fly belongs to the Muscidae family, which is characterized by flies typically associated with humans and human habitations.",
+    "year": "2023",
+    "chapter": "The Living World",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "In the taxonomic categories which hierarchical arrangement in ascending order is correct in the case of animals? [NEET 2022]",
+    "options": {
+      "A": "Kingdom, Class, Phylum, Family, Order, Genus, Species",
+      "B": "Kingdom, Order, Class, Phylum, Family, Genus, Species",
+      "C": "Kingdom, Order, Phylum, Class, Family, Genus, Species",
+      "D": "Kingdom, Phylum, Class, Order, Family, Genus, Species"
+    },
+    "answer": "d",
+    "explanation": "The correct answer is option d. (This is a question from the previous year's paper, None of the alternatives match the given criteria, hence the best possible answer is selected). The selected order shows a hierarchical arrangement of taxonomic categories of plants in descending order Concept: All organisms are classified into different ranks or categories. All the categories together form the taxonomic hierarchy. Each category or rank is called a taxon. The taxonomic hierarchy in ascending order is as follows: 1 Species All organisms having fundamental similarities belong to a species. Ex. Human beings belong to the species of sapiens. 2 Genus All species having similarities are grouped into genera. Ex. Human beings belong to the genus Homo. 3 Family It is a combination of related genera having similarities. Ex. family Felidae is a combination of the genus Panthera and the genus Felis. 4 Order It is an assembly of families with similar characteristic features. Ex. Order Carnivora includes families like Felidae and Canidae. 5 Class This comprises related orders. Ex. Class Mammalia has animals from Order Carnivora and Order Primata. 6 Phylum Different classes like amphibia, reptilia, and Mammalia come together to form a phylum. Ex. Phylum Chordata 7 Kingdom All organisms belonging to various phyla constitute a kingdom. Ex. Kingdom Animalia, Kingdom Plantae. So, the correct answer is option d.",
+    "year": "2022",
+    "chapter": "The Living World",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Which one of the following belongs to the family Muscidae? [NEET 2021]",
+    "options": {
+      "A": "Cockroach",
+      "B": "House fly",
+      "C": "Firefly",
+      "D": "Grasshopper"
+    },
+    "answer": "b",
+    "explanation": "Option (b) is correct because housefly belongs to the family Muscidae, class Insecta and phylum Arthropoda.Fire flies are placed in family Lampyridae of class Insecta.Grasshopper is also an insect placed in family Acrididae.Cockroach is also an insect placed in family Blattidae.",
+    "year": "2021",
+    "chapter": "The Living World",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Select the correctly written scientific name of Mango, which was first described by Carolus Linnaeus. [NEET 2019]",
+    "options": {
+      "A": "Mangifera Indica",
+      "B": "Mangifera Indica Car. Linn",
+      "C": "Mangifera indica Linn",
+      "D": "None"
+    },
+    "answer": "c",
+    "explanation": "According to Binomial Nomenclature, the first word denoting the genus starts with a capital letter while the specific epithet starts with a small letter Example: Scientific name of mango is Mangifera indica.The author's name appears after the specific epithet, i.e., at the end of the biological name, and is written in an abbreviated form. Example: Mangifera indica Linn. which indicates this species was first described by Linnaeus.",
+    "year": "2019",
+    "chapter": "The Living World",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/the-living-world/THE_LIVING_WORLD-2019_B11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Which of the following is against the rules of ICBN? [NEET 2019]",
+    "options": {
+      "A": "Handwritten scientific names should be underlined.",
+      "B": "Every species should have a generic name and a specific epithet.",
+      "C": "Scientific names are in Latin and should be italicized when printed.",
+      "D": "Generic and specific names should be written starting with small letters."
+    },
+    "answer": "d",
+    "explanation": "According to the international code for botanical nomenclature (ICBN), the first word denoting the genus starts with a capital letter while the specific epithet starts with a small letter. Option a,b and c are considered under the rules of ICBN.",
+    "year": "2019",
+    "chapter": "The Living World",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/the-living-world/THE_LIVING_WORLD-2019_B11_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Study the four statements (A - D) given below and select the two correct ones out of them",
+    "options": {
+      "A": "B and C",
+      "B": "C and D",
+      "C": "A and D",
+      "D": "A and B"
+    },
+    "answer": "c",
+    "explanation": "Photoperiod affects flowering and reproduction in plants. Binomial nomenclature system was given by Carolus Linnaeus.",
+    "year": "2016",
+    "chapter": "The Living World",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature? [NEET 2016]",
+    "options": {
+      "A": "Biological names can be written in any language.",
+      "B": "The first word in a biological name represents the genus name, and the second is a specific epithet.",
+      "C": "The names are written in Latin and are italicized when printed.",
+      "D": "When written by hand, the names are to be underlined."
+    },
+    "answer": "a",
+    "explanation": "Binomial nomenclature is a formal system of naming species of living things by giving each a name composed of two parts, both of which use Latin grammatical forms, although they can be based on words from other languages. window.addEventListener(\"blur\",()=>{setTimeout(()=>{if(document.activeElement.tagName===\"IFRAME\"){FirebaseEventsViaWeb.onVideoPlayInTextDoc();}});},{once:false});",
+    "year": "2016",
+    "chapter": "The Living World",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

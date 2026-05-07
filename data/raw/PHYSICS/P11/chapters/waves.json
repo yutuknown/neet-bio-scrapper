@@ -1,0 +1,657 @@
+[
+  {
+    "id": "Q1",
+    "text": "A pipe open at both ends has a fundamental frequency f in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental of the air column is now equal to",
+    "options": {
+      "A": "3f/2",
+      "B": "2f",
+      "C": "f/2",
+      "D": "f"
+    },
+    "answer": "d",
+    "explanation": "For a pipe of length L open at both ends, the fundamental frequency (f) in air is given by the equation: f = v/λ = (v / 2L) ⇒ λ =2L Now, when the pipe is dipped vertically in water and half of it is submerged, the length of the air column is halved. ⇒ L' = L/2 ⇒ λ' =4L' = 2L Hence, f' = v / λ' = v / 2L = f",
+    "year": "2025",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Given below are two statements: Assertion (A): A glass tube partially filled with water represents an open organ pipe. Reason (R): The open end corresponds to an antinode and the end in contact with water, to a node",
+    "options": {
+      "A": "Both (A) and (R) are True and (R) is the correct explanation of (A).",
+      "B": "Both (A) and (R) are True and (R) is not the correct explanation of (A).",
+      "C": "(A) is True but (R) is False.",
+      "D": "(A) is False but (R) is True."
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "The displacement of a traveling wave is given by y = C sin(2π / λ)(at - x) where t is time, x is distance, and λ is the wavelength, all in SI units. The frequency of the wave is",
+    "options": {
+      "A": "2πλ / a",
+      "B": "2πa / λ",
+      "C": "λ / a",
+      "D": "a / λ"
+    },
+    "answer": "d",
+    "explanation": "The given displacement of a traveling wave is: y = C sin( (2π / λ) (at - x) ) Here: C is the amplitude,t is time,x is distance,λ is the wavelength,a is a constant related to the velocity of the wave. The general form of a traveling wave is: y(x,t) = A sin(kx - ωt + φ) Where: k = 2π / λ is the wave number,ω = 2πf is the angular frequency,f is the frequency. From the equation, we can see that the wave is traveling with a velocity v = a. This velocity is related to the wavelength and frequency by: v = λf So, we can equate: a = λf Solving for f, the frequency: f = a / λ Correct Answer: (d) a / λ",
+    "year": "2024",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The ratio of frequencies of fundamental harmonic produced by an open pipe to that of closed pipe having the same length is [NEET 2023]",
+    "options": {
+      "A": "1 : 2",
+      "B": "2 : 1",
+      "C": "1 : 3",
+      "D": "3 : 1"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2023_P11_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The 4th overtone of a closed organ pipe is the same as that of the 3rd overtone of an open pipe. The ratio of the length of the closed pipe to the length of the open pipe is: [NEET 2023]",
+    "options": {
+      "A": "8 : 9",
+      "B": "9 : 7",
+      "C": "9 : 8",
+      "D": "7 : 9"
+    },
+    "answer": "c",
+    "explanation": "Harmonics in a closed organ pipe: For a closed organ pipe, the fundamental frequency is produced with a node at the closed end and an antinode at the open end. The harmonics are only odd-numbered (1st, 3rd, 5th, etc.). The 1st harmonic (fundamental) has the wavelength: λ₁ = 4L (where L is the length of the pipe).The 2nd harmonic is the 3rd overtone (and so on). Harmonics in an open organ pipe: For an open organ pipe, the fundamental frequency has antinodes at both ends. The harmonics are all integer multiples of the fundamental (1st, 2nd, 3rd, etc.). The 1st harmonic (fundamental) has the wavelength: λ₁ = 2L.The 2nd harmonic is the 1st overtone, the 3rd harmonic is the 2nd overtone, and so on. Given: The 4th overtone of the closed pipe corresponds to the 3rd overtone of the open pipe.In a closed pipe, the 4th overtone corresponds to the 9th harmonic (because only odd harmonics are present).In an open pipe, the 3rd overtone corresponds to the 4th harmonic. Now, let's use the fact that the frequency for both pipes should be the same for the given harmonics. For a closed pipe (where only odd harmonics are present): The 9th harmonic has a wavelength λ₉ = 4L/9. For an open pipe: The 4th harmonic has a wavelength λ₄ = 2L₁/4 = L₁/2. Since the frequency is the same for both pipes, we set the wavelengths equal to each other: λ₉ = λ₄ So, we have: 4L/9 = L₁/2 Solving for the ratio of the lengths: L/L₁ = 9/8 Correct Answer: (c) 9 : 8",
+    "year": "2023",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "If the initial tension on a stretched string is doubled, then the ratio of the initial and final speeds of a transverse wave along the string is [NEET 2022]",
+    "options": {
+      "A": "1:2",
+      "B": "1:1",
+      "C": "√2:1",
+      "D": "1:√2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2022_P11_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "An organ pipe filled with a gas at 27∘C resonates at 400 Hz in its fundamental mode. If it is filled with the same gas at 90∘C, the resonance frequency at the same mode will be [NEET 2022]",
+    "options": {
+      "A": "512 Hz",
+      "B": "480 Hz",
+      "C": "440 Hz",
+      "D": "484 Hz"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2022_P11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "In a guitar, two strings A and B made of same material are slightly out of tune and produce beats of frequency 6 Hz. When tension in B is slightly decreased, the beat frequency increases to 7 Hz. If the frequency of A is 530 Hz, the original frequency of B will be : [2020]",
+    "options": {
+      "A": "536 Hz",
+      "B": "537 Hz",
+      "C": "523 Hz",
+      "D": "524 Hz"
+    },
+    "answer": "d",
+    "explanation": "Frequency of A = fA = 530 Hz, fB = ? when Tension B ↓ then fB ↓, Beat Freq. ↑ to 7 so if fB = 524 then Beat ↑­ when fB ↓ So fB = 524 Hz",
+    "year": "2020",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2020_P11_Q8-explanation1.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2020_P11_Q8-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The phase difference between the displacement and acceleration of a particle in a simple harmonic motion is: [2020]",
+    "options": {
+      "A": "π/2 rad",
+      "B": "zero",
+      "C": "π rad",
+      "D": "3π/2 rad"
+    },
+    "answer": "c",
+    "explanation": "for SHM acceleration and displacement both must have opposite direction a = -ω2x ∴ phase diff. is π ∴ x = A sin (ωt), a = -Aω2sinωt",
+    "year": "2020",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "A tuning fork is used to produce resonance in a glass tube. The length of the air column in this tube can be adjusted by a variable piston. At room temperature of 27°C two successive resonances are produced at 20 cm and 73 cm column length. If the frequency of the tuning fork is 320 Hz, the velocity of sound in air at 27°C is:- [2018]",
+    "options": {
+      "A": "330 m/s",
+      "B": "339 m/s",
+      "C": "350 m/s",
+      "D": "300 m/s"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2018_P11_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The fundamental frequency in an open organ pipe is equal to the third harmonic of a closed organ pipe. If the length of the closed organ pipe is 20cm, the length of the open organ pipe is:- [2018]",
+    "options": {
+      "A": "13.3 cm",
+      "B": "8 cm",
+      "C": "12.5 cm",
+      "D": "16 cm"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2018",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2018_P11_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The two nearest harmonics of a tube closed at one end and open at other end are 220 Hz and 260 Hz. What is the fundamental frequency of the system? [2017]",
+    "options": {
+      "A": "20 Hz",
+      "B": "30 Hz",
+      "C": "40 Hz",
+      "D": "10 Hz"
+    },
+    "answer": "a",
+    "explanation": "Solution: Two successive frequencies of closed pipe",
+    "year": "2017",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2017_P11_Q12-explanation1.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2017_P11_Q12-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Two cars moving in opposite directions approach each other with speed of 22 m/s and 16.5 m/s respectively. The driver of the first car blows a horn having a a frequency 400 Hz. The frequency heard by the driver of the second car is [velocity of sound 340 m/s]:- [2017]",
+    "options": {
+      "A": "361 Hz",
+      "B": "411 Hz",
+      "C": "448 Hz",
+      "D": "350 Hz"
+    },
+    "answer": "c",
+    "explanation": "Solution:",
+    "year": "2017",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2017_P11_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "A siren emitting a sound of frequency 800 Hz moves away from an observer towards a cliff at a speed of 15 ms-1. Then, the frequency of sound that the observer hears in the echo reflected from the cliff is : (Take velocity of sound in air = 330 ms-1) [2016]",
+    "options": {
+      "A": "885Hz",
+      "B": "765 Hz",
+      "C": "800 Hz",
+      "D": "838 Hz"
+    },
+    "answer": "d",
+    "explanation": "Solution: Since the observer and the wall are stationary so frequency of echo observed by the observer will also be 838 Hz.",
+    "year": "2016",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q14-explanation1.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q14-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "An air column, closed at one end and open at the other, resonantes with a tuning fork when the smallest length of the column is 50 cm. The next larger length of the column resonating with the same tuning fork is: [2016]",
+    "options": {
+      "A": "200 cm",
+      "B": "66.7 cm",
+      "C": "100 cm",
+      "D": "150 cm"
+    },
+    "answer": "d",
+    "explanation": "Solution: The smallest length of the air column is associated with the fundamental mode of vibration of the air column. The next higher length of the air column is,",
+    "year": "2016",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q15-explanation1.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q15-explanation2.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q15-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "A uniform rope of length L and mass m1 hangs vertically from a rigid support. A block of mass m2 is attached to the free end of the rope. A transverse pulse of wavelength λ1 is produced at the lower end of the rope. The wavelength of the pulse when it reaches the top of the rope is λ2. The ratio λ1/λ2 is : [2016]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Solution:",
+    "year": "2016",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q16-explanation1.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q16-explanation2.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q16-explanation3.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q16-explanation4.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q16-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The second overtone of an open organ pipe has the same frequency as the first overtone of a closed pipe L metre long. The length of the open pipe will be [2016]",
+    "options": {
+      "A": "L",
+      "B": "2L",
+      "C": "L/2",
+      "D": "4L"
+    },
+    "answer": "b",
+    "explanation": "Second overtone of an open organ pipe",
+    "year": "2016",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2016_P11_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Three sound waves of equal amplitudes have frequencies (n - 1), n, (n + 1). They superimpose to give beats. The number of beats produced per second will be [2016]",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer": "d",
+    "explanation": "(n - 1) and (n + 1) suppose to form frequency n n and n will be at resonance n - 1 and n produce 1 beat n + 1 and n produce 1 beat ∴ Number of beats formed are '2'",
+    "year": "2016",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "The fundamental frequency of a closed organ pipe of length 20 cm is equal to the second overtone of an organ pipe open at both the ends. The length of organ pipe open at both the ends is: [2015]",
+    "options": {
+      "A": "140 cm",
+      "B": "80 cm",
+      "C": "100 cm",
+      "D": "120 cm"
+    },
+    "answer": "d",
+    "explanation": "Solution: For closed organ pipe fundamental frequency For open organ pipe fundamental frequency",
+    "year": "2015",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2015_P11_Q19-explanation1.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2015_P11_Q19-explanation2.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2015_P11_Q19-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "A string is stretched between fixed points separated by 75.0 cm. It is observed to have resonant frequencies of 420 Hz and 315 Hz. There are no other resonant frequencies between these two. The lowest resonant frequency for this string is [2015]",
+    "options": {
+      "A": "10.5 Hz",
+      "B": "105 Hz",
+      "C": "155 Hz",
+      "D": "205 Hz"
+    },
+    "answer": "b",
+    "explanation": "In a stretched string all multiples of frequencies can be obtained i.e., if fundamental frequency is n then higher frequencies will be 2n, 3n, 4n So, the difference between any two successive frequencies will be 'n' According to question, n = 420 - 315 = 105Hz So the lowest frequency of the string is 105 Hz.",
+    "year": "2015",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2015_P11_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "4.0 g of a gas occupies 22.4 litres at NTP. The specific heat capacity of the gas at constant volume is 5.0 J K-1 mol-1. If the speed of sound in this gas at NTP is 952 m s-1, then the heat capacity at constant pressure is [2015] (Take gas constant R = 8.3 J K-1 mol-1)",
+    "options": {
+      "A": "7.0 J K-1 mol-1",
+      "B": "8.5 J K-1 mol-1",
+      "C": "8.0 J K-1 mol-1",
+      "D": "7.5 J K-1 mol-1"
+    },
+    "answer": "c",
+    "explanation": "Molar mass of the gas = 4g/mol Speed of sound",
+    "year": "2015",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2015_P11_Q21-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "A source of sound S emitting waves of frequency 100 Hz and an observer O are located at some distance from each other. The source is moving with a speed of 19.4 m s-1 at an angle of 60o with the source observer line as shown in the figure. The observer is at rest. The apparent frequency observed by the observer (velocity of sound in air 330 m s-1), is",
+    "options": {
+      "A": "106 Hz",
+      "B": "97 Hz",
+      "C": "100 Hz",
+      "D": "103 Hz"
+    },
+    "answer": "d",
+    "explanation": "Here, original frequency of sound, f0 = 100 Hz Speed of source Vs = 19.4 cos 60° = 9.7 From Doppler's formula",
+    "year": "2015",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2015_P11_Q22-explanation1.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2015_P11_Q22-explanation2.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2015_P11_Q22-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "If n1, n2, and n3 are the fundamental frequencies of three segments into which a string is divided, then the original fundamental frequency n of the string is given by: [2014]",
+    "options": {
+      "A": "[diagram]",
+      "B": "n = n1 + n2 + n3",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Solution:",
+    "year": "2014",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2014_P11_Q23-explanation1.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2014_P11_Q23-explanation2.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2014_P11_Q23-explanation3.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2014_P11_Q23-explanation4.png",
+      "PHYSICS/P11/chapters/waves/WAVES-2014_P11_Q23-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "The number of possible natural oscillations of air column in a pipe closed at one end of length 85 cm whose frequencies lie below 1250 Hz are : (velocity of sound = 340 ms-1) [2014]",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2014",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2014_P11_Q24-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "A speeding motorcyclist sees traffic jam ahead of him. He slows down to 36 km/hour. He finds that traffic has eased and a car moving ahead of him at 18 km/hour is honking at a frequency of 1392 Hz. If the speed of sound is 343 m/s, the frequency of the honk as heard by him will be: [2014]",
+    "options": {
+      "A": "1412 Hz",
+      "B": "1454 Hz",
+      "C": "1332 Hz",
+      "D": "1372 Hz"
+    },
+    "answer": "a",
+    "explanation": "Solution: There is no Question for NEET 2021",
+    "year": "2014",
+    "chapter": "Waves",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/waves/WAVES-2014_P11_Q25-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

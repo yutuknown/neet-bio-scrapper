@@ -1,0 +1,702 @@
+[
+  {
+    "id": "Q1",
+    "text": "Cardiac activities of the heart are regulated by: A. Nodal tissue B. A special neural centre in the medulla oblongata C. Adrenal medullary hormones D. Adrenal cortical hormones",
+    "options": {
+      "A": "A, C and D only",
+      "B": "A, B and D only",
+      "C": "A, B and C only",
+      "D": "A, B, C and D"
+    },
+    "answer": "c",
+    "explanation": "A. Nodal tissue: The heart has specialized nodal tissues, such as the sinoatrial (SA) node and atrioventricular (AV) node, which generate and conduct electrical impulses. The SA node is known as the natural pacemaker of the heart, initiating rhythmic contractions. This is a critical intrinsic mechanism for regulating heart activity.B. A special neural center in the medulla oblongata: The medulla oblongata in the brainstem contains the cardiovascular center that regulates heart rate and blood pressure. This center has two components: the cardiac accelerator center (sympathetic stimulation increases heart rate) and the cardiac inhibitory center (parasympathetic stimulation decreases heart rate). This represents the extrinsic neural regulation of the heart.C. Adrenal medullary hormones: Hormones such as adrenaline and noradrenaline secreted by the adrenal medulla play a vital role in increasing heart rate and the force of cardiac contractions during stress or emergencies, part of the \"fight or flight\" response.D. Adrenal cortical hormones: These hormones, such as cortisol and aldosterone, are involved in long-term stress responses and electrolyte balance, but they do not play a direct role in the immediate regulation of cardiac activities. Therefore, this option is incorrect.",
+    "year": "2025",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Following are the stages of pathway for conduction of an action potential through the heart A. AV bundle B. Purkinje fibres C. AV node D. Bundle branches E. SA node Choose the correct sequence of pathway from the options given below",
+    "options": {
+      "A": "E-C-A-D-B",
+      "B": "A-E-C-B-D",
+      "C": "B-D-E-C-A",
+      "D": "E-A-D-B-C"
+    },
+    "answer": "a",
+    "explanation": "The electrical pathway for the conduction of an action potential through the heart is a precisely coordinated process, essential for maintaining the heart's rhythmic beating. To understand this conduction pathway, it's important to know the roles of the specific components involved:SA node (Sinoatrial node): Often referred to as the pacemaker of the heart. It initiates the electrical impulse, causing the atria to contract. AV node (Atrioventricular node): Receives the impulse from the SA node and provides a slight delay, allowing the ventricles time to fill with blood before they contract. AV bundle (Bundle of His): Transfers the electrical impulse from the AV node to the bundle branches. Bundle branches: Conducts the impulses through the interventricular septum. Purkinje fibers: Distribute the electrical impulse throughout the ventricles, stimulating them to contract uniformly and powerfully.The correct sequence for the pathway of an action potential through the heart follows a route designed to efficiently coordinate the heartbeat starting from the initiation of the action potential to the consequential contraction of the heart muscles. The sequence is:SA node (E): The pacemaker where the electrical activity originates. AV node (C): Where the impulse is delayed slightly. AV bundle (A): Conducts the impulse from the AV node to the bundle branches. Bundle branches (D): Leads the impulse to the Purkinje fibers. Purkinje fibers (B): Distributes the impulse throughout the ventricles.",
+    "year": "2024",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-III, B-II, C-IV, D-I",
+      "B": "A-II, B-III, C-I, D-IV",
+      "C": "A-IV, B-II, C-I, D-III",
+      "D": "A-I, B-III, C-IV, D-II"
+    },
+    "answer": "a",
+    "explanation": "P wave represents depolarisation of atria.QRS complex represents depolarisation of ventricles.T wave represents repolarisation of ventricles.T-P gap represents the time when heart muscles are electrically silent.",
+    "year": "2024",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2024_B11_Q3-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "In standard ECG diagram, the P-wave represents",
+    "options": {
+      "A": "Depolarisation of the atria",
+      "B": "Repolarisation of the ventricle",
+      "C": "Depolarisation of the ventricle",
+      "D": "End of systole"
+    },
+    "answer": "a",
+    "explanation": "The P-wave in the ECG represents the electrical activity associated with depolarisation of the atria.",
+    "year": "2024",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-IV, C-II, D-I",
+      "B": "A-II, B-I, C-IV, D-III",
+      "C": "A-III, B-IV, C-I, D-II",
+      "D": "A-I, B-IV, C-II, D-III"
+    },
+    "answer": "d",
+    "explanation": "Tricuspid valves guard the opening between right atrium and right ventricle.Sino-atrial node is the cardiac musculature in the right upper corner of the right atrium.Mitral valves guard the opening between the left atrium and left ventricle.Semilunar valves guard the opening of the ventricles into the pulmonary artery and aorta.",
+    "year": "2024",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2024_B11_Q5-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "'Lub' sound of heart is caused by the ___________",
+    "options": {
+      "A": "Closure of the semilunar valves",
+      "B": "Opening of tricuspid and bicuspid valves",
+      "C": "Opening of the semilunar valves",
+      "D": "Closure of the tricuspid and bicuspid valves"
+    },
+    "answer": "d",
+    "explanation": "The 'Lub' sound occurs due to the closure of the tricuspid and bicuspid (mitral) valves during the start of systole, preventing backflow of blood into the atria.",
+    "year": "2024",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-III, B-I, C-IV, D-II",
+      "B": "A-IV, B-III, C-II, D-I",
+      "C": "(d) A-II, B-IV, C-I, D-III",
+      "D": "A-I, B-II, C-III, D-IV"
+    },
+    "answer": "a",
+    "explanation": "P-wave: Depolarisation of atriaQ-wave: Beginning of systoleQRS complex: Depolarisation of ventriclesT-wave: Repolarisation of ventricles",
+    "year": "2023",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2023_B11_Q7-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Which of the following are correct? A. Basophils are the most abundant cells of the total WBCs B. Basophils secrete histamine, serotonin and heparin C. Basophils are involved in inflammatory response D. Basophils have kidney shaped nucleus E. Basophils are agranulocytes",
+    "options": {
+      "A": "D and E only",
+      "B": "C and E only",
+      "C": "B and C only",
+      "D": "A and B only"
+    },
+    "answer": "c",
+    "explanation": "The correct answer is Option C : B and C only.Statement A is incorrect. Basophils are actually the least abundant cells of the total white blood cells (WBCs), not the most abundant.Statement B is correct. Basophils do secrete histamine, serotonin, and heparin. Histamine and serotonin are involved in inflammatory response, while heparin is an anticoagulant.Statement C is also correct. Basophils are involved in the inflammatory response. They release chemicals such as histamine and serotonin that dilate blood vessels and attract other white blood cells to the site of inflammation.Statement D is incorrect. Basophils do not have a kidney-shaped nucleus. That description is more appropriate for monocytes, another type of white blood cell.Statement E is incorrect. Basophils are not agranulocytes. They are granulocytes, a category of white blood cells characterized by the presence of granules in their cytoplasm. Agranulocytes, which lack visible cytoplasmic granules, include lymphocytes and monocytes.",
+    "year": "2023",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-IV, B-I, C-II, D-III",
+      "B": "A-IV, B-I, C-III, D-II",
+      "C": "A-II, B-III, C-IV, D-I",
+      "D": "A-II, B-III, C-I, D-IV"
+    },
+    "answer": "c",
+    "explanation": "Neutrophils are the most abundant, around 60-65%.Monocytes make up about 6-8%.Lymphocytes make up about 20-25%.Eosinophils make up about 2-3%.",
+    "year": "2023",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2023_B11_Q9-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Given below are two statements: Statement I: The coagulum is formed of network of threads called thrombins. Statement II: Spleen is the graveyard of erythrocytes",
+    "options": {
+      "A": "Both statement I and statement II are incorrect",
+      "B": "Statement I is correct but statement II is incorrect",
+      "C": "Statement I is incorrect but statement II is",
+      "D": "Both statement I and statement II are"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the correct answer because coagulum or clot is formed mainly of a network of threads called fibrins. Hence, Statement I is incorrect.RBCs are destroyed in the spleen so spleen is known as the graveyard of erythrocytes. Hence, Statement II is correct.",
+    "year": "2022",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Which one of the following statements is correct?",
+    "options": {
+      "A": "The tricuspid and the bicuspid valves open due to the pressure exerted by the simultaneous contraction of the atria",
+      "B": "Blood moves freely from atrium to the ventricle during joint diastole",
+      "C": "Increased ventricular pressure causes closing of the semilunar valves",
+      "D": "The atrio-ventricular node (AVN) generates an action potential to stimulate atrial contraction"
+    },
+    "answer": "b",
+    "explanation": "Option (a) is incorrect because bicuspid and tricuspid valves open due to pressure exerted by blood present in atria and decrease in pressure in ventricles during ventricular diastole.Option (b) is the correct answer because during joint diastole, blood moves freely from atrium to ventricle as atrioventricular valve remain open during joint diastole.Option (c) is incorrect because decrease in ventricular pressure, during ventricular diastole closes semilunar valves to produce 'dub' heart sound.Option (d) is incorrect because SA node generates action potential to stimulate atrial contraction.",
+    "year": "2022",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A unique vascular connection between the digestive tract and liver is called______",
+    "options": {
+      "A": "Hepato-cystic system",
+      "B": "Hepato-pancreatic system",
+      "C": "Hepatic portal system",
+      "D": "Renal portal system"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the correct answer because hepatic portal system is a unique vascular connection between digestive tract and liver.Option (a) is not correct because hepato-cystic system is part of biliary pathway where common hepatic duct joins cystic duct of gall bladder.Option (b) is incorrect because hepato-pancreatic system is a part of biliary pathway where common bile duct fuses with pancreatic duct.Option (d) is incorrect because renal portal system is a unique vascular connection between lower parts of the body and kidney.",
+    "year": "2022",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Arrange the following formed elements in the decreasing order of their abundance in blood in humans: (a) Platelets (b) Neutrophils (c) Erythrocytes (d) Eosinophils (e) Monocytes",
+    "options": {
+      "A": "(a), (c), (b), (d), (e)",
+      "B": "(c), (a), (b), (e), (d)",
+      "C": "(c), (b), (a), (e), (d)",
+      "D": "(d), (e), (b), (a), (c)"
+    },
+    "answer": "b",
+    "explanation": "Option (b) is the correct answer as a healthy adult man has, on an average, 5 millions to 5.5 millions of RBCs (erythrocytes) mm-3 of blood. Blood normally contains 1,50,000 - 3,50,000 platelets mm-3. Neutrophils form 60-65 percent of the total WBCs, monocytes form 6-8 percent of the total WBCs and eosinophils form 2-3 percent of the total WBCs. The total WBCs are approximately 6000-8000 mm-3 of blood. Thus, the formed elements in the decreasing order of their abundance in blood in humans: - Erythrocytes - Platelets - Neutrophils - Monocytes - Eosinophils",
+    "year": "2022",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Persons with 'AB' blood group are called as \"Universal recipients\". This is due to",
+    "options": {
+      "A": "Presence of antibodies, anti-A and anti-B, on RBCs",
+      "B": "Absence of antibodies, anti-A and anti-B, in plasma",
+      "C": "Absence of antigens A and B on the surface of RBCs",
+      "D": "Absence of antigens A and B in plasma"
+    },
+    "answer": "b",
+    "explanation": "Individuals with the AB blood group have both A and B antigens on the surface of their red blood cells (RBCs). Since they do not have anti-A and anti-B antibodies in their plasma, they can receive blood from any blood group (A, B, AB, or O) without experiencing an immune reaction. Hence, they are referred to as \"universal recipients.",
+    "year": "2021",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Which enzyme is responsible for the conversion of inactive fibrinogens to fibrins?",
+    "options": {
+      "A": "Epinephrine",
+      "B": "Thrombokinase",
+      "C": "Thrombin",
+      "D": "Renin"
+    },
+    "answer": "c",
+    "explanation": "During coagulation of blood, an enzyme complex thrombokinase helps in the conversion of prothrombin (present in plasma) into thrombin.Thrombin further helps in the conversion of inactive fibrinogens into fibrins which form network of threads.Renin is secreted by JG cells in response to fall in glomerular blood flow, which converts angiotensinogen in blood to angiotensin-IEpinephrine or adrenaline is secreted by adrenal medulla in response to stress of any kind and during emergency.",
+    "year": "2021",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The QRS complex in a standard ECG represents",
+    "options": {
+      "A": "Depolarisation of ventricles",
+      "B": "Repolarisation of ventricles",
+      "C": "Repolarisation of auricles",
+      "D": "Depolarisation of auricles"
+    },
+    "answer": "a",
+    "explanation": "The QRS complex represents the depolarisation of the ventricles, which initiates the ventricular contraction. The contraction starts shortly after Q and marks the beginning of the systole.",
+    "year": "2020",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Match the following columns and select the correct option",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "c",
+    "explanation": "Eosinophils are associated with allergic reactions and release histaminase, Basophils secrete histamine, serotonin, heparin etc. and are involved in inflammatory reactions, Neutrophils are phagocytic cells; Both B and T lymphocytes are responsible for immune responses of the body.",
+    "year": "2020",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2020_B11_Q17-main.png",
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2020_B11_Q17-main2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q18",
+    "text": "Match the Column - I with Column - II. Select the correct option",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "b",
+    "explanation": "P wave represent atrial depolarization. QRS complex '' ventricular ''. T - wave '' repolarisation of ventricles. Reduction in the size of T-wave indicates coronary ischemia.",
+    "year": "2019",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2019_B11_Q18-main.png",
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2019_B11_Q18-main2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q19",
+    "text": "What would be the heart rate of a person if the cardiac output is 5 L, blood volume in the ventricles at the end of diastole is 100 mL and at the end of the ventricular systole is 50 mL?",
+    "options": {
+      "A": "125 beats per minute",
+      "B": "50 beats per minute",
+      "C": "75 beats per minute",
+      "D": "100 beats per minute"
+    },
+    "answer": "d",
+    "explanation": "Cardiac output = Stroke volume × Heart rate Where stroke volume = End diastolic volume - End systolic volume = 100 ml - 50 ml = 50 ml ∴ 5000 mL = 50 mL × Heart rate ⇒ Heart rate = 5000 / 50 = 100 beats per minute.",
+    "year": "2019",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Match the items given in Column I with those in Column II and select the correct option given below",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "a",
+    "explanation": "The opening between the right atrium and the right ventricle is guarded by a valve formed of three muscular flaps or cusps, the tricuspid valve, whereas a bicuspid or mitral valve guards the opening between the left atrium and the left ventricle.",
+    "year": "2018",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2018_B11_Q20-main.png",
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2018_B11_Q20-main2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q21",
+    "text": "Match the items given in column I with those in column II and select the correct option given below",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "d",
+    "explanation": "Fibrinogen is a protein present in the plasma of the blood. It plays an essential role in blood clotting.Antibodies are derived from γ-Globulin fraction of plasma proteins which means globulins are involved in defence mechanisms.Albumin is a plasma protein mainly responsible for Blood Colloidal Osmotic Pressure (BCOP).",
+    "year": "2018",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2018_B11_Q21-main.png",
+      "BIOLOGY/B11/chapters/body-fluids-and-circulation/BODY_FLUIDS_AND_CIRCULATION-2018_B11_Q21-main2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q22",
+    "text": "Adult human RBCs are enucleated. Which of the following statement(s) is/are most appropriate explanation for this feature? (1) They do not need to reproduce. (2) They are somatic cells. (3) They do not metabolise. (4) All their internal space is available for oxygen transport",
+    "options": {
+      "A": "Only (1)",
+      "B": "(1), (3) and (4)",
+      "C": "(2) and (3)",
+      "D": "Only (4)"
+    },
+    "answer": "d",
+    "explanation": "Red blood cells of adult humans do not have cell organelles including nucleus, Golgi bodies, mitochondria, ribosomes, etc. It increases the surface area of RBCs and enables them to contain more haemoglobin (the oxygen carrying pigment).",
+    "year": "2017",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The hepatic portal vein drains blood to liver from",
+    "options": {
+      "A": "Stomach",
+      "B": "Kidneys",
+      "C": "Intestine",
+      "D": "Heart."
+    },
+    "answer": "c",
+    "explanation": "In hepatic portal system, hepatic portal vein drains blood to liver from intestine.",
+    "year": "2017",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Name the blood cells, whose reduction in number can cause clotting disorder, leading to excessive loss of blood from the body",
+    "options": {
+      "A": "Erythrocytes",
+      "B": "Leucocytes",
+      "C": "Neutrophils",
+      "D": "Thrombocytes"
+    },
+    "answer": "d",
+    "explanation": "Thrombocytes are called blood platelets. They are minute disc-shaped cell fragments in mammalian blood. They are formed as fragments of larger cells found in red bone marrow; they have no nucleus. They play an important role in blood clotting and release thromboxane A2 , serotonin and other chemicals, which cause a chain of events leading to the formation of a plug at the site of the damage, thus preventing further blood loss. A reduction in their number can lead to clotting factors which will lead to excessive loss of blood from the body.",
+    "year": "2016",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Serum differs from blood in",
+    "options": {
+      "A": "Lacking globulins",
+      "B": "Lacking albumins",
+      "C": "Lacking clotting factors",
+      "D": "Lacking antibodies."
+    },
+    "answer": "c",
+    "explanation": "Serum is the fluid that separates from blood plasma on centrifugation. Serum is essentially similar in composition to plasma but lacks fibrinogen and other substances that are used in the coagulation process.",
+    "year": "2016",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "In mammals, which blood vessel would normally carry largest amount of urea?",
+    "options": {
+      "A": "Hepatic Vein",
+      "B": "Hepatic Portal Vein",
+      "C": "Renal Vein",
+      "D": "Dorsal Aorta"
+    },
+    "answer": "a",
+    "explanation": "Hepatic Vein, because the liver produces urea and other waste materials and then it pours it all in the right atrium of the heart for oxygenation. The heart distributes the blood to various parts of the body from here. So the impure blood brought by the Hepatic Vein and other blood vessels get distributed through the aorta. This will automatically imply that the Renal Artery will contain lesser impure blood than the Hepatic Vein.",
+    "year": "2016",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Blood pressure in the pulmonary artery is",
+    "options": {
+      "A": "Same as that in the aorta.",
+      "B": "More than that in the carotid.",
+      "C": "More than that in the pulmonary vein.",
+      "D": "Less than that in the venae cavae"
+    },
+    "answer": "c",
+    "explanation": "Arteries have higher blood pressure than vein because blood is forced inside them from heart and also their lumen is narrow.",
+    "year": "2016",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Which one of the following is correct? (2015)",
+    "options": {
+      "A": "Serum = Blood + Fibrinogen",
+      "B": "Lymph = Plasma + RBC + WBC",
+      "C": "Blood = Plasma + RBC + WBC",
+      "D": "Plasma = Blood - Lymphocytes"
+    },
+    "answer": "c",
+    "explanation": "Blood is a connective tissue that is composed of plasma, red blood cells (erythrocytes), white blood cells (leukocytes), and platelets (thrombocytes). Plasma is the liquid component of blood that makes up about 55% of the total blood volume. It is composed of water, proteins, salts, hormones, and other substances. Red blood cells carry oxygen to the tissues and remove carbon dioxide, while white blood cells are responsible for immune responses and fighting infections.Serum is the liquid component of blood that remains after the blood has clotted and the clotting factors (including fibrinogen) have been removed. Hence, option (a) is incorrect.Lymph is a fluid that is similar in composition to plasma but contains a lower concentration of proteins. It is formed from the interstitial fluid that bathes the body tissues and returns to the bloodstream through lymphatic vessels. Hence, option (b) is incorrect.Option (d) is also incorrect as plasma cannot be obtained from the subtraction of lymphocytes from blood.",
+    "year": "2016",
+    "chapter": "Body Fluids and Circulation",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

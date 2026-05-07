@@ -1,0 +1,711 @@
+[
+  {
+    "id": "Q1",
+    "text": "Each of the following characteristics represent a Kingdom proposed by Whittaker. Arrange the following in increasing order of complexity of body organization",
+    "options": {
+      "A": "Multicellular heterotrophs with cell wall made of chitin.",
+      "B": "Heterotrophs with tissue/organ/organ system level of body organization.",
+      "C": "Prokaryotes with cell wall made of polysaccharides and amino acids.",
+      "D": "Eukaryotic autotrophs with tissue/organ level of body organization."
+    },
+    "answer": "d",
+    "explanation": "Ans: from the options given below: (a) A, C, E, D, B (b) C, E, A, B, D (c) A, C, E, B, D (d) C, E, A, D, BAns: (d) Whittaker proposed five kingdoms based on cellular structure and body organization. The correct increasing order of complexity is:C: Kingdom Monera (Prokaryotes; simplest)E: Kingdom Protista (Unicellular eukaryotes)A: Kingdom Fungi (Multicellular without true tissues)D: Kingdom Plantae (Tissues and organs)B: Kingdom Animalia (Tissues, organs, and organ systems) Thus, the increasing order of complexity is: C, E, A, D, B.",
+    "year": "2025",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Which one of the following is not a criterion for classification of fungi?",
+    "options": {
+      "A": "Morphology of mycelium",
+      "B": "Mode of nutrition",
+      "C": "Mode of spore formation",
+      "D": "Fruiting body"
+    },
+    "answer": "",
+    "explanation": "The classification of fungi is based on various criteria that broadly include morphology, genetics, and physiological features. Each of the provided options, except one, is a valid criterion for the classification of fungi: Morphology of mycelium: Fungi can have different types of mycelium, which refers to their vegetative structure. Fungi can be classified based on whether they have septate (with cross-walls) or coenocytic (without cross-walls) mycelium. This morphological characteristic is crucial for classification.Mode of spore formation: Spore formation in fungi is a key reproductive strategy and varies significantly among different groups. Spores can be produced sexually or asexually, and the structures involved in spore production are critical for classification. Fungi are often categorized based on whether they form spores inside a sac (ascospores) or on basidia (basidiospores), among others.Fruiting body: The presence and type of fruiting body (such as mushrooms, toadstools, puffballs, etc.) are used in fungi classification. These structures are involved in the production of spores and can be quite distinctive among different fungi groups. However, the option that is not a criterion for the classification of fungi is: Mode of nutrition: While fungi are heterotrophic (meaning they obtain their food by absorbing dissolved molecules, typically from decomposing material), this characteristic is generally true across all fungi. They can be saprophytic (decomposers), parasitic (feeding on living organisms), or mutualistic (engaging in mutually beneficial relationships). Despite these differences in their ecological roles or interactions, the mode of nutrition is not typically used as a primary criterion for formal taxonomic classification in fungi. It is more pertinent to ecological or functional groupings rather than taxonomic classification. Therefore, the correct answer is Option B: Mode of nutrition.",
+    "year": "2024",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Match List I with List II Choose the",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "a",
+    "explanation": "Let's analyze the matching based on what each item in List I corresponds to in List II: Rhizopus is commonly known as black bread mold, which matches with \"Bread mould.\" Therefore, Rhizopus corresponds to III.Ustilago is a type of smut fungus that affects grains, so it rightfully matches with \"Smut fungus.\" Thus, Ustilago corresponds to II.Puccinia is well-known for causing rust in plants, indicating that it matches with \"Rust fungus.\" This means Puccinia corresponds to IV.Agaricus is the genus that includes various mushrooms, such as the common button mushroom. This matches with \"Mushroom,\" so Agaricus corresponds to I. Given the matches: A - Rhizopus corresponds to III, B - Ustilago corresponds to II, C - Puccinia corresponds to IV, D - Agaricus corresponds to I. Comparing these with the provided options: Option A (A-III, B-II, C-IV, D-I) matches exactly with the analysis above. Therefore, the correct answer is: Option A.",
+    "year": "2024",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biological-classification/BIOLOGICAL_CLASSIFICATION-2024_B11_Q3-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q4",
+    "text": "The asexual spores of deuteromycetes are",
+    "options": {
+      "A": "Aplanospores",
+      "B": "Conidia",
+      "C": "Zoospores",
+      "D": "Basidiospores"
+    },
+    "answer": "b",
+    "explanation": "Deuteromycetes, also known as imperfect fungi, reproduce asexually through spores called conidia. These spores are produced exogenously on specialized structures called conidiophores. Other options such as aplanospores and zoospores are associated with different fungal groups, while basidiospores are produced by basidiomycetes.",
+    "year": "2024",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Match List-I with List-II: Choose the",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "c",
+    "explanation": "A. Euglenoid: Euglenoids can switch between photosynthetic and heterotrophic modes, thus matching with IV. B. Dinoflagellate: Many dinoflagellates are photosynthetic, aligning with III. C. Slime mould: Slime moulds are primarily saprophytic, which corresponds to II. D. Plasmodium: Plasmodium is a well-known parasitic organism, matching with I.",
+    "year": "2024",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biological-classification/BIOLOGICAL_CLASSIFICATION-2024_B11_Q5-main.png",
+      "BIOLOGY/B11/chapters/biological-classification/BIOLOGICAL_CLASSIFICATION-2024_B11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q6",
+    "text": "Given below are two statements: Statement I: Mycoplasma can pass through less than 1 micron filter size. Statement II: Mycoplasma are bacteria with cell wall. In the light of the above statements, choose the most appropriate",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "a",
+    "explanation": "Mycoplasma are the smallest cells and are only 0.3 μm in length. So it can pass through less than 1 μm filter size. Mycoplasma lack cell wall.",
+    "year": "2022",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biological-classification/BIOLOGICAL_CLASSIFICATION-2022_B11_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Which of the following is a correct statement?",
+    "options": {
+      "A": "Cyanobacteria are a group of autotrophic organisms classified under Kingdom Monera.",
+      "B": "Mycoplasma have DNA, Ribosome and cell wall.",
+      "C": "Slime moulds are saprophytic organisms classified under Kingdom Monera.",
+      "D": "Bacteria are exclusively heterotrophic organisms."
+    },
+    "answer": "a",
+    "explanation": "⌃Ans: (A)Slime moulds are classified under kingdom Protista.Mycoplasma lack cell wall.Bacteria can be autotrophic as well as heterotrophic.",
+    "year": "2022",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Mad cow disease in cattle and Cr Jacob disease in humans are due to infection by ______",
+    "options": {
+      "A": "Prion",
+      "B": "Bacterium",
+      "C": "Virus",
+      "D": "Viroid"
+    },
+    "answer": "a",
+    "explanation": "Prions are abnormally folded proteins. They cause mad cow disease in cattle and Cr Jacob disease in humans.",
+    "year": "2022",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Which of the following statements is correct?",
+    "options": {
+      "A": "Organisms that depend on living plants are called saprophytes.",
+      "B": "Some of the organisms can fix atmospheric nitrogen in specialised cells called sheath cells.",
+      "C": "The fusion of two cells is called Karyogamy.",
+      "D": "Fusion of protoplasms between two motile on non-motile gametes is called plasmogamy."
+    },
+    "answer": "d",
+    "explanation": "In some blue-green algae specialised cells called heterocyst fixes atmospheric nitrogen into ammonia.Fusion of two nuclei is called Karyogamy.Organisms that depend on living plants are parasites, saprophytes grow on dead material.Fusion of protoplasts of two cells is called plasmogamy.",
+    "year": "2021",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Which of the following is correct about viroids?",
+    "options": {
+      "A": "They have DNA with protein coat.",
+      "B": "They have free DNA without protein coat.",
+      "C": "They have RNA with protein coat.",
+      "D": "They have free RNA without protein coat."
+    },
+    "answer": "d",
+    "explanation": "Viroids have free RNA without protein coat. Viroid, an infectious particle smaller than any of the known viruses, an agent of certain plant diseases. The particle consists only of an extremely small circular RNA (ribonucleic acid) molecule, lacking the protein coat of a virus.",
+    "year": "2020",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Which of the following statements is incorrect?",
+    "options": {
+      "A": "Prions consist of abnormally folded proteins.",
+      "B": "Viroids lack a protein coat.",
+      "C": "Viruses are obligate parasites.",
+      "D": "Infective constituent in viruses is the protein coat."
+    },
+    "answer": "d",
+    "explanation": "Virus : Viruses are obligate parasites. In addition to proteins, viruses also contain genetic material that could be either RNA or DNA. No virus contains both RNA and DNA. A virus is a nucleoprotein and the genetic material is infectious. The infective constituent in viruses is the nucleic acid, not the protein coat.Viroids: It lacks the protein coat that is found in viruses and hence, the name viroid.Prions: In modern medicine, certain infectious neurological diseases were found to be transmitted by an agent consisted of abnormally folded protein.",
+    "year": "2019",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Which of the following statements is incorrect?",
+    "options": {
+      "A": "Yeasts have filamentous bodies with Iong thread-like hyphae.",
+      "B": "Morels and truffles are edible delicacies.",
+      "C": "Claviceps is a source of many alkaloid and LSD.",
+      "D": "Conidia are produced exogenously and ascospores endogenously."
+    },
+    "answer": "a",
+    "explanation": "Yeast is an unicellular sac fungus. It lacks filamentous structure or hyphae.",
+    "year": "2019",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Select the correctly written scientific name of Mango which was first described by Carolus Linnaeus",
+    "options": {
+      "A": "Mangifera indica Linn",
+      "B": "Mangifera Indica",
+      "C": "Mangifera indica Car. Linn.",
+      "D": "Mangifera indica"
+    },
+    "answer": "a",
+    "explanation": "⌃Ans: (a) According to rules of binomial nomenclature, the correct scientific name of mango is Mangifera indica Linn.",
+    "year": "2019",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Which among the following is not a prokaryote?",
+    "options": {
+      "A": "Saccharomyces",
+      "B": "Mycobacterium",
+      "C": "Nostoc",
+      "D": "Oscillatoria"
+    },
+    "answer": "a",
+    "explanation": "Ascomycetes Commonly known as sac-fungi, the ascomycetes are mostly multicellular, e.g., Penicillium, or rarely unicellular, e.g., yeast(Saccharomyces). All fungi are eukaryotes.Prokaryotes include bacteria (Mycobacterium), cyanobacteria (Nostoc and Oscillatoria), mycoplasma and archaebacteria. Also all bacteria are prokaryotes.",
+    "year": "2018",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Select the wrong statement",
+    "options": {
+      "A": "Cell wall is present in members of fungi and plantae.",
+      "B": "Mushrooms belong to basidiomycetes.",
+      "C": "Pseudopodia are locomotory and feeding structures in sporozoans.",
+      "D": "Mitochondria are the powerhouse of the cell in all kingdoms except monera."
+    },
+    "answer": "c",
+    "explanation": "Cell wall is present in the member of Fungi (made up of chitin) and Plantae (made up of cellulose).Pseudopodia are locomotory and feeding structures in Amoeboid Protozoans.Mitochondria and other membrane bound cell organelles are absent in prokaryote (Monera). Mushroom, rust and smut fungus belongs to the class basidiomycetes.",
+    "year": "2018",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "After karyogamy followed by meiosis, spores are produced exogenously in ______",
+    "options": {
+      "A": "Neurospora",
+      "B": "Alternaria",
+      "C": "Agaricus",
+      "D": "Saccharomyces"
+    },
+    "answer": "c",
+    "explanation": "Karyogamy and meiosis takes place in the basidium producing four basidiospores. The basidiospores are exogenously produced on the basidium. The basidia are arranged in fruiting bodies called basidiocarps. Some common members are agaricus (mushroom). Agaricus",
+    "year": "2018",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biological-classification/BIOLOGICAL_CLASSIFICATION-2018_B11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Which of the following organisms are known as chief producers in the oceans?",
+    "options": {
+      "A": "Dinoflagellates",
+      "B": "Diatoms",
+      "C": "Cyanobacteria",
+      "D": "Euglenoids"
+    },
+    "answer": "b",
+    "explanation": "Diatoms are the most common form of phytoplankton in the ocean. They have the pigment chlorophyll which helps in photosynthesis. Since they are the primary producers of the aquatic chain and the marine ecosystem depends on them. They are called chief producers in the oceans.",
+    "year": "2018",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Ciliates differ from all other protozoans in",
+    "options": {
+      "A": "Using flagella for locomotion.",
+      "B": "Having a contractile vacuole for removing excess water.",
+      "C": "Using pseudopodia for capturing prey.",
+      "D": "Having two types of nuclei."
+    },
+    "answer": "d",
+    "explanation": "Ciliates differs from other protozoans in having two types of nuclei. e.g., Paramoecium have two types of nuclei i.e. macronucleus & micronucleus.",
+    "year": "2018",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Viroids differ from viruses in having",
+    "options": {
+      "A": "DNA molecules without protein coat",
+      "B": "RNA molecules with protein coat",
+      "C": "RNA molecules without protein coat",
+      "D": "DNA molecules with protein coat"
+    },
+    "answer": "c",
+    "explanation": "Viroids are free RNA particles that lack protein coat. They are infectious agents smaller than viruses.",
+    "year": "2017",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Which of the following are found in extreme saline conditions?",
+    "options": {
+      "A": "Eubacteria",
+      "B": "Cyanobacteria",
+      "C": "Mycobacteria",
+      "D": "Archaebacteria"
+    },
+    "answer": "d",
+    "explanation": "Halophiles, a type of archaebacteria, usually occur in extreme saline conditions like salt pans, salt beds and salt marshes",
+    "year": "2017",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Which among the following are the smallest living cells, known without a definite cell wall, pathogenic to plants as well as animals and can survive without oxygen?",
+    "options": {
+      "A": "Pseudomonas",
+      "B": "Mycoplasma",
+      "C": "Nostoc",
+      "D": "Bacillus"
+    },
+    "answer": "b",
+    "explanation": "Mycoplasmas are smallest, prokaryotes lacking cell wall and are pleomorphic in nature. These are pathogenic to both plants and animals.",
+    "year": "2017",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which one of the following is wrong for fungi?",
+    "options": {
+      "A": "They are eukaryotic.",
+      "B": "They are heterotrophic.",
+      "C": "All fungi possess a purely cellulosic cell wall.",
+      "D": "They are both unicellular and multicellular."
+    },
+    "answer": "c",
+    "explanation": "⌃Ans: (c) Cell wall in fungi is composed of chitin, a polysaccharide comprising N-acetyl-Dglucosamine (a derivative of glucose).",
+    "year": "2016",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Methanogens belong to ______",
+    "options": {
+      "A": "Eubacteria",
+      "B": "Archaebacteria",
+      "C": "Dinoflagellates",
+      "D": "Slime moulds"
+    },
+    "answer": "b",
+    "explanation": "Methanogens belong to archaebacteria. They include methane producing genera such as Methanobacillus and Methanothrix.Methanogens are obligate anaerobes found in oxygen-deficient environments, such as marshes, swamps, sludge (formed during sewage treatment) and the digestive systems of ruminants. Mostly they obtain their energy by reducing carbon dioxide and oxidising hydrogen, with the production of methane",
+    "year": "2016",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Select the wrong statement",
+    "options": {
+      "A": "The walls of diatoms are easily destructible.",
+      "B": "'Diatomaceous earth' is formed by the cell walls of diatoms.",
+      "C": "Diatoms are chief producers in the oceans.",
+      "D": "Diatoms are microscopic and float passively in water."
+    },
+    "answer": "a",
+    "explanation": "Diatoms are marine or freshwater unicellular organisms which have cell walls (frustules) composed of pectin impregnated with silica and consisting of two halves, one overlapping the other. The siliceous frustules of diatoms do not decay easily.",
+    "year": "2016",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "One of the major components of the cell wall of most fungi is",
+    "options": {
+      "A": "Cellulose",
+      "B": "Hemicellulose",
+      "C": "Chitin",
+      "D": "Peptidoglycan"
+    },
+    "answer": "c",
+    "explanation": "Fungal cell wall contains chitin or fungal cellulose along with other polysaccharides, proteins, lipids and a number of other substances",
+    "year": "2016",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Which of the following statements is wrong for viroids?",
+    "options": {
+      "A": "They cause infections.",
+      "B": "Their RNA is of high molecular weight.",
+      "C": "They lack a protein coat.",
+      "D": "They are smaller than viruses."
+    },
+    "answer": "b",
+    "explanation": "Viroids, the smallest known pathogens, are naked, circular, single-stranded RNA molecules that do not encode protein but autonomously replicate when introduced into host plants. Viroid RNA is of low molecular weight, not high.Viroids only infect plants; some cause economically important diseases of crop plants, while others appear to be benign.",
+    "year": "2016",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Which one of the following statements is wrong?",
+    "options": {
+      "A": "Eubacteria are also called false bacteria.",
+      "B": "Phycomycetes are also called algal fungi.",
+      "C": "Cyanobacteria are also called blue-green algae.",
+      "D": "Golden algae are also called desmids."
+    },
+    "answer": "a",
+    "explanation": "Eubacteria are also called true bacteria",
+    "year": "2016",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The primitive prokaryotes responsible for the production of biogas from the dung of ruminant animals include the ______",
+    "options": {
+      "A": "Methanogens",
+      "B": "Eubacteria",
+      "C": "Halophiles",
+      "D": "Thermoacidophiles"
+    },
+    "answer": "a",
+    "explanation": "Methanogens are microorganisms that produce methane as a metabolic byproduct in anoxic conditions. They are obligate anaerobic ancient and primitive bacteria. They are involved in methanogenesis",
+    "year": "2016",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Chrysophytes, Euglenoids, Dinoflagellates and Slime moulds are included in the Kingdom ______",
+    "options": {
+      "A": "Fungi",
+      "B": "Animalia",
+      "C": "Monera",
+      "D": "Protista"
+    },
+    "answer": "d",
+    "explanation": "All unicellular eukaryotic organism like diatoms, desmids (chrysophytes), euglenoids, dinoflagellates and slime mould are included in Protista",
+    "year": "2016",
+    "chapter": "Biological Classification",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

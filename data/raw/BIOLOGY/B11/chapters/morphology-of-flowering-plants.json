@@ -1,0 +1,828 @@
+[
+  {
+    "id": "Q1",
+    "text": "Which of the following is an example of a zygomorphic flower?",
+    "options": {
+      "A": "Pea",
+      "B": "Chilli",
+      "C": "Petunia",
+      "D": "Datura"
+    },
+    "answer": "a",
+    "explanation": "Flowers can be classified based on their symmetry into two main types: actinomorphic and zygomorphic flowers.Actinomorphic flowers: These flowers are radially symmetrical, meaning they can be divided into equal halves along multiple planes. Examples include mustard, chilli, and datura.Zygomorphic flowers: These flowers are bilaterally symmetrical, meaning they can only be divided into equal halves along one particular plane. Examples include pea, gulmohar, cassia and bean.A flower is asymmetric (irregular) if it cannot be divided into two similar halves by any vertical plane passing through the centre, as in canna.",
+    "year": "2025",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2025_B11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Given below are two statements: Statement I: In a floral formula ⊕ stands for zygomorphic nature of the flower, and G stands for inferior ovary.Statement II: In a floral formula ⊕ stands for actinomorphic nature of the flower and G stands for superior ovary",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect",
+      "B": "Statement I is incorrect but Statement II is",
+      "C": "Both Statement I and Statement II are",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "b",
+    "explanation": "A floral formula is a symbolic representation of the structure of a flower using specific symbols and abbreviations to denote its various characteristics.It provides information about the symmetry of the flower, the number and arrangement of floral organs, and the position of the ovary. Key symbols used in a floral formula include: ⊕: Represents actinomorphic (radially symmetrical) flowers.%: Represents zygomorphic (bilaterally symmetrical) flowers.G : Represents an inferior ovary (the ovary is below other floral parts).G: Represents a superior ovary (the ovary is above other floral parts). Therefore, Statement I is incorrect but Statement II is correct",
+    "year": "2025",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "In the seeds of cereals, the outer covering of endosperm separates the embryo by a protein-rich layer called",
+    "options": {
+      "A": "Integument",
+      "B": "Aleurone layer",
+      "C": "Coleoptile",
+      "D": "Coleorhiza"
+    },
+    "answer": "b",
+    "explanation": "Aleurone layer: The aleurone layer is a single layer of specialized cells found at the interface of the endosperm and the seed coat.The outer covering of the endosperm separates the embryo by a proteinous layer called the aleurone layer.It is rich in proteins and plays a crucial role during seed germination by secreting enzymes such as amylase and protease.These enzymes break down starch and proteins stored in the endosperm into simpler compounds, which are then utilized by the growing embryo.The aleurone layer also contributes to the seed's nutritional value in cereal grains. Incorrect Options: Coleoptile: This is a protective sheath that covers the emerging shoot or plumule of monocot seeds during germination.Coleorhiza: The coleorhiza is a protective covering that encloses the emerging radicle (root) in monocot seeds.Integument: The integument is the protective outer layer of the ovule that eventually develops into the seed coat. Incorrect Options: The aleurone layer is a single layer of specialized cells found at the interface of the endosperm and the seed coat.The outer covering of the endosperm separates the embryo by a proteinous layer called the aleurone layer.It is rich in proteins and plays a crucial role during seed germination by secreting enzymes such as amylase and protease.These enzymes break down starch and proteins stored in the endosperm into simpler compounds, which are then utilized by the growing embryo.The aleurone layer also contributes to the seed's nutritional value in cereal grains. Coleoptile: This is a protective sheath that covers the emerging shoot or plumule of monocot seeds during germination.Coleorhiza: The coleorhiza is a protective covering that encloses the emerging radicle (root) in monocot seeds.Integument: The integument is the protective outer layer of the ovule that eventually develops into the seed coat.",
+    "year": "2025",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2025_B11_Q3-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Match List-I with List-II: Choose the option with all correct matches",
+    "options": {
+      "A": "A-IV, B-III, C-I, D-II",
+      "B": "A-II, B-IV, C-III, D-I",
+      "C": "A-II, B-III, C-IV, D-I",
+      "D": "A-IV, B-III, C-II, D-I"
+    },
+    "answer": "c",
+    "explanation": "(A) Scutellum: The scutellum is a specialized cotyledon found in monocot seeds, such as those of grasses. It is part of the monocotyledonous embryo and assists in the absorption of nutrients from the endosperm during seed germination.(B) Non-albuminous seeds: Non-endospermous seeds (also known as non-albuminous seeds) do not contain endosperm at maturity because it is absorbed by the developing embryo. Non- albuminous seeds have no residual endosperm as it is completely consumed during embryo development. Examples include groundnut,bean, gram, and pea seeds.(C) Epiblast: Epiblast refers to a structure in some monocot seeds, such as grasses. It is a rudimentary or vestigial structure. The epiblast in seeds is typically a small, scale-like outgrowth that does not develop into a significant part of the plant but may assist in some way during germination or early seedling development(D) Persiperm: In some seeds such as black pepper and beet, remnants of nucellus are also persistent. This residual, persistent nucellus is the perisperm.",
+    "year": "2025",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2025_B11_Q4-explanation1.jpg",
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2025_B11_Q4-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Identify the type of flowers based on the position of calyx, corolla and androecium with respect to the ovary from the given figures (a) and Epigynous; (b) Hypogynous Hypogynous; (b) Epigynous Perigynous; (b) Epigynous Perigynous; (b) Perigynous",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "d",
+    "explanation": "If gynoecium is situated in the centre and other parts of the flower are located on the rim of the thalamus almost at the same level, it is called perigynous. Both diagram shows perigynous condition.",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2024_B11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q6",
+    "text": "Which of the following is an example of actinomorphic flower?",
+    "options": {
+      "A": "Datura",
+      "B": "Cassia",
+      "C": "Pisum",
+      "D": "Sesbania"
+    },
+    "answer": "a",
+    "explanation": "When a flower can be divided into two equal radial halves in any radial plane passing through the centre, it is said to be actinomorphic, e.g., mustard, datura, chilli. The other options are incorrect: Cassia: Zygomorphic (bilateral symmetry)Pisum: Zygomorphic (bilateral symmetry)Sesbania: Zygomorphic (bilateral symmetry)",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-IV, B-II, C-I, D-III",
+      "B": "A-IV, B-I, C-II, D-III",
+      "C": "A-I, B-II, C-IV, D-III",
+      "D": "A-III, B-I, C-IV, D-II"
+    },
+    "answer": "a",
+    "explanation": "The correct answer is: Option A: A-IV, B-II, C-I, D-III Monoadelphous: Stamens united into a single bundle by their filaments. Example: China rose Diadelphous: Stamens united into two bundles by their filaments. Example: Pea Polyadelphous: Stamens united into more than two bundles by their filaments. Example: Citrus Epiphyllous: Stamens arise from the perianth (sepals and petals) rather than from the receptacle. Example: Lily",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2024_B11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-II, B-IV, C-I, D-III",
+      "B": "A-I, B-II, C-III, D-IV",
+      "C": "A-IV, B-III, C-II, D-I",
+      "D": "A-II, B-III, C-IV, D-I"
+    },
+    "answer": "a",
+    "explanation": "Rose have half-inferior ovary, thus it is known as Perigynous flower. In Pea, the placenta form a ridge along the ventral suture of the ovary and ovules are borne on this ridge forming two rows. In Cotton, twisted aestivation is present. In Mango, fruit is drupe.",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2024_B11_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Identify the part of the seed from the given figure which is destined to form root when the seed germinates",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer": "c",
+    "explanation": "The radicle is the part of the seed that will develop into the root when the seed germinates. In the provided diagram, 'C' represents the radicle.",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2024_B11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Read the following statements and choose the set of correct statements",
+    "options": {
+      "A": "A, B, C only",
+      "B": "B, D, E only",
+      "C": "A, C, D only",
+      "D": "C, D, E only"
+    },
+    "answer": "d",
+    "explanation": "A is incorrect because in cymose inflorescence, the flowers are borne in a basipetal (from the bottom upwards) rather than acropetal (from the top down) succession.B is incorrect because the flowers of gulmohar are zygomorphic (bilaterally symmetrical) and not actinomorphic (radially symmetrical).C is correct as described in the cucumber flowers, where the thalamus grows upward and fuses with the ovary.D is correct as bracts are modified or reduced leaves found at the base of the pedicel (flower stalk).E is correct as mustard flowers are hypogynous, meaning the ovary is at the base, and other parts (sepals, petals, stamens) are above it. Thus, the correct answer is (D). C, D, E only.",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2024_B11_Q10-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-I, B-IV, C-II, D-III",
+      "B": "A-II, B-I, C-III, D-IV",
+      "C": "A-II, B-III, C-I, D-IV",
+      "D": "A-I, B-II, C-IV, D-III"
+    },
+    "answer": "a",
+    "explanation": "A. Polyadelphous refers to the condition where the filaments of stamens are united into more than two bundles. This corresponds to I.B. Syncarpous refers to the condition where the carpels are fused. This corresponds to IV.C. Staminode refers to a sterile stamen, which is a stamen that does not produce pollen. This corresponds to II.D. Epipetalous refers to the condition where the stamens are attached to the petals. This corresponds to III. Therefore, the correct answer is (A). A-I, B-IV, C-II, D-III.",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2024_B11_Q11-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A- III, B-I, C-IV, D-II",
+      "B": "A- III, B-IV, C-I, D-II",
+      "C": "A- III, B-II, C-I, D-IV",
+      "D": "A- II, B-I, C-IV, D-III"
+    },
+    "answer": "a",
+    "explanation": "A. Vexillary aestivation refers to the arrangement of petals in a flower, where the largest petal (standard) overlaps the two lateral petals (wings), which in turn overlap the smallest petal (keel). This arrangement is found in Pea (III).B. Epipetalous stamens means that the stamens are attached to the petals. This is characteristic of Brinjal (I).C. Epiphyllous stamens refers to stamens attached to the leaves. This arrangement is found in Lily (IV).D. Perigynous flower refers to a flower where the ovary is placed at the centre, and the other floral parts (petals, sepals, and stamens) are attached to the rim of the ovary. This is seen in Peach (II). Thus, the correct answer is (A). A- III, B-I, C-IV, D-II.",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2024_B11_Q12-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A- IV, B-III, C-II, D-I",
+      "B": "A- II, B-III, C-IV, D-I",
+      "C": "A- III, B-IV, C-I, D-II",
+      "D": "A- III, B-IV, C-II, D-I"
+    },
+    "answer": "c",
+    "explanation": "A. China rose: The ovary in China rose is axile (I), meaning the ovules are attached to the central column (axis) of the ovary, with chambers formed by the partition.B. Mustard: The ovary in mustard is parietal (IV), meaning the ovules are attached to the walls of the ovary.C. Primrose: The ovary in primrose is free central (I), meaning the ovules are attached to a central column without partition.D. Marigold: The ovary in marigold is basal (II), meaning the ovary is positioned at the base of the flower, and the ovules are attached to the base. Thus, the correct answer is (C). A- III, B-IV, C-I, D-II.",
+    "year": "2024",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2024_B11_Q13-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Family Fabaceae differs from Solanaceae and Liliaceae. With respect to the stamens, pick out the characteristics specific to family Fabaceae but not found in Solanaceae or Liliaceae",
+    "options": {
+      "A": "Diadelphous and Dithecous anthers",
+      "B": "Polyadelphous and epipetalous stamens",
+      "C": "Monoadelphous and Monothecous anthers",
+      "D": "Epiphyllous and Dithecous anthers"
+    },
+    "answer": "a",
+    "explanation": "Fabaceae → Diadelphous and dithecous anther.Solanaceae → Polyandrous, epipetalous and dithecous anther.Liliaceae → Polyandrous, epiphyllous and dithecous anther.",
+    "year": "2023",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Given below are two statements : One is labelled as Assertion A and the other is labelled as Reason R : Assertion A : A flower is defined as modified shoot wherein the shoot apical meristem changes to floral meristem. Reason R : Internode of the shoot gets condensed to produce different floral appendages laterally at successive node instead of leaves",
+    "options": {
+      "A": "Both A and R are true but R is NOT the correct explanation of A",
+      "B": "A is true but R is false",
+      "C": "A is false but R is true",
+      "D": "Both A and R are true and R is the correct explanation of A"
+    },
+    "answer": "d",
+    "explanation": "Statement A is true. A flower is indeed a modified shoot wherein the shoot apical meristem changes to a floral meristem.Statement R is also true. In the process of flower formation, the internodes of the shoot get condensed, and instead of leaves, different floral appendages (such as sepals, petals, stamens, and carpels) are produced laterally at successive nodes.Moreover, Statement R is indeed the correct explanation for Statement A. The transition from the shoot apical meristem to the floral meristem involves the condensation of internodes and the lateral production of floral appendages at nodes, which leads to the formation of a flower.",
+    "year": "2023",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Axile placentation is observed in",
+    "options": {
+      "A": "China rose, Petunia and Lemon",
+      "B": "Mustard, Cucumber and Primrose",
+      "C": "China rose, Beans and Lupin",
+      "D": "Tomato, Dianthus and Pea"
+    },
+    "answer": "a",
+    "explanation": "Axile placentation refers to the arrangement of ovules in an ovary where the ovules are attached to the central axis, forming several chambers. This type of placentation is typically seen in bi- or multi-carpellary ovaries (ovaries with two or more carpels).China rose, Petunia, and Lemon all exhibit axile placentation. In these plants, the ovules are arranged along the central axis of the ovary, with different locules (chambers) for each carpel. The other options: (b) Mustard, Cucumber, and Primrose: These exhibit parietal placentation, not axile.(c) China rose, Beans, and Lupin: Beans and Lupin exhibit axile placentation, but China rose is correctly matched in option (a).(d) Tomato, Dianthus, and Pea: These have axile or other placentation types, but they do not match the typical axile placentation as seen in China rose, Petunia, and Lemon. Hence, the correct answer is (a) China rose, Petunia and Lemon.",
+    "year": "2023",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "In Calotropis, aestivation is",
+    "options": {
+      "A": "Valvate",
+      "B": "Vexillary",
+      "C": "Imbricate",
+      "D": "Twisted"
+    },
+    "answer": "a",
+    "explanation": "Aestivation refers to the arrangement of sepals or petals in a flower bud before it opens. In different plants, this arrangement can vary.In Calotropis, the aestivation is valvate, meaning that the petals (or sepals) are arranged in such a way that they just touch each other at the edges without overlapping. Let's go over the other options: Vexillary: This type of aestivation is seen in the pea family (Fabaceae), where the largest petal (the standard) overlaps the two lateral petals (the wings), and the smallest petal (the keel) overlaps the wings.Imbricate: In this type, the petals overlap each other, but they are arranged in a specific way where each petal overlaps two others. This is seen in plants like cassia.Twisted: In twisted aestivation, each petal overlaps the next one in a spiral fashion, which is common in plants like china rose. Thus, the correct answer for Calotropis is (a) Valvate.",
+    "year": "2023",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "In a pea flower, five petals are arranged in a specialized manner with one posterior, two lateral and two anterior. These are named as___________, ____________ and ________ respectively",
+    "options": {
+      "A": "Keel, Wings and standard",
+      "B": "Vexillum, Keel and standard",
+      "C": "Keel, Standard and Carina",
+      "D": "Standard, Wings and Keel"
+    },
+    "answer": "d",
+    "explanation": "In a pea flower (a member of the Fabaceae family), the five petals are arranged in a specific pattern, which is referred to as vexillary aestivation. This arrangement consists of: Standard (or Vexillum): The largest petal, located at the top, is called the standard. It is often broad and serves as a shield for the other petals.Wings: The two lateral petals are called the wings, and they are situated on either side of the standard.Keel: The two smaller, fused petals at the bottom form the keel, which is shaped like the keel of a boat and encloses the reproductive parts of the flower (stamens and pistil). Thus, the correct arrangement is: Standard, Wings, and Keel. Therefore, the correct answer is (d) Standard, Wings and Keel.",
+    "year": "2023",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(A)-I (B)-III (C)-IV (D)-III",
+      "B": "(A)-II (B)-II (C)-III (D)-IV",
+      "C": "(A)-IIV (B)-I (C)-III (D)-II",
+      "D": "(A)-III (B)-I (C)-II (D)-IV"
+    },
+    "answer": "d",
+    "explanation": "Zygomorphic (A): This refers to flowers that are bilaterally symmetrical, meaning they can be divided into two equal halves in only one plane. The example for this is Cassia (III), as it has bilaterally symmetrical flowers.Hypogynous (B): In hypogynous flowers, the ovary is positioned below the other floral parts (sepals, petals, and stamens). The example for this is Mustard (I).Perigynous (C): In perigynous flowers, the ovary is placed at the center, with other floral parts (petals, sepals, and stamens) attached around the ovary at the same level. The example for this is Plum (II).Epigynous (D): In epigynous flowers, the ovary is situated above the other floral parts. The example for this is Cucumber (IV). Correct Match: (A) Zygomorphic → (III) Cassia (B) Hypogynous → (I) Mustard (C) Perigynous → (II) Plum (D) Epigynous → (IV) Cucumber Therefore, the correct answer is (d) (A-III) (B-I) (C-II) (D-IV).",
+    "year": "2023",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2023_B11_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+      "B": "(a) - (ii), (b) - (i), (c) - (iii), (d) - (iv)",
+      "C": "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+      "D": "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)"
+    },
+    "answer": "d",
+    "explanation": "Imbricate aestivation is found in CassiaValvate aestivation is found in CalotropisVexillary aestivation is found in BeanTwisted aestivation is found in cotton",
+    "year": "2022",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2022_B11_Q20-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The Floral Diagram represents which one of the following families?",
+    "options": {
+      "A": "Liliaceae",
+      "B": "Fabaceae",
+      "C": "Brassicaceae",
+      "D": "Solanaceae"
+    },
+    "answer": "c",
+    "explanation": "The floral diagram given in the question represents Brassicaceae family. It can be easily identified by looking on its parietal placentation.",
+    "year": "2022",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2022_B11_Q21-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which one of the following plants shows vexillary aestivation and diadelphous stamens?",
+    "options": {
+      "A": "Pisum sativum",
+      "B": "Allium cepa",
+      "C": "Solanum nigrum",
+      "D": "Colchicum autumnale"
+    },
+    "answer": "a",
+    "explanation": "Vexillary aestivation and diadelphous stamens are the characteristic features of family Fabaceae.Pisum sativum (garden pea) belongs to family Fabaceae.Allium cepa (onion) and Colchicum autumnale (colchicine) belong to family Liliaceae.Solanum nigrum belongs to Solanaceae.",
+    "year": "2022",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The flowers are Zygomorphic in: (A) Mustard (B) Gulmohar (C) Cassia (D) Datura (E) Chilly",
+    "options": {
+      "A": "(B), (C) Only",
+      "B": "(D), (E) Only",
+      "C": "(C), (D), (E) Only",
+      "D": "(A), (B), (C) Only"
+    },
+    "answer": "a",
+    "explanation": "When a flower can be divided into two similar halves only in one particular vertical plane, it is zygomorphic for e.g. pea, gulmohar, bean, Cassia. Mustard, Datura and Chilly show actinomorphic flowers.",
+    "year": "2022",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Match Column-I with Column-II Select the correct answer from the options given below",
+    "options": {
+      "A": "a-(ii), b-(iii), c-(iv), d-(i)",
+      "B": "a-(iv), b-(ii), c-(i), d-(iii)",
+      "C": "a-(iii), b-(iv), c-(ii), d-(i)",
+      "D": "a-(i), b-(ii), c-(iii), d-(iv)"
+    },
+    "answer": "c",
+    "explanation": "The floral formula of So, a(iii), b(iv), c(ii), d(i) is correct matching.",
+    "year": "2021",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2021_B11_Q24-main.png",
+      "BIOLOGY/B11/chapters/morphology-of-flowering-plants/MORPHOLOGY_OF_FLOWERING_PLANTS-2021_B11_Q24-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Ray florets have",
+    "options": {
+      "A": "Superior ovary",
+      "B": "Hypogynous ovary",
+      "C": "Half inferior ovary",
+      "D": "Inferior ovary"
+    },
+    "answer": "d",
+    "explanation": "Ray floret have inferior ovary. Ray floret is condition in flower where any of a number of strap-shaped and typically sterile florets that form the ray e.g., Sunflower Epigynous flower are formed in family Asteraceae.",
+    "year": "2020",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "The ovary is half inferior in",
+    "options": {
+      "A": "Mustard",
+      "B": "Sunflower",
+      "C": "Plum",
+      "D": "Brinjal"
+    },
+    "answer": "c",
+    "explanation": "The ovary is half inferior in Plum. A half inferior ovary is embedded or surrounded by the receptacle. Such flowers are termed perigynous or half-epigynous. In some classifications, half-inferior ovaries are not recognized and are instead grouped with either the superior or inferior ovaries.",
+    "year": "2020",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Coconut fruit is a",
+    "options": {
+      "A": "Berry",
+      "B": "Nut",
+      "C": "Capsule",
+      "D": "Drupe"
+    },
+    "answer": "d",
+    "explanation": "Coconut fruit is a drupe. A drupe is a fleshy fruit with thin skin and central stone containing the seed.",
+    "year": "2017",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The morphological nature of the edible part of coconut is",
+    "options": {
+      "A": "Cotyledon",
+      "B": "Endosperm",
+      "C": "Pericarp",
+      "D": "Perisperm"
+    },
+    "answer": "b",
+    "explanation": "The edible part of coconut is its endosperm. Coconut has double endosperm, liquid endosperm and cellular.",
+    "year": "2017",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "The term 'polyadelphous' is related to",
+    "options": {
+      "A": "Gynoecium",
+      "B": "Androecium",
+      "C": "Corolla",
+      "D": "Calyx"
+    },
+    "answer": "b",
+    "explanation": "Polyadelphous condition represents cohesion of stamens. In this condition stamens of a flower are fused by their filaments only to form many groups, e.g., Citrus.",
+    "year": "2016",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Free central placentation is found in",
+    "options": {
+      "A": "Dianthus",
+      "B": "Argemone",
+      "C": "Brassica",
+      "D": "Citrus"
+    },
+    "answer": "a",
+    "explanation": "Free central placentation is found in Dianthus. Parietal placentation is present in Argemone and Brassica whereas Citrus has axile placentation in ovary.",
+    "year": "2016",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Radial symmetry is found in the flowers of",
+    "options": {
+      "A": "Brassica",
+      "B": "Trifolium",
+      "C": "Pisum",
+      "D": "Cassia"
+    },
+    "answer": "a",
+    "explanation": "The flowers of Brassica are radially symmetrical whereas flowers of Trifolium, Pisum and Cassia are zygomorphic.",
+    "year": "2016",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "Cotyledon of maize grain is called",
+    "options": {
+      "A": "Coleoptile",
+      "B": "Scutellum",
+      "C": "Plumule",
+      "D": "Coleorhiza"
+    },
+    "answer": "b",
+    "explanation": "The cotyledons are known as seed leaves, they are attached to the embryonic axis. Dicotyledons typically have two cotyledons and monocotyledons have only one cotyledon. The single shield-shaped cotyledon in grains known as scutellum.",
+    "year": "2016",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "Tricarpellary, syncarpous gynoecium is found in flowers of",
+    "options": {
+      "A": "Fabaceae",
+      "B": "Poaceae",
+      "C": "Liliaceae",
+      "D": "Solanaceae"
+    },
+    "answer": "c",
+    "explanation": "The Liliaceae are a huge variety, comprising about 280 genera and 4000 species of perennial herbs mostly. It includes starchy rhizomes, corms or bulbs, characterized by alternate leaves which are whorled. The flowers are often showy, mostly bisexual and actinomorphic. Also, they exhibit tricarpellary syncarpous gynoecium. Example of such a class is the Erythronium montanum, the alpine fawn lily.",
+    "year": "2016",
+    "chapter": "Morphology of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

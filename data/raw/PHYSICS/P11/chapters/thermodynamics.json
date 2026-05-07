@@ -1,0 +1,570 @@
+[
+  {
+    "id": "Q1",
+    "text": "A thermodynamic system is taken through the cycle abcda. The work done by the gas along the path bc is: [NEET 2024]",
+    "options": {
+      "A": "Zero",
+      "B": "30 J",
+      "C": "90 J",
+      "D": "60 J"
+    },
+    "answer": "a",
+    "explanation": "Path bc is an isochoric process. ∴ Work done by gas along path bc is zero.",
+    "year": "2024",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2024_P11_Q1-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "For an adiabatic process, the factor which remains constant is (all the notations have their usual meaning): [NEET 2024]",
+    "options": {
+      "A": "P(γ-1) Tγ",
+      "B": "T V(1-γ)",
+      "C": "V(γ-1) Tγ",
+      "D": "P(1-γ) Tγ"
+    },
+    "answer": "d",
+    "explanation": "In an adiabatic process, the heat exchange Q is zero, meaning no heat is exchanged between the system and its surroundings. For an ideal gas undergoing an adiabatic process, the relationship between pressure P, volume V, and temperature T is governed by the following equations: The adiabatic condition is given by: P Vγ = constant (where γ = C_P / C_V, the ratio of specific heats).Additionally, for an ideal gas undergoing an adiabatic process, we also have the relation: T V(γ-1) = constant or equivalently, P Tγ = constant. Thus, the factor that remains constant in an adiabatic process is P(1-γ) Tγ. This is because both pressure and temperature are involved in a relation that stays constant throughout the process for an ideal gas. Therefore, the correct answer is (d) P(1-γ) Tγ.",
+    "year": "2024",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "The equilibrium concentrations of the species in the reaction A+B ⇌ C+D are 2,3,10 and 6 mol L-1, respectively at 300K. ΔG0 for the reaction is (R = 2cal/mol K",
+    "options": {
+      "A": "137.26 cal",
+      "B": "1381.80 cal",
+      "C": "13.73 cal",
+      "D": "1372.60 cal [NEET 2023]"
+    },
+    "answer": "",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q3-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Which amongst the following options is the correct relation between change in enthalpy and change in internal energy? [NEET 2023]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q4-main.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q4-main2.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q4-main3.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q4-explanation1.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q4-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The temperature of a gas is -50∘C. To what temperature the gas should be heated so that the rms speed is increased by 3 times?",
+    "options": {
+      "A": "3295∘C",
+      "B": "3097 K",
+      "C": "223 K",
+      "D": "669∘C [NEET 2023]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A Carnot engine has an efficiency of 50% when its source is at a temperature 327∘C. The temperature of the sink is :- [NEET 2023]",
+    "options": {
+      "A": "15∘C",
+      "B": "100∘C",
+      "C": "200∘C",
+      "D": "27∘C [NEET 2023]"
+    },
+    "answer": "d",
+    "explanation": "Efficiency of carnot engine So temperature of sink is = 300 - 273 = 27∘C",
+    "year": "2023",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "For the given cycle, the work done during the isobaric process is: [NEET 2023]",
+    "options": {
+      "A": "200 J",
+      "B": "Zero",
+      "C": "400 J",
+      "D": "600 J"
+    },
+    "answer": "d",
+    "explanation": "To find the work done during the isobaric process, we use the formula: Work = P × ΔV Where: P is the constant pressure,ΔV is the change in volume. From the graph, the pressure is constant during the isobaric process. The pressure value is 300 N/m² The change in volume ΔV is still (VB - VA), which is: VB = 3 m³VA = 1 m³ΔV = (3 - 1) m³ = 2 m³ Now, let's calculate the work done: Work = (300 N/m²) × (2 m³) = 600 J So, the correct answer should indeed be (d) 600 J.",
+    "year": "2023",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2023_P11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Which of the following p-V curve represents maximum work done? [NEET 2022 Phase 1]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Work done under any thermodynamic process can be determined by area under the 'p-V' graph. As it can be observed maximum area is covered in option '2'.",
+    "year": "2022",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2022_P11_Q8-main.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2022_P11_Q8-main2.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2022_P11_Q8-main3.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2022_P11_Q8-main4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "One mole of an ideal gas at 300 K is expanded isothermally from 1 L to 10 L volume. ΔU for this process is : (Use R = 8.314 J k-1 mol-1) [NEET 2022 Phase 2]",
+    "options": {
+      "A": "0 J",
+      "B": "1260 J",
+      "C": "2520 J",
+      "D": "5040 J"
+    },
+    "answer": "a",
+    "explanation": "ΔU = nCvΔT For isothermal condition; ΔT = 0 ΔU = 0",
+    "year": "2022",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "A vessel contains 3.2 g of dioxygen gas at STP (273.15 K and 1 atm pressure). The gas is now transferred to another vessel at constant temperature, where pressure becomes one third of the original pressure. The volume of new vessel in L is : (Given : molar volume at STP is 22.4 L) [NEET 2022 Phase 2]",
+    "options": {
+      "A": "67.2",
+      "B": "6.72",
+      "C": "2.24",
+      "D": "22.4"
+    },
+    "answer": "b",
+    "explanation": "At constant temperature and amount",
+    "year": "2022",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2022_P11_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Which one among the following is the correct option for right relationship between Cp and CV for one mole of ideal gas ? [NEET 2021]",
+    "options": {
+      "A": "CP = RCV",
+      "B": "CP = RCV",
+      "C": "CP + CV = R",
+      "D": "CP - CV = R"
+    },
+    "answer": "d",
+    "explanation": "At constant volume, qV = CVΔT = ΔU At constant pressure, qP = CP ΔT = ΔH For a mole of an ideal gas, ΔH = ΔU + Δ( PV ) =ΔU+Δ(RT) =ΔU+RΔT On putting the values of ΔH and ΔU, we have CPΔT = CVΔT+RΔT CP = CV + R CP-CV = R",
+    "year": "2021",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "For irreversible expansion of an ideal gas under isothermal condition, the correct option is : [NEET 2021]",
+    "options": {
+      "A": "ΔU = 0, Δ Stotal ≠ 0",
+      "B": "∆U ≠ 0, ∆ Stotal = 0",
+      "C": "∆U = 0, ∆ Stotal = 0",
+      "D": "∆U ≠ 0, ∆ Stotal ≠ 0"
+    },
+    "answer": "a",
+    "explanation": "Hint: ∆U = nCV∆T In the case of isothermal process, ΔT is zero. The value of ΔU is also zero from the relation, ∆U=nCV∆T. Thus, for reversible and irreversible expansion for an ideal gas, under isothermal conditions, ∆U = 0. But the value ∆S for irreversible expansion of an ideal gas under isothermal conditions is not equal to zero. The total entropy change ( ∆S total) for the system and surroundings of a spontaneous process is given by",
+    "year": "2021",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2021_P11_Q12-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "For the reaction, 2Cl(g) → Cl2(g), the correct option is: [NEET 2020]",
+    "options": {
+      "A": "ΔrH < 0 and ΔrS > 0",
+      "B": "ΔrH < 0 and ΔrS < 0",
+      "C": "ΔrH > 0 and ΔrS > 0",
+      "D": "ΔrH > 0 and ΔrS < 0"
+    },
+    "answer": "b",
+    "explanation": "2Cl(g) → Cl2(g) + Heat Due to bond formation stability increases which results in release of heat. ∴ ΔHr = -ve or exothermic process ΔHr < O & ΔS < O, because number of Cl atoms decreases in the formation of Cl2(g)",
+    "year": "2020",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The correct option for free expansion of an ideal gas under adiabatic condition is : [NEET 2020]",
+    "options": {
+      "A": "q = 0, Δ T < 0 and w > 0",
+      "B": "q < 0, Δ T = 0 and w = 0",
+      "C": "q > 0, Δ T > 0 and w > 0",
+      "D": "q = 0, Δ T = 0 and w = 0"
+    },
+    "answer": "d",
+    "explanation": "Free expansion, so pex = 0 So, w = - pexΔ V = 0 Since, adiabatic process, so q = 0 Since both q and w are equal to zero. Then according to first law of thermodynamics Δ E = q + w Δ U = 0 Hence, Δ T = 0",
+    "year": "2020",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "In which case change in entropy is negative? [NEET 2019]",
+    "options": {
+      "A": "Sublimation of solid to gas",
+      "B": "2H(g) → H2(g)",
+      "C": "Evaporation of water",
+      "D": "Expansion of a gas at temperature"
+    },
+    "answer": "b",
+    "explanation": "2H(g) → H2(g) Due to bond formation, entropy decreases.",
+    "year": "2019",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Under isothermal condition, a gas at 300 K expands from 0.1 L to 0.25 L against a constant external pressure of 2 bar. The work done by the gas is [Given that 1 L bar = 100 J] [NEET 2019]",
+    "options": {
+      "A": "25 J",
+      "B": "30 J",
+      "C": "30 J",
+      "D": "5 KJ"
+    },
+    "answer": "c",
+    "explanation": "W = -Pext (V2-V1) Pext = 2 bar V1 = 0.1 L V2 = 0.25 L W = -2 bar[0.25 - 0.1] L W = -2 × 0.15 bar L W = -0.30 bar L W = (-0.30) × 100 = -30 J",
+    "year": "2019",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The bond dissociation energies of X2 , Y2 and XY are in the ratio of 1 : 0.5 : 1. Δ H for the formation of XY is -200 kJ mol-1. The bond dissociation energy of X2 will be [NEET 2018]",
+    "options": {
+      "A": "800 kJ mol-1",
+      "B": "200 kJ mol-1",
+      "C": "400 kJ mol-1",
+      "D": "100 kJ mol-1"
+    },
+    "answer": "a",
+    "explanation": "Let bond dissociation energies of X2 , Y2 and XY are x kJ mol-1 , 0.5x kJ mol-1 and x kJ mol-1 respectively.",
+    "year": "2018",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2018_P11_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "A gas is allowed to expand in a well insulated container against a constant external pressure of 2.5 atm from an initial volume of 2.50 L to a final volume of 4.50 L. The change in internal energy ΔU of the gas in joules will be [NEET 2017]",
+    "options": {
+      "A": "500 J",
+      "B": "505 J",
+      "C": "+505 J",
+      "D": "1136.25 J"
+    },
+    "answer": "b",
+    "explanation": "w = - PextΔV = -2.5(4.50 - 2.50) ⇒ - 5 L atm = - 5 × 1.01.325 J = - 506.625 J ΔU = q + w As, the container is insulted, thus q = 0 Hence, ΔU = w = -506.625 J = - 505.5 J ( nearly equals)",
+    "year": "2017",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "For a given reaction, ΔH = 35.5 kJ mol-1 and ΔS = 83.6 J K-1 mol-1. The reaction is spontaneous at (Assume that ΔH and ΔS do not vary with temperature.) [NEET 2017]",
+    "options": {
+      "A": "T > 425 K",
+      "B": "Ball temperatures",
+      "C": "T > 298 K",
+      "D": "T < 425 K"
+    },
+    "answer": "a",
+    "explanation": "For a spontaneous reaction,",
+    "year": "2017",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2017_P11_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "For a sample of perfect gas when its pressure is changed isothermally from pi to pf, the entropy change is given by [NEET 2016]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "For an ideal gas undergoing reversible expansion, when temperature changes from Ti to Tf and pressure changes from Pi to Pf.",
+    "year": "2016",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2016_P11_Q20-main.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2016_P11_Q20-main2.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2016_P11_Q20-main3.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2016_P11_Q20-main4.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2016_P11_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The heat of combination of carbon to CO2 is -393.5 kJ/mol. The heat released upon formation of 35.2 g of CO2 from carbon and oxygen gas is [NEET / AIPMT 2015]",
+    "options": {
+      "A": "+ 315 kJ",
+      "B": "630 kJ",
+      "C": "3.15 kJ",
+      "D": "315 kJ"
+    },
+    "answer": "a",
+    "explanation": "Given, Then amount of heat released on formation of 44 g CO2 = 393.5 kJ ∴ Amount of heat released on formation of",
+    "year": "2015",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2015_P11_Q21-explanation1.png",
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2015_P11_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which of the following statements is correct for the spontaneous adsorption of a gas?",
+    "options": {
+      "A": "ΔS is negative and, therefore ΔH should be highly positive.",
+      "B": "ΔS is negative and therefore, ΔH should be highly negative.",
+      "C": "ΔS is positive and therefore, ΔH should be negative .",
+      "D": "ΔS is positive and therefore, ΔH should also be highly positive."
+    },
+    "answer": "b",
+    "explanation": "Using Gibb's-Helmholtz equation, During adsorption of a gas, entropy decreases i.e, ΔS < 0 For spontaneous adsorption, ΔG should be negative, which is possible when ΔH is highly negative.",
+    "year": "2014",
+    "chapter": "Thermodynamics",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermodynamics/THERMODYNAMICS-2014_P11_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

@@ -1,0 +1,585 @@
+[
+  {
+    "id": "Q1",
+    "text": "Sugar ' X ' A. is found in honey. B. is a keto sugar. C. exists in αα and ββ - anomeric forms. D. is laevorotatory. ' X ' is",
+    "options": {
+      "A": "Maltose",
+      "B": "Sucrose",
+      "C": "D-Glucose",
+      "D": "D-Fructose"
+    },
+    "answer": "d",
+    "explanation": "Sugar 'X' Properties and Identification Sugars are classified based on their chemical structure, optical activity, and functional groups.Anomers (α- and &beta-) are forms of sugars that differ in the configuration at the anomeric carbon.Keto sugars contain a ketone group, whereas aldo sugars contain an aldehyde group. A: Sugar 'X' is found in honey. This points to fructose, which is a major sugar in honey.B: Sugar 'X' is a keto sugar. Fructose has a ketone functional group, confirming it is a keto sugar.C: Sugar 'X' exists in α and β anomeric forms. Fructose exhibits these forms due to the configuration at its anomeric carbon.D: Sugar 'X' is laevorotatory. Fructose is known to rotate plane-polarized light to the left, making it laevorotatory.Thus, the sugar 'X' is D-Fructose.",
+    "year": "2025",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2025_C12_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Match List I with List II. List-I (Name of Vitamin) List-II (Deficiency disease)A.Vitamin B12B12I.CheilosisB.Vitamin DD II.ConvulsionsC.Vitamin B2B2III.RicketsD.Vitamin B6B6IV.Pernicious anaemia",
+    "options": {
+      "A": "A-II, B-III, C-I, D-IV",
+      "B": "A-IV, B-III, C-II, D-I",
+      "C": "A-I, B-III, C-II, D-IV",
+      "D": "A-IV, B-III, C-I, D-II"
+    },
+    "answer": "d",
+    "explanation": "Vitamin Deficiency Diseases Vitamins are essential micronutrients required for various physiological functions in the body.A deficiency of specific vitamins can lead to various diseases associated with impaired bodily functions.Key vitamins and their associated deficiency diseases:Vitamin B₁₂: Deficiency causes Pernicious Anaemia, which leads to a reduction in red blood cell production.Vitamin D: Deficiency leads to Rickets, causing weakened and soft bones in children.Vitamin B₂: Deficiency results in Cheilosis, characterised by cracked lips and sores at the corners of the mouth.Vitamin B₆: Deficiency can cause Convulsions due to its role in neurotransmitter synthesis. EXPLANATION: Matching the vitamins from List I with their associated deficiency diseases in List II:A. Vitamin B₁₂: Pernicious Anaemia (IV)B. Vitamin D: Rickets (III)C. Vitamin B₂: Cheilosis (I)D. Vitamin B₆: Convulsions (II) Therefore, the correct answer is Option (d): A-IV, B-III, C-I, D-II.",
+    "year": "2025",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [
+      [
+        [
+          "",
+          "List-I (Name of Vitamin)",
+          "",
+          "List-II (Deficiency disease)"
+        ],
+        [
+          "A.",
+          "Vitamin B12B12",
+          "I.",
+          "Cheilosis"
+        ],
+        [
+          "B.",
+          "Vitamin DD",
+          "II.",
+          "Convulsions"
+        ],
+        [
+          "C.",
+          "Vitamin B2B2",
+          "III.",
+          "Rickets"
+        ],
+        [
+          "D.",
+          "Vitamin B6B6",
+          "IV.",
+          "Pernicious anaemia"
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "The reagents with which glucose does not react to give the corresponding tests/products are A. Tollen's reagent B. Schiff's reagent C. HCN D. NH2OH E. NaHSO3 Choose the correct options from the given below",
+    "options": {
+      "A": "B and C",
+      "B": "A and D",
+      "C": "B and E",
+      "D": "E and D"
+    },
+    "answer": "",
+    "explanation": "A. Tollen's Reagent: B. Schiff's Reagent: C. HCN: D. NH2OH (Hydroxylamine): E. NaHSO3 (Sodium Bisulfite): B. Schiff's Reagent and E. NaHSO 3 B and E.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Match List-II with List-II",
+    "options": {
+      "A": "A-I, B-II, C-III, D-IV",
+      "B": "A-IV, B-III, C-II, D-I",
+      "C": "A-I, B-IV, C-II, D-III",
+      "D": "A-IV, B-I, C-II, D-III"
+    },
+    "answer": "d",
+    "explanation": "Vitamin K is a fat-soluble vitamin and its deficiency leads to bleeding gums, which is associated with the body's impaired ability to clot. Therefore, Vitamin K corresponds to IV (Fat-soluble) in List-II.Vitamin B12 is crucial for the production of red blood cells (RBCs), and its deficiency can cause RBCs to be deficient in hemoglobin, leading to anemia. Therefore, Vitamin B12 corresponds to I (RBC deficient in hemoglobin) in List-II.Vitamin C is known for preventing scurvy, which leads to symptoms such as bleeding gums when the vitamin is deficient. Therefore, Vitamin C corresponds to II (Bleeding gums) in List-II.Vitamin B1 (also known as thiamine) is essential for energy metabolism and its deficiency can cause beriberi, characterized by symptoms like neurological issues. Therefore, Vitamin B1 corresponds to III (Thiamine) in List-II. Thus, the correct match is Option (d): A-IV, B-I, C-II, D-III.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2024_C12_Q4-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Given below are two statements: Statement I: Glycogen is similar to amylose in its structure. Statement II: Glycogen is found in yeast and fungi also",
+    "options": {
+      "A": "Statement I is correct and Statement II is incorrect.",
+      "B": "Statement I is incorrect and Statement II is correct.",
+      "C": "Both Statement I and Statement II are correct.",
+      "D": "Both Statement I and Statement II are incorrect."
+    },
+    "answer": "b",
+    "explanation": "Statement I: Glycogen is similar to amylose in its structure. Incorrect: While both glycogen and amylose are polysaccharides, their structures are different. Amylose is a linear polymer of glucose, while glycogen is a branched polymer of glucose with more frequent branching points. So, glycogen is not similar to amylose in structure. Statement II: Glycogen is found in yeast and fungi also. Correct: Glycogen is indeed found in yeast, fungi, and other organisms as a form of energy storage, similar to how it is found in animals. Thus, the correct answer is (b): Statement I is incorrect and Statement II is correct.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Given below are two statements: Statement I: A unit formed by the attachment of a base to 1' position of sugar is known as nucleoside. Statement II: When nucleoside is linked to phosphorous acid at 5' -position of sugar moiety, we get nucleotide",
+    "options": {
+      "A": "Both Statement I and Statement II are true",
+      "B": "Both Statement I and Statement II are false",
+      "C": "Statement I is true but Statement II is false",
+      "D": "Statement I is false but Statement II is true"
+    },
+    "answer": "",
+    "explanation": "When nucleoside is linked to phosphoric acid at 5' position of sugar moiety we get a nucleotide Statement II is incorrect because not link with phosphorous acid. Statement I: Correct. A nucleoside is formed by the attachment of a nitrogenous base to the 1' position of a sugar (ribose or deoxyribose) via a glycosidic bond.Statement II: Incorrect. A nucleotide is formed when a nucleoside is linked to phosphoric acid (H₃PO₄), not phosphorous acid (H₃PO₃), at the 5' position of the sugar moiety. Phosphoric acid is a key component in the structure of nucleotides, which are the building blocks of DNA and RNA. Conclusion: The correct answer is (c) Statement I is true, and Statement II is false.",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2023_C12_Q6-explanation1.png",
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2023_C12_Q6-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Cheilosis occurs due to the deficiency of",
+    "options": {
+      "A": "Thiamine",
+      "B": "Nicotinamide",
+      "C": "Pyridoxamine",
+      "D": "Riboflavin"
+    },
+    "answer": "d",
+    "explanation": "Cheilosis refers to the condition of cracking or sores at the corners of the mouth, which is commonly associated with the deficiency of Riboflavin (Vitamin B2). Riboflavin (Vitamin B2) plays a critical role in the body's energy production and is important for the maintenance of healthy skin and mucous membranes. Deficiency of riboflavin leads to symptoms like cheilosis, angular stomatitis, and sore throat. So, the correct answer is (d) Riboflavin.",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The incorrect statement about denaturation of proteins is",
+    "options": {
+      "A": "Uncoiling of the helical structure takes place",
+      "B": "It results due to change of temperature and/or pH",
+      "C": "It results in loss of biological activity of proteins",
+      "D": "A protein is formed from amino acids linked by peptide bonds"
+    },
+    "answer": "d",
+    "explanation": "Proteins are polymers of α-amino acids and they are connected to each other by peptide bond, but this is not denaturation process.Due to denaturation globules unfold and helix get uncoiled and protein loses its biological activity.Denaturation can be caused if protein in its native form, is subjected to physical change like change in temperature or chemical change like change in pH",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The incorrect statement regarding enzymes is",
+    "options": {
+      "A": "Enzymes are biocatalysts.",
+      "B": "Like chemical catalysts enzymes reduce the activation energy of bio processes.",
+      "C": "Enzymes are polysaccharides.",
+      "D": "Enzymes are very specific for a particular reaction and substrate."
+    },
+    "answer": "c",
+    "explanation": "Enzymes are complex nitrogenous organic compounds which are produced by living plants and animals. They are protein molecules of high molecular mass. They are not polysaccharides.",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Given below are two statements : Statement I : Aspirin and Paracetamol belong to the class of narcotic analgesics. Statement II : Morphine and Heroin are non-narcotic analgesics. In the light of the above statements, choose the correct answer from the options given below",
+    "options": {
+      "A": "Statement I is incorrect but Statement II is true.",
+      "B": "Both Statement I and Statement II are true",
+      "C": "Both Statement I and Statement II are false",
+      "D": "Statement I is correct but Statement II is false"
+    },
+    "answer": "c",
+    "explanation": "Aspirin and paracetamol belong to the class of non-narcotic analgesics.Morphine and Heroin are narcotic analgesics. ∴ Both statement I and Statement II are false.",
+    "year": "2021",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Sucrose on hydrolysis gives",
+    "options": {
+      "A": "α-D-Glucose + β-D-Fructose",
+      "B": "α-D-Fructose + β-D-Fructose",
+      "C": "β-D-Glucose + α-D-Fructose",
+      "D": "α-D-Glucose + β-D-Glucose"
+    },
+    "answer": "a",
+    "explanation": "Sucrose is a disaccharide composed of two monosaccharide units, glucose and fructose, joined together via a glycosidic bond. Upon hydrolysis, this bond is broken, and the two constituent monosaccharides are released. Hydrolysis of sucrose results in the formation of one molecule of glucose and one molecule of fructose. However, it is important to specify the configurations of these monosaccharides as they exist in specific forms. This reflects the correct stereochemistry and identity of the monosaccharides produced from the hydrolysis of sucrose.",
+    "year": "2020",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2020_C12_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Which of the following is a basic amino acid?",
+    "options": {
+      "A": "Tyrosine",
+      "B": "Lysine",
+      "C": "Serine",
+      "D": "Alanine"
+    },
+    "answer": "b",
+    "explanation": "Lysine is a basic amino acid it contains more number of - NH2 groups as compared to - COOH groups due to their symmetrical.",
+    "year": "2020",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The non-essential amino acid among the following is",
+    "options": {
+      "A": "Valine",
+      "B": "Leucine",
+      "C": "Alanine",
+      "D": "Lysine"
+    },
+    "answer": "c",
+    "explanation": "Non Essential amino acid is Alanine.",
+    "year": "2019",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The difference between amylose and amylopectin is",
+    "options": {
+      "A": "Amylopectin have 1 → 4 α-linkage and 1→ 6α-linkage",
+      "B": "Amylose have 1 → 4 α-linkage and 1→ 6β-linkage",
+      "C": "Amylopectin have 1 → 4 α-linkage and 1→ 6β-linkage",
+      "D": "Amylose is made up of glucose and galactose"
+    },
+    "answer": "a",
+    "explanation": "Amylose is long unbranched chain with α-D-Glucose with held by C1-C4 glucosidic linkage whereas amylopectin is branched chain polymer of α-D glucose unit in which chain is formed by C1-C4 glycosidic linkage while branching occurs by C1-C6 glucosidic linkage.",
+    "year": "2018",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Which of the following compounds can form a zwitterion ?",
+    "options": {
+      "A": "Aniline",
+      "B": "Acetanilide",
+      "C": "Benzoic acid",
+      "D": "Glycine"
+    },
+    "answer": "d",
+    "explanation": "Q.8. Which of the following statements is not correct :- (NEET 2017) (a) Ovalbumin is a simple food reserve in egg-white (b) Blood proteins thrombin and fibrinogen are involved in blood clotting (c) Denaturation makes the proteins more active (d) Insulin maintanis sugar level in the blood of a human body Ans: (c) Denaturation changes the structure of a protein and protein loses its activity.",
+    "year": "2018",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2018_C12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "In a protein molecule various amino acids are linked together by",
+    "options": {
+      "A": "dative bond",
+      "B": "α-glycosidic bond",
+      "C": "β-glycosidic bond",
+      "D": "peptide bond"
+    },
+    "answer": "d",
+    "explanation": "In a protein molecule various amino acids are linked together by peptide bond.",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Which one given below is a non-reducing sugar ?",
+    "options": {
+      "A": "Sucrose",
+      "B": "Maltose",
+      "C": "Lactose",
+      "D": "Glucose"
+    },
+    "answer": "a",
+    "explanation": "All monosaccharides whether aldoses or ketoses are reducing sugars. Disaccharides such as sucrose in which the two monosaccharide units are linked through their reducing centres i.e., aldehydic or ketonic groups are non-reducing.",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The correct statement regarding RNA and DNA, respectively is",
+    "options": {
+      "A": "The sugar component in RNA is 2'-deoxyribose and the sugar component in DNA is arabinose.",
+      "B": "The sugar component in RNA is arabinose and the sugar component in DNA is 2'-deoxyribose.",
+      "C": "The sugar component in RNA is ribose and the sugar component in DNA is 2'-deoxyribose.",
+      "D": "The sugar component in RNA is arabinose and the sugar component in DNA is ribose."
+    },
+    "answer": "c",
+    "explanation": "Sugar in DNA is 2'-deoxyribose whereas sugar in RNA is ribose.",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "The central dogma of molecular genetics states that the genetic information flows from",
+    "options": {
+      "A": "Amino acids → Proteins → DNA",
+      "B": "DNA → Carbohydrates → Proteins",
+      "C": "DNA → RNA → Proteins",
+      "D": "DNA → RNA → Carbohydrates"
+    },
+    "answer": "c",
+    "explanation": "The central dogma of molecular genetics is",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2016_C12_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The correct corresponding order of names of four aldoses with configuration given below respectively, is",
+    "options": {
+      "A": "L-erythrose, L-threose, L-erythrose, D-threose",
+      "B": "D-threose, D-erythrose, L-threose, L-erythrose",
+      "C": "L-erythrose, L-threose, D-erythrose, D-threose",
+      "D": "D-erythrose, D-threose. L-erythrose, L-threose"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2016_C12_Q20-main.png",
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2016_C12_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Which of the following hormones is produced under the condition of stress which stimulates glycogenolysis in the liver of human beings ?",
+    "options": {
+      "A": "Adrenaline",
+      "B": "Estradiol",
+      "C": "Thyroxin",
+      "D": "Insulin"
+    },
+    "answer": "a",
+    "explanation": "Adrenaline is a hormone produced by adrenal glands during high stress or exciting situations. This powerful hormone is part of the human body's acute stress response system, also called the fight or flight response",
+    "year": "2014",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "D(+) glucose reacts with hydroxyl amine and yields an oxime. The structure of the oxime would be",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2014",
+    "chapter": "Biomolecules",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2014_C12_Q22-main.png",
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2014_C12_Q22-main2.png",
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2014_C12_Q22-main3.png",
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2014_C12_Q22-explanation1.png",
+      "CHEMISTRY/C12/chapters/biomolecules/BIOMOLECULES-2014_C12_Q22-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

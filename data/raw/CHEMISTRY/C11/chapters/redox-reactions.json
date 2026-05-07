@@ -1,0 +1,365 @@
+[
+  {
+    "id": "Q1",
+    "text": "Consider the following compounds: The oxidation states of the underlined elements in them are, respectively",
+    "options": {
+      "A": "+1, -2 and +4",
+      "B": "+4 , -4 and +6",
+      "C": "+1, -1 and +6",
+      "D": "+2, -2 and +6"
+    },
+    "answer": "c",
+    "explanation": "In KO₂ (potassium superoxide): Potassium (K) has an oxidation state of +1.Oxygen in superoxide has an oxidation state of -½. In H₂O₂ (hydrogen peroxide): Hydrogen (H) has an oxidation state of +1.Oxygen in peroxide has an oxidation state of -1. In H₂SO₄ (sulfuric acid): Hydrogen (H) has an oxidation state of +1.Oxygen has an oxidation state of -2.To balance the molecule:2(+1) + x + 4(-2) = 0x = +6 Therefore, sulfur (S) has an oxidation state of +6. Therefore, the oxidation states of the underlined elements in KO₂, H₂O₂, and H₂SO₄ are respectively +1, -1, and +6.",
+    "year": "2025",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2025_C11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Which reaction is NOT a redox reaction?",
+    "options": {
+      "A": "Zn + CuSO4 → ZnSO4 + Cu",
+      "B": "2KClO3 + I2 → 2KIO3 + Cl2",
+      "C": "H2 + Cl2 → 2HCl",
+      "D": "BaCl2 + Na2SO4 → BaSO4 + 2NaCl"
+    },
+    "answer": "",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2024_C11_Q2-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "The products A and B obtained in the following reactions, respectively, are",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Let's analyze the given reactions and determine the products A and B. Reaction with PCl3: When an alcohol (ROH) reacts with phosphorus trichloride (PCl3), the hydroxyl group (OH) of the alcohol is replaced by a chloro group (Cl), resulting in the formation of an alkyl chloride (RCl). Additionally, the reaction produces phosphorous acid as a byproduct. This can be represented as: 3ROH + PCl3 → 3RCl + H3PO3 Here, A is H3PO3 (phosphorous acid). Reaction with PCl5: When an alcohol reacts with phosphorus pentachloride (PCl5), it also replaces the hydroxyl group with a chloro group. The reaction differs slightly in the byproducts; phosphorus oxychloride (POCl3) and hydrogen chloride (HCl) are produced: ROH + PCl5 → RCl + HCl + POCl3 Here, B is POCl3 (phosphorus oxychloride). Thus, in the reactions provided: A = H3PO3 B = POCl3 Matching these findings against the provided options, we see that Option D correctly identifies A as H3PO3 and B as POCl3: Option D: H3PO3 and POCl3 This is the correct answer.",
+    "year": "2024",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2024_C11_Q3-explanation1.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2024_C11_Q3-explanation2.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2024_C11_Q3-explanation3.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2024_C11_Q3-explanation4.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2024_C11_Q3-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Which of the following reactions is not a disproportionation reaction?",
+    "options": {
+      "A": "2 F₂(g) + 2 OH⁻(aq) → 2 F⁻(aq) + OF₂(g) + H₂O(l)",
+      "B": "Cl₂(g)+ 2 OH⁻(aq) → ClO⁻(aq) + Cl⁻(aq) + H₂O(l)",
+      "C": "2 NO₂(g) + 2 OH⁻(aq)→ NO₃⁻(aq) + NO₂⁻(aq) + H₂O(l)",
+      "D": "2 H₂O₂(aq) → 2 H₂O(l) + O₂(g)"
+    },
+    "answer": "a",
+    "explanation": "A disproportionation reaction is a type of redox reaction where a single substance undergoes both oxidation and reduction, forming two different products. Let's analyze each option: (a) 2 F₂(g) + 2 OH⁻(aq) → 2 F⁻(aq) + OF₂(g) + H₂O(l) This reaction involves fluorine (F₂), which is reduced to F⁻ and oxidized to OF₂. Therefore, fluorine undergoes both oxidation and reduction.This is a disproportionation reaction. (b) Cl₂(g) + 2 OH⁻(aq) → ClO⁻(aq) + Cl⁻(aq) + H₂O(l) In this reaction, chlorine (Cl₂) is reduced to Cl⁻ and oxidized to ClO⁻.This is a disproportionation reaction. (c) 2 NO₂(g) + 2 OH⁻(aq)→ NO₃⁻(aq) + NO₂⁻(aq) + H₂O(l) In this reaction, NO₂ undergoes both oxidation and reduction to form NO₃⁻ and NO₂⁻.This is a disproportionation reaction. (d) 2 H₂O₂(aq)→ 2 H₂O(l) + O₂(g) In this reaction, hydrogen peroxide (H₂O₂) decomposes into water (H₂O) and oxygen (O₂). Here, hydrogen peroxide undergoes reduction to form H₂O and oxidation to form O₂, but since it does not involve two different products from a single reactant, it is not a disproportionation reaction. It's a simple decomposition reaction. Conclusion:The reaction in (a) is the disproportionation reaction, so the correct answer is (d) 2 H₂O₂(aq) → 2 H₂O(l) + O₂(g).",
+    "year": "2024",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Given the following reaction involving manganese (Mn): 3 MnO₄²⁻ + 4 H⁺ → 2 MnO₄⁻ + MnO₂ + 2 H₂O MnO₄²⁻ + 4 H⁺ → 2 MnO₄⁻ + MnO₂ + 2 H₂O Which oxidation states of manganese are not observed in the above reaction? A. +6 B. +2 C. +4 D. +7 E. +3 Mark the most appropriate answer from the options given below",
+    "options": {
+      "A": "D and E only",
+      "B": "B and D only",
+      "C": "A and B only",
+      "D": "B and E only"
+    },
+    "answer": "d",
+    "explanation": "3 MnO₄²⁻ + 4 H⁺ → 2 MnO₄⁻ + MnO₂ + 2 H₂O Step 1: Assign oxidation states in the reactants: MnO₄²⁻: Manganese in MnO₄²⁻ is in the +6 oxidation state. Oxygen is typically -2, and since the overall charge on the ion is -2, the charge on Mn must be +6 to balance the charges.H⁺: This is a proton, so its oxidation state is +1. Step 2: Assign oxidation states in the products: MnO₄⁻: Manganese in MnO₄⁻ is in the +7 oxidation state. Oxygen is -2, and since the overall charge on the ion is -1, the charge on Mn must be +7 to balance the charges. MnO₂: Manganese in MnO₂ is in the +4 oxidation state. Oxygen is -2, and for the compound to be neutral, Mn must have a charge of +4.H₂O: Water, which does not affect the oxidation state of manganese. Step 3: Identify which oxidation states are missing: +6 is observed in MnO₄²⁻.+7 is observed in MnO₄⁻.+4 is observed in MnO₂.+2 and +3 are not present in the reaction. Conclusion:The +2 and +3 oxidation states of manganese are not observed in the given reaction. The correct answer is (d) B and E only.",
+    "year": "2024",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "On balancing the given redox reaction, the coefficients a, b and c are found to be, respectively",
+    "options": {
+      "A": "1, 3, 8",
+      "B": "3, 8, 1",
+      "C": "1, 8, 3",
+      "D": "8, 1, 3"
+    },
+    "answer": "a",
+    "explanation": "Using Ion electron method: Balancing Redox Reactions by Oxidation Number Method",
+    "year": "2023",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2023_C11_Q6-main.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2023_C11_Q6-explanation1.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2023_C11_Q6-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Which of the following reactions is a decomposition redox reaction?",
+    "options": {
+      "A": "P4(s) + 3OH-(aq) + 3H2O(l) → PH3(g) + 3H2PO2-(aq)",
+      "B": "2Pb(NO3)2(s) → 2PbO(s) + 4NO2(g) + O2(g)",
+      "C": "N2(g) + O2(g) → 2NO(g)",
+      "D": "Cl2(g) + 2OH-(aq) → ClO-(aq) + Cl-(aq) + 4H2O(l)"
+    },
+    "answer": "b",
+    "explanation": "Decomposition redox reaction leads to breakdown of a compound into two or more compounds at least one of which must be in the elemental state with change in oxidation number.",
+    "year": "2022",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2022_C11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "What is the change in oxidation number of carbon in the following reaction? CH4(g) + 4Cl2(g) → CCl4(l) + 4HCl(g)",
+    "options": {
+      "A": "0 to + 4",
+      "B": "4 to + 4",
+      "C": "0 to - 4",
+      "D": "+ 4 to + 4"
+    },
+    "answer": "b",
+    "explanation": "Change in oxidation state of carbon is from - 4 to + 4",
+    "year": "2020",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2020_C11_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Which of the following reactions are disproportionation reaction?",
+    "options": {
+      "A": "(a) and (b) only",
+      "B": "(a), (b) and (c)",
+      "C": "(a), (c) and (d)",
+      "D": "(a) and (d) only"
+    },
+    "answer": "a",
+    "explanation": "In a disproportionation reaction, same substance undergoes oxidation (increase in oxidation number) and reduction (decrease in oxidation number forming two different products.",
+    "year": "2019",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2019_C11_Q9-explanation1.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2019_C11_Q9-explanation2.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2019_C11_Q9-explanation3.png",
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2019_C11_Q9-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The correct order of N-compounds in its decreasing order of oxidation states is",
+    "options": {
+      "A": "HNO3, NO, N2, NH4Cl",
+      "B": "HNO3, NO, NH4Cl, N2",
+      "C": "HNO3, NH4Cl, NO, N2",
+      "D": "NH4Cl, N2, NO, HNO3"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2018_C11_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "For the redox reaction MnO4- + C2O42-+ H+ →Mn2+ + CO2 + H2O the correct coefficients of the reactants for the balanced equation are MnO4- C2O4 2- H+ (1) 16 5 2 (2) 2 5 16 (3) 2 16 5 (4) 5 16 2",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "b",
+    "explanation": "The correct balanced equation is 2MnO4- + 5C2O4 2- + 16H+ → 2Mn2+ + 10CO2 + 8H2O",
+    "year": "2018",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Hot concentrated sulphate acid is a moderately strong oxidizing agent. Which of the following reactions does not show oxidizing behaviour?",
+    "options": {
+      "A": "Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O",
+      "B": "S + 2H2SO4 → 3SO2 + 2H2O",
+      "C": "C + 2H2SO4 → CO2 + 2SO2 + 2H2O",
+      "D": "CaF2 + H2SO4 → CaSO4 + 2HF"
+    },
+    "answer": "d",
+    "explanation": "CaF2 + H2SO4 → CaSO4 + 2HF Here, the oxidation state of every atom remains the same so, it is not a redox reaction.",
+    "year": "2016",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The pair of compounds that can exist together is",
+    "options": {
+      "A": "HgCl2 ,SnCl2",
+      "B": "FeCl2 ,KI",
+      "C": "FeCl3,SnCl2",
+      "D": "FeCl2 ,SnCl2"
+    },
+    "answer": "a",
+    "explanation": "The compounds with lower oxidation number and which cannot reduce by one another can exist together. Thus, FeCl2 and SnCl2 can exist together as Fe2+ can not be reduced by Sn2+.",
+    "year": "2014",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "In acidic medium H2O2 changes Cr2O7 to CrO5 which has two -O-O- bonds. Oxidation state of Cr in CrO5 is : (2014)",
+    "options": {
+      "A": "+6",
+      "B": "10",
+      "C": "+5",
+      "D": "+3"
+    },
+    "answer": "a",
+    "explanation": "CrO5 has butterfly structure having two peroxo bonds. Peroxo oxygen has -1 oxidation state. Let oxidation state of Cr be 'x' CrO5 : x + 4(-1) + 1 (-2) = 0 ⇒ x = + 6",
+    "year": "2014",
+    "chapter": "Redox Reactions",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/redox-reactions/REDOX_REACTIONS-2014_C11_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

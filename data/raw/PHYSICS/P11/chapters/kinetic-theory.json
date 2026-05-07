@@ -1,0 +1,502 @@
+[
+  {
+    "id": "Q1",
+    "text": "A container has two chambers of volumes V1 = 2 litres and V2 = 3 litres separated by a partition made of a thermal insulator. The chambers contains n1 = 5 and n2 = 4 moles of ideal gas at pressures p1 = 1 atm p2 = 2 atm, respectively. When the partition is removed, the mixture attains an equilibrium pressure of: [2024]",
+    "options": {
+      "A": "1.4 atm",
+      "B": "1.8 atm",
+      "C": "1.3 atm",
+      "D": "1.6 atm"
+    },
+    "answer": "d",
+    "explanation": "Before partition after partition removed P1V1 + P2V2 = P(V1 + V2) ⇒ 1 × 2 + 2 × 3 = P × (2 + 3) ⇒ 8 / 5 = P ⇒ P = 1.6 atm",
+    "year": "2025",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2025_P11_Q1-explanation1.jpg",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2025_P11_Q1-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "An oxygen cylinder of volume 30 litre has 18.20 moles of oxygen. After some oxygen is withdrawn from the cylinder, its gauge pressure drops to 11 atmospheric pressure at temperature 27°C. The mass of the oxygen withdrawn from the cylinder is nearly equal to: [Given, R = 100/12 J mol-1 K-1, and molecular mass of O2 = 32, 1 atm pressure = 1.01 x 105 N/m] [2024]",
+    "options": {
+      "A": "0.116 kg",
+      "B": "0.156 kg",
+      "C": "0.125 kg",
+      "D": "0.144 kg"
+    },
+    "answer": "a",
+    "explanation": "Number of moles left n = PV / RT = (12 × 1.01 × 105 N/m2 × 30 × 10-3 m3) / ((100/12) × 300) n = (12 × 1.01 × 12) / 10 = 14.54 moles Moles removed = 18.2 - 14.54 = 3.656 moles Mass removed = 3.656 × 32 = 116.99 g = 0.116 kg",
+    "year": "2025",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "The following graph represents the T - V curves of an ideal gas (where T is the temperature and V the volume) at three pressures P1, P2 and P3 compared with those of Charles's law represented as dotted lines. [2024] Then the correct relation is",
+    "options": {
+      "A": "P1 > P3 > P2",
+      "B": "P2 > P1 > P3",
+      "C": "P1 > P2 > P3",
+      "D": "P3 > P2 > P1"
+    },
+    "answer": "c",
+    "explanation": "In the graph showing the T-V (temperature vs. volume) curves for an ideal gas at three different pressures P1, P2, and P3:According to Charles's Law, for an ideal gas, temperature is directly proportional to volume at constant pressure (T ∝ V).At higher pressure, the curve will be closer to the origin, meaning that for the same volume, the temperature is higher. This is because the gas is more compressed at higher pressure.At lower pressure, the curve will be further from the origin, meaning that for the same volume, the temperature is lower.So, the pressure with the highest curve corresponds to the highest temperature, and the pressure with the lowest curve corresponds to the lowest temperature.Conclusion: The correct relation between the pressures is P1 > P2 > P3.Final Answer: (c) P1 > P2 > P3.",
+    "year": "2024",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2024_P11_Q3-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "An ideal gas at 0∘C and atmospheric pressure P has volume V. The percentage increase in its temperature needed to expand it to 3V at constant pressure is: [2024]",
+    "options": {
+      "A": "100%",
+      "B": "200%",
+      "C": "300%",
+      "D": "50%"
+    },
+    "answer": "b",
+    "explanation": "Charles's Law states that the volume of an ideal gas is directly proportional to its temperature when pressure is constant. The formula is: (V1 / T1) = (V2 / T2) Where:V1 is the initial volume,T1 is the initial temperature in Kelvin,V2 is the final volume,T2 is the final temperature in Kelvin. Apply the given valuesInitial volume V1 = V,Initial temperature T1 = 273 K (0°C),Final volume V2 = 3V.Using the formula: V / 273 = 3V / T2 Solve for T2: T2 = 3 × 273 = 819 K. The temperature increase is: ΔT = T2 - T1 = 819 K - 273 K = 546 K. The percentage increase in temperature is: Percentage increase = (ΔT / T1) × 100 = (546 / 273) × 100 = 200%. Final Answer: (b) 200%.",
+    "year": "2024",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The equilibrium state of a thermodynamic system is described by: A. Pressure B. Total heat C. Temperature D. Volume E. Work done Choose the most appropriate answer from the options given below: [2024]",
+    "options": {
+      "A": "A, B and E only",
+      "B": "B, C and D only",
+      "C": "A, B and C only",
+      "D": "A, C and D only"
+    },
+    "answer": "d",
+    "explanation": "The equilibrium state of a thermodynamic system is characterized by conditions that define its state. These conditions typically include parameters that describe the system's state at a given time and ensure that it is in equilibrium (no net change in state).The correct parameters to describe the equilibrium state of a system are:Pressure (A): Pressure is a key factor in determining the equilibrium state, as it helps define the balance of forces within the system.Temperature (C): Temperature is also crucial in defining the equilibrium state, as it determines the energy distribution within the system.Volume (D): Volume is important in describing the spatial configuration of the system in equilibrium, as the system's volume directly impacts its state.The other options like Total heat (B) and Work done (E) are not sufficient alone to describe the equilibrium state, as they depend on the path taken and are not state functions.Final Answer: (d) A, C and D only.",
+    "year": "2024",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "According to the law of equipartition of energy, the number of vibrational modes of a polyatomic gas of constant γ = Cp / Cv is (where Cp and Cv are the specific heat capacities of the gas at constant pressure and constant volume, respectively): [2024]",
+    "options": {
+      "A": "(4 + 3γ) / (γ - 1)",
+      "B": "(3 + 4γ) / (γ - 1)",
+      "C": "(4 - 3γ) / (γ - 1)",
+      "D": "(3 - 4γ) / (γ - 1)"
+    },
+    "answer": "c",
+    "explanation": "For a polyatomic gas, the degrees of freedom include:3 translational degrees of freedom (movement in x, y, and z directions),3 rotational degrees of freedom (rotation about 3 axes),Vibrational modes, where each vibration contributes 2 degrees of freedom (1 for potential energy and 1 for kinetic energy).The specific heat at constant volume, Cv, is related to the number of degrees of freedom by the equation: Cv = (f / 2) R, where f is the total number of degrees of freedom and R is the gas constant.The specific heat ratio γ is defined as γ = Cp / Cv, where Cp is the specific heat at constant pressure.The total number of degrees of freedom, f, for a polyatomic gas is: f = 3 (translational) + 3 (rotational) + 2v (vibrational), where v is the number of vibrational modes.The relationship between γ and f is given by γ = (f + 2) / f.Solving this equation for f, we get f = 2 / (γ - 1).From the total degrees of freedom f = 6 + 2v, substitute f = 2 / (γ - 1) into this equation: 6 + 2v = 2 / (γ - 1).Solving for v, we get v = (4 - 3γ) / (γ - 1).Final Answer: (c) (4 - 3γ) / (γ - 1).",
+    "year": "2024",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The temperature of a gas is -50°C. To what temperature the gas should be heated so that the rms speed is increased by 3 times? [2023]",
+    "options": {
+      "A": "669°C",
+      "B": "3295°C",
+      "C": "3097 K",
+      "D": "223 K"
+    },
+    "answer": "b",
+    "explanation": "3295°C Explanation: The root mean square (RMS) speed vrms of a gas is given by the equation:vrms = √ 3RTmvrms ∝ √TT1 = 273 - 50 = 223 Kvrms is increased by 3 times T2 = ?So, final RMS speed = v + 3v = 4vv4v = √ T1T2√ 116 = √ 223T2T2 = 3568 KT2 = 3568 - 273 = 3295°C",
+    "year": "2023",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "A container of volume 200 cm3 contains 0.2 mole of hydrogen gas and 0.3 mole of argon gas. The pressure of the system at temperature 200 K ( R = 8.3 JK-1 mol-1) will be: [2023]",
+    "options": {
+      "A": "6.15 × 105 Pa",
+      "B": "6.15 × 104 Pa",
+      "C": "4.15 × 105 Pa",
+      "D": "4.15 × 106 Pa"
+    },
+    "answer": "d",
+    "explanation": "Given the volume is 200 cm³, we need to convert it to cubic meters: 1 cm³ = 1 × 10⁻⁶ m³, so: 200 cm³ = 200 × 10⁻⁶ m³ = 2 × 10⁻⁴ m³.The total number of moles in the container is the sum of the moles of hydrogen gas and argon gas:Moles of hydrogen gas = 0.2 moles,Moles of argon gas = 0.3 moles.Total number of moles = 0.2 + 0.3 = 0.5 moles. Now, we can substitute the values into the ideal gas law:P × V = n × R × T Substitute the values:P = pressure (which we need to find),V = 2 × 10⁻⁴ m³,n = 0.5 moles,R = 8.3 J/K·mol,T = 200 K.So, the equation becomes: P × 2 × 10⁻⁴ = 0.5 × 8.3 × 200 Solve for P: P = (0.5 × 8.3 × 200) / (2 × 10⁻⁴) P = (830) / (2 × 10⁻⁴) P = 4.15 × 10⁶ Pa Final Answer: (d) 4.15 × 10⁶ Pa.",
+    "year": "2023",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Match column - I and column - II and choose the correct match from the given choices. [2021]",
+    "options": {
+      "A": "(A) - (Q), (B) - (P), (C) - (S), (D) - (R)",
+      "B": "(A) - (R), (B) - (Q), (C) - (P), (D) - (S)",
+      "C": "(A) - (R), (B) - (P), (C) - (S), (D) - (Q)",
+      "D": "(A) - (Q), (B) - (R), (C) - (S), (D) - (P)"
+    },
+    "answer": "a",
+    "explanation": "(A) - (Q), (B) - (P), (C) - (S), (D) - (R) Explanation: (A) Root mean square speed of gas molecules:Root mean square (RMS) speed of gas molecules is given by the formula: vrms = √ 3RTMHence, it matches with (Q).(B) Pressure exerted by an ideal gas:The pressure exerted by an ideal gas can be represented using: P = 13 mv2Hence, it matches with (P).(C) Average kinetic energy of a molecule:The average kinetic energy per molecule is given by: E = 32 kBTHence, it matches with (S).(D) Total internal energy of 1 mole of a diatomic gas:The total internal energy for one mole of a diatomic gas is: U = 52 RTHence, it matches with (R).",
+    "year": "2021",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2021_P11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "A cylinder contains hydrogen gas at pressure of 249 kPa and temperature 27°C. Its density is : (R = 8.3 J mol-1 K-1) [2020]",
+    "options": {
+      "A": "0.1 kg/m3",
+      "B": "0.02 kg/m3",
+      "C": "0.5 kg/m3",
+      "D": "0.2 kg/m3"
+    },
+    "answer": "d",
+    "explanation": "0.2 kg/m3 The ideal gas equation represents the state of a gas and provides a good approximation of its behavior under certain conditions. It is expressed as:PV = nRTWhere:P is the pressure,V is the volume,n is the number of moles of the gas,R is the universal gas constant, andT is the temperature.Using the ideal gas equation, we have:PV = mM RT ⟹ ρV = m ⟹ m = ρVPV = (ρV)RTMρ = PMRTSubstituting the values:ρ = 249 × 103 × 2 × 10-38.3 × 300 = 0.2 kg/m3",
+    "year": "2020",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The mean free path for a gas, with molecular diameter d and number density n can be expressed as : [2020]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Explanation:The mean free path for gas is given by",
+    "year": "2020",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2020_P11_Q11-explanation1.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2020_P11_Q11-explanation2.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2020_P11_Q11-explanation3.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2020_P11_Q11-explanation4.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2020_P11_Q11-explanation5.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2020_P11_Q11-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The average thermal energy for a mono-atomic gas is (kB is Boltzmann constant and T, absolute temperature) [2020]",
+    "options": {
+      "A": "1/2kBT",
+      "B": "3/2kBT",
+      "C": "5/2kBT",
+      "D": "7/2kBT"
+    },
+    "answer": "b",
+    "explanation": "3/2kBT Thermal energy refers to the energy present within a system that is responsible for its temperature.Thermal energy is given by the relation:ΔET = μk F dWhere:μk - Coefficient of frictionF - Forced - DistanceFor mono-atomic gas, the total degree of freedom = 3 (translational degrees of freedom), i.e., rotational, vibrational, and translational.The average thermal energy for a mono-atomic gas (U) is given as:U = (total degree of freedom) × 12 KBTBy putting the value of the degree of freedom, we get:U = 32 KBTHence, the average thermal energy for a mono-atomic gas is:U = 32 KBT",
+    "year": "2020",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Increase in temperature of a gas filled in a container would lead to: [2019]",
+    "options": {
+      "A": "Increase in its mass",
+      "B": "Increase in its kinetic energy",
+      "C": "Decrease in its pressure",
+      "D": "Decrease in intermolecular distance"
+    },
+    "answer": "b",
+    "explanation": "Increase in its kinetic energy (a) Increase in its mass: The mass of the gas remains constant as temperature changes; it is not affected by temperature.(b) Increase in its kinetic energy: As the temperature of the gas increases, the kinetic energy of the gas molecules increases because the molecules move faster at higher temperatures.(c) Decrease in its pressure: An increase in temperature would actually lead to an increase in pressure (if the volume is constant), not a decrease.(d) Decrease in intermolecular distance: The intermolecular distance usually increases when the temperature rises because gas molecules move faster and spread out more.",
+    "year": "2019",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "At what temperature will the rms speed of oxygen molecules become just sufficient for escaping from the Earth's atmosphere ? (Given: Mass of oxygen molecule (m) = 2.76 × 10-26 kg Boltzmann's constant kB = 1.38 × 10-23 J K-1):- [2018]",
+    "options": {
+      "A": "2.508 × 104 K",
+      "B": "8.360 × 104 K",
+      "C": "5.016 × 104 K",
+      "D": "1.254 × 104 K"
+    },
+    "answer": "b",
+    "explanation": "8.360 × 104 K Explanation: Mass of oxygen molecule (m) = 2.76 × 10-26 kgBoltzmann's constant (kB) = 1.38 × 10-23 J·K-1Escape velocity (Vescape) = 11200 m/sSay at temperature T, it attains Vescape.√ 3kBTmO2 = 11200 m/sOn solving,T = 8.360 × 104 K",
+    "year": "2018",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A gas mixture consists of 2 moles of O2 and 4 moles of Ar at temperature T. Neglecting all vibrational modes, the total internal energy of the system is:- [2017]",
+    "options": {
+      "A": "15 RT",
+      "B": "9 RT",
+      "C": "11 RT",
+      "D": "4 RT"
+    },
+    "answer": "c",
+    "explanation": "Explanation: For O2 (diatomic gas):Oxygen (O2) is a diatomic gas. For diatomic gases, the internal energy per mole is given by:UO2 = 52 RT per moleFor 2 moles of O2:UO2 = 2 × 52 RT = 5RTFor Ar (monatomic gas):Argon (Ar) is a monatomic gas. For monatomic gases, the internal energy per mole is given by:UAr = 32 RT per moleFor 4 moles of Ar:UAr = 4 × 32 RT = 6RTTotal Internal Energy of the System:The total internal energy is the sum of the internal energy of O2 and Ar:Utotal = UO2 + UAr = 5RT + 6RT = 11RTThus, the total internal energy of the system is 11RT.",
+    "year": "2017",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The molecules of a given mass of a gas have r.m.s. velocity of 200 ms-1 at 27°C and 1.0 x 10-5 Nm-2 pressure. When the temperature and pressure of the gas are respectively, 127°C and 0.05 x 105Nm2, the r.m.s. velocity of velocity of its molecules in ms-1 is; [2016]",
+    "options": {
+      "A": "100 / 3",
+      "B": "100 √2",
+      "C": "400 / √3",
+      "D": "100√2 / 3"
+    },
+    "answer": "c",
+    "explanation": "Explanation: The root mean square (r.m.s.) velocity (vrms) of a gas is given by:vrms ∝ √TThis means that the r.m.s. velocity is proportional to the square root of the absolute temperature of the gas.Given that the initial r.m.s. velocity vrms,i = 200 m/s at an initial temperature T1 = 27°C = 300 K, we want to find the r.m.s. velocity at the new temperature T2 = 127°C = 400 K.Using the relation:vrms,2vrms,i = √ T2T1Substitute the given values:vrms,2200 = √ 400300 = √ 43Thus:vrms,2 = 200 × √ 43 = 200 × 2√3 = 400√3 m/s",
+    "year": "2016",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A given sample of an ideal gas occupies a volume V at a pressure P and absolute temperature T. The mass of each molecule of the gas is m. Which of the following gives the density of the gas ? [2016]",
+    "options": {
+      "A": "P/(kT)",
+      "B": "Pm/(kT)",
+      "C": "P/(kTV)",
+      "D": "mkT"
+    },
+    "answer": "b",
+    "explanation": "Pm/(kT) Explanation: We know that ideal gas equation is PV = NkT Where, P is the pressure V is the volume N is the number of molecules k is the Boltzmann constant T is the temperatureNow, the mass of the gas sample is given by:M = N × mWhere m is the mass of one molecule.The density (ρ) of the gas is:ρ = MV = N × mVFrom the ideal gas law PV = NkT, we can solve for NV (the number density):NV = PkTSubstituting this into the density equation:ρ = m × PkTThus, the density of the gas is:ρ = PmkT",
+    "year": "2016",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The ratio of the specific heats in terms of degrees of freedom (n) is given by: [2015]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "",
+    "explanation": "Explanation: The ratio of the specific heats γ = CPCV is related to the degrees of freedom (n) of the gas molecules. For a gas:CV(specific heat at constant volume) is given by:CV = n2 RCP (specific heat at constant pressure) is related to CVas:CP = CV + R = n2 R + R = (n + 2)2 RNow, the ratio:γ = CPCV = (n + 2)2 Rn2 R = n + 2nThus, the correct expression for γ is:γ = 1 + 2n",
+    "year": "2015",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2015_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2015_P11_Q18-explanation2.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2015_P11_Q18-explanation3.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2015_P11_Q18-explanation4.png",
+      "PHYSICS/P11/chapters/kinetic-theory/KINETIC_THEORY-2015_P11_Q18-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Two vessels separately contain two ideal gases A and B at the same temperature, the pressure of A being twice that of B. Under such conditions, the density of A is found to be 1.5 times the density of B. The ratio of molecular weight of A and B is [2015]",
+    "options": {
+      "A": "2",
+      "B": "1/2",
+      "C": "2/3",
+      "D": "3/4"
+    },
+    "answer": "d",
+    "explanation": "3/4 Explanation: According to an ideal gas equation, the molecular weight of an ideal gas is M = ρRT / P As:P = ρRTMwhere P, T, and ρ are the pressure, temperature, and density of the gas respectively, and R is the universal gas constant.∴ The molecular weight of A is:MA = ρARTAPAand that of B is:MB = ρBRTBPBHence, their corresponding ratio is:MAMB = ρAρB × TATB × PBPA1Here:ρA/ρB = 1.5 = 32TA/TB = 1PA/PB = 2∴ MAMB = 32 × 1 × 12 = 34",
+    "year": "2015",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The mean free path of molecules of a gas,(radius 'r') is inversely proportional to: [2014]",
+    "options": {
+      "A": "r",
+      "B": "√r",
+      "C": "r3",
+      "D": "r2"
+    },
+    "answer": "d",
+    "explanation": "r2 Explanation: The mean free path (λ) of a gas molecule is the average distance a molecule travels between collisions. It is given by the formula:λ = 1√2 nπd2Where:n is the number density (number of molecules per unit volume).d is the diameter of the gas molecule.Since the diameter d is directly proportional to the radius r of the molecule (d = 2r), the mean free path is inversely proportional to the square of the radius (r2).Thus, the mean free path is inversely proportional to r2.",
+    "year": "2014",
+    "chapter": "Kinetic Theory",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "Q1",
+    "text": "For the reaction A(g) ⇌ 2B(g), the backward reaction rate constant is higher than the forward reaction rate constant by a factor of 2500 at 1000 K. Kp for the reaction at 1000 K is. [Given: R = 0.0831 L atm mol-1 K-1]",
+    "options": {
+      "A": "0.033",
+      "B": "0.021",
+      "C": "83.1",
+      "D": "2.077 × 105"
+    },
+    "answer": "a",
+    "explanation": "The relationship between the rate constants for the forward and backward reactions is: Given that the backward rate constant is 2500 times the forward rate constant, we have: Next, we use the equation to find Kp : Kp = KC (RT)Δng Given that Δng = 1 (because there is a change in the number of moles from 1 mole of reactants to 2 moles of products), we substitute the known values: Solving the equation: Therefore, the correct value of Kp is 0.033.",
+    "year": "2025",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2025_C11_Q1-explanation1.jpg",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2025_C11_Q1-explanation2.jpg",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2025_C11_Q1-explanation3.jpg",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2025_C11_Q1-explanation4.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Phosphoric acid ionizes in three steps, with their ionization constant values Ka1, Ka2 and Ka3, respectively, while K is the overall ionization constant. Which of the following statements are true?",
+    "options": {
+      "A": "B, C and D only",
+      "B": "A, B and C only",
+      "C": "A and B only",
+      "D": "A and C only"
+    },
+    "answer": "b",
+    "explanation": "Statement A: log K = log Ka1 + log Ka2 + log Ka3 is correct because the overall ionization constant is the product of the individual ionization constants, and the logarithm of a product is the sum of the logarithms of the individual factors.Statement B: H3PO4 is stronger than H2PO4- and HPO42- is correct because the acid strength decreases with successive ionizations. The first ionization constant (Ka1) is the largest, making H3PO4 the strongest acid among its ionized forms.Statement C: Ka1 > Ka2 > Ka3 is correct because the ionization constants decrease sequentially as the molecule loses protons, reflecting decreasing acid strength with each step.Statement D: K = (Ka1 + Ka2)/2 is incorrect because the overall ionization constant is the product of Ka1, Ka2, and Ka3, not an average of the first two constants.Therefore, the correct answer is A, B, and C only.",
+    "year": "2025",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2025_C11_Q2-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Higher yield of NO in N2(g) + O2(g) ⇌ 2NO(g) can be obtained at [ΔH of the reaction = +180.7 kJ mol-1] A. higher temperature B. lower temperature C. higher concentration of N2 D. higher concentration of O2",
+    "options": {
+      "A": "B, C, D only",
+      "B": "A, C, D only",
+      "C": "A, D only",
+      "D": "B, C only"
+    },
+    "answer": "b",
+    "explanation": "Higher temperature: Since the reaction is endothermic, increasing the temperature supplies more energy to drive the reaction forward.Higher concentration of N2: Adding more N2 shifts the equilibrium toward the products.Higher concentration of O2: Adding more O2 also shifts the equilibrium toward the products.Therefore, the correct answer is A, C, D only.",
+    "year": "2025",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "In which of the following equilibria, Kp and Kc are NOT equal?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "To determine in which of the given equilibria Kp and Kc are not equal, it's important to understand the relationship between these two equilibrium constants. This relationship is expressed by the equation: Kp = Kc(RT)Δn where R is the gas constant, T is the temperature in Kelvin, and Δn is the change in the number of moles of gas (number of moles of gaseous products minus number of moles of gaseous reactants). If Δn = 0, then Kp and Kc are equal because (RT)0 = 1. However, if Δn ≠ 0, the constants will not be the same, and the degree to which they differ will depend on the temperature and the value of Δn. Now, let's analyze each option: Option A: Reactant side moles = 1, Product side moles = 2; Δn=2-1=1. Option B: Reactant side moles = 2, Product side moles = 2; Δn=2-2=0. Option C: Reactant side moles = 2, Product side moles = 2; Δn=2-2=0. Option D: Reactant side moles = 2, Product side moles = 2; Δn=2-2=0. From this analysis, it is evident that Kp and Kc are not equal in Option A where Δn = 1. In all other options, since Δn = 0, Kp is equal to Kc. Thus, the correct answer is Option A.",
+    "year": "2024",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q4-main.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q4-main2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q4-main3.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q4-main4.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q4-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q4-explanation2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q4-explanation3.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q4-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "For the reaction 2A ⇌ B + C, Kc = 4 × 10-3. At a given time, the composition of reaction mixture is: . [A] = [B] = [C] = 2 × 10-3M. Then, which of the following is correct?",
+    "options": {
+      "A": "Reaction is at equilibrium.",
+      "B": "Reaction has a tendency to go in forward direction.",
+      "C": "Reaction has a tendency to go in backward direction.",
+      "D": "Reaction has gone to completion in forward direction."
+    },
+    "answer": "c",
+    "explanation": "To determine which option is correct regarding the reaction state and its direction, we need to calculate the reaction quotient Qc and compare it to the equilibrium constant Kc. The reaction given is: 2A ⇌ B + C The equilibrium constant expression Kc for this reaction is: Given that Kc = 4 × 10-3 and the concentrations of A, B, and C at this time are each 2 × 10-3 M, we can substitute these values into the expression for Kc to calculate the reaction quotient Qc: Simplifying, we find: Since Qc > Kc (1 > 0.004), the reaction quotient is greater than the equilibrium constant. This indicates that the concentration of products (B and C) is too high relative to the concentration of reactants (A) for the system to be at equilibrium under these conditions. This means that the reaction has a tendency to move in the backward direction to reach equilibrium, reducing the concentration of the products (B and C) and increasing the concentration of the reactant (A). Therefore, the correct answer to the given question is: Option C: Reaction has a tendency to go in backward direction.",
+    "year": "2024",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q5-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q5-explanation2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q5-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Consider the following reaction in a sealed vessel at equilibrium with concentrations of N2 = 3.0 × 10-3M, O2 = 4.2 × 10-3M and NO = 2.8 × 10-3M. 2NO(g) ⇌ N2(g) + O2(g) If 0.1molL L-1 of NO(g) is taken in a closed vessel, what will be degree of dissociation (α) of NO(g) at equilibrium?",
+    "options": {
+      "A": "0.00889",
+      "B": "0.0889",
+      "C": "0.8889",
+      "D": "0.717"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q6-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2024_C11_Q6-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Consider the reaction in equilibrium: PCl₅ = PCl₃ + Cl₂ At 500 K, the concentration of PCl₅ = 1.40 M, concentration of Cl₂ = 1.60 M, and concentration of PCl₃ = 1.60 M. Calculate Kc",
+    "options": {
+      "A": "2.00",
+      "B": "2.6",
+      "C": "1.83",
+      "D": "3.4"
+    },
+    "answer": "c",
+    "explanation": "The equilibrium expression for the given reaction is: Kc = [PCl₃][Cl₂] / [PCl₅] Substitute the given concentrations into the expression: Kc = (1.60)(1.60) / (1.40) Kc = 2.56 / 1.40 Kc = 1.83 So, the value of Kc is 1.83.",
+    "year": "2024",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "For the equilibrium: 2 NOCl(g) ⇌ 2 NO(g) + Cl₂(g) The value of the equilibrium constant is 3.0 × 10⁻⁶ at 1000 K. Find Kp for the reaction at this temperature (Given R = 8.314 J K⁻¹ mol⁻¹)",
+    "options": {
+      "A": "1.493",
+      "B": "2.494 × 10⁻²",
+      "C": "3.0 × 10⁻⁶",
+      "D": "2.494 × 10⁻⁴"
+    },
+    "answer": "b",
+    "explanation": "To convert from Kc to Kp, we use the relationship: Kp = Kc × (RT)(Δn) Where:Kp is the equilibrium constant in terms of partial pressure.Kc is the equilibrium constant in terms of concentration.R is the universal gas constant (8.314 J/mol·K).T is the temperature in Kelvin (1000 K in this case).Δn is the change in the number of moles of gas between the products and reactants.For the reaction: 2 NOCl(g) ⇌ 2 NO(g) + Cl₂(g)The number of moles of gas on the left side is 2 (NOCl).The number of moles of gas on the right side is 2 (NO) + 1 (Cl₂) = 3.So, Δn = 3 - 2 = 1. Now, substitute the values into the equation: Kp = Kc × (RT)(Δn) Kp = 3.0 × 10⁻⁶ × (8.314 × 1000)¹ Kp = 3.0 × 10⁻⁶ × 8314 Kp = 2.494 × 10⁻²Thus, Kp = 2.494 × 10⁻².",
+    "year": "2024",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "At a given temperature and pressure, the equilibrium constant value for the equilibria are given below: 3 A₂ + B₂ ⇌ 2 A₃B, K₁ A₃B ⇌ 3/2 A₂ + 1/2 B₂, K₂ The relation between K₁ and K₂ is",
+    "options": {
+      "A": "K₁² = 2K₂",
+      "B": "K₂ = K₁ / 2",
+      "C": "K₁ = 1 / √K₂",
+      "D": "K₂ = 1 / √K₁"
+    },
+    "answer": "d",
+    "explanation": "To find the relation between the equilibrium constants K₁ and K₂, let's first analyze the given equilibria.The first equilibrium is: 3 A₂ + B₂ ⇌ 2 A₃B, with equilibrium constant K₁.The second equilibrium is: A₃B ⇌ 3/2 A₂ + 1/2 B₂, with equilibrium constant K₂.Now, notice that the second equilibrium is essentially the reverse of the first one, but with the coefficients halved. To relate K₁ and K₂, we need to consider the effects of reversing the reaction and adjusting the coefficients:When a reaction is reversed, the equilibrium constant is inverted. So, for the reaction A₃B ⇌ 3/2 A₂ + 1/2 B₂, the equilibrium constant will be 1/K₁ (since it's the reverse of the first reaction).Also, if the coefficients of the reaction are divided by 2, the equilibrium constant changes by a factor of √(K₁). This is because the equilibrium constant is related to the powers of the concentrations of the species involved, and halving the coefficients takes the square root of K₁.Therefore, the relationship between K₁ and K₂ is: K₂ = 1 / √K₁. Thus, the correct answer is (d) K₂ = 1 / √K₁.",
+    "year": "2024",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "For the reaction in equilibrium: N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g), ΔH = -Q The reaction is favored in the forward direction by",
+    "options": {
+      "A": "Use of catalyst",
+      "B": "Decreasing concentration of N₂",
+      "C": "Low pressure, high temperature, and high concentration of ammonia",
+      "D": "High pressure, low temperature, and higher concentration of H₂"
+    },
+    "answer": "d",
+    "explanation": "The reaction is exothermic (ΔH = -Q), which means it releases heat. According to Le Chatelier's Principle, the system will shift in the direction that opposes the change. To favor the forward reaction (formation of ammonia), conditions should favor the products.High pressure: In this reaction, there are 4 moles of reactants (1 N₂ + 3 H₂) and 2 moles of product (2 NH₃). An increase in pressure will shift the equilibrium towards the side with fewer moles of gas (towards NH₃), thus favoring the forward reaction.Low temperature: Since the reaction is exothermic (ΔH = -Q), lowering the temperature will favor the forward reaction, as it would release heat and oppose the decrease in temperature.Higher concentration of H₂: Increasing the concentration of one of the reactants (H₂) will shift the equilibrium towards the formation of more ammonia, as per Le Chatelier's Principle.",
+    "year": "2024",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The ratio of solubility of AgCl in 0.1 M KCl to the solubility of AgCl in water is: (Given: Solubility product of AgCl = 10⁻¹⁰)",
+    "options": {
+      "A": "10⁻⁴",
+      "B": "10⁻⁶",
+      "C": "10⁻⁹",
+      "D": "10⁻⁵"
+    },
+    "answer": "a",
+    "explanation": "To find the ratio of solubility of AgCl in 0.1 M KCl solution to its solubility in water, we will use the solubility product (Ksp) and the common ion effect. Step 1: Solubility of AgCl in Water The solubility product expression for AgCl is:AgCl ⇌ Ag⁺ + Cl⁻ The solubility product (Ksp) of AgCl is given as Ksp = 10⁻¹⁰. If the solubility of AgCl in water is S, the concentration of Ag⁺ and Cl⁻ will both be S in pure water. Hence, the expression for the solubility product becomes: Ksp = [Ag⁺][Cl⁻] = S × S = S² Therefore : S² = 10⁻¹⁰So, S = 10⁻⁵ M.Step 2: Solubility of AgCl in 0.1 M KCl Solution Now, in the presence of 0.1 M KCl, the concentration of Cl⁻ ions will already be 0.1 M, and the solubility of AgCl will decrease due to the common ion effect. Let the new solubility be S'. For the dissociation of AgCl:AgCl ⇌ Ag⁺ + Cl⁻ The solubility product expression becomes: Ksp = [Ag⁺][Cl⁻] Since the concentration of Cl⁻ is now 0.1 M (from KCl), we have: Ksp = S' × 0.1 Substitute the value of Ksp = 10⁻¹⁰:10⁻¹⁰ = S' × 0.1 Solve for S':S' = 10⁻¹⁰ / 0.1 = 10⁻⁹ MStep 3: Find the Ratio of Solubilities The ratio of the solubility of AgCl in 0.1 M KCl solution to its solubility in water is:(S' / S) = (10⁻⁹ / 10⁻⁵) = 10⁻⁴ Thus, the correct answer is (a) 10⁻⁴.",
+    "year": "2024",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Amongst the given options, which of the following molecules/ions acts as a Lewis acid?",
+    "options": {
+      "A": "OH⁻",
+      "B": "NH₃",
+      "C": "H₂O",
+      "D": "BF₃"
+    },
+    "answer": "d",
+    "explanation": "Lewis acid is a substance that can accept an electron pair.OH⁻ (Hydroxide ion) is a Lewis base because it can donate an electron pair, not accept one.NH₃ (Ammonia) is also a Lewis base because the nitrogen atom in ammonia has a lone pair of electrons that it can donate.H₂O (Water) can act as both a Lewis acid and base, but it is more often considered a Lewis base because it can donate a lone pair of electrons.BF₃ (Boron trifluoride) is a Lewis acid. The boron atom in BF₃ has an incomplete octet and can accept an electron pair from a Lewis base.Hence, BF₃ is the Lewis acid among the given options.",
+    "year": "2023",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The equilibrium concentration of the species in the reaction: [NEET 2023] A + B ⇌ C + D are 2, 3, 10, and 6 mol L⁻¹, respectively, at 300 K. Calculate ΔG⁰ for the reaction. (Given: R = 2 cal/mol K)",
+    "options": {
+      "A": "13.73 cal",
+      "B": "1372.60 cal",
+      "C": "137.26 cal",
+      "D": "1381.80 cal"
+    },
+    "answer": "d",
+    "explanation": "To calculate the standard Gibbs free energy change (ΔG⁰) for the reaction, we can use the following equation: ΔG⁰ = ΔG⁰° + RT ln(Q) Where:ΔG° is the standard Gibbs free energy change (which we are calculating),R is the gas constant (2 cal/mol·K),T is the temperature in Kelvin (300 K),Q is the reaction quotient.The reaction is: A + B ⇌ C + D Step 1: Write the reaction quotient (Q). The reaction quotient Q is given by: Q = [C][D] / [A][B] From the given equilibrium concentrations:[A] = 2 mol/L,[B] = 3 mol/L,[C] = 10 mol/L,[D] = 6 mol/L.Substitute these values into the equation for Q: Q = (10 × 6) / (2 × 3) = 60 / 6 = 10.Step 2: Use the equation for ΔG⁰. The formula for the standard Gibbs free energy change at equilibrium is: ΔG⁰ = ΔG⁰ + RT ln(Q) At equilibrium, ΔG⁰ = 0, and therefore: 0 = ΔG⁰ + RT ln(Q) Rearranging: ΔG⁰ = -RT ln(Q) Substitute the values:R = 2 cal/mol·K,T = 300 K,Q = 10.ΔG° = - (2 cal/mol·K × 300 K) × ln(10) We know ln(10) ≈ 2.3026. ΔG⁰ = - (600) × 2.3026 ΔG⁰ ≈ -1381.56 calStep 3: Round to the nearest value. The calculated value of ΔG° is approximately -1381.80 cal. Thus, the correct answer is (d) -1381.80 cal.",
+    "year": "2023",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Which combination of the following substances will result in the formation of an acidic buffer when mixed? (Given: pKa of the acid = pKb of the base) [NEET 2023]",
+    "options": {
+      "A": "Weak acid and its salt with a strong base.",
+      "B": "Equal volumes of equimolar s of weak acid and weak base.",
+      "C": "Strong acid and its salt with a strong base.",
+      "D": "Strong acid and its salt with a weak base."
+    },
+    "answer": "a",
+    "explanation": "A buffer solution resists changes in pH when small amounts of acid or base are added. A weak acid and its salt with a strong base form an acidic buffer because the salt provides the conjugate base, and the weak acid provides the acidic component.Option (a): A weak acid and its salt (formed from the reaction of the weak acid with a strong base) create an acidic buffer solution. For example, acetic acid (CH₃COOH) reacts with sodium hydroxide (NaOH), forming sodium acetate (NaOAc), which is the salt. The weak acid and the conjugate base (from the salt) balance each other and create an acidic buffer.Option (b): Mixing equal volumes of equimolar solutions of a weak acid and weak base may not form a buffer unless specific conditions are met. For it to be a buffer, the pKa of the acid and pKb of the base need to be similar. This combination does not always result in a buffer solution.Option (c): A strong acid and its salt with a strong base do not form a buffer solution because both the acid and base completely dissociate, and there is no weak component to resist changes in pH.Option (d): A strong acid and its salt with a weak base will not form a buffer either, as the strong acid dissociates completely, and no weak acid/base pair is present to maintain the pH.Thus, the combination that will form an acidic buffer is weak acid and its salt with a strong base.",
+    "year": "2023",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "For a weak acid HA, the percentage of dissociation is nearly 1% at equilibrium. If the concentration of acid is 0.1 mol L⁻¹, then the correct option for its Ka at the same temperature will be: [NEET 2023]",
+    "options": {
+      "A": "1 × 10⁻⁴",
+      "B": "1 × 10⁻⁶",
+      "C": "1 × 10⁻⁵",
+      "D": "1 × 10⁻³"
+    },
+    "answer": "c",
+    "explanation": "The percentage of dissociation for a weak acid is given as approximately 1%. This means that 1% of the initial acid concentration dissociates into ions at equilibrium. Let's calculate the Ka (acid dissociation constant) using the following steps:Given concentration of the acid (HA) = 0.1 mol/L Percentage dissociation = 1% = 0.01 (as a decimal) The amount dissociated at equilibrium is: [HA dissociated] = 0.1 mol/L × 0.01 = 0.001 mol/L At equilibrium, the concentration of dissociated ions [H⁺] and [A⁻] will both be 0.001 mol/L. The concentration of undissociated HA will be: [HA] = 0.1 mol/L - 0.001 mol/L = 0.099 mol/L The expression for the acid dissociation constant Ka is: Ka = [H⁺][A⁻] / [HA] Substituting the values: Ka = (0.001) × (0.001) / 0.099 = 1 × 10⁻⁶ / 0.099 = 1 × 10⁻⁵ Thus, the Ka of the acid is approximately 1 × 10⁻⁵.",
+    "year": "2023",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The pH of the containing 50 mL each of 0.10 sodium acetate and 0.01 M acetic acid is [Given pKa of CH3COOH = 4.57]",
+    "options": {
+      "A": "4.57",
+      "B": "2.57",
+      "C": "5.57",
+      "D": "3.57"
+    },
+    "answer": "c",
+    "explanation": "Given solution is acidic buffer solution.",
+    "year": "2022",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2022_C11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "for the above reaction at 298 K, KC is found to be 3.0 × 10-59. If the concentration of O2 at equilibrium is 0.040 M then concentration of O3 in M is",
+    "options": {
+      "A": "2.4 × 1031",
+      "B": "1.2 × 1021",
+      "C": "4.38 × 10-32",
+      "D": "1.9 × 10-63"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2022_C11_Q17-main.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2022_C11_Q17-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2022_C11_Q17-explanation2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2022_C11_Q17-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "0.01 M acetic acid is 1% ionised, then pH of this acetic acid is",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "2",
+      "D": "4"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2022_C11_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Kp for the following reaction is 3.0 at 1000 K. CO2(g) + C(s) ⇌ 2CO(g) What will be the value of Kc for the reaction at the same temperature? (Given : R = 0.083 L bar K-1 mol-1)",
+    "options": {
+      "A": "3.6",
+      "B": "0.36",
+      "C": "3.6 × 10-2",
+      "D": "3.6 × 10-3"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2022_C11_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The pKb of dimethylamine and pka of acetic acid are 3.27 and 4.77 respectively at T (K). The correct option for the pH of dimethylammonium acetate at is",
+    "options": {
+      "A": "7.75",
+      "B": "6.25",
+      "C": "8.50",
+      "D": "5.50"
+    },
+    "answer": "a",
+    "explanation": "Calculate the pH of dimethylammonium acetate is as follows: pH = 7.75 Hence, option 1 is the correct answer.",
+    "year": "2021",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2021_C11_Q20-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2021_C11_Q20-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Find out the solubility of Ni(OH)2 in 0.1 M NaOH. Given that the ionic product of Ni(OH)2 is 2×10-15",
+    "options": {
+      "A": "1 × 10-13 M",
+      "B": "1 × 108 M",
+      "C": "2 × 10-13 M",
+      "D": "2 × 10-8 M"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2020_C11_Q21-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2020_C11_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "pH of a saturated of Ca(OH)2 is 9. The solubility product (Ksp) of Ca(OH)2 is",
+    "options": {
+      "A": "0.5 × 10-15",
+      "B": "0.25 × 10-10",
+      "C": "0.125 × 10-15",
+      "D": "0.5 × 10-10"
+    },
+    "answer": "a",
+    "explanation": "pH = 9 Hence pOH = 14 - 9 = 5 [OH-] = 10-5 M Thus Ksp = [Ca2+][OH-]2",
+    "year": "2019",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q22-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q22-explanation2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q22-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Conjugate base for Brönsted acids H2O and HF are",
+    "options": {
+      "A": "OH- and H2F+, respectively",
+      "B": "H3O+ and F-, respectively",
+      "C": "OH- and F-, respectively",
+      "D": "H3O+ and H2F+, respectively"
+    },
+    "answer": "c",
+    "explanation": "HF on loss of H+ ion becomes F- is the conjugate base of HF Example :",
+    "year": "2019",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q23-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q23-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Which will make basic buffer?",
+    "options": {
+      "A": "50 mL of 0.1 M NaOH + 25 mL of 0.1 M CH3COOH",
+      "B": "100 mL of 0.1 M CH3COOH + 100 mL of 0.1 M NaOH",
+      "C": "100 mL of 0.1 M HCl + 200 mL of 0.1 M NH4OH",
+      "D": "100 mL of 0.1 M HCl + 100 mL of 0.1 M NaOH"
+    },
+    "answer": "c",
+    "explanation": "This is basic solution due to NaOH. This is not basic buffer. Hydrolysis of salt takes place. This is not basic buffer. This is basic buffer ⇒ Neutral solution",
+    "year": "2019",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q24-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q24-explanation2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q24-explanation3.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2019_C11_Q24-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "The solubility of BaSO4 in water 2.42×103 gL-1 at 298 K. The value of solubility product (Ksp) will be(Given molar mass of BaSO4 = 233 g mol-1)",
+    "options": {
+      "A": "1.08 × 10-10 mol2 L-2",
+      "B": "1.08 × 10-12 mol2 L-2",
+      "C": "1.08 × 10-14 mol2 L-2",
+      "D": "1.08 × 10-8 mol2 L-2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2018_C11_Q25-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Following s were prepared by mixing different volumes of NaOH and HCl of different concentrations : pH of which one of them will be equal to 1 ?",
+    "options": {
+      "A": "b",
+      "B": "a",
+      "C": "d",
+      "D": "c"
+    },
+    "answer": "d",
+    "explanation": "(A) 60 mL M/10 HCl + 40 mL M/10 NaOH Mili. moles of HCl = 60 × 1/10 = 6 Mili. moles of NaOH = 40 × 1/10 = 4 Mili. moles of HCl remaining = 6 - 4 = 2 Total volume will be 60 + 40 = 100 mL Concentration of [H+] = 22/100 = 2 × 10-2 ∴ pH = 2 - log2 = 1.7 (B) 55 mL M/10 HCl + 45 mL M/10 NaOH Mili. moles of HCl = 55 × 1/10 = 5.5 Mili. moles of NaOH = 45 × 1/10 = 4.5 Mili. moles of HCl remaining = 5.5 - 4.5 = 1 Concentration of [H+] = 1100 = 10-2 ∴ pH = 2 (C) 75 mL M/5 HCl + 25 mL M/5 NaOH Mili. moles of HCl = 75 × 1/5 = 15 Mili. moles of NaOH = 25 ×1/5 = 5 Mili. moles of HCl remaining = 15 - 5 = 10 Total volume will be 75 + 25 = 100 mL Concentration of [H+] = 10/100 = 10-1 ∴ pH = 1 (D) 100 mL M/10 HCl + 100 mL M/ 10 NaOH Mili. moles of HCl = 100 × 1/10 = 10 Mili. moles of NaOH = 100 × 1/10 = 10 Mili. moles of HCl remaining = 10 - 10 = 0 So, it is neutral solution. ∴ pH = 7",
+    "year": "2018",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2018_C11_Q26-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "numbered_paren_options",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Which one of the following conditions will favour maximum formation of the product in the reaction A2(g) + B2(g) ⇌ X2(g) ΔrH = -X kJ ?",
+    "options": {
+      "A": "Low temperature and high pressure",
+      "B": "Low temperature and low pressure",
+      "C": "High temperature and high pressure",
+      "D": "High temperature and low pressure"
+    },
+    "answer": "a",
+    "explanation": "For reaction ΔH = - ve and Δng = - ve ∴ High P, Low T, favour product formation.",
+    "year": "2018",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Concentration of the Ag+ ions in a saturated of Ag2C2O4 is 2.2 × 10-4 mol L-1 Solubility product of Ag2C2O4 is",
+    "options": {
+      "A": "2.66 × 10-12",
+      "B": "4.5 × 10-11",
+      "C": "5.3 × 10-12",
+      "D": "2.42 × 10-8"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q28-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "The equilibrium constant of the following are : The equilibrium constant (K) of the reaction",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q29-main.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q29-main2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q29-main3.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q29-main4.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q29-main5.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q29-main6.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "A 20 litre container at 400 K contains CO2(g) at pressure 0.4 atm and an excess of SrO (neglect the volume of solid SrO). The volume of the container is now decreased by moving the movable piston fitted in the container. The maximum volume of the container, when pressure of CO2 attains its maximum value, will be",
+    "options": {
+      "A": "10 litre",
+      "B": "4 litre",
+      "C": "2 litre",
+      "D": "5 litre"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q30-main.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2017_C11_Q30-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "MY and NY3, two nearly insoluble salts, have the same Ksp values of 6.2 x 10-13 at room temperature, which statements would be true in regard to MY and NY3?",
+    "options": {
+      "A": "The addition of the salt of KY to of MY and NY3 will have no effect on their solubilities.",
+      "B": "The molar solubilities of MY and NY3 in water are identical.",
+      "C": "The molar solubility of MY in water is less than that of NY3.",
+      "D": "The salts MY and NY3 are more soluble in 0.5 M KY than in pure water."
+    },
+    "answer": "c",
+    "explanation": "For MY,",
+    "year": "2016",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2016_C11_Q31-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "Consider the following liquid-vapour equilibrium. Liquid ⇌ Vapour Which of the following relations is correct ?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "This is Clausius-Clapeyron equation.",
+    "year": "2016",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2016_C11_Q32-main.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2016_C11_Q32-main2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2016_C11_Q32-main3.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2016_C11_Q32-main4.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2016_C11_Q32-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "The percentage of pyridine (C5H5N) that forms pyridinium ion (C5H5N+H) ina 0.10 M aqueous pyridine (Kb for C5H5N = 1.7 × 10-9) is",
+    "options": {
+      "A": "0.0060%",
+      "B": "0.013%",
+      "C": "0.77%",
+      "D": "1.6%"
+    },
+    "answer": "b",
+    "explanation": "C5H5N + H2O → C5H5N+H + OH- So, the amount of pyridine that forms pyridinium ion is α. So, percentage of pyridine that forms pyridinium ion = 1.30 × 10-4 × 100 = 1.30 × 10-2 = 0.013%",
+    "year": "2016",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2016_C11_Q33-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Which of the following fluro-compounds is most likely to behave as a Lewis base ?",
+    "options": {
+      "A": "BF3",
+      "B": "PF3",
+      "C": "CF4",
+      "D": "SiF4"
+    },
+    "answer": "b",
+    "explanation": "PF3 is lewis base because on P atom there is lone pair.",
+    "year": "2016",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "The solubility of AgCl(s) with solubility product 1.6 × 10-10 in 0.1 M NaCl would be",
+    "options": {
+      "A": "1.26 × 10-5 M",
+      "B": "1.6 × 10-9 M",
+      "C": "1.6 × 10-11 M",
+      "D": "Zero"
+    },
+    "answer": "b",
+    "explanation": "Concentration of Cl- is (s + 0.1) mol L-1 because s mol L-1 from ionization of AgCl and 0.1 mol L-1 from ionization of 0.1 M NaCl. Now, Ksp = [Ag+][Cl- ] ⇒ 1.6 × 10-10 = s (s + 0.1) ⇒ 1.6 × 10-10 = s (0.1) {∵ s << 0.1} ⇒ s = 1.6 × 10-9 M",
+    "year": "2016",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2016_C11_Q35-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "The Ksp of Ag2CrO4, AgCl, AgBr and AgI are respectively, 1.1 x 10-12, 1.8 x 10-10, 5.0 x 10-13, 8.3 x 10-17. Which one of the following salts will precipitate last if AgNO3 is added to the containing equal moles of NaCl, NaBr, NaI and Na2CrO4 ?",
+    "options": {
+      "A": "Ag2CrO4",
+      "B": "AgI",
+      "C": "AgCl",
+      "D": "AgBr"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2015_C11_Q36-explanation1.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2015_C11_Q36-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "If the value of an equilibrium constant for a particular reaction is 1.6 x 1012, then at equilibrium the system will contain",
+    "options": {
+      "A": "similar amounts of reactants and products",
+      "B": "all reactants",
+      "C": "mostly reactants",
+      "D": "mostly products"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2015_C11_Q37-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "What is the pH of the resulting when equal volumes of 0.1 M NaOH and 0.01 M HCl are mixed?",
+    "options": {
+      "A": "2.0",
+      "B": "7.0",
+      "C": "1.04",
+      "D": "12.65"
+    },
+    "answer": "d",
+    "explanation": "As equal volumes of HCl and NaOH are added so the volume of resulting solution becomes double and the concentration of the solution becomes half. ∴ [OH-] = 0.09/2 = 0.045 M ∴ pOH = - log[OH- ] = -log [0.045] = 1.35 ∴ pH = 14 - pOH = 14 - 1.35 = 12.65",
+    "year": "2015",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2015_C11_Q38-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Which one of the following pairs of is not an acidic buffer ?",
+    "options": {
+      "A": "CH3COOH and CH3COONa",
+      "B": "H2CO3 and Na2CO3",
+      "C": "H3PO4 and Na3PO4",
+      "D": "HClO4 and NaClO4"
+    },
+    "answer": "d",
+    "explanation": "An acidic buffer is a mixture of a weak acid and its salt with a strong base. Among CH3COOH, H2CO3, H3PO4 and HClO4, the HClO4 is a strong acid while all other are weak acid thus, HClO4 and NaClO4 does not constitute to form an acidic buffer.",
+    "year": "2015",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "For the reversible reaction : N2(g) + 3H2(g) ⇔ 2NH3 (g) + heat The equilibrium shifts in forward direction",
+    "options": {
+      "A": "by decreasing the concentrations of N2(g) and H2(g)",
+      "B": "by increasing pressure and decreasing temperature",
+      "C": "by increasing the concentration of NH3(g)",
+      "D": "by decreasing the pressure"
+    },
+    "answer": "b",
+    "explanation": "As the forward reaction is exothermic and leads to lowering of pressure (produces lesser number of gaseous moles). Hence, According to Le Chatelier's principle, at high pressure and low temperature, the given reversible reaction will shift in forward direction to form more product.",
+    "year": "2014",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "Using the Gibbs energy change, ΔG° = +63.3 kJ, for the following reaction",
+    "options": {
+      "A": "2.9 × 10-3",
+      "B": "7.9 × 10-2",
+      "C": "3.2 × 10-26",
+      "D": "8.0 × 10-12"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2014",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2014_C11_Q41-main.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2014_C11_Q41-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "For a given exothermic reaction, Kp and K'p are the equilibrium constants at temperatures T1 and T2 , respectively. Assuming that heat of reaction is constant in temperature range between T1 and T2 , it is readily observed that",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "For exothermic reactions, on increasing the temperature the value of equilibrium constant decreases.",
+    "year": "2014",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2014_C11_Q42-main.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2014_C11_Q42-main2.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2014_C11_Q42-main3.png",
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2014_C11_Q42-main4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "Which of the following salts will give highest pH in water ?",
+    "options": {
+      "A": "Na2CO3",
+      "B": "CuSO4",
+      "C": "KCl",
+      "D": "NaCl"
+    },
+    "answer": "a",
+    "explanation": "The highest pH refers to the basic solution containing OH- ions. Therefore, the basic salt releasing OH- ions on hydrolysis will give highest pH in water. Only the salt of a strong base and weak acid would release OH- ion on hydrolysis. Among the given salts, Na2CO3 corresponds to the basic salt as it is formed by the neutralisation of NaOH [strong base] and H2CO3 [weak acid]",
+    "year": "2014",
+    "chapter": "Equilibrium",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/equilibrium/EQUILIBRIUM-2014_C11_Q43-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

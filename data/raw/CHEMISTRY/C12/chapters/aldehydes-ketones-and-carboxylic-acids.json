@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "Q1",
+    "text": "Identify the suitable reagent for the following conversion",
+    "options": {
+      "A": "(i) NaBH₄, (ii) H⁺/H₂O",
+      "B": "(i) H₂/Pd-BaSO₄",
+      "C": "(i) LiAlH₄, (ii) H⁺/H₂O",
+      "D": "(i) AlH(iBu)₂, (ii) H₂O"
+    },
+    "answer": "d",
+    "explanation": "For the given reaction: R-C=O-OR' + DIBAL-H → R-C=O-H + ROH In this case, DIBAL-H selectively reduces the ester (R-C=O-OR') to an aldehyde (R-C=O-H) and the alcohol group (ROH) is released.The correct reagent for the conversion is Option 2 (AlH(iBu)2, H2O). DIBAL-H reduces the ester to the aldehyde, and water (H2O) is used to hydrolyze the intermediate to the final aldehyde product.Why not the other options:Option 1: LiAlH4 (Lithium aluminium hydride) followed by H2O: LiAlH4 is a strong reducing agent that reduces esters to alcohols rather than aldehydes. It would not stop at the aldehyde stage, which makes it unsuitable for this transformation.Option 3: NaBH4 (Sodium borohydride) followed by H2O: NaBH4 is a milder reducing agent than LiAlH4 and typically reduces aldehydes and ketones to alcohols, but it is not reactive enough to reduce esters to aldehydes.Option 4: H2/Pd-BaSO4 (Hydrogen and palladium on barium sulfate): This is a catalytic hydrogenation method, typically used to reduce alkenes or aromatic compounds. It will reduce aldehydes to alcohols, so it would not be selective enough to stop at the aldehyde stage when reducing esters.Therefore, the correct answer is AlH(iBu)2, H2O, which reduces the ester to an aldehyde selectively.",
+    "year": "2025",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2025_C12_Q1-main.jpg",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2025_C12_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "The correct order of decreasing acidity of the following aliphatic acids is",
+    "options": {
+      "A": "(CH3)3CCOOH > (CH3)2CHCOOH > CH3COOH > HCOOH",
+      "B": "CH3COOH > (CH3)2CHCOOH > (CH3)3CCOOH > HCOOH",
+      "C": "HCOOH > CH3COOH > (CH3)2CHCOOH > (CH3)3CCOOH",
+      "D": "HCOOH > (CH3)3CCOOH > (CH3)2CHCOOH > CH3COOH"
+    },
+    "answer": "c",
+    "explanation": "HCOOH (formic acid): No alkyl group, highest acidity.CH3COOH (acetic acid): One methyl group (-CH3), moderately acidic. (+I)(CH3)2CHCOOH (isobutyric acid): Two methyl groups attached to the same carbon, further decreases acidity. ( two +I)(CH3)3CCOOH (pivalic acid): Three methyl groups attached to the same carbon, lowest acidity due to strong electron-donating effect. (three +I)The correct order of decreasing acidity is:HCOOH > CH3COOH > (CH3)2CHCOOH > (CH3)3CCOOHTherefore, the correct answer is Option 3: HCOOH > CH3COOH > (CH3)2CHCOOH > (CH3)3CCOOH.",
+    "year": "2025",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "The major product of the following reaction is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2025",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2025_C12_Q3-main.jpg",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2025_C12_Q3-main2.jpg",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2025_C12_Q3-main3.jpg",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2025_C12_Q3-main4.jpg",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2025_C12_Q3-main5.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Fehling's 'A' is",
+    "options": {
+      "A": "aqueous copper sulphate",
+      "B": "alkaline copper sulphate",
+      "C": "alkaline of sodium potassium tartrate (Rochelle's salt)",
+      "D": "aqueous sodium citrate"
+    },
+    "answer": "a",
+    "explanation": "Fehling's solution is a chemical reagent used to differentiate between water-soluble carbohydrates and ketone-functional groups, and as a test for monosaccharides. It is used specially in the Fehling's test for reducing sugars. The test involves two solutions, generally known as Fehling's A and Fehling's B, which are mixed together and added to perform the test. Fehling's solution 'A' is an aqueous solution of copper(II) sulfate. Thus, the correct option is: Option A: aqueous copper sulphate The function of Fehling's A is to provide copper(II) ions, Cu2+, which act as the oxidizing agent in the reaction with the reducing sugar. When Fehling's Solution A and B are mixed and heated with a reducing sugar, the copper(II) ions are reduced to copper(I) oxide, which precipitates as a red solid, indicating a positive result. Fehling's Solution B, on the other hand, contains alkaline sodium potassium tartrate, which helps to maintain the solution in an alkaline condition and keeps the copper(II) ions in solution. Thus, in summary, Fehling's A consists of aqueous copper sulfate, which directly matches with Option A.",
+    "year": "2024",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-IV, B-I, C-III, D-II",
+      "B": "A-III, B-I, C-II, D-IV",
+      "C": "A-IV, B-I, C-II, D-III",
+      "D": "A-I, B-IV, C-II, D-III"
+    },
+    "answer": "c",
+    "explanation": "The reconstructed reactions align with the reagents' typical behavior in organic chemistry for aldehydes, ketones, and carboxylic acids. PCC selectively oxidizes to aldehydes, CrO₃ and KMnO₄ oxidize primary alcohols to carboxylic acids, and K₂Cr₂O₇ oxidizes secondary alcohols to ketones.",
+    "year": "2024",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q5-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "For the given reaction: 'P' is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q6-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q6-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q6-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q6-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q6-main5.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Given below are two statements: Statement I: Benzoic acid produces effervescence on treatment with aq. NaHCO₃. Statement II: The effervescence is due to the release of hydrogen gas. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are correct.",
+      "B": "Both Statement I and Statement II are incorrect.",
+      "C": "Statement I is correct but Statement II is incorrect.",
+      "D": "Statement I is incorrect but Statement II is correct."
+    },
+    "answer": "c",
+    "explanation": "Statement I: Benzoic acid produces effervescence on treatment with aqueous NaHCO₃. This statement is correct. Benzoic acid (C₆H₅COOH) is a carboxylic acid. When it reacts with sodium bicarbonate (NaHCO₃), it undergoes a neutralization reaction, releasing carbon dioxide (CO₂) gas, which causes effervescence. The reaction is: C₆H₅COOH + NaHCO₃ → C₆H₅COONa + CO₂ + H₂OStatement II: The effervescence is due to the release of hydrogen gas. This statement is incorrect. The effervescence observed during the reaction of benzoic acid with sodium bicarbonate is due to the release of carbon dioxide (CO₂) gas, not hydrogen gas. The reaction between an acid and a bicarbonate typically releases carbon dioxide, not hydrogen gas. Correct Answer: (c) Statement I is correct but Statement II is incorrect.",
+    "year": "2024",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The product that cannot be formed in the following reaction is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "The reaction shown in the image involves the condensation of an aldehyde (probably an aldehyde group attached to a cyclohexane ring) with a carbonyl compound under the influence of dilute sodium hydroxide (NaOH). This type of reaction is indicative of the aldol condensation process. Analyzing the options: Option (a): This is a typical aldol addition product, where two molecules of aldehyde combine to form a β-hydroxy aldehyde. Option (b): This is also a plausible aldol addition product, where the structure shows a β-hydroxy aldehyde as expected from an aldol reaction. Option (c): This shows a similar aldol addition product with a hydroxyl group (-OH) attached to the β-position. Option (d): This structure does not align with the typical aldol addition product. It shows a product where the structure is inconsistent with the expected reaction pathway, possibly due to ring formation that doesn't follow the usual mechanism. Correct Answer: (d) This product cannot be formed from the reaction because it does not align with the typical aldol addition or condensation mechanism.",
+    "year": "2024",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q8-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q8-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q8-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q8-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q8-main5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Match the reagents in List-I with the corresponding reactions in List-II",
+    "options": {
+      "A": "A-II, B-III, C-I, D-IV",
+      "B": "A-IV, B-III, C-I, D-II",
+      "C": "A-I, B-III, C-IV, D-II",
+      "D": "A-II, B-I, C-III, D-IV"
+    },
+    "answer": "b",
+    "explanation": "A: H₂, Pd - BaSO₄ This corresponds to Rosenmund reduction (IV), where acyl chlorides are reduced to aldehydes using hydrogen gas and palladium on barium sulfate (Pd/BaSO₄).B: (i) CrO₂Cl₂, CS₂ (ii) H₂C This is associated with the Etard reaction (III), which is used to oxidize toluene to benzaldehyde using chromyl chloride and carbon disulfide.C: CO, HCl, Anhyd. AlCl₃/CuCl This corresponds to the Gattermann-Koch reaction (I), which is a method to introduce a formyl group (-CHO) to an aromatic compound using carbon monoxide, hydrochloric acid, and a Lewis acid catalyst.D: CHCl₃, NaOH This also refers to the Reimer-Tiemann reaction (II), where phenol reacts with chloroform in the presence of sodium hydroxide to produce salicylaldehyde. Correct Answer: (b) A-IV, B-III, C-I, D-II",
+    "year": "2024",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q9-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Identify [X] and [Y] in the given reaction",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Step 1: Formation of [X]CH₃CN (acetonitrile) reacts with PhMgBr (phenylmagnesium bromide), a Grignard reagent, followed by hydrolysis with H₂O.Grignard reagents are strong nucleophiles and typically add to the carbon of the nitrile group (C≡N).The reaction of CH₃CN with PhMgBr involves the addition of the phenyl group (Ph) to the carbon of the nitrile, forming an intermediate imine salt. After the first step, the intermediate is protonated and hydrolyzed to form a ketone.The product [X] is thus PhC(=O)CH₃ (acetophenone), where the phenyl group (Ph) is attached to the carbonyl carbon, and the methyl group (CH₃) remains from the original acetonitrile.Step 2: Formation of [Y]PhC(=O)CH₃ is then subjected to Zn - Hg, HCl, which is a Clemmensen reduction.The Clemmensen reduction converts a carbonyl group (C=O) in ketones or aldehydes to a methylene group (CH₂).Therefore, PhC(=O)CH₃ is reduced to PhCH₂CH₃ (ethylbenzene).Matching with Options:(a)[X] = PhC(=O)H, [Y] = PhOH: Incorrect, as [X] is a ketone, not an aldehyde, and [Y] is not a phenol.(b)[X] = PhC(=O)N H₂, [Y] = PhNH₂: Incorrect, as the reaction does not form an amide or amine.(c)[X] = PhC(=O)CH₃, [Y] = PhCH₂CH₃: Correct, as the reaction proceeds as described.(d)[X] = PhC(=O)CH₃, [Y] = PhC₂H₅: Incorrect, as it does not match the expected reduction product.Correct Answer: (c) [X] = PhC(=O)CH₃, [Y] = PhCH₂CH₃.",
+    "year": "2024",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q10-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q10-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q10-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q10-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q10-main5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Select the incorrect reaction among the following",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Option 1: CH₃COOC₂H₅ → CH₃COOH (ester hydrolysis to acetic acid) is correct under acidic or basic conditions. Option 2: The reaction shows a cyclic compound with -CONH₂ being converted to -COOH using LiAlH₄ and H₂O. LiAlH₄ is a reducing agent that typically reduces amides to amines, not to carboxylic acids. This makes the reaction incorrect. Option 3: CH₃CH₂OH → CH₃COOH (oxidation of ethanol to acetic acid) using KMnO₄/OH⁻ and heat is correct. Option 4: CH₃CH₂CH₂OH → CH₃CH₂COOH (oxidation of propanol to propanoic acid) using CrO₃-H₂SO₄ is correct. Thus, the incorrect reaction is option B.",
+    "year": "2024",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q11-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q11-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q11-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2024_C12_Q11-main4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Complete the following reaction: [C] is _______",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q12-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q12-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q12-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q12-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q12-main5.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q12-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Identify the major product obtained in the following reaction: 3 - OH major product",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Ammoniacal silver nitrate solution is Tollens' reagent. Tollens' reagent can be used to distinguish aldehyde & ketone as aldehyde upon warming with Tollens' reagent produces a silver mirror due to formation of silver metal in alkaline medium. Aldehyde is oxidised to corresponding carboxylate anion.",
+    "year": "2023",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q13-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q13-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q13-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q13-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q13-main5.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q13-main6.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Identify the final product [D] obtained in the following sequence of reactions",
+    "options": {
+      "A": "[diagram]",
+      "B": "C3H10",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q14-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q14-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q14-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q14-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The weight (g) of two moles of the organic compound, which is obtained by heating sodium ethanoate with sodium hydroxide in the presence of calcium oxide, is",
+    "options": {
+      "A": "18",
+      "B": "16",
+      "C": "32",
+      "D": "30"
+    },
+    "answer": "c",
+    "explanation": "The organic compound obtained by heating sodium ethanoate (CH₃COONa) with sodium hydroxide (NaOH) in the presence of calcium oxide (CaO) is methane (CH₄). This is an example of a decarboxylation reaction, specifically the Kolbe's electrolysis or a related process where sodium ethanoate decomposes to form methane. Molar mass of CH₄ = 12 (C) + 4 × 1 (H) = 16 g/mol. Weight of 2 moles of CH₄ = 2 × 16 = 32 g. The correct answer is (c) 32.",
+    "year": "2023",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Identify the product (A) in the following reaction",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "In this reaction: Reagents: Zn - Hg and Conc. HCl This is a Clemmensen reduction, which reduces a carbonyl group (-C=O) in ketones or aldehydes to a methylene group (-CH₂-), removing the oxygen. The given reactant is acetophenone (C₆H₅-CO-CH₃), which is a ketone. The Clemmensen reduction converts acetophenone into ethylbenzene (C₆H₅-CH₂-CH₃), where the carbonyl group (-C=O) in acetophenone is reduced to a methylene group (-CH₂-), producing ethylbenzene.Checking the options: (a): This is ethylbenzene (C₆H₅-CH₂-CH₃), which is the correct product. (b): This is cyclohexene, which is also the product of the Clemmensen reduction if the starting ketone is cyclohexanone. (c): This is hydroxyacetophenone, which is not the expected product of the Clemmensen reduction. (d): This is hydroxyethylbenzene, which is also not expected as a product from the Clemmensen reduction.Correct Answer: (b)",
+    "year": "2023",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q16-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q16-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q16-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q16-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q16-main5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Consider the given reaction: The functional groups present in the compound \"X\" are",
+    "options": {
+      "A": "Ketone and double bond",
+      "B": "Double bond and aldehyde",
+      "C": "Alcohol and aldehyde",
+      "D": "Alcohol and ketone"
+    },
+    "answer": "d",
+    "explanation": "Reactant: CH₃COCH₃ (Acetone) Reagent: Dilute Ba(OH)₂ The reaction involves acetone (CH₃COCH₃), a ketone. When it reacts with dilute Ba(OH)₂, the reaction is likely a Baeyer-Villiger oxidation. In the Baeyer-Villiger oxidation, a ketone is converted into an ester. However, when acetone is treated with dilute Ba(OH)₂, the reaction typically results in the formation of acetolactone, which involves the introduction of a double bond (forming a β,β-unsaturated ketone) and possibly a hydroxy group. Thus, the product \"X\" will have the following functional groups: Alcohol group (-OH), which is part of the β-hydroxy ketone structure. Ketone group (-C=O) as part of the acetone structure. The correct answer is (d) Alcohol and ketone.",
+    "year": "2023",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q17-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Mark the name of the reaction associated with the following conversion",
+    "options": {
+      "A": "Stephen reaction",
+      "B": "Gattermann-Koch reaction",
+      "C": "Etard reaction",
+      "D": "Rosenmund reaction"
+    },
+    "answer": "d",
+    "explanation": "The given reaction involves the conversion of a benzoyl chloride (C₆H₅COCl) into benzaldehyde (C₆H₅CHO) using H₂ and Pd-BaSO₄ (palladium on barium sulfate). This is a Rosenmund reduction, a reaction where acyl chlorides are reduced to aldehydes using hydrogen in the presence of palladium on barium sulfate (Pd-BaSO₄). The reaction is specifically used to reduce the acyl group (-COCl) to an aldehyde group (-CHO). Correct Answer: (d) Rosenmund reaction.",
+    "year": "2023",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q18-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Identify the product in the following reaction",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Let's analyze the steps and reagents involved in the given reaction:(i) KCN: Potassium cyanide (KCN) will replace the chlorine atom with a cyano group (-CN) in a nucleophilic substitution reaction. The product after this step will be cyclobutyl cyanide. (ii) H₂O/HCl, Δ (heat): The reaction of the nitrile (-CN) with water and hydrochloric acid (HCl) under heat leads to the hydrolysis of the nitrile group, converting it to a carboxylic acid (-COOH). The product after this step will be cyclobutyric acid. (iii) Br₂/red phosphorus: The use of bromine (Br₂) with red phosphorus typically results in a radical halogenation reaction, where a halogen (Br) replaces a hydrogen atom at the β-position (next to the carboxylic acid group). (iv) H₂O: This step might be used to stabilize the product after the halogenation reaction.Analyzing the Options: (a): COBr (This product suggests the presence of a carboxylic acid chloride, which is unlikely from the given steps. So, this is not the correct answer). (b): COOH and Br (This product corresponds to a halogenated carboxylic acid after the reaction with bromine. This is the correct answer). (c): Cl (This does not match the reaction pathway because we expect a carboxyl group, not a chlorine atom). (d): Br (This product shows only the halogen (Br), but there should be a carboxyl group involved too).Correct Answer: (b) COOH and Br.",
+    "year": "2023",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q19-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q19-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q19-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q19-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2023_C12_Q19-main5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "What is Y in the above reaction?",
+    "options": {
+      "A": "RCOO-X+",
+      "B": "(RCOO)2Mg",
+      "C": "RCOO-Mg+X",
+      "D": "R3CO-Mg+X"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q20-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Given below are two statements: Statement I: The boiling points of aldehydes and ketones are higher than hydrocarbons of comparable molecular masses because of weak molecular association in aldehydes and ketones due to dipole-dipole interactions. Statement II: The boiling points of aldehydes and ketones are lower than the alcohols of similar molecular masses due to the absence of H-bonding",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect.",
+      "B": "Statement I is incorrect but Statement II is correct.",
+      "C": "Both Statement I and Statement II are correct.",
+      "D": "Both Statement I and Statement II are incorrect."
+    },
+    "answer": "c",
+    "explanation": "The boiling points of aldehydes and ketones are higher than hydrocarbons of comparable molecular masses due to weak molecular association in aldehydes and ketones arising out of the dipole - dipole interaction.Acohols involved intermolecular hydrogen bonding, because of which the boiling point of aldehydes and ketones are lower than the alcohols of similar molecular masses.",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Match List-I with List -II. from the options given below correct answer Choose the",
+    "options": {
+      "A": "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+      "B": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "C": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "D": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+    },
+    "answer": "b",
+    "explanation": "Cyanohydrin → HCN Acetal → Alcohol Schiff's base → R-NH2 Oxime → NH2-OH",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q22-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Which one of the following is not formed when acetone reacts with 2-pentanone in the presence of dilute NaOH followed by heating?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q23-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q23-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q23-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q23-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Compound X on reaction with O3 followed by Zn/H2O gives formaldehyde and 2-methyl propanal as products. The compound X is",
+    "options": {
+      "A": "3-Methylbut-1-ene",
+      "B": "2-Methylbut-1-ene",
+      "C": "2-Methylbut-2-ene",
+      "D": "Pent-2-ene"
+    },
+    "answer": "a",
+    "explanation": "The given reaction is the reductive ozonolysis of an alkene. The alkene will be",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q24-explanation1.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q24-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "The incorrect method to synthesize benzaldehyde is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q25-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q25-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q25-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q25-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q25-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "B": "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)",
+      "C": "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+      "D": "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)"
+    },
+    "answer": "a",
+    "explanation": "Gabriel phthalimide synthesis is used for preparation of aliphatic primary amines.Kolbe synthesis with phenol gives salicylic acidWilliamson synthesis gives ether on reaction of alkyl halide and alcoxideEtard reaction gives benzaldehyde from benzene",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q26-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "The product formed from the following reaction sequence is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q27-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q27-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q27-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q27-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q27-main5.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q27-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Which of the following reactions is not an example for nucleophilic addition-elimination reaction?",
+    "options": {
+      "A": "CH3CHO + NH3 ⇌ CH3CH = NH + H2O",
+      "B": "[diagram]",
+      "C": "CH3CHO + NH2OH ⇌ CH3CH = N - OH + H2O",
+      "D": "CH3CHO + C6H5NHNH2 ⇌ CH3CH = N - NHC6H5 + H2O"
+    },
+    "answer": "b",
+    "explanation": "It is an example of nucleophilic addition reaction",
+    "year": "2022",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q28-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2022_C12_Q28-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Consider the above reaction and identify the missing reagent/chemical",
+    "options": {
+      "A": "CaO",
+      "B": "DIBAL-H",
+      "C": "B2H6",
+      "D": "Red Phosphorus"
+    },
+    "answer": "a",
+    "explanation": "Decarboxylation takes place by soda-lime (NaOH + CaO)",
+    "year": "2021",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q29-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Match List-I with List-II. Choose the correct answer from the options given below",
+    "options": {
+      "A": "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "B": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "C": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "D": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2021",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q30-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q30-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "The product formed in the following chemical reaction is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "NaBH4 is a reducing agent. If reduces carbonyl group into alcohols but does not reduce esters.",
+    "year": "2021",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q31-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q31-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q31-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q31-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q31-main5.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q31-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "The intermediate compound 'X' in the following chemical reaction is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "This is Etard reaction in which reaction of toluene with chromyl chloride in CCl4 followed by hydrolysis gives benzaldehyde. Toluene reacts with chromyl chloride to form a precipitate called the Etard complex.",
+    "year": "2021",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q32-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q32-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q32-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q32-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q32-main5.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q32-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "What is the IUPAC name of the organic compound formed in the following chemical reaction?",
+    "options": {
+      "A": "2-methylbutan-2-ol",
+      "B": "2-methylpropan-2-ol",
+      "C": "pentan-2-ol",
+      "D": "pentan-3-ol"
+    },
+    "answer": "a",
+    "explanation": "IUPAC name of product is 2-methylbutan-2-ol.",
+    "year": "2021",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q33-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2021_C12_Q33-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Identify compound X in the following sequences of reactions",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2020_C12_Q34-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2020_C12_Q34-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2020_C12_Q34-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2020_C12_Q34-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2020_C12_Q34-main5.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2020_C12_Q34-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "Reaction between benzaldehyde and acetophenone in presence of dilute NaOH is known as",
+    "options": {
+      "A": "Cross Cannizzaro's reaction",
+      "B": "Cross Aldol condensation",
+      "C": "Aldol condensation",
+      "D": "Cannizzaro's reaction"
+    },
+    "answer": "b",
+    "explanation": "In the presence of dil. OH- , benzaldehyde and acetophenone will react to undergo cross-aldol condensation.",
+    "year": "2020",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2020_C12_Q35-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "Reaction between acetone and methylmagnesium chloride followed by hydrolysis will give",
+    "options": {
+      "A": "Sec. butyl alcohol",
+      "B": "Tert. butyl alcohol",
+      "C": "Isobutyl alcohol",
+      "D": "Isopropyl alcohol"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2020_C12_Q36-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Carboxylic acid have higher boiling points than aldehydes, ketones and even alcohols of comparable molecular mass. It is due to their",
+    "options": {
+      "A": "formation of intramolecular H-bonding",
+      "B": "formation of carboxylate ion",
+      "C": "more extensive association of carboxylic acid via vander Wall force of attraction",
+      "D": "formation of intermolecular H-bonding."
+    },
+    "answer": "d",
+    "explanation": "Due to the formation of intermolecular H-bonding, association occurs in carboxylic acids. So, they have higher boiling points than aldehydes, ketones and even alcohols of comparable molecular mass.",
+    "year": "2018",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2018_C12_Q37-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "Consider the reactions",
+    "options": {
+      "A": "A-Methoxymethane, X-Ethanol, Y-Ethanoic acid, Z-Semicarbazide.",
+      "B": "A-Ethanal, X-Ethanol, Y-But-2-enal , Z-Semicarbazone",
+      "C": "A-Ethanol, X-Acetaldehyde, Y-Butanone, Z-Hydrazone",
+      "D": "A-Methoxymethane, X-Ethanoic acid, Y-Acetate ion, Z-hydrazine"
+    },
+    "answer": "b",
+    "explanation": "Since, A gives silver mirror test, it must be an aldehyde and aldehydes are formed by oxidation of 1o alcohols. Thus, 'X' is a 1o alcohol, i.e., CH3CH2OH.",
+    "year": "2017",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2017_C12_Q38-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2017_C12_Q38-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Of the following, which is the product formed when cyclohexanone undergoes aldol condensation followed by heating ?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2017_C12_Q39-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2017_C12_Q39-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2017_C12_Q39-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2017_C12_Q39-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2017_C12_Q39-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "The correct order of strengths of the carboxylic acids is",
+    "options": {
+      "A": "I > II > III",
+      "B": "II > III > I",
+      "C": "III > II > I",
+      "D": "II > I > III"
+    },
+    "answer": "b",
+    "explanation": "We know, Acidic strength ∝ - I effect As oxygen is more electron withdrawing (II) and (III) show greater - I effect than (I). Thus, (I) is least acidic. Out of (II) and (III), (II) is more acidic than (III) as distance of O increases from -COOH group and acidic strength decreases.",
+    "year": "2016",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2016_C12_Q40-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "Which of the following reagents would distinguish cis-cyclopenta-1,2- diol from the trans-isomer?",
+    "options": {
+      "A": "Aluminium isopropoxide",
+      "B": "Acetone",
+      "C": "Ozone",
+      "D": "MnO2"
+    },
+    "answer": "b",
+    "explanation": "Trans isomer does not react with acetone as removal of H2O molecule is difficult.",
+    "year": "2016",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2016_C12_Q41-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "The correct statement regarding a carbonyl compound with a hydrogen atom on its alpha-carbon, is",
+    "options": {
+      "A": "a carbonyl compound with a hydrogen atom on its alpha-carbon rapidly equilibrates with its corresponding enol and this processes is known as keto-enol tautomerism .",
+      "B": "a carbonyl compound with a hydrogen atom on its alpha-carbon never equilibrates with its corresponding enol.",
+      "C": "a carbonyl compound with a hydrogen atom on its alpha-carbon rapidly equilibrates with its corresponding enol and this process is known as aldehyde-ketone equilibration.",
+      "D": "a carbonyl compound with a hydrogen atom on its alpha-carbon rapidly equilibrates with its corresponding enol and this process is known a carbonylation."
+    },
+    "answer": "a",
+    "explanation": "Keto-enol tautomerism is as follows :",
+    "year": "2016",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2016_C12_Q42-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "Treatment of cyclopentanone with methyl lithium gives which of the following species? (AIPMT 2015 Cancelled Paper)",
+    "options": {
+      "A": "Cyclopentanonyl biradical",
+      "B": "Cyclopentanonyl anion",
+      "C": "Cyclopentanonyl cation",
+      "D": "Cyclopentanonyl radical"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2015_C12_Q43-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2015_C12_Q43-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "text": "An organic compound X having molecular formula C5H10O yields phenyl hydrazone and gives negative response to the iodoform test and tollen test. It produces n-pentane on reduction X could be",
+    "options": {
+      "A": "n-amyl alcohol",
+      "B": "pentanal",
+      "C": "2-pentanone",
+      "D": "3-pentanone (AIPMT 2015 Cancelled Paper)"
+    },
+    "answer": "d",
+    "explanation": "As the compound X yields phenyl hydrazone and gives negative response to the iodoform test and Tollen's test so it must contain a C = O group but neither a methyl ketone nor in aldehyde. Thus, the structure of X will be",
+    "year": "2015",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2015_C12_Q44-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "text": "The oxidation of benzene by V2O5 in the presence of air produces",
+    "options": {
+      "A": "maleic anhydride",
+      "B": "benzoic acid",
+      "C": "benzaldehyde",
+      "D": "benzoic anhydride."
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2015_C12_Q45-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "text": "Which one is most reactive towards Nucleophilic addition reaction?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Electron withdrawing (-I, -M) groups are more reactive towards nucleophilic addition reactions. Thus, correct order is :",
+    "year": "2014",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2014_C12_Q46-main.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2014_C12_Q46-main2.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2014_C12_Q46-main3.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2014_C12_Q46-main4.png",
+      "CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids/ALDEHYDES_KETONES_AND_CARBOXYLIC_ACIDS-2014_C12_Q46-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

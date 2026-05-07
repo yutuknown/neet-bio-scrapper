@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T05:44:00.724Z",
+  "generatedAt": "2026-05-07T19:46:58.263Z",
   "commands": [
     {
       "id": "scrape-chapters",
@@ -19,7 +19,7 @@
       "id": "scrape-multi",
       "label": "Scrape all chapter PYQs",
       "command": "npm run scrape:multi",
-      "output": "data/raw/BIOLOGY/chapters/*.json",
+      "output": "data/raw/BIOLOGY/B11|B12/chapters/*.json",
       "description": "Regenerate chapter question JSON and diagram assets for every verified PYQ page."
     },
     {

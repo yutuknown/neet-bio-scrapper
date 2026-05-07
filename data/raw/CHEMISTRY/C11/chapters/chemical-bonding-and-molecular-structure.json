@@ -1,0 +1,1283 @@
+[
+  {
+    "id": "Q1",
+    "text": "Given below are two statements: Statement I: A hypothetical diatomic molecule with bond order zero is quite stable. Statement II: As bond order increases, the bond length increases",
+    "options": {
+      "A": "Statement I is True but Statement II is False.",
+      "B": "Statement I is False but Statement II is True.",
+      "C": "Both Statement I and Statement II are True.",
+      "D": "Both Statement I and Statement II are False."
+    },
+    "answer": "d",
+    "explanation": "Bond Order and Bond StabilityBond Order is defined as the number of chemical bonds between a pair of atoms. It can be determined using Molecular Orbital Theory (MOT).A bond order of zero means that there are equal numbers of bonding and antibonding electrons, resulting in no net bond formation.A molecule with a bond order of zero is considered unstable and cannot exist under normal conditions.Bond Order and Bond LengthBond order is inversely related to bond length. As bond order increases, the bond strength increases, and the bond length decreases.Higher bond order indicates stronger bonds, which are shorter in length.ExplanationStatement I: \"A hypothetical diatomic molecule with bond order zero is quite stable.\" This statement is false. A bond order of zero implies no bond formation, and the molecule would not exist as a stable entity.Statement II: \"As bond order increases, the bond length increases.\" This statement is also false. As bond order increases, bond strength increases, and bond length decreases.Therefore, the correct answer is: Option d: Both Statement I and Statement II are false.",
+    "year": "2025",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-IV, B-II, C-III, D-I",
+      "B": "A-IV, B-II, C-I, D-III",
+      "C": "A-II, B-I, C-IV, D-III",
+      "D": "A-II, B-I, C-III, D-IV"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2025",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2025_C11_Q2-main.jpg",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2025_C11_Q2-explanation1.jpg",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2025_C11_Q2-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Identify the correct orders against the property mentioned",
+    "options": {
+      "A": "A and C only",
+      "B": "B and C only",
+      "C": "A and D only",
+      "D": "B and D only"
+    },
+    "answer": "c",
+    "explanation": "H₂O > NH₃ > CHCl₃ - Dipole MomentH₂O has the highest dipole moment due to its bent shape and high electronegativity difference.NH₃ has a lower dipole moment than H₂O, as it is pyramidal and less polar.CHCl₃ has the lowest dipole moment because its geometry partially cancels out dipoles.This order is correct.XeF₄ > XeO₃ > XeF₂ - Number of Lone Pairs on Central AtomXeF₄: Xenon has 4 bonds and 2 lone pairs.XeO₃: Xenon has 3 bonds and 1 lone pair.XeF₂: Xenon has 2 bonds and 3 lone pairs.The correct order of lone pairs is XeF₂ > XeF₄ > XeO₃, so this option is incorrect.O-H > C-H > N-O - Bond LengthO-H has the shortest bond length due to high bond strength and small atomic size.C-H is longer than O-H but shorter than N-O.N-O has the longest bond length due to weaker bond strength and larger atomic size.This order is correct.N₂ > O₂ > H₂ - Bond EnthalpyN₂ has the highest bond enthalpy due to the strong triple bond.O₂ has a lower bond enthalpy than N₂ due to its double bond.H₂ has the lowest bond enthalpy due to its single bond.This order is correct.Therefore, the correct answer is A, D only.",
+    "year": "2025",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2025_C11_Q3-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-I, B-IV, C-II, D-III",
+      "B": "A-II, B-IV, C-III, D-I",
+      "C": "A-III, B-IV, C-I, D-II",
+      "D": "A-II, B-III, C-IV, D-I"
+    },
+    "answer": "a",
+    "explanation": "NH3 ⇒ sp3 hybridised with 1 lone pair. Structure will be Trigonal Pyramidal. BrF5 ⇒ sp3d2 hybridised with 1 lone pair. Structure will be Square Pyramidal. XeF4 ⇒ sp3d2 with two lone pairs. Structure will be Square Planar. SF6 ⇒ sp3d2 with no lone pair. Structure will be Octahedral. A-I, B-IV, C-II, D-III",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2024_C11_Q4-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Identify the correct answer",
+    "options": {
+      "A": "Three resonance structures can be drawn for ozone",
+      "B": "BF3 has non-zero dipole moment",
+      "C": "Dipole moment of NF3 is greater than that of NH3",
+      "D": "Three canonical forms can be drawn for CO32- ion"
+    },
+    "answer": "d",
+    "explanation": "(1) In ozone; there are two resonating structures.",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2024_C11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Intramolecular hydrogen bonding is present in",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "HF",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Intramolecular hydrogen bonding occurs within the same molecule when a hydrogen donor (-OH) and an acceptor (-NO2) are positioned appropriately. In the given options, option (4) contains ortho-nitrophenol, where the hydroxyl (-OH) and nitro (-NO2) groups form a strong intramolecular hydrogen bond. Other options either involve intermolecular hydrogen bonding or lack the correct functional groups for intramolecular bonding. Conclusion: The correct option is (D)",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2024_C11_Q6-main.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2024_C11_Q6-main2.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2024_C11_Q6-main3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Which one of the following statements is correct?",
+    "options": {
+      "A": "BF₃ has non-zero dipole moment.",
+      "B": "The dipole moment of NF₃ is greater than that of NH₃.",
+      "C": "Three canonical forms can be drawn for CO₃²⁻ ion.",
+      "D": "Three resonance structures can be drawn for ozone."
+    },
+    "answer": "c",
+    "explanation": "(a) BF₃ has non-zero dipole moment: BF₃ has a trigonal planar geometry with boron at the center and three fluorine atoms at the corners. The molecule is symmetrical, and the dipole moments of the B-F bonds cancel out due to the 120° bond angles. Thus, BF₃ has a zero dipole moment. This statement is incorrect. (b) The dipole moment of NF₃ is greater than that of NH₃: In NF₃, the nitrogen atom is bonded to three fluorine atoms with a lone pair, resulting in a pyramidal geometry. The dipole moments of the N-F bonds partially cancel the lone pair's contribution, leading to a smaller net dipole moment. In NH₃, the nitrogen is bonded to three hydrogen atoms with a lone pair, also in a pyramidal geometry, but the dipole moments of the N-H bonds add to the lone pair's contribution, resulting in a larger net dipole moment. Experimentally, NH₃ has a dipole moment of about 1.47 D, while NF₃ has a dipole moment of about 0.23 D. Thus, the dipole moment of NF₃ is less than that of NH₃, making this statement incorrect. (c) Three canonical forms can be drawn for CO₃²⁻ ion: The carbonate ion (CO₃²⁻) has a central carbon atom bonded to three oxygen atoms, with two of the oxygens carrying a negative charge that can delocalize. Resonance structures (canonical forms) can be drawn by shifting the double bonds and charges, resulting in three equivalent structures where the double bond is with each oxygen in turn. This is a well-known property of CO₃²⁻, making this statement correct. (d) Three resonance structures can be drawn for ozone: Ozone (O₃) has a bent structure with a central oxygen atom bonded to two other oxygens. It exhibits resonance, with two main resonance structures where the double bond alternates between the two O-O bonds, and the negative charge is delocalized. A third structure is less common and not typically considered a major contributor. Standard chemistry texts recognize two primary resonance structures for ozone, making this statement incorrect (it should be two, not three). The correct answer is (c).",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Which one of the following molecules is paramagnetic?",
+    "options": {
+      "A": "H2",
+      "B": "Li2",
+      "C": "C2",
+      "D": "O2"
+    },
+    "answer": "d",
+    "explanation": "A molecule is paramagnetic if it has unpaired electrons, which can be determined by examining its molecular orbital (MO) configuration. (a) H₂: The molecular orbital configuration is (σ₁s)². All electrons are paired, so H₂ is diamagnetic. (b) Li₂: The molecular orbital configuration is (σ₂s)² (σ₂s*)² (σ₂p)². All electrons are paired, so Li₂ is diamagnetic. (c) C₂: The molecular orbital configuration is (σ₂s)² (σ₂s*)² (π₂p)⁴. All electrons are paired, so C₂ is diamagnetic. (d) O₂: The molecular orbital configuration is (σ₂s)² (σ₂s*)² (σ₂p)² (π₂p)⁴ (π₂p*)². The two electrons in the π₂p* orbitals are unpaired (one in each π₂p* orbital due to Hund's rule), so O₂ is paramagnetic. The correct answer is (d) O₂.",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Arrange the following hydrides in the order of decreasing bond angle: A. SbH₃ B. AsH₃ C. PH₃ D. NH₃",
+    "options": {
+      "A": "B > A > D > C",
+      "B": "B > A > C > D",
+      "C": "D > C > B > A",
+      "D": "A > C > B > D"
+    },
+    "answer": "c",
+    "explanation": "To arrange the hydrides in the order of decreasing bond angle, we need to understand the factors affecting bond angles. The bond angles in these hydrides are influenced by:The size of the central atom (larger atoms tend to have smaller bond angles due to more electron repulsion in larger orbitals).The lone pair on the central atom (the lone pair causes more repulsion, reducing the bond angle).Bond Angles and Size of Central Atom:NH₃ (Ammonia) has the largest bond angle because nitrogen is small, and the lone pair of electrons causes a greater repulsion, maintaining a bond angle of 107°.PH₃ (Phosphine) has a smaller bond angle than NH₃ because phosphorus is larger than nitrogen, leading to a decrease in the bond angle.AsH₃ (Arsine) has a smaller bond angle than PH₃ for a similar reason: arsenic is larger than phosphorus, leading to an even smaller bond angle.SbH₃ (Stibine) has the smallest bond angle because antimony is the largest atom, and the bond angle is further reduced.Conclusion: The order of bond angles is: NH₃ > PH₃ > AsH₃ > SbH₃. Correct Answer: (c) D > C > B > A.",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The correct shape and hybridisation of BrF₅ is",
+    "options": {
+      "A": "Square pyramidal and sp³d²",
+      "B": "Square pyramidal and d²sp³",
+      "C": "Trigonal bipyramidal and sp³d²",
+      "D": "Trigonal bipyramidal and d²sp³"
+    },
+    "answer": "a",
+    "explanation": "To determine the correct shape and hybridization of BrF₅, let's go through the steps: Step 1: Determine the Lewis Structure BrF₅ consists of one bromine (Br) atom and five fluorine (F) atoms. Bromine has 7 valence electrons and each fluorine atom has 7 valence electrons. The total number of valence electrons is: 7 (Br) + 5 × 7 (F) = 42 valence electrons. The bromine atom is the central atom, and it forms five single bonds with the fluorine atoms.Step 2: Determine the Electron Geometry Bromine has 5 bonding pairs of electrons around it (from the 5 F atoms). The electron geometry for a molecule with 5 bonding pairs of electrons is trigonal bipyramidal.Step 3: Determine the Molecular Shape Since there are no lone pairs on the bromine atom (only bonding pairs), the shape of BrF₅ is square pyramidal.Step 4: Hybridization For a trigonal bipyramidal electron geometry, the hybridization is sp³d².Conclusion: The correct shape of BrF₅ is square pyramidal, and the hybridization is sp³d². Correct Answer: (a) Square pyramidal and sp³d².",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Which pair of the following compounds has one lone pair of electrons on the central atom?",
+    "options": {
+      "A": "SF₄, BrF₅",
+      "B": "SF₄, ClF₃",
+      "C": "ClF₃, XeF₄",
+      "D": "XeF₄, BrF₅"
+    },
+    "answer": "a",
+    "explanation": "Step 1: Analyze each compound SF₄ (Sulfur Tetrafluoride)Central atom: Sulfur (S)Valence electrons: S has 6 valence electrons; each F has 7. Total = 6 + (4 × 7) = 34 electrons.Lewis structure: Sulfur forms 4 single bonds with 4 fluorine atoms (8 electrons used for bonding). Remaining electrons: 34 - 8 = 26, with 24 used for lone pairs on the 4 fluorines (3 lone pairs per F). This leaves 2 electrons for sulfur, forming 1 lone pair.Electron domains: 4 bonding pairs + 1 lone pair = 5 electron domains.Electron geometry: Trigonal bipyramidal (5 domains).Molecular geometry: Seesaw (4 bonding pairs, 1 lone pair).Lone pairs on central atom: 1.BrF₅ (Bromine Pentafluoride)Central atom: Bromine (Br)Valence electrons: Br has 7 valence electrons; each F has 7. Total = 7 + (5 × 7) = 42 electrons.Lewis structure: Bromine forms 5 single bonds with 5 fluorine atoms (10 electrons used for bonding). Remaining electrons: 42 - 10 = 32, with 30 used for lone pairs on the 5 fluorines (3 lone pairs per F). This leaves 2 electrons for bromine, forming 1 lone pair.Electron domains: 5 bonding pairs + 1 lone pair = 6 electron domains.Electron geometry: Octahedral (6 domains).Molecular geometry: Square pyramidal (5 bonding pairs, 1 lone pair).Lone pairs on central atom: 1.ClF₃ (Chlorine Trifluoride)Central atom: Chlorine (Cl)Valence electrons: Cl has 7 valence electrons; each F has 7. Total = 7 + (3 × 7) = 28 electrons.Lewis structure: Chlorine forms 3 single bonds with 3 fluorine atoms (6 electrons used for bonding). Remaining electrons: 28 - 6 = 22, with 18 used for lone pairs on the 3 fluorines (3 lone pairs per F). This leaves 4 electrons for chlorine, forming 2 lone pairs.Electron domains: 3 bonding pairs + 2 lone pairs = 5 electron domains.Electron geometry: Trigonal bipyramidal (5 domains).Molecular geometry: T-shaped (3 bonding pairs, 2 lone pairs).Lone pairs on central atom: 2.XeF₄ (Xenon Tetrafluoride)Central atom: Xenon (Xe)Valence electrons: Xe has 8 valence electrons; each F has 7. Total = 8 + (4 × 7) = 36 electrons.Lewis structure: Xenon forms 4 single bonds with 4 fluorine atoms (8 electrons used for bonding). Remaining electrons: 36 - 8 = 28, with 24 used for lone pairs on the 4 fluorines (3 lone pairs per F). This leaves 4 electrons for xenon, forming 2 lone pairs.Electron domains: 4 bonding pairs + 2 lone pairs = 6 electron domains.Electron geometry: Octahedral (6 domains).Molecular geometry: Square planar (4 bonding pairs, 2 lone pairs).Lone pairs on central atom: 2.Step 2: Evaluate the pairs We need a pair where both compounds have one lone pair on the central atom.(a) SF₄, BrF₅SF₄: 1 lone pair.BrF₅: 1 lone pair.Result: Both have 1 lone pair.(b) SF₄, ClF₃SF₄: 1 lone pair.ClF₃: 2 lone pairs.Result: ClF₃ does not have 1 lone pair.(c) ClF₃, XeF₄ClF₃: 2 lone pairs.XeF₄: 2 lone pairs.Result: Neither has 1 lone pair.(d) XeF₄, BrF₅XeF₄: 2 lone pairs.BrF₅: 1 lone pair.Result: XeF₄ does not have 1 lone pair.Step 3: Conclusion Only option (a) SF₄, BrF₅ has both compounds with one lone pair on the central atom. Final Answer: (a) SF₄, BrF₅",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Which of the following molecules has \"NON ZERO\" dipole moment value?",
+    "options": {
+      "A": "CCl₄",
+      "B": "HI",
+      "C": "CO₂",
+      "D": "BF₃"
+    },
+    "answer": "b",
+    "explanation": "To determine which molecule has a non-zero dipole moment, we need to evaluate the polarity of each molecule. A molecule has a non-zero dipole moment if it is polar, which occurs when there is an uneven distribution of electron density due to electronegativity differences between atoms and an asymmetric molecular geometry that does not cancel out the individual bond dipoles.Step 1: Analyze each molecule (a) CCl₄ (Carbon Tetrachloride)Structure: Carbon (C) is the central atom, bonded to four chlorine (Cl) atoms in a tetrahedral geometry.Electronegativity: Cl (3.16) is more electronegative than C (2.55), so each C-Cl bond is polar, with the dipole moment directed toward Cl.Symmetry: Tetrahedral geometry is highly symmetric. The four C-Cl bond dipoles are equal in magnitude and point toward the vertices of the tetrahedron, canceling each other out.Dipole moment: Zero (non-polar due to symmetry).Conclusion: Zero dipole moment.(b) HI (Hydrogen Iodide)Structure: A diatomic molecule with a single H-I bond.Electronegativity: I (2.66) is more electronegative than H (2.20), so the H-I bond is polar, with the dipole moment directed toward I.Symmetry: As a diatomic molecule, there is no cancellation of the bond dipole since there is only one bond.Dipole moment: Non-zero (polar due to the electronegativity difference).Conclusion: Non-zero dipole moment.(c) CO₂ (Carbon Dioxide)Structure: Linear molecule with carbon (C) in the center, double-bonded to two oxygen (O) atoms (O=C=O).Electronegativity: O (3.44) is more electronegative than C (2.55), so each C=O bond is polar, with the dipole moment directed toward O.Symmetry: Linear geometry is symmetric. The two C=O bond dipoles are equal in magnitude and point in opposite directions, canceling each other out.Dipole moment: Zero (non-polar due to symmetry).Conclusion: Zero dipole moment.(d) BF₃ (Boron Trifluoride)Structure: Boron (B) is the central atom, bonded to three fluorine (F) atoms in a trigonal planar geometry.Electronegativity: F (3.98) is more electronegative than B (2.04), so each B-F bond is polar, with the dipole moment directed toward F.Symmetry: Trigonal planar geometry is symmetric. The three B-F bond dipoles are equal in magnitude and arranged at 120° angles, canceling each other out.Dipole moment: Zero (non-polar due to symmetry).Conclusion: Zero dipole moment.Step 2: Identify the molecule with a non-zero dipole momentCCl₄: Zero dipole moment (symmetric, non-polar).HI: Non-zero dipole moment (polar, asymmetric).CO₂: Zero dipole moment (symmetric, non-polar).BF₃: Zero dipole moment (symmetric, non-polar).Only HI has a non-zero dipole moment due to its polar bond and lack of symmetry to cancel the dipole. Final Answer: (b) HI",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Match Column I (Molecule) with Column II (Bond enthalpy) and mark the correct option:z`",
+    "options": {
+      "A": "A-III, B-IV, C-I, D-II",
+      "B": "A-IV, B-I, C-III, D-II",
+      "C": "A-IV, B-III, C-II, D-I",
+      "D": "A-IV, B-III, C-I, D-II"
+    },
+    "answer": "d",
+    "explanation": "Step by Step Solution: Step 1: Identify the bond enthalpy values for each molecule: HCl = 431.0 kJ mol-1, N2 = 946.0 kJ mol-1, H2 = 436.0 kJ mol-1, O2 = 498.0 kJ mol-1. Step 2: Match HCl with its bond enthalpy: A. HCl matches with IV. 431.0 kJ mol-1. Step 3: Match N2 with its bond enthalpy: B. N2 matches with III. 946.0 kJ mol-1. Step 4: Match H2 with its bond enthalpy: C. H2 matches with I. 436.0 kJ mol-1 and O2 with II. 498.0 kJ mol-1. Final Answer: (d) A-IV, B-III, C-I, D-II",
+    "year": "2024",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2024_C11_Q13-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Amongst the following the total number of species NOT having eight electrons around central atom in its outermost shell, is NH3, AlCl3, BeCl2, CCl4, PCl5",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "1"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2023_C11_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The correct order of energies of molecular orbitals of N₂ molecule, is",
+    "options": {
+      "A": "σ1s < σ*1s < σ2s < σ*2s < (π2pₓ = π2py) < σ2pz < (π*2pₓ = π*2py) < σ*2pz",
+      "B": "σ1s < σ*1s < σ2s < σ*2s < σ2pz < (π2pₓ = π2py) < (π*2pₓ = π*2py) < σ*2pz",
+      "C": "σ1s < σ*1s < σ2s < σ*2s < σ2pz < σ*2pz < (π2pₓ = π2py) < (π*2pₓ = π*2py)",
+      "D": "σ1s < σ*1s < σ2s < σ*2s < (π2pₓ = π2py) < (π*2pₓ = π*2py) < σ2pz < σ*2pz"
+    },
+    "answer": "a",
+    "explanation": "For molecules like B2, C2, N2 etc. the increasing order of energies of various molecular orbitals is σ1s < σ*1s < σ2s < σ*2s < (π2pₓ = π2py) < σ2pz < (π*2pₓ = π*2py) < σ*2pz",
+    "year": "2023",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Taking stability as the factor, which one of the following represents correct relationship?",
+    "options": {
+      "A": "InI3 > lnI",
+      "B": "AlCl > AlCl3",
+      "C": "TlI > TlI3",
+      "D": "TlCl3 > TlCl"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2023_C11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Intermolecular forces are forces of attraction and repulsion between interacting particles that will include: A. dipole - dipole forces. B. dipole - induced dipole forces C. hydrogen bonding D. covalent bonding E. dispersion forces",
+    "options": {
+      "A": "A, B, C, D are",
+      "B": "A, B, C, E are",
+      "C": "A, C, D, E are",
+      "D": "B, C, D, E are correct"
+    },
+    "answer": "b",
+    "explanation": "Intermolecular forces means force of attraction between two or more molecules dipole-dipole (attraction between two or more polar molecules). Dipole induced dipole (attraction between polar and non polar molecules) Hydrogen bonding (it is a special type of dipole-dipole and ion-dipole attraction) Dispersion forces (mainly acts between non polar molecules). Covalent bonding (acts between atom not between molecules )",
+    "year": "2023",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The correct order of dipole moments for molecules NH₃, H₂S, CH₄, and HF is",
+    "options": {
+      "A": "CH₄ > H₂S > NH₃ > HF",
+      "B": "H₂S > NH₃ > HF > CH₄",
+      "C": "NH₃ > HF > CH₄ > H₂S",
+      "D": "HF > NH₃ > H₂S > CH₄"
+    },
+    "answer": "d",
+    "explanation": "To determine the correct order of dipole moments for the molecules NH₃, H₂S, CH₄, and HF, we need to assess the polarity of each molecule. A dipole moment arises from an uneven distribution of electron density due to electronegativity differences between atoms and an asymmetric molecular geometry that does not cancel out the bond dipoles.Step 1: Analyze each molecule CH₄ (Methane)Structure: Tetrahedral, with carbon (C) bonded to four hydrogen (H) atoms.Electronegativity: C (2.55) and H (2.20) have a small difference, and the symmetric tetrahedral geometry cancels out any bond dipoles.Dipole moment: Zero (non-polar).H₂S (Hydrogen Sulfide)Structure: Bent, with sulfur (S) bonded to two hydrogen (H) atoms and two lone pairs (similar to H₂O but with a larger bond angle ~92° due to S's larger size).Electronegativity: S (2.58) is slightly more electronegative than H (2.20), creating a polar S-H bond. The bent shape results in a net dipole moment.Dipole moment: Non-zero, but small (~0.97 D) due to the small electronegativity difference and larger bond angle reducing the net effect.NH₃ (Ammonia)Structure: Trigonal pyramidal, with nitrogen (N) bonded to three hydrogen (H) atoms and one lone pair.Electronegativity: N (3.04) is more electronegative than H (2.20), creating polar N-H bonds. The lone pair and asymmetric shape enhance the net dipole moment.Dipole moment: Non-zero, moderate (~1.47 D) due to the significant electronegativity difference and lone pair contribution.HF (Hydrogen Fluoride)Structure: Linear diatomic molecule.Electronegativity: F (3.98) is highly electronegative compared to H (2.20), creating a strongly polar H-F bond. As a diatomic molecule, there is no cancellation of the dipole.Dipole moment: Non-zero, largest among these (~1.82 D) due to the large electronegativity difference.Step 2: Compare dipole momentsCH₄: 0 D (non-polar).H₂S: ~0.97 D (polar, but small due to weak polarity and geometry).NH₃: ~1.47 D (polar, enhanced by lone pair).HF: ~1.82 D (polar, strongest due to large electronegativity difference).The order of dipole moments from highest to lowest is: HF > NH₃ > H₂S > CH₄.Step 3: Match with options (a) CH₄ > H₂S > NH₃ > HF: Incorrect (CH₄ has zero dipole moment). (b) H₂S > NH₃ > HF > CH₄: Incorrect (H₂S < NH₃ < HF). (c) NH₃ > HF > CH₄ > H₂S: Incorrect (HF > NH₃). (d) HF > NH₃ > H₂S > CH₄: Correct.Final Answer: (d) HF > NH₃ > H₂S > CH₄",
+    "year": "2023",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Which one of the following statements is incorrect related to Molecular Orbital Theory?",
+    "options": {
+      "A": "The π∗ antibonding molecular orbital has a node between the nuclei.",
+      "B": "In the formation of a bonding molecular orbital, the two electron waves of the bonding atoms reinforce each other.",
+      "C": "Molecular orbitals obtained from 2Px and 2Py2�� orbitals are symmetrical around the bond axis.",
+      "D": "A π-bonding molecular orbital has larger electron density above and below the internuclear axis."
+    },
+    "answer": "c",
+    "explanation": "Let's analyze each statement in relation to Molecular Orbital Theory (MOT):(a) The π∗ antibonding molecular orbital has a node between the nuclei. This statement is correct. In a π∗ antibonding molecular orbital, there is a node between the two nuclei where the probability of finding an electron is zero. This is typical for antibonding molecular orbitals.(b) In the formation of a bonding molecular orbital, the two electron waves of the bonding atoms reinforce each other. This statement is correct. In a bonding molecular orbital, the atomic orbitals overlap constructively, meaning the electron waves reinforce each other, leading to an increase in electron density between the nuclei and a stronger bond.(c) Molecular orbitals obtained from 2Px and 2Py orbitals are symmetrical around the bond axis. This statement is incorrect. The molecular orbitals formed from 2Px and 2Py orbitals (which are side-by-side overlaps) are not symmetrical around the bond axis. These orbitals form π-bonding and π-antibonding orbitals, and the electron density is distributed above and below the bond axis, not along it.(d) A π-bonding molecular orbital has larger electron density above and below the internuclear axis. This statement is correct. In a π-bonding molecular orbital, the electron density is larger above and below the internuclear axis, as the orbitals overlap side-by-side. Conclusion: The incorrect statement is (c). The molecular orbitals obtained from 2Px and 2Py orbitals are not symmetrical around the bond axis. Correct Answer: (c).",
+    "year": "2023",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "loose_lower_sequence",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R) Assertion (A) : ICI is more reactive than I2 Reason (R) : I-CI bond is weaker than I-I bond",
+    "options": {
+      "A": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+      "B": "Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+      "C": "(A) is correct but (R) is not correct.",
+      "D": "(A) is not correct but (R) is correct."
+    },
+    "answer": "a",
+    "explanation": "In general, interhalogen compounds are more reactive than halogens (except fluorine). This is because X - X' bond in interhalogens is weaker than X - X bond in halogens excepts F - F bond. Therefore I-Cl is more reactive than I2 because of weaker I - Cl bond then I - I bond.",
+    "year": "2022",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Amongst the following which one will have maximum 'lone pair-lone pair' electron repulsions?",
+    "options": {
+      "A": "SF4",
+      "B": "XeF2",
+      "C": "ClF3",
+      "D": "IF5"
+    },
+    "answer": "b",
+    "explanation": "In XeF2, the central atom Xe has 3 lone pairs around it.",
+    "year": "2022",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "numbered_paren_options",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which amongst the following is incorrect statement?",
+    "options": {
+      "A": "[diagram] ion has one electron.",
+      "B": "[diagram] ion is diamagnetic.",
+      "C": "The bond orders of [diagram] are 2.5, 2, 1.5 and 1, respectively.",
+      "D": "C2 molecule has four electrons in its two degenerate π molecular orbitals."
+    },
+    "answer": "b",
+    "explanation": "is paramagnetic, as it has one unpaired electron. (15e-)",
+    "year": "2022",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q22-main.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q22-main2.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q22-main3.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
+      "B": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+      "C": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "D": "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q23-main.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "The correct order of bond angles in the following compounds/species is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q24-main.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q24-main2.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q24-main3.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q24-main4.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2022_C11_Q24-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "BF3 is planar and electron deficient compound. Hybridization and number of electrons around the central atom, respectively are",
+    "options": {
+      "A": "Sp2 and 6",
+      "B": "sp2 and 8",
+      "C": "sp3 and 4",
+      "D": "sp3 and 6"
+    },
+    "answer": "a",
+    "explanation": "Geometry of Molecules in which the Central Atom has No Lone Pair of Electrons Hint: 1 bond pair means two electronsBF3 = = 3σ band = sp2The number of bond pairs is three. One bond pair needs two electrons. So, the number of electrons for the three bond pairs is 6.",
+    "year": "2021",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2021_C11_Q25-explanation1.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2021_C11_Q25-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)",
+      "B": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "C": "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)",
+      "D": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+    },
+    "answer": "c",
+    "explanation": "Hint: Sp3 = tetrahedral, sp3d = trigonal bipyramidal, and sp3d2 = octahedral1. The hybridization of P in PCl5 is sp3d. The geometry of PCl5 is trigonal bipyramidal. 2. The hybridization of S in SF6 is sp3d2. The geometry of SF6 is octahedral. 3. The hybridization of Br in BrF5 is sp3d2. It contains 5 bond pairs and one lone pair. Hence, its shape is square pyramidal. 4. The hybridization of B in BF3 is sp2. The geometry of BF3 is square planar.Hence, option third is the correct answer.",
+    "year": "2021",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2021_C11_Q26-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "The correct sequence of bond enthalpy of 'C-X' bond is",
+    "options": {
+      "A": "CH3 - Cl > CH3 - F > CH3 - Br > CH3 - l",
+      "B": "CH3 - F < CH3 - Cl < CH3 - Br < CH3 - l",
+      "C": "CH3 - F > CH3 - Cl > CH3 - Br > CH3 - l",
+      "D": "CH3 - F < CH3 - Cl > CH3 - Br > CH3 - l"
+    },
+    "answer": "c",
+    "explanation": "On moving down the group from F to I, the size of atom increases. Order of the size of halogen atoms is I > Br > Cl > F. So, the bond length of C-X bond also increases from F to I and hence, the bond enthalpy decreases from F to I. Correct order of bond length of C-X bond is H3C - I > H3C - Br > H3C - Cl > H3C - F. Correct order of bond enthalpy is H3C - F > H3C - Cl > CH3 - Br > H3C - I.",
+    "year": "2021",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The non-polar nature molecule among the following is",
+    "options": {
+      "A": "SbCl5",
+      "B": "NO2",
+      "C": "POCl3",
+      "D": "CH2O"
+    },
+    "answer": "a",
+    "explanation": "Dipole moment depends on the structure of the compound. The structure of SbCl5, NO2, POCl3, and CH2O is as follows: The SbCl5 is a non-polar compound because it has zero dipole moment. The SbCl5 is a symmetrical molecule thus it has a net dipole moment is zero.",
+    "year": "2021",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2021_C11_Q28-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Which of the following set of molecules will have zero dipole moment ?",
+    "options": {
+      "A": "Nitrogen trifluoride, beryllium difluoride, water, 1,3-dichlorobenzene",
+      "B": "Boron trifluoride, beryllium difluoride, carbon dioxide, 1,4-dichlorobenzene",
+      "C": "Ammonia, beryllium difluoride, water 1,4-dichlorobenzene",
+      "D": "Boron trifluoride, hydrogen fluoride, carbon dioxide, 1,3-dichlorobenzene"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2020_C11_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Identify a molecule which does not exist",
+    "options": {
+      "A": "C2",
+      "B": "O2",
+      "C": "He2",
+      "D": "Li2"
+    },
+    "answer": "c",
+    "explanation": "Diatomic molecule for which bond order is zero or negative does not exist.",
+    "year": "2020",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [
+      [
+        [
+          "Molecule",
+          "BO"
+        ],
+        [
+          "C2",
+          "2"
+        ],
+        [
+          "O2",
+          "2"
+        ],
+        [
+          "He2",
+          "Zero"
+        ],
+        [
+          "Li2",
+          "1"
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Which of the following diatomic molecular species has only π bonds according to Molecular Orbital Theory?",
+    "options": {
+      "A": "O2",
+      "B": "N2",
+      "C": "C2",
+      "D": "Be2"
+    },
+    "answer": "c",
+    "explanation": "MO configuration C2 is:",
+    "year": "2019",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2019_C11_Q31-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "The number of sigma (σ) and pi (π) bonds in pent-2-en-4-yne is",
+    "options": {
+      "A": "11 σ bonds and 2 π bonds",
+      "B": "13 σ bonds and no π bonds",
+      "C": "10 σ bonds and 3 π bonds",
+      "D": "8 σ bonds and 5 π bonds"
+    },
+    "answer": "c",
+    "explanation": "H-C ≡ C - CH = CH - CH3 Here, 10 σ bonds and 3 π bonds are presents.",
+    "year": "2019",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "The manganate and permanganate ions are tetrahedral due to",
+    "options": {
+      "A": "The π-bonding involves overlap of p-orbitals of oxygen with p-orbtials of manganese",
+      "B": "The π-bonding involves overlap of d-orbitals of oxygen with d-orbitals of manganese",
+      "C": "The π-bonding involves overlap of p-orbitals of oxygen with d-orbitals of manganese",
+      "D": "There is no π-bonding"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2019",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2019_C11_Q33-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Identify the incorrect statement related to PCl5 from the following",
+    "options": {
+      "A": "Three equatorial P-Cl bonds make an angle of 120° with each other",
+      "B": "Two axial P-Cl bonds make an angle of 180° with each other",
+      "C": "Axial P-Cl bonds are longer than equatorial P-Cl bonds",
+      "D": "PCl5 molecule is non-reactive"
+    },
+    "answer": "d",
+    "explanation": "(1) True (3) TrueAxial bond : 240 pm Equatorial bond : 202 pm (4) False Due to longer and hence weaker axial bonds, PCl5 is a reactive molecule.",
+    "year": "2019",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2019_C11_Q34-explanation1.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2019_C11_Q34-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "Consider the following species: CN+, CN-, NO and CN Which one of these will have the highest bond order?",
+    "options": {
+      "A": "NO",
+      "B": "CN-",
+      "C": "CN+",
+      "D": "CN"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2018_C11_Q35-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "In the structure of ClF3 , the number of lone pairs of electrons on central atom 'Cl' is",
+    "options": {
+      "A": "one",
+      "B": "two",
+      "C": "four",
+      "D": "three"
+    },
+    "answer": "b",
+    "explanation": "Hence, Cl has 2 lone pairs of electrons.",
+    "year": "2018",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2018_C11_Q36-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Which of the following pairs of species have the same bond order?",
+    "options": {
+      "A": "O2, NO+",
+      "B": "CN-, CO",
+      "C": "N2 , O2-",
+      "D": "CO, NO"
+    },
+    "answer": "b",
+    "explanation": "Total no. of electrons in CN- is 14 Total no. of electrons in CO is also 14 Hence, B.O. of both CN- & CO is 3",
+    "year": "2017",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "The species, having bond angles of 120o is",
+    "options": {
+      "A": "ClF3",
+      "B": "NCl3",
+      "C": "BCl3",
+      "D": "PH3"
+    },
+    "answer": "c",
+    "explanation": "BCl3-Trigonal planar, sp2-hybridised, 120o angle",
+    "year": "2017",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Predict the correct order among the following",
+    "options": {
+      "A": "Ione pair - bond pair > bond pair - bond pair > lone pair - lone pair",
+      "B": "lone pair - lone pair > lone pair - bond pair > bond pair - bond pair",
+      "C": "lone pair - lone pair > bond pair - bond pair > lone pair - bond pair",
+      "D": "bond pair - bond pair > lone pair - bond pair > lone pair - lone pair"
+    },
+    "answer": "b",
+    "explanation": "The order of repulsion force according to VSEPR theory : lone pair - lone pair > lone pair - bond pair > bond pair - bond pair Q.20. Consider the molecules CH4, NH3 and H2O. Which of the given statement is false? (NEET 2016 Phase 1) (a) The H-C-H bond angle in CH4 is larger than the H-N-H bond angle in NH3 (b) The H-C-H bond angle in CH4, the H-N-H bond angle in H2O are all greater than 90°. (c) The H-O-H bond angle in H2O is larger than the H-C-H bond angle in CH4. (d) The H-O-H bond angle in H2O is smaller than the H-N-H bond angle in NH3. Type Your AnswerView Answer View AnswerSolution:Ans: (c) The H-O-H bond angle in H2O is larger than the H-C-H bond angle in CH4. According to VBT: lone pair-lone pair repulsion is more than a bond pair -lone pair repulsion. As the number of lone pair of electrons on central element increases, repulsion between that lone pair of electrons increases and therefore, bond angle decreases.",
+    "year": "2016",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2016_C11_Q39-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "Among the following, which one is a wrong statement ?",
+    "options": {
+      "A": "PH5 and BiCl5 do not exist.",
+      "B": "pπ-dπ bonds are present in SO2.",
+      "C": "SeF4 and CH4 have same shape.",
+      "D": "I3+ has bent geometry."
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2016_C11_Q40-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "The correct geometry and hybridization for XeF4 are",
+    "options": {
+      "A": "octahedral, sp3d2",
+      "B": "trigonal bipyramidal, sp3d",
+      "C": "planar triangle, sp3d3",
+      "D": "square planar, sp3d2"
+    },
+    "answer": "d",
+    "explanation": "sp3d2 hybridisation (octahedral geometry, square planar shape)",
+    "year": "2016",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2016_C11_Q41-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "The hybridizations of atomic orbitals of nitrogen in NO2+, NO3- and NH4+ respectively are",
+    "options": {
+      "A": "sp, sp3 and sp2",
+      "B": "sp2, sp3 and sp3",
+      "C": "sp, sp2 and sp3",
+      "D": "sp2, sp and sp3"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2016_C11_Q42-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "Which one of the following compounds shows the presence of intramolecular hydrogen bond?",
+    "options": {
+      "A": "H2O2",
+      "B": "HCN",
+      "C": "Cellulose",
+      "D": "Concentrated acetic acid"
+    },
+    "answer": "c",
+    "explanation": "H2O2, HCN and conc. CH3COOH form intermolecular hydrogen bonding while cellulose has intramolecular hydrogen bonding.",
+    "year": "2016",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "text": "The correct bond order in the following species is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2015_C11_Q44-main.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2015_C11_Q44-main2.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2015_C11_Q44-main3.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2015_C11_Q44-main4.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2015_C11_Q44-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "text": "Maximum bond angle at nitrogen is present in which of the following ?",
+    "options": {
+      "A": "NO2+",
+      "B": "NO3 -",
+      "C": "NO2",
+      "D": "NO2-"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2015_C11_Q45-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "text": "In which of the following pairs, both the species are not isostructural ?",
+    "options": {
+      "A": "Diamond, Silicon carbide",
+      "B": "NH3, PH3",
+      "C": "XeF4, XeO4",
+      "D": "SiCl4, PCl4+"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2015_C11_Q46-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "text": "Decreasing order of stability of O2, O2-, O2+ and O22- is",
+    "options": {
+      "A": "O22- > O2- > O2 > O2+",
+      "B": "O2 > O2+ > O22- > O2-",
+      "C": "O2- > O22- > O2+ > O2",
+      "D": "O2+ > O2 > O2- > O22"
+    },
+    "answer": "d",
+    "explanation": "According to molecular orbital theory as bond order decreases stability of the molecule decreases.",
+    "year": "2015",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2015_C11_Q47-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q48",
+    "text": "Which one of the following species has plane triangular shape?",
+    "options": {
+      "A": "[diagram]",
+      "B": "CO2",
+      "C": "N3",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Species with sp2 hybridisation are plane triangular in shape. Among the given species is sp2 hybridised with no lone pair of electrons on central atom, N. Whereas, N3, and CO2 are sp hybridised with a linear shape.",
+    "year": "2014",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2014_C11_Q48-main.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2014_C11_Q48-main2.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2014_C11_Q48-explanation1.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2014_C11_Q48-explanation2.png",
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2014_C11_Q48-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q49",
+    "text": "Which of the following molecules has the maximum dipole moment ?",
+    "options": {
+      "A": "NH3",
+      "B": "NF3",
+      "C": "CO2",
+      "D": "CH4"
+    },
+    "answer": "a",
+    "explanation": "In NH3, H is less electronegative than N and hence dipoie moment of each N - H bond is towards N and create high net dipole moment whereas in NF3 ,F is more electronegative than N, the dipole moment of each N - F bond is opposite to that of lone pair, hence reducing the net dipole moment.",
+    "year": "2014",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure/CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE-2014_C11_Q49-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

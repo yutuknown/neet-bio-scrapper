@@ -1,0 +1,790 @@
+[
+  {
+    "id": "Q1",
+    "text": "The ratio of the wavelengths of the light absorbed by a Hydrogen atom when it undergoes n = 2 → n = 3 and n = 4 → n = 6 transitions, respectively, is [NEET 2025]",
+    "options": {
+      "A": "1/9",
+      "B": "1/4",
+      "C": "1/36",
+      "D": "1/16"
+    },
+    "answer": "b",
+    "explanation": "For the transition n = 2 → n = 3: Energy difference: E1 = -13.6 × (1/32 - 1/22) E1 = -13.6 × (1/9 - 1/4) = -13.6 × (-5/36) = 13.6 × 5/36Corresponding wavelength: λ1 = hc/E1 λ1 is inversely proportional to E1. For the transition n = 4 → n = 6: Energy difference: E2 = -13.6 × (1/62 - 1/42) E2 = -13.6 × (1/36 - 1/16) = -13.6 × (-5/144) = 13.6 × 5/144Corresponding wavelength: λ2 = hc/E2 λ2 is inversely proportional to E2. Ratio of wavelengths: λ1/λ2 = E2/E1E1 = 13.6 × 5/36, E2 = 13.6 × 5/144λ1/λ2 = (5/144) / (5/36) = 36/144 = 1/4 Therefore, the ratio of the wavelengths is 1/4.",
+    "year": "2025",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Energy and radius of first Bohr orbit of He+ and Li2+ are [Given RH = 2.18×10-18 J, a0 = 52.9 pm] [NEET 2025]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "For He+ (Z = 2) and Li2+ (Z = 3), we calculate the energy and radius for the first orbit (n = 1).Energy for He+:En(He+) = - (Z2 × RH) / n2= - (22 × 2.18 × 10-18) / 12= - 8.72 × 10-18 JRadius for He+:rn(He+) = (n2 × a0) / Z= (12 × 52.9) / 2= 26.4 pmEnergy for Li2+:En(Li2+) = - (Z2 × RH) / n2= - (32 × 2.18 × 10-18) / 12= - 19.62 × 10-18 JRadius for Li2+:rn(Li2+) = (n2 × a0) / Z= (12 × 52.9) / 3= 17.6 pm Conclusion ​​En(Li2+) = -19.62 × 10-18 J and rn(Li2+) = 17.6 pm & En(He+) = -8.72 × 10-18 J and rn(He+) = 26.4 pm",
+    "year": "2025",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2025_C11_Q2-explanation1.jpg",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2025_C11_Q2-explanation2.jpg",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2025_C11_Q2-explanation3.jpg",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2025_C11_Q2-explanation4.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-I, B-III, C-II, D-IV",
+      "B": "A-III, B-IV, C-I, D-II",
+      "C": "A-III, B-IV, C-II, D-I",
+      "D": "A-II, B-I, C-IV, D-III [NEET 2024]"
+    },
+    "answer": "",
+    "explanation": "1. Principal Quantum Number (n): 2. Azimuthal Quantum Number (ℓ): l l 3. Magnetic Quantum Number (ml): 4. Spin Quantum Number (ms): A. l B. s C. D.",
+    "year": "2024",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2024_C11_Q3-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The energy of an electron in the ground state (n=1) for He+ ion is -x J, then that for an electron in (n = 2) state for Be3+ ion in J is",
+    "options": {
+      "A": "x",
+      "B": "x/9",
+      "C": "4x",
+      "D": "4/9x [NEET 2024]"
+    },
+    "answer": "a",
+    "explanation": "The energy levels of an electron in a hydrogen-like ion (an atom or ion with only one electron) can be quantified using the formula: where: En is the energy of the electron in the nth energy level, Z is the atomic number (number of protons) of the ion, 13.6 eV is the ionization energy of hydrogen, n is the principal quantum number (the energy level). Since we need to compare this across different ions in different energy states, let's plug in some numbers: For He+ (Helium ion): Z = 2 (as helium has 2 protons) n = 1 for ground state However, the problem gives the energy in joules, and it's given a constant x. So, x = 54.4 eV (converted to joules as needed). Next, for the Be3+ ion: Z = 4 (as beryllium has 4 protons) n = 2 Since initially x = 54.4 eV (or its equivalent in joules) for at He+ at n = 1, and now we have the same energy for at Be3+ at n = 2, the energy level in joules would also equate to x, just at a different energy state and ion. So, the answer is: Option A: -x.",
+    "year": "2024",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2024_C11_Q4-explanation1.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2024_C11_Q4-explanation2.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2024_C11_Q4-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Isotope of an element contains 19.23% more neutrons as compared to protons. The correct element along with its mass number is: (Given Atomic number: Fe: 26, Co: 27) [NEET 2024]",
+    "options": {
+      "A": "56Fe",
+      "B": "57Fe",
+      "C": "57Co",
+      "D": "60Co"
+    },
+    "answer": "b",
+    "explanation": "To solve this, let's break it down step by step: The element's atomic number is either 26 (Fe) or 27 (Co).The problem states that the isotope has 19.23% more neutrons than protons. Now, for any given isotope, the number of protons is the atomic number (Z), and the number of neutrons can be calculated as the mass number (A) minus the atomic number (Z). So, the number of neutrons = A - Z. Let's denote the number of neutrons as N and the number of protons as P, where P = Z (atomic number), and N = A - Z (mass number - atomic number). From the given information, the number of neutrons is 19.23% more than the number of protons. This means: N = P + 0.1923P, which simplifies to: A - Z = Z + 0.1923Z Thus: A = Z + 1.1923Z A = 2.1923Z Now, let's calculate the mass number for both Fe and Co. For Fe (Z = 26): A = 2.1923 × 26 ≈ 57.0, so the mass number is approximately 57. This corresponds to the isotope 57Fe.For Co (Z = 27): A = 2.1923 × 27 ≈ 59.2, so the mass number is approximately 59. This is closer to 60, which corresponds to the isotope 60Co. But the correct answer, based on the information provided, is (b) 57Fe because the percentage difference matches closer to this isotope. Therefore, the correct answer is (b) 57Fe.",
+    "year": "2024",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Given below are two statements: [NEET 2024] Statement I: The energy of the He⁺ ion in n = 2 state is the same as the energy of the H atom in n = 1 state. Statement II: It is possible to determine simultaneously the exact position and exact momentum of an electron in the H atom",
+    "options": {
+      "A": "Both Statement I and Statement II are True",
+      "B": "Both Statement I and Statement II are False",
+      "C": "Statement I is True but Statement II is False",
+      "D": "Statement I is False but Statement II is True"
+    },
+    "answer": "c",
+    "explanation": "Statement I is True: The energy levels in both the He⁺ ion and the H atom are related by the formula for the energy of the nth level of a hydrogen-like atom: Energy for an electron in level n is given by: E = -13.6 eV * Z² / n²For He⁺ (Z = 2) in the n = 2 state, the energy is: E = -13.6 eV * 2² / 2² = -3.4 eVFor H (Z = 1) in the n = 1 state, the energy is: E = -13.6 eVThese energies are indeed comparable when considering the difference in nuclear charge. Therefore, Statement I is correct. Statement II is False: According to the Heisenberg Uncertainty Principle, it is not possible to simultaneously determine both the exact position and momentum of an electron. The more precisely one is measured, the less precisely the other can be determined. Hence, Statement II is incorrect.",
+    "year": "2024",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The quantum numbers of four electrons are given below: [NEET 2024] I. n = 4; l = 2; mₗ = -2; s = +1/2 II. n = 3; l = 2; mₗ = 1; s = +1/2 III. n = 4; l = 1; mₗ = 0; s = +1/2 IV. n = 3; l = 1; mₗ = -1; s = +1/2 The correct decreasing order of energy of these electrons is",
+    "options": {
+      "A": "IV > II > III > I",
+      "B": "II > III > I > IV",
+      "C": "III > II > I > IV",
+      "D": "I > II > III > IV"
+    },
+    "answer": "d",
+    "explanation": "Correct Answer: I > II > III > IV Explanation: The energy of electrons depends on n+ℓn + \\ell n+ℓ. For the given electrons: I: n=4,ℓ=2→n+ℓ=6n = 4, \\ell = 2 \\rightarrow n + \\ell = 6 n=4,ℓ=2→n+ℓ=6II: n=3,ℓ=2→n+ℓ=5n = 3, \\ell = 2 \\rightarrow n + \\ell = 5 n=3,ℓ=2→n+ℓ=5III: n=4,ℓ=1→n+ℓ=5n = 4, \\ell = 1 \\rightarrow n + \\ell = 5 n=4,ℓ=1→n+ℓ=5IV: n=3,ℓ=1→n+ℓ=4n = 3, \\ell = 1 \\rightarrow n + \\ell = 4 n=3,ℓ=1→n+ℓ=4 Order: I (highest n+ℓn + \\ell n+ℓ) > II (same n+ℓn + \\ell n+ℓ as III, but lower nn n) > III > IV (lowest n+ℓn + \\ell n+ℓ).",
+    "year": "2024",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Given below are two statements: [NEET 2024] Statement I: The Balmer spectral line for H atom with lowest energy appears at 5/36 RH cm⁻¹ (RH = Rydberg constant). Statement II: When the temperature of a black body increases, the maxima of the curve (intensity versus wavelength) shifts towards shorter wavelength. In light of the above statements",
+    "options": {
+      "A": "Statement I is correct and Statement II is incorrect.",
+      "B": "Statement I is incorrect and Statement II is correct.",
+      "C": "Both Statement I and Statement II are correct.",
+      "D": "Both Statement I and Statement II are incorrect."
+    },
+    "answer": "c",
+    "explanation": "Statement I: The Balmer spectral line for H atom with the lowest energy appears at 5/36 RH cm⁻¹ (RH = Rydberg constant). The Balmer series corresponds to the transitions in the hydrogen atom where the electron falls from higher energy levels to the second energy level (n = 2).The wavelength of the Balmer spectral line for the lowest energy transition (from n = 3 to n = 2) is given by the Rydberg formula: 1/λ = RH * (1/2² - 1/3²) This simplifies to: 1/λ = RH * (1/4 - 1/9) = 5/36 RH cm⁻¹. Thus, Statement I is correct. Statement II: When the temperature of a black body increases, the maxima of the curve (intensity versus wavelength) shifts towards shorter wavelengths. According to Wien's displacement law, the wavelength at which the intensity of radiation is maximum for a black body is inversely proportional to the temperature. This means that as the temperature increases, the peak of the emission spectrum shifts toward shorter wavelengths.Thus, Statement II is correct. Since both statements are correct, the correct answer is (c) Both Statement I and Statement II are correct.",
+    "year": "2024",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The relation between nm, (nm = the number of permissible values of magnetic quantum number (m)) for a given value of azimuthal quantum number (l), is [NEET 2023]",
+    "options": {
+      "A": "[diagram]",
+      "B": "l = 2nm + 1",
+      "C": "nm = 2l2 + 1",
+      "D": "nm = l + 2"
+    },
+    "answer": "a",
+    "explanation": "Values of nm(magnetic quantum number) for given azimuthal quantum number can be calculated as following",
+    "year": "2023",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2023_C11_Q9-explanation1.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2023_C11_Q9-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Select the correct Statements from the following : [NEET 2023] A. Atoms of all elements are composed of two fundamental particles. B. The mass of the electron is 9.10939×10-31 kg. C. All the isotopes of a given elements show same chemical properties. D. Protons and electrons are collectively known as nucleons. E. Dalton's atomic theory, regarded the atom as an ultimate particle of matter. Choose the correct answer from the options given below",
+    "options": {
+      "A": "C, D and E only",
+      "B": "A and E only",
+      "C": "B, C and E only",
+      "D": "A, B and C only"
+    },
+    "answer": "c",
+    "explanation": "It is statement based question. Statements B, C & E are correct. (B) Mass of the electron is 9.10939×10--31 kg (C) All the isotopes of given elements show same chemical properties. (E) Dalton's atomic theory, regarded the atom as an ultimate particle of matter.",
+    "year": "2023",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The incorrect set of quantum numbers from the following is: [NEET 2023]",
+    "options": {
+      "A": "n = 4, l = 3, mₗ = -3, -2, -1, 0, +1, +2, +3, mₛ = -1/2",
+      "B": "n = 5, l = 2, mₗ = -2, -1, +1, +2, mₛ = +1/2",
+      "C": "n = 4, l = 2, mₗ = -2, -1, 0, +1, +2, mₛ = -1/2",
+      "D": "n = 5, l = 3, mₗ = -3, -2, -1, 0, +1, +2, +3, mₛ = +1/2"
+    },
+    "answer": "b",
+    "explanation": "Quantum numbers: n (Principal quantum number): Determines the energy level or shell. It can take positive integer values (1, 2, 3, ...).l (Azimuthal quantum number): Determines the subshell (shape of the orbital). It can take values from 0 to n-1.mₗ (Magnetic quantum number): Determines the orientation of the orbital. It can take values from -l to +l, including 0.mₛ (Spin quantum number): Determines the spin of the electron. It can take values of +1/2 or -1/2. Analyzing each option: (a) n = 4, l = 3, mₗ = -3, -2, -1, 0, +1, +2, +3, mₛ = -1/2: n = 4, so l can be 0, 1, 2, or 3 (valid for l = 3).mₗ can range from -l to +l, so for l = 3, mₗ can be -3, -2, -1, 0, +1, +2, +3 (valid).mₛ = -1/2 is valid for electron spin.This set of quantum numbers is correct. (b) n = 5, l = 2, mₗ = -2, -1, +1, +2, mₛ = +1/2: n = 5, so l can be 0, 1, 2, 3, or 4 (valid for l = 2).mₗ can range from -l to +l, so for l = 2, mₗ can be -2, -1, 0, +1, +2 (valid).mₛ = +1/2 is valid for electron spin.This set of quantum numbers is correct. (c) n = 4, l = 2, mₗ = -2, -1, 0, +1, +2, mₛ = -1/2: n = 4, so l can be 0, 1, 2, or 3 (valid for l = 2).mₗ can range from -l to +l, so for l = 2, mₗ can be -2, -1, 0, +1, +2 (valid).mₛ = -1/2 is valid for electron spin.This set of quantum numbers is correct. (d) n = 5, l = 3, mₗ = -3, -2, -1, 0, +1, +2, +3, mₛ = +1/2: n = 5, so l can be 0, 1, 2, 3, or 4 (valid for l = 3).mₗ can range from -l to +l, so for l = 3, mₗ can be -3, -2, -1, 0, +1, +2, +3 (valid).mₛ = +1/2 is valid for electron spin.This set of quantum numbers is correct. Conclusion: Option (b) is the incorrect set of quantum numbers because it incorrectly specifies that mₗ can take values from -2 to +2 for l = 2, but it includes -2, -1, +1, +2. There is no zero value included for mₗ. Therefore, Option (b) is the incorrect one. The correct answer is (b).",
+    "year": "2023",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Given below are two statements: [NEET 2023] Statement I: The value of wave function, Ψ, depends upon the coordinates of the electron in the atom. Statement II: The probability of finding an electron at a point within an atom is proportional to the orbital wave function. In light of the above statements",
+    "options": {
+      "A": "Statement I is True but Statement II is False.",
+      "B": "Statement I is False but Statement II is True.",
+      "C": "Both Statement I and Statement II are True.",
+      "D": "Both Statement I and Statement II are False."
+    },
+    "answer": "a",
+    "explanation": "Statement I: The value of wave function, Ψ, depends upon the coordinates of the electron in the atom. This is true. The wave function (Ψ) represents the state of an electron in an atom and its value depends on the position coordinates of the electron, i.e., the spatial coordinates (x, y, z) of the electron in space. The wave function provides information about the probability amplitude of finding an electron at a specific location. Statement II: The probability of finding an electron at a point within an atom is proportional to the orbital wave function. This is false. The probability of finding an electron at a point is proportional to the square of the wave function (Ψ²), not directly proportional to Ψ itself. The square of the wave function, |Ψ|², gives the probability density of finding an electron at a specific point in space. Thus, the correct answer is (a) Statement I is True but Statement II is False.",
+    "year": "2023",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "In radius of second Bohr orbit of the He+ ion is 105.8 pm, what is the radius of third Bohr orbit of Li2+ ion?",
+    "options": {
+      "A": "1.587 pm",
+      "B": "158.7 Å",
+      "C": "158.7 pm",
+      "D": "15.87 pm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2022_C11_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Identify the incorrect statement from the following. (",
+    "options": {
+      "A": "All the five 5d orbitals are different in size when compared to the respective 4d orbitals. (",
+      "B": "All the five 4d orbitals have shapes similar to the respective 3d orbitals. (",
+      "C": "In an atom, all the five 3d orbitals are equal in energy in free state. (",
+      "D": "The shapes of dxy, dyz and dzx orbitals are similar to each other; and dx2 - y2 and dz2 are similar to each other."
+    },
+    "answer": "d",
+    "explanation": "In an atom, all the five 3d orbitals are equal in energy in free state i.e., degenerate. The shape of dx2 - y2 is different then shape of dz2 The size of orbital depends on principal quantum number 'n' therefore all the five 3d orbitals are different in size when compared to the respective 4d orbitals. Shape of orbitals depends on azimuthal quantum number 'I' therefore shapes of 4d orbitals are similar to the respective 3d orbitals.",
+    "year": "2022",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2022_C11_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "B": "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
+      "C": "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)",
+      "D": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2022_C11_Q15-main.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2022_C11_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "When electromagnetic radiation of wavelength 300 nm falls on the surface of a metal, electrons are emitted with the kinetic energy of 1.68 × 105 J mol-1. What is the minimum energy needed to remove an electron from the metal? (h = 6.626 × 10-34 Js, c = 3 × 108 ms-1, NA = 6.022 × 1023 mol-1)",
+    "options": {
+      "A": "2.31 × 105 J mol-1",
+      "B": "2.31 × 106 J mol-1",
+      "C": "3.84 × 104 J mol-1",
+      "D": "3.84 × 10-19 J mol-1"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2022_C11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A particular station of All India Radio, New Delhi, broadcasts on a frequency of 1,368 kHz (kilohertz). The wavelength of the electromagnetic radiation emitted by the transmitter is : [speed of light, c = 3.0 x 108 ms-1]",
+    "options": {
+      "A": "2192 m",
+      "B": "21.92 cm",
+      "C": "219.3 m",
+      "D": "219.2 m"
+    },
+    "answer": "c",
+    "explanation": "Energy of electromagnetic radiation (E)",
+    "year": "2021",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2021_C11_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "From the following pairs of ions which one is not an iso-electronic pair?",
+    "options": {
+      "A": "Fe2+, Mn2+",
+      "B": "O2-, F -",
+      "C": "Na+, Mg2+",
+      "D": "Mn2+, Fe3+"
+    },
+    "answer": "a",
+    "explanation": "Isoelectronic species have some number of electrons.",
+    "year": "2021",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2021_C11_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "4d, 5p, 5f and 6p orbitals are arranged in the order of decreasing energy. The correct option is",
+    "options": {
+      "A": "5f > 6p > 5p > 4d",
+      "B": "6p > 5f > 5p > 4d",
+      "C": "6p > 5f > 4d > 5p",
+      "D": "5f > 6p > 4d > 5p"
+    },
+    "answer": "a",
+    "explanation": "As per Aufbau principle (n + l rule), higher is the value of (n + l), greater will be the energy. When (n + l) values are same then which orbital have higher value of n will have more energy. 4d = 4 + 2 = 6 5p = 5 + 1 = 6 5f = 5 + 3 = 8 6p = 6 + 1 = 7 Hence, the correct order of decreasing energy will be : 5f > 6p > 5p > 4d.",
+    "year": "2019",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Which of the following series of transitions in the spectrum of hydrogen atom fall in visible region?",
+    "options": {
+      "A": "Lyman series",
+      "B": "Balmer series",
+      "C": "Paschen series",
+      "D": "Brackett series"
+    },
+    "answer": "b",
+    "explanation": "Balmer series lies in visible region.Paschen series lies in infra red region.Brackett series lies in infra red region.Lyman series lies in ultraviolet region.",
+    "year": "2019",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Which one is a wrong statement ?",
+    "options": {
+      "A": "Total orbital angular momentum of electron in 's' orbital is equal to zero",
+      "B": "An orbital is designated by three quantum numbers while an electron in an atom is designated by four quantum numbers.",
+      "C": "The electronic configuration of N atom is",
+      "D": "The value of m for dz2 is zero"
+    },
+    "answer": "c",
+    "explanation": "In degnerate orbital all unpaired electrons show same spin. So the correct configuration of N atom is",
+    "year": "2018",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2018_C11_Q21-explanation1.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2018_C11_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which one is the wrong statement ?",
+    "options": {
+      "A": "The uncertainty principle is [diagram]",
+      "B": "Half filled and fully filled orbitals have greater stability due to greater exchange energy, greater symmetry and more balanced arrangement.",
+      "C": "The energy of 2s-orbital is less than the energy of 2p-orbital in case of hydrogen like atoms.",
+      "D": "de-Broglie's wavelength is given by [diagram] where m = mass of the particle, v = group velocity of the particle."
+    },
+    "answer": "c",
+    "explanation": "In the case of hydrogen type atoms, energy depends on the principal quantum number only. Therefore 2-s orbital will have energy equal to 2-p orbital.",
+    "year": "2017",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2017_C11_Q22-explanation1.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2017_C11_Q22-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Two electrons occupying the same orbital are distinguished by",
+    "options": {
+      "A": "Spin quantum number",
+      "B": "Principal quantum number",
+      "C": "Magnetic quantum number",
+      "D": "Azimuthal quantum number"
+    },
+    "answer": "a",
+    "explanation": "For any two electrons occupying the same orbital values of n, l and ml are same but ms is different [ + 1/2 and - 1/2]",
+    "year": "2016",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "How many electrons can fit in the orbital for which n = 3 and l = 1?",
+    "options": {
+      "A": "2",
+      "B": "6",
+      "C": "10",
+      "D": "14"
+    },
+    "answer": "a",
+    "explanation": "For n = 3 and l = 1, the subshell is 3p and a particular 3p orbital can accodomodate only 2 electrons.",
+    "year": "2016",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Which of the following pairs of d-orbitals will have electron density along the axes ?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "dx2 - y2 and dz2 orbitals have electron density along the axes.",
+    "year": "2016",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2016_C11_Q25-explanation1.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2016_C11_Q25-explanation2.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2016_C11_Q25-explanation3.png",
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2016_C11_Q25-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "The angular momentum of electron in 'd' orbital is equal to",
+    "options": {
+      "A": "0 h",
+      "B": "√6h",
+      "C": "√2h",
+      "D": "2√3h"
+    },
+    "answer": "b",
+    "explanation": "Angular momentum of electron in 'd' orbital =",
+    "year": "2015",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2015_C11_Q26-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "The number of d-electrons in Fe2+ (Z = 26) is not equal to the number of electrons in which one of the following ?",
+    "options": {
+      "A": "p - electrons in Ne (Z = 10)",
+      "B": "s - electrons in Mg (Z = 12)",
+      "C": "p - electrons in Cl (Z = 17)",
+      "D": "d - electrons in Fe (Z = 26)"
+    },
+    "answer": "c",
+    "explanation": "Number of d-electrons in Fe2+ = 6 Number of p-electrons in Cl = 11",
+    "year": "2015",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Which is the correct order of increasing energy of the listed orbitals in the atom of titanium ? (At. no. Z = 22)",
+    "options": {
+      "A": "4s 3s 3p 3d",
+      "B": "3s 3p 3d 4s",
+      "C": "3s 3p 4s 3d",
+      "D": "3s 4s 3p 3d"
+    },
+    "answer": "c",
+    "explanation": "Ti (22) ⇒ 1s2 2s2 2p6 3s2 3p6 4s2 3d2 ∴ Order of increasing energy is 3s, 3p, 4s, 3d",
+    "year": "2015",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Magnetic moment 2.83 BM is given by which of the following ions ? (At. Nos. Ti = 22, Cr = 24, Mn = 25, Ni = 28)",
+    "options": {
+      "A": "Cr3+",
+      "B": "Mn2+",
+      "C": "Ti3+",
+      "D": "Ni2+"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2014",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2014_C11_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "What is the maximum number of orbitals that can be identified with the following quantum numbers ? n = 3,l= 1, ml = 0",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "answer": "c",
+    "explanation": "3p orbital can have n = 3, l = 1 and ml = 0.",
+    "year": "2014",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Calculate the energy in joule corresponding to light of wavelength 45 nm : (Planck's constant h = 6.63 × 10-34 Js; speed of light c = 3 × 108 ms-1)",
+    "options": {
+      "A": "4.42 × 10-15",
+      "B": "4.42 × 10-18",
+      "C": "6.67 × 1015",
+      "D": "6.67 × 1011"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2014",
+    "chapter": "Structure of Atom",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/structure-of-atom/STRUCTURE_OF_ATOM-2014_C11_Q31-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

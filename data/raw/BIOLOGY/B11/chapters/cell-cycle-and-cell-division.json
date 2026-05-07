@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "Q1",
+    "text": "Spindle fibers attach to kinetochores of chromosomes during",
+    "options": {
+      "A": "Prophase",
+      "B": "Metaphase",
+      "C": "Anaphase",
+      "D": "Telophase"
+    },
+    "answer": "b",
+    "explanation": "During the process of mitosis, spindle fibers play a crucial role in the movement and alignment of chromosomes. These fibers are made of microtubules and are essential for the chromosomes to move accurately into position during cell division. Let's discuss when the spindle fibers attach to the kinetochores of the chromosomes: Prophase: This is the initial stage of mitosis, where the chromosomes condense and become visible. However, the spindle fibers have not yet attached to kinetochores. Spindle fibers begin to form, but their attachment to kinetochores happens later. Metaphase: This is the stage where the spindle fibers attach to the kinetochores of chromosomes. During metaphase, chromosomes align at the metaphase plate (also known as the equatorial plane of the cell). This alignment is facilitated by the spindle fibers, which pull the chromosomes into position for accurate separation into daughter cells. Anaphase: During anaphase, the sister chromatids separate and are pulled apart as the spindle fibers shorten. While spindle fibers are essential during this phase for pulling apart the chromatids, their initial attachment to kinetochores occurs earlier. Telophase: This is the final stage of mitosis, where the chromosomes reach the opposite poles of the cell, and the cell starts to re-form its nuclear membranes. Spindle fibers disassemble during this phase.Based on the description of functions and timing within mitosis, the correct answer for when spindle fibers attach to kinetochores of chromosomes is Option B: Metaphase.",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Given below are two statements: Statement I : Chromosomes become gradually visible under light microscope during leptotene stage. Statement II : The beginning of diplotene stage is recognized by dissolution of synaptonemal complex",
+    "options": {
+      "A": "Both Statement I and Statement II are true",
+      "B": "Both Statement I and Statement II are false",
+      "C": "Statement I is true but Statement II is false",
+      "D": "Statement I is false but Statement II is true"
+    },
+    "answer": "a",
+    "explanation": "The two statements in question are related to specific stages of meiosis, specifically prophase I. Understanding these stages will help us decide the accuracy of the statements.Statement I: Chromosomes become gradually visible under light microscope during leptotene stage. Analysis of Statement I: During the leptotene stage of prophase I in meiosis, chromatin begins to condense, making chromosomes more visible under the light microscope. However, it is important to note that the chromosomes are not fully condensed at this stage. They continue condensing in the later stages (zygotene and pachytene). Therefore, the statement is largely accurate as it reflects the initial visibility of the chromosomes.Statement II: The beginning of diplotene stage is recognized by dissolution of synaptonemal complex. Analysis of Statement II: In the diplotene stage of prophase I, the previously formed synaptonemal complexes, which assist in the pairing of homologous chromosomes during the earlier zygotene and pachytene stages, start to dissolve. This dissolution marks the transition into diplotene and is a key event that defines this stage. So, this statement is true. Given that the analysis shows both statements to be accurate in their description of events during meiosis, the most appropriate choice is: Option A: Both Statement I and Statement II are true.",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Following are the stages of cell division : A. Gap 2 phase B. Cytokinesis C. Synthesis phase D. Karyokinesis E. Gap 1 phase Choose the correct sequence of stages from the options given below",
+    "options": {
+      "A": "C-E-D-A-B",
+      "B": "E-B-D-A-C",
+      "C": "B-D-E-A-C",
+      "D": "E-C-A-D-B"
+    },
+    "answer": "d",
+    "explanation": "The correct sequence of stages of cell division is The correct sequence will be",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2024_B11_Q3-explanation1.png",
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2024_B11_Q3-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-IV, B-II, C-III, D-I",
+      "B": "A-I, B-II, C-IV, D-III",
+      "C": "A-II, B-IV, C-I, D-III",
+      "D": "A-IV, B-III, C-II, D-I"
+    },
+    "answer": "c",
+    "explanation": "The matching between the sub-phases of Prophase I and their specific characters can be understood as follows:List I (Sub Phases of Prophase I):Leptotene: This is the first stage where chromosomes start to become visible under the microscope as thin, thread-like structures. Hence, it is characterized by chromosomes looking like thin threads.Zygotene: During this stage, synapsis begins, which is the pairing of homologous chromosomes. This corresponds to the formation of the synaptonemal complex.Pachytene: At this stage, crossing over occurs where genetic material is exchanged between homologous chromosomes. Appearance of recombination nodules, which are essential for crossing over, characterizes this stage.Diakinesis: This is the final stage of prophase I where chiasmata (the site of crossing over) move to the ends of the chromosomes, a process known as terminalization. Hence, this phase is marked by the completion of terminalization of chiasmata.List II (Specific Characters):I. Synaptonemal complex formation - Characteristic of Zygotene.II. Completion of terminalisation of chiasmata - Characteristic of Diakinesis.III. Chromosomes look like thin threads - Characteristic of Leptotene.IV. Appearance of recombination nodules - Characteristic of Pachytene.Matching the sub-phases to their characters: A (Diakinesis) matches with II (Completion of terminalisation of chiasmata). B (Pachytene) matches with IV (Appearance of recombination nodules). C (Zygotene) matches with I (Synaptonemal complex formation). D (Leptotene) matches with III (Chromosomes look like thin threads).Thus, the correct answer is Option C: A-II, B-IV, C-I, D-III.",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2024_B11_Q4-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-II, B-I, C-IV, D-III",
+      "B": "A-I, B-IV, C-III, D-III",
+      "C": "A-III, B-II, C-IV, D-I",
+      "D": "A-II, B-IV, C-I, D-III"
+    },
+    "answer": "d",
+    "explanation": "A. Chromosomes start pairing together to form synaptonemal complex \u2192 (II) Zygotene: During the zygotene stage of prophase I, homologous chromosomes begin to pair with each other to form the synaptonemal complex, which helps align the chromosomes for recombination.B. Chromosomes visible under light microscope and compaction continues \u2192 (IV) Leptotene: In leptotene, chromosomes start to condense and become visible under the light microscope, though they are not yet fully compacted.C. Four chromatids of bivalent chromosomes become distinct and recombinant nodules appear \u2192 (I) Pachytene: In pachytene, the homologous chromosomes are fully paired (bivalent), and the exchange of genetic material (crossing over) happens. The chromatids become clearly distinct, and recombinant nodules are visible.D. Dissolution of synaptonemal complex \u2192 (III) Diplotene: In diplotene, the synaptonemal complex dissolves, and the homologous chromosomes begin to separate, although they are still connected by chiasmata (sites of crossover).Thus, the correct matching is:A \u2192 II (Zygotene)B \u2192 IV (Leptotene)C \u2192 I (Pachytene)D \u2192 III (Diplotene)Therefore, the correct answer is (4) A-II, B-IV, C-I, D-III.",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2024_B11_Q5-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-I, B-II, C-IV,D-III",
+      "B": "A-IV, B-II, C-I, D-III",
+      "C": "A-II, B-IV, C-I, D-III",
+      "D": "A-I, B-III, C-II, D-IV"
+    },
+    "answer": "b",
+    "explanation": "A. G1 phase (I): The G1 phase is the first phase of the cell cycle, where the cell is metabolically active and grows continuously. During this phase, the cell prepares for DNA replication and other activities but does not replicate its DNA yet.B. S phase (II): The S phase is where DNA replication occurs. The cell synthesizes a complete copy of its DNA in preparation for cell division.C. G0 stage (I): The G0 stage is a resting phase where the cell is metabolically active but does not proliferate or divide. The cell is temporarily or permanently out of the cell cycle.D. G2 phase (III): The G2 phase is the period after DNA replication where the cell synthesizes proteins and prepares for mitosis. During this phase, the cell ensures that DNA replication is complete and checks for any errors.Therefore, the correct matching is:A \u2192 IV (G1 phase \u2192 Cell is metabolically active and grows continuously)B \u2192 II (S phase \u2192 Replication of DNA)C \u2192 I (G0 stage \u2192 Cell is metabolically active but no proliferation)D \u2192 III (G2 phase \u2192 Synthesis of proteins)Thus, the correct answer is (B) A-IV, B-II, C-I, D-III.",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2024_B11_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III,B-I,C-IV,D-II",
+      "B": "A-II,B-I,C-III,D-IV",
+      "C": "A-III,B-I,C-II,D-IV",
+      "D": "A-II,B-III,C-IV,D-I"
+    },
+    "answer": "a",
+    "explanation": "A. Chiasmata \u2192 (III) Diplotene: Chiasmata are the visible points where homologous chromosomes exchange genetic material during crossing over. These chiasmata become visible during the diplotene stage of prophase I.B. Crossing over \u2192 (I) Pachytene: Crossing over occurs during the pachytene stage of prophase I, where homologous chromosomes exchange segments of genetic material, leading to genetic recombination.C. Synaptonemal complex formation \u2192 (IV) Zygotene: The synaptonemal complex forms during the zygotene stage of prophase I, where homologous chromosomes begin pairing up and aligning with each other.D. Terminalisation of chiasmata \u2192 (II) Diakinesis: In diakinesis, the terminalisation of chiasmata occurs, where the chiasmata move to the ends of the chromosomes as they prepare for metaphase.Thus, the correct matching is:A \u2192 III (Chiasmata \u2192 Diplotene)B \u2192 I (Crossing over \u2192 Pachytene)C \u2192 IV (Synaptonemal complex formation \u2192 Zygotene)D \u2192 II (Terminalisation of chiasmata \u2192 Diakinesis)Therefore, the correct answer is (A) A-III, B-I, C-IV, D-II.",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2024_B11_Q7-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Recombination between homologous chromosomes is completed by the end of",
+    "options": {
+      "A": "Diakinesis",
+      "B": "Zygotene",
+      "C": "Diplotene",
+      "D": "Pachytene"
+    },
+    "answer": "d",
+    "explanation": "Recombination, or crossing over, between homologous chromosomes occurs during pachytene, which is a stage of prophase I in meiosis. During this stage, homologous chromosomes pair up (synapsis) and exchange genetic material. This process results in recombination, leading to genetic diversity.Zygotene is the stage where homologous chromosomes begin pairing but crossing over has not yet occurred.Diplotene is when the synaptonemal complex dissolves, and the chiasmata (points of crossover) become visible.Diakinesis is the final stage of prophase I, where the chromosomes condense further, but recombination itself is already completed by the end of pachytene.Thus, recombination between homologous chromosomes is completed by the end of pachytene. Therefore, the correct answer is (d) Pachytene.",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-I, B-II, C-III, D-IV",
+      "B": "A-III, B-I, C-IV, D-II",
+      "C": "A-IV, B-III, C-II, D-I",
+      "D": "A-II, B-IV, C-I, D-III"
+    },
+    "answer": "d",
+    "explanation": "A. Cells are metabolically active and proliferate \u2192 (II) G1 phase: In the G1 phase, cells are metabolically active, grow, and prepare for DNA replication. This phase involves cell proliferation as the cell carries out its normal functions and grows.B. DNA replication takes place \u2192 (IV) S phase: The S phase (Synthesis phase) is when DNA replication occurs. During this phase, the cell makes an identical copy of its DNA in preparation for cell division.C. Proteins are synthesized \u2192 (I) G2 phase: During the G2 phase, the cell continues to grow and synthesizes the necessary proteins and organelles in preparation for mitosis (M phase).D. Quiescent stage with metabolically active cells \u2192 (III) G0 phase: The G0 phase is a resting stage where cells are not dividing but are still metabolically active. Cells in this phase have temporarily or permanently exited the cell cycle.Thus, the correct matching is:A \u2192 II (G1 phase)B \u2192 IV (S phase)C \u2192 I (G2 phase)D \u2192 III (G0 phase)Therefore, the correct answer is (D) A-II, B-IV, C-I, D-III.",
+    "year": "2024",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2024_B11_Q9-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Which of the following stages of meiosis involves division of centromere?",
+    "options": {
+      "A": "Metaphase I",
+      "B": "Metaphase II",
+      "C": "Anaphase II",
+      "D": "Telophase"
+    },
+    "answer": "c",
+    "explanation": "During meiosis, the division of the centromere occurs in Anaphase II. At this stage, the sister chromatids of each chromosome (which are attached at the centromere) are pulled apart and move toward opposite poles of the cell. This is similar to what happens in anaphase of mitosis. In contrast, during Anaphase I of meiosis, homologous chromosomes are separated but the centromeres do not divide, meaning the sister chromatids stay together.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The process of appearance of recombination nodules occurs at which sub stage of prophase I in meiosis?",
+    "options": {
+      "A": "Zygotene",
+      "B": "Pachytene",
+      "C": "Diplotene",
+      "D": "Diakinesis"
+    },
+    "answer": "b",
+    "explanation": "Recombination nodules appear during the pachytene stage of prophase I in meiosis. These nodules are thought to be involved in crossing over, a process where homologous chromosomes exchange genetic material. This leads to genetic recombination, which is a significant source of genetic variation in sexually reproducing organisms.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Among eukaryotes, replication of DNA takes place in",
+    "options": {
+      "A": "M phase",
+      "B": "S phase",
+      "C": "G1 phase",
+      "D": "G2 phase"
+    },
+    "answer": "b",
+    "explanation": "In eukaryotes, DNA replication takes place during the S phase (Synthesis phase) of the cell cycle. During this phase, the entire genome is replicated, resulting in two copies of each chromosome to ensure that both daughter cells receive a complete set of genetic information during cell division.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-III, B-II, C-IV, D-I",
+      "B": "A-IV, B-II, C-I, D-III",
+      "C": "A-IV, B-I, C-II, D-III",
+      "D": "A-II, B-IV, C-I, D-III"
+    },
+    "answer": "c",
+    "explanation": "M phase or mitosis is the phase where the actual cell division occurs. Mitosis is also called equational division.During G2 phase DNA synthesis stops but cell synthesis RNA, proteins, etc. for next phase.Quiescent stage is inactive phase in which non-dividing cells enters.G1 phase is the interval between mitosis and initiation of DNA replication.Therefore, option (c) is correct.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2023_B11_Q13-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Given below are two statements: Statement I : During G0 phase of cell cycle, the cell is metabolically inactive. Statement II : The centrosome undergoes duplication during S phase of interphase",
+    "options": {
+      "A": "Both Statement I and Statement II are correct",
+      "B": "Both Statement I and Statement II are incorrect.",
+      "C": "Statement I is correct but Statement II is incorrect.",
+      "D": "Statement I is incorrect but Statement II is correct."
+    },
+    "answer": "d",
+    "explanation": "Statement I is incorrect. The G0 phase is a state in the cell cycle in which cells exist in a quiescent or dormant stage. However, this does not mean that the cell is metabolically inactive. Rather, the cell maintains its normal functions but is not preparing for cell division.Statement II is correct. During the S phase (synthesis phase) of interphase, DNA replication occurs, and the centrosome, which plays a key role in cell division, also duplicates. This prepares the cell for the later stages of the cell cycle, where the cell divides into two daughter cells.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Select the correct statements. A. Tetrad formation is seen during Leptotene. B. During Anaphase, the centromeres split and chromatids separate. C. Terminalization takes place during Pachytene. D. Nucleolus, Golgi complex and ER are reformed during Telophase. E. Crossing over takes place between sister chromatids of homologous chromosome",
+    "options": {
+      "A": "A and C only",
+      "B": "B and D only",
+      "C": "A, C and E only",
+      "D": "B and E only"
+    },
+    "answer": "b",
+    "explanation": "1. Tetrad formation is seen during the Zygotene stage : During the Zygotene stage of Prophase I in meiosis, homologous chromosomes pair up, forming tetrads or bivalents. 2. During Anaphase, the centromeres split and chromatids separate : In Anaphase, the centromeres divide, and the sister chromatids are pulled apart towards opposite poles of the cell. 3. Terminalization of chiasmata takes place during Diakinesis : Diakinesis is the final stage of Prophase I in meiosis. During this stage, terminalization occurs, which is the process in which chiasmata, the points of crossing over between non-sister chromatids, move toward the ends of the chromosomes. 4. Nucleolus, Golgi complex, and ER are reformed during Telophase : During Telophase, the nuclear envelope starts to reassemble around the separated chromosomes, and the nucleolus, Golgi complex, and endoplasmic reticulum (ER) are reformed. 5. Crossing over takes place between non-sister chromatids of homologous chromosomes : This process occurs during the Pachytene stage of Prophase I in meiosis, leading to the exchange of genetic material between the non-sister chromatids, which increases genetic diversity in the resulting gametes.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The dissolution of synaptonemal complex occurs during",
+    "options": {
+      "A": "Pachytene",
+      "B": "Diplotene",
+      "C": "Diakinesis",
+      "D": "Leptotene"
+    },
+    "answer": "b",
+    "explanation": "The synaptonemal complex is a structure that forms during the zygotene stage of prophase I in meiosis. It helps in the pairing of homologous chromosomes.The dissolution of the synaptonemal complex occurs during the diplotene stage of prophase I. In this stage, homologous chromosomes begin to separate, but they are still held together at the points of crossover (chiasmata).The pachytene stage is when crossing over and recombination occur, and the synaptonemal complex is still intact.The diakinesis is the final stage of prophase I, where chromosomes are fully condensed, and chiasmata are terminalized, but the synaptonemal complex is already dissolved by the time this stage starts.The leptotene is the very early stage of prophase I, where chromosomes start to condense, but synaptonemal complex formation is yet to occur.Thus, the correct answer is (b) Diplotene.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Doubling of the number of chromosomes can be achieved by disrupting mitotic cell division soon after",
+    "options": {
+      "A": "Anaphase",
+      "B": "Telophase",
+      "C": "Prophase",
+      "D": "Metaphase"
+    },
+    "answer": "d",
+    "explanation": "During metaphase, chromosomes align at the metaphase plate, and the sister chromatids are attached by centromeres. If mitosis is disrupted at this stage, the chromosomes may fail to separate properly, resulting in a doubling of the chromosome number because each daughter cell receives a full set of chromosomes from the division process.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "During which stages of mitosis and meiosis, respectively, does the centromere of each chromosome split?",
+    "options": {
+      "A": "Metaphase, Metaphase II",
+      "B": "Prophase, Telophase I",
+      "C": "Telophase, Anaphase I",
+      "D": "Anaphase, Anaphase II"
+    },
+    "answer": "d",
+    "explanation": "In mitosis, the centromere splits during anaphase, allowing the sister chromatids to separate and move to opposite poles of the cell.In meiosis, during anaphase II, the centromere of each chromosome splits, allowing the sister chromatids of the chromosomes in the second meiotic division to separate.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Which one of the following is the quiescent stage of cell cycle?",
+    "options": {
+      "A": "M",
+      "B": "G2",
+      "C": "G1",
+      "D": "G0"
+    },
+    "answer": "d",
+    "explanation": "The G0 phase is the quiescent or resting phase in the cell cycle. Cells in this phase are not actively dividing and may remain in this state temporarily or permanently, depending on the cell type and environmental factors. It's essentially a phase where the cell is metabolically active but not proliferating.",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Select the correct sequence of substages of Prophase - I of Meiotic division (A) Zygotene (B) Pachytene (C) Diakinesis (D) Leptotene (E) Diplotene",
+    "options": {
+      "A": "(D), (B), (A), (E), (C)",
+      "B": "(A), (B), (D), (E), (C)",
+      "C": "(D), (A), (B), (E), (C)",
+      "D": "(A), (D), (B), (C), (E)"
+    },
+    "answer": "c",
+    "explanation": "The sequence of prophase I substages in meiosis follows this order:Leptotene (D): This is the first substage of prophase I, where the chromosomes begin to condense and become visible under a microscope, but they are still thin and long. Homologous chromosomes do not yet pair.Zygotene (A): During this substage, homologous chromosomes begin to pair up through a process called synapsis, forming a structure called the synaptonemal complex.Pachytene (B): In this substage, homologous chromosomes are fully paired (bivalents), and crossing over (genetic recombination) occurs between non-sister chromatids of homologous chromosomes.Diplotene (E): In this substage, the synaptonemal complex dissolves, and homologous chromosomes begin to separate slightly, but they remain connected at points called chiasmata (sites of crossing over).Diakinesis (C): This is the final substage of prophase I, where the chromosomes condense further, the nuclear envelope breaks down, and the chiasmata move toward the ends of the chromosomes (terminalization). The cell is now ready to move on to metaphase I.Thus, the correct order is: Leptotene \u2192 Zygotene \u2192 Pachytene \u2192 Diplotene \u2192 Diakinesis, corresponding to option (c).",
+    "year": "2023",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Which one of the following never occurs during mitotic cell division?",
+    "options": {
+      "A": "Movement of centrioles towards opposite poles",
+      "B": "Pairing of homologous chromosomes",
+      "C": "Coiling and condensation of the chromatids",
+      "D": "Spindle fibers attach to kinetochores of chromosomes"
+    },
+    "answer": "b",
+    "explanation": "Pairing of homologous chromosomes occurs during prophase I of meiosis.Coiling and condensation of chromatids, spindle fibres attachment to the kinetochores and movement of centrioles towards opposite poles occur in both mitosis and meiosis.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes",
+    "options": {
+      "A": "Bivalent",
+      "B": "Sites at which crossing over occurs",
+      "C": "Terminalization",
+      "D": "Synaptonemal complex"
+    },
+    "answer": "b",
+    "explanation": "Pachytene stage of meiosis is characterized by the appearance of recombination nodules, the sites at which crossing over occurs between non sister chromatids of homologous chromosomes.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Regarding meiosis, which of the statements is incorrect?",
+    "options": {
+      "A": "DNA replication occurs in S phase of meiosis-II",
+      "B": "Pairing of homologous chromosomes and recombination occurs in meiosis-I",
+      "C": "Four haploid cells are formed at the end of meiosis-II",
+      "D": "There are two stages in meiosis, meiosis-I and II"
+    },
+    "answer": "a",
+    "explanation": "Meiosis involves two sequential cycles of nuclear and cell division called meiosis-I and meiosis-II but only single cycle of DNA replication.The stage between two meiotic divisions is called interkinesis and is generally short lived and involves no DNA replication.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Select the incorrect statement with reference to mitosis",
+    "options": {
+      "A": "Spindle fibers attach to centromere of chromosomes.",
+      "B": "Chromosomes decondense at telophase.",
+      "C": "Splitting of centromere occurs at anaphase.",
+      "D": "All the chromosomes lie at the equator at metaphase."
+    },
+    "answer": "a",
+    "explanation": "Spindle fibres attach to the kinetochores of chromosomes.Kinetochores are the disc shaped structures present on sides of primary constriction or centromere of chromosomes.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "B": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "C": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "D": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    },
+    "answer": "a",
+    "explanation": "In metacentric chromosome, centromere is in the middle of the chromosomes. Acrocentric chromosome has centromere close to the end of the chromosome. In submetacentric chromosome, centromere is slightly away from the middle of the chromosome. Telocentric chromosome has terminal centromere.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2022_B11_Q25-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Which stage of meiosis can last for months or years in the oocytes of some vertebrates?",
+    "options": {
+      "A": "Diakinesis",
+      "B": "Leptotene",
+      "C": "Pachytene",
+      "D": "Diplotene"
+    },
+    "answer": "d",
+    "explanation": "In oocytes of some vertebrates, diplotene lasts for months or years. This stage is referred as dictyotene stage.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Identify the correct sequence of events during Prophase I of meiosis: (a) Synapsis of homologous chromosomes (b) Chromosomes become gradually visible under microscope (c) Crossing over between non-sister chromatids of homologous chromosomes (d) Terminalisation of chiasmata (e) Dissolution of synaptonemal complex",
+    "options": {
+      "A": "(a), (c), (d), (e), (b)",
+      "B": "(a), (b), (c), (d), (e)",
+      "C": "(b), (c), (d), (e), (a)",
+      "D": "(b), (a), (c), (e), (d)"
+    },
+    "answer": "d",
+    "explanation": "Correct sequence of events during Prophase I of meiosis is : (b) \u2192 (a) \u2192 (c) \u2192 (e) \u2192 (d) (b) Chromosomes become gradually visible under microscope. (a) Synapsis of homologues chromosomes. (c) Crossing over between non-sister chromatids of homologous chromosomes. (e) Dissolution of synaptonemal complex. (d) Terminalisation of chiasmata.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Bivalent or Tetrad formation is a characteristic feature observed during",
+    "options": {
+      "A": "Chiasmata in zygotene stage",
+      "B": "Synaptonemal complex in zygotene stage",
+      "C": "Chiasmata in Diplotene stage",
+      "D": "Synaptonemal complex in Pachytene stage"
+    },
+    "answer": "b",
+    "explanation": "Bivalent or tetrad formation is called synapsis which is accompanied by the formation of complex structure called synaptonemal complex.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "With respect to metaphase, which of the following statements is incorrect?",
+    "options": {
+      "A": "Chromosomes lie at the equator of the cell",
+      "B": "Complete disintegration of nuclear envelope takes place",
+      "C": "Chromosomes are highly condensed",
+      "D": "Metaphase chromosomes are made up of four sister chromatids held together by centromere"
+    },
+    "answer": "d",
+    "explanation": "The question asks which statement is incorrect with respect to the metaphase stage of cell division.Option D is incorrect because metaphase chromosomes are not made up of four sister chromatids held together by the centromere. Instead, metaphase chromosomes consist of two sister chromatids held together by the centromere. The sister chromatids are identical copies of a single chromosome that have been replicated during the S phase of the cell cycle.Now, let's look at the other options, which are correct :Option A : Chromosomes lie at the equator of the cell - During metaphase, the chromosomes align along the equatorial plane (also known as the metaphase plate) in the middle of the cell. This arrangement ensures that each daughter cell will receive an equal number of chromosomes during cell division.Option B : Complete disintegration of the nuclear envelope takes place - In both mitosis and meiosis, the nuclear envelope breaks down during prophase and is completely disintegrated by the time the cell reaches metaphase. This allows the spindle fibers to attach to the chromosomes and facilitate their alignment at the equator.Option C : Chromosomes are highly condensed - During metaphase, the chromosomes are at their highest level of condensation, which allows them to be more easily visualized under a microscope. This condensation also aids in the proper alignment and segregation of chromosomes during cell division.",
+    "year": "2022",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Which of the following stages of meiosis involves division of centromere?",
+    "options": {
+      "A": "Anaphase II",
+      "B": "Telophase II",
+      "C": "Metaphase I",
+      "D": "Metaphase II"
+    },
+    "answer": "a",
+    "explanation": "During anaphase II, each pair of chromosomes is separated into two identical, independent chromosomes. The chromosomes are separated by a structure called the mitotic spindle made up of many long proteins called microtubules, which are attached to a chromosome at one end and to the pole of a cell at the other end. The sister chromatids are separated simultaneously at their centromeres. The separated chromosomes are then pulled by the spindle to opposite poles of the cell. Thus, the centromere splits, freeing the sister chromatids from each other.Telophase II is the last stage of meiosis II. During this phase, the chromatids reach the poles and start uncoiling.Chromosomes form two parallel plates in metaphase I and one plate in metaphase II.",
+    "year": "2021",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Match List-I with List-II Choose the correct answer from the options given below",
+    "options": {
+      "A": "(a)- (iv), (b)- (i), (c)- (ii), (d)- (iii)",
+      "B": "(a)-(ii), (b)-(iv), (c)- (iii), (d)- (i)",
+      "C": "(a)-(iii), (b)-(ii), (c)- (i), (d)- (iv)",
+      "D": "(a)-(iv), (b)-(ii), (c)- (iii)\u200b, (d)- \u200b\u200b\u200b(i)"
+    },
+    "answer": "a",
+    "explanation": "In S phase DNA replication takes place.In G2 phase there is synthesis of proteins, RNA etc.Quiescent stage is inactive stage of cell cycle but cells remain metabolically active in this stage.G1 phase is the interval between mitosis and initiation of DNA replication.",
+    "year": "2021",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2021_B11_Q31-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "The fruit fly has 8 chromosomes (2n) in each cell. During the interphase of Mitosis if the number of chromosomes at G1 phase is 8, what would be the number of chromosomes after the S phase?",
+    "options": {
+      "A": "4",
+      "B": "32",
+      "C": "8",
+      "D": "16"
+    },
+    "answer": "c",
+    "explanation": "In S phase there is duplication of DNA. So amount of DNA increases but not the chromosome number.So, if the number of chromosomes at G1 phase is 8 in fruit fly then the number of chromosomes will be same in S phase that is 8 only.",
+    "year": "2021",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "Which stage of meiotic prophase shows terminalisation of chiasmata as its distincitve feature?",
+    "options": {
+      "A": "Diakinesis",
+      "B": "Pachytene",
+      "C": "Leptotene",
+      "D": "Zygotene"
+    },
+    "answer": "a",
+    "explanation": "Diakinesis is the final stage of meiotic prophase 1. In this stage the two homologous chromosomes do not separate completely but remain attached together at one or more points as indicated by 'X' arrangement known as chiasmata. The displacement of chiasmata is termed as terminalisation of chiasmata which is completed in diakinesis phase.Bivalents are formed in zygotene stage and crossing over takes place in pachytene stage.Compaction of chromosomal material occurs in leptotene stage.",
+    "year": "2021",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "The centriole undergoes duplication during",
+    "options": {
+      "A": "Metaphase",
+      "B": "G2 phase",
+      "C": "S-phase",
+      "D": "Prophase"
+    },
+    "answer": "c",
+    "explanation": "During S phase of cell cycle replication of DNA takes place. In animal cells during S phase, centriole duplicates in the cytoplasm.In G2 phase there is duplication of mitochondria, chloroplast and Golgi bodies. Tubulin protein is also synthesized during this phase.During prophase, condensation of chromatin starts.During metaphase, chromosomes get aligned at equator to form metaphasic plate.",
+    "year": "2021",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "Some dividing cells exit the cell cycle and enter vegetative inactive stage. This is called quiescent stage (G0). This process occurs at the end of",
+    "options": {
+      "A": "S phase",
+      "B": "G2 Phase",
+      "C": "M phase",
+      "D": "G1 phase"
+    },
+    "answer": "d",
+    "explanation": "During the G1 phase of the cell cycle, a cell checks for the availability of growth factors and nutrients. If the necessary resources are not available, the cell can exit the cell cycle and enter the G0 stage, which is a non-dividing, metabolically inactive phase. Cells in the G0 stage may stay in this phase temporarily or permanently, depending on the cell type and environmental conditions. Some cells in the G0 stage, such as neurons and muscle cells, remain in this phase permanently and do not re-enter the cell cycle, whereas other cells, such as liver cells and lymphocytes, can re-enter the cell cycle in response to specific signals or stimuli.",
+    "year": "2020",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "Dissolution of the synaptonemal complex occurs during",
+    "options": {
+      "A": "Diplotene",
+      "B": "Leptotene",
+      "C": "Pachytene",
+      "D": "Zygotene"
+    },
+    "answer": "a",
+    "explanation": "Dissolution of the synaptonemal complex occurs during diplotene stage of Prophase-I of Meiosis-I. The beginning of diplotene is recognised by the dissolution of the synaptonemal complex and the tendency of the recombined homologous chromosomes of the bivalents to separate from each other except at the sites of crossovers. These X-shaped structures are called chiasmata.",
+    "year": "2020",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Identify the correct statement with regard to G1 phase (Gap I) of interphase",
+    "options": {
+      "A": "Cell is metabolically active, grows but does not replicate its DNA",
+      "B": "Nuclear division takes place",
+      "C": "DNA synthesis or replication takes place",
+      "D": "Reorganisation of all cell components takes place"
+    },
+    "answer": "a",
+    "explanation": "During G1 phase the cell is metabolically active and continuously grows but does not replicate its DNA. DNA synthesis takes place in S phase. Nuclear division occurs during Karyokinesis. Reorganization of all cell components takes place in M-Phase.",
+    "year": "2020",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "Match the following with respect to meiosis: Select the correct option from the following: Code: Type Your AnswerView Answer View AnswerSolution",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "d",
+    "explanation": "Zygotene \u2192 Synapsis Pachytene \u2192 Crossing over Diplotene \u2192 Chiasmata formation Diakinesis \u2192 Terminalisation",
+    "year": "2020",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2020_B11_Q38-main.png",
+      "BIOLOGY/B11/chapters/cell-cycle-and-cell-division/CELL_CYCLE_AND_CELL_DIVISION-2020_B11_Q38-main2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q39",
+    "text": "Cells in G0 phase",
+    "options": {
+      "A": "Terminate the cell cycle",
+      "B": "Exit the cell cycle",
+      "C": "Enter the cell cycle",
+      "D": "Suspend the cell cycle."
+    },
+    "answer": "b",
+    "explanation": "G0 or quiescent phase is the stage wherein cells remain metabolically active, but do not proliferate unless called to do so. These cells that do not divide further exit G1 phase to enter an inactive stage. Such cells are used for replacing the cells lost during injury.",
+    "year": "2019",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "The correct sequence of phases of cell cycle is",
+    "options": {
+      "A": "G1 \u2192 S \u2192 G2 \u2192 M",
+      "B": "M \u2192 G1 \u2192 G2 \u2192 S",
+      "C": "G1 \u2192 G2 \u2192 S \u2192 M",
+      "D": "S \u2192 G1 \u2192 G2 \u2192 M"
+    },
+    "answer": "a",
+    "explanation": "The correct sequence of phases of cell cycle is: G1 \u2192 S \u2192 G2 \u2192 MG1 (Gap 1) phase : It is the first phase of the growth. It is the stage during which the cell grows and prepares its DNA for replication.S phase (Synthetic phase) : It is the stage during which DNA synthesis occurs.G2 phase : In this phase, the cell continues to grow and prepares itself for division.M Phase : A cell reproduces during the mitotic phase. The mitotic phase has two stages : Karyokinesis and Cytokinesis.",
+    "year": "2019",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "The stage during which separation of the paired homologous chromosomes begins is",
+    "options": {
+      "A": "Pachytene",
+      "B": "Diplotene",
+      "C": "Diakinesis",
+      "D": "Zygotene"
+    },
+    "answer": "b",
+    "explanation": "Diplotene is recognised by the dissolution of the synaptonemal complex and the tendency of the recombined homologous chromosomes of the bivalents to separate from each other.",
+    "year": "2018",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "Which of the following options gives the correct sequence of events during mitosis?",
+    "options": {
+      "A": "Condensation \u2192 Nuclear membrane disassembly \u2192 Arrangement at equator \u2192 Centromere division \u2192 Segregation \u2192 Telophase",
+      "B": "Condensation \u2192 Crossing over \u2192 Nuclear membrane disassembly \u2192 Segregation \u2192 Telophase",
+      "C": "Condensation \u2192 Arrangement at equator \u2192 Centromere division \u2192 Segregation \u2192 Telophase",
+      "D": "Condensation \u2192 Nuclear membrane disassembly \u2192 Crossing over \u2192 Segregation \u2192 Telophase"
+    },
+    "answer": "a",
+    "explanation": "(a) The correct sequence of events occur during mitosis would be as follows (i) DNA condensation occurs so that chromosomes become visible during early to mid-prophase. (ii) Disassembly of nuclear membrane begins at late prophase or transition to metaphase. (iii) Chromosomes align at equator during metaphase. (iv) Centromere division occurs during anaphase forming daughter chromosomes. (v) During anaphase segregation also occurs in which daughter chromosomes separate and move to opposite poles. (vi) Telophase finally leads to formation of two daughter nuclei.",
+    "year": "2017",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "During cell growth, DNA synthesis takes place on",
+    "options": {
+      "A": "S - phase",
+      "B": "G1 - phase",
+      "C": "G2 - phase",
+      "D": "M - phase"
+    },
+    "answer": "a",
+    "explanation": "In S-phase (synthetic phase) of cell cycle, the chromosomes replicate. For this their DNA molecules function as templates and form carbon copies. The DNA content doubles i.e., 1C to 2C for haploid cells and 2C to 4C for diploid cells. As a result duplicate sets of genes are formed. Along with replication of DNA new chromatin fibres are formed which, however, remain attached in pairs and the number of chromosomes does not increase.As chromatin fibres are elongated chromosomes, each chromosome comes to have two chromatin threads or sister chromatids which remain attached at a common point called centromere.",
+    "year": "2016",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "text": "Match the stages of meiosis in column I to their characteristic features in column II and select the correct option using the codes given below. Column IColumn II A. Pachytene (i) Pairing of homologous B. Metaphase I (ii) Terminalisation of chiasmata C. Diakinesis (iii) Crossing-over takes place D. Zygotene (iv) Chromosomes align at equatorial plate",
+    "options": {
+      "A": "A-(iii), B-(iv), C-(ii), D-(i)",
+      "B": "A-(i), B-(iv), C-(ii), D-(iii)",
+      "C": "A-(ii), B-(iv), C-(iii), D-(i)",
+      "D": "A-(iv), B-(iii), C-(ii), D-(i)"
+    },
+    "answer": "a",
+    "explanation": "To match the stages of meiosis in Column I with their characteristic features in Column II, we need to understand each stage and its key features :Pachytene (A): This is a stage in Prophase I of meiosis where crossing-over takes place. Homologous chromosomes are already paired, and genetic recombination occurs.Metaphase I (B): At this stage, chromosomes align at the equatorial plate. This is a characteristic feature of metaphase in both mitosis and meiosis.Diakinesis (C): This is the final stage of Prophase I in meiosis. During diakinesis, terminalisation of chiasmata occurs, which means that the chiasmata move to the ends of the chromatids.Zygotene (D): This stage is characterized by the pairing (synapsis) of homologous chromosomes. It's one of the early stages of Prophase I in meiosis.Based on this understanding, the matches would be:A (Pachytene) with (iii) Crossing-over takes place.B (Metaphase I) with (iv) Chromosomes align at the equatorial plate.C (Diakinesis) with (ii) Terminalisation of chiasmata.D (Zygotene) with (i) Pairing of homologous chromosomes.",
+    "year": "2016",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [
+      [
+        [
+          "Column I",
+          "Column II"
+        ],
+        [
+          "A. Pachytene",
+          "(i) Pairing of homologous"
+        ],
+        [
+          "B. Metaphase I",
+          "(ii) Terminalisation of chiasmata"
+        ],
+        [
+          "C. Diakinesis",
+          "(iii) Crossing-over takes place"
+        ],
+        [
+          "D. Zygotene",
+          "(iv) Chromosomes align at equatorial plate"
+        ]
+      ]
+    ],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "text": "Spindle fibres attach on to",
+    "options": {
+      "A": "Centromere of the chromosome",
+      "B": "Kinetosome of the chromosome",
+      "C": "Telomere of the chromosome",
+      "D": "Kinetochore of the chromosome."
+    },
+    "answer": "d",
+    "explanation": "Attachment of microtubules to chromosomes is mediated by kinetochores, which actively monitor spindle formation and prevent premature anaphase onset during mitosis.",
+    "year": "2016",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "text": "Which of the following is not a characteristic feature during mitosis in somatic cells?",
+    "options": {
+      "A": "Chromosome movement",
+      "B": "Synapsis",
+      "C": "Spindle fibres",
+      "D": "Disappearance of nucleolus"
+    },
+    "answer": "b",
+    "explanation": "Synapsis is the pairing of two homologous chromosomes that occurs during meiosis. It allows matching-up of homologous pairs prior to their segregation, and possible chromosomal crossover between them. Synapsis takes place during prophase I, of zygotene of meiosis.",
+    "year": "2016",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "text": "In meiosis crossing over is initiated at",
+    "options": {
+      "A": "Zygotene",
+      "B": "Diplotene",
+      "C": "Pachytene",
+      "D": "Leptotene"
+    },
+    "answer": "c",
+    "explanation": "Crossing over is a process of exchange of genetic material or chromatid segments between two homologous chromosomes. It is initiated during pachytene stage of meiosis. .saq-container{background:#fff;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:30px;box-shadow:0 1px 4px #0000001a;padding:15px 20px 20px}.saq-label{display:inline-block;font-size:11px;font-weight:600;letter-spacing:0.07em;color:#64748b;border:1px solid #cbd5e1;border-radius:20px;padding:2px 10px;margin-bottom:14px;text-transform:uppercase;background:#fff}.saq-textarea{width:100%;box-sizing:border-box;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:14px;color:#374151;resize:vertical;outline:none;transition:border-color 0.2s;background:#fff;min-height:90px;margin-top:10px;margin-bottom:20px;height:50px}.saq-textarea:focus{border-color:#3b82f6;box-shadow:0 0 0 3px rgba(59,130,246,0.12)}.saq-textarea::placeholder{font-style:italic}.saq-view-btn{padding:9px 12px;background:#F7FCFF;color:#000 !important;border-radius:10px;font-size:18px !important;font-weight:700;cursor:pointer;transition:background .15s ease;letter-spacing:.01em;text-align:center;border:none}.saq-view-btn:hover{background:#193f68;color:#fff !important;border:none}.saq-input-wrap .saq-view-btn{width:100%;background:#193f68;color:white !important}.saq-solution-panel{background:#f0f7ff;border-radius:8px;padding:14px 16px;margin:-20px;margin-top:-15px}.saq-solution-title{font-size:14px;font-weight:700;color:#043899!important;margin-bottom:7px}.saq-solution-body{font-size:14px;color:#1a202c;line-height:1.65}.saq-solution-body strong,.saq-solution-body b{font-weight:700}.saq-solution-body img{max-width:100%;height:auto}.saq-solution-body p{margin:6px 0}.saq-btn-wrapper{display:flex;gap:20px;margin-bottom:30px;margin-top:20px}.saq-btn-wrapper .saq-view-btn{width:50%}@media (max-width:500px){.saq-btn-wrapper .saq-view-btn{font-size:16px !important}} (function(){function showContainer(qid){document.getElementById('saq-wrap-'+qid).style.display='block';document.getElementById('saq-btn-wrap-'+qid).style.display='none';} window.saqTry=function(qid){showContainer(qid);document.getElementById('saq-input-'+qid).style.display='block';};window.saqShowSolution=function(qid){showContainer(qid);var panel=document.getElementById('saq-sol-'+qid);var input=document.getElementById('saq-input-'+qid);var ta=document.getElementById('saq-ta-'+qid);var bottomBtn=document.getElementById('saq-view-bottom-'+qid);if(bottomBtn)bottomBtn.style.display='none';if(panel){panel.style.display='block';} if(ta&&ta.value.trim()===''){if(input)input.style.display='none';}else if(ta){ta.disabled=true;if(panel){panel.style.marginTop='0px';}}};})();",
+    "year": "2016",
+    "chapter": "Cell Cycle and Cell Division",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

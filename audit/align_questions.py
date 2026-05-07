@@ -1,10 +1,14 @@
 from __future__ import annotations
 
 import difflib
+import html
 import re
 from typing import Any
 
 QUESTION_NUMBER_RE = re.compile(r"^Q(\d+)[:\s.]", re.I)
+ANSWER_MARKER_RE = re.compile(r"^Ans\s*[:.-]?", re.I)
+OPTION_LINE_RE = re.compile(r"^\([a-d]\)\s*", re.I)
+UI_LINE_RE = re.compile(r"^(Type\s*Your\s*Answer|View\s*Answer|Solution:?)$", re.I)
 
 
 def normalize(text: str) -> str:
@@ -17,6 +21,24 @@ def similarity(a: str, b: str) -> float:
     if not a and not b:
         return 1.0
     return difflib.SequenceMatcher(None, normalize(a), normalize(b)).ratio()
+
+
+def clean_line(text: str) -> str:
+    return re.sub(r"\s+", " ", html.unescape(str(text or "")).replace("\xa0", " ")).strip()
+
+
+def source_stem(block: dict[str, Any]) -> str:
+    lines = [clean_line(line) for line in block.get("lines", []) if clean_line(line)]
+    stem_parts: list[str] = []
+    for line in lines:
+        if UI_LINE_RE.match(line):
+            continue
+        if ANSWER_MARKER_RE.match(line):
+            break
+        if OPTION_LINE_RE.match(line):
+            break
+        stem_parts.append(re.sub(r"^Q\d+[:\s.]\s*", "", line, flags=re.I))
+    return " ".join(part for part in stem_parts if part).strip()
 
 
 def option_similarity(source_text: str, scraped_options: dict[str, str]) -> float:
@@ -64,7 +86,8 @@ def align_questions(source_blocks: list[dict[str, Any]], scraped_questions: list
         scraped_by_key.setdefault(key, []).append(scraped_index)
 
     for source_index, block in enumerate(source_blocks):
-        source_text = " ".join(block.get("lines", []))
+        source_text = source_stem(block)
+        source_block_text = " ".join(block.get("lines", []))
         source_year = block.get("year", "")
         source_qnum = extract_question_number(block.get("lines", []))
         source_key = (year_key(source_year), source_qnum) if source_qnum is not None else None
@@ -79,9 +102,9 @@ def align_questions(source_blocks: list[dict[str, Any]], scraped_questions: list
             for scraped_index in candidate_indexes:
                 question = scraped_questions[scraped_index]
                 text_score = similarity(source_text, question.get("text", ""))
-                options_score = option_similarity(source_text, question.get("options", {}))
+                options_score = option_similarity(source_block_text, question.get("options", {}))
                 answer_score = 1.0 if question.get("answer") else 0.0
-                total = 0.65 * text_score + 0.15 * options_score + 0.15 * answer_score + 0.05
+                total = 0.8 * text_score + 0.15 * options_score + 0.05 * answer_score
                 if total > best_score:
                     best_score = total
                     best = (scraped_index, question)
@@ -92,9 +115,9 @@ def align_questions(source_blocks: list[dict[str, Any]], scraped_questions: list
 
                 text_score = similarity(source_text, question.get("text", ""))
                 year_score = 1.0 if source_year and question.get("year") == source_year else 0.0
-                options_score = option_similarity(source_text, question.get("options", {}))
+                options_score = option_similarity(source_block_text, question.get("options", {}))
                 answer_score = 1.0 if question.get("answer") else 0.0
-                total = 0.5 * text_score + 0.15 * year_score + 0.2 * options_score + 0.15 * answer_score
+                total = 0.6 * text_score + 0.15 * year_score + 0.15 * options_score + 0.1 * answer_score
 
                 if total > best_score:
                     best_score = total

@@ -1,0 +1,762 @@
+[
+  {
+    "id": "Q1",
+    "text": "Two identical charged conducting spheres A and B have their centres separated by a certain distance. Charge on each sphere is q and the force of repulsion between them is F. A third identical uncharged conducting sphere is brought in contact with sphere A first and then with B and finally removed from both. New force of repulsion between spheres A and B (Radii of A and B are negligible compared to the distance of separation so that for calculating force between them they can be considered as point charges) is best given as: [NEET 2025]",
+    "options": {
+      "A": "F/2",
+      "B": "3F/8",
+      "C": "3F/5",
+      "D": "2F/3"
+    },
+    "answer": "b",
+    "explanation": "Let the charge on each sphere A and B be q and the separation be d. Therefore, the force between spheres A and B is: F = (1 / (4πɛ₀)) × (q² / d²) ... (1) When spheres A and C are touched and then separated, charge on each will be: (q + 0) / 2 = q / 2 Now sphere B is touched with sphere C. Charge on each will be: (q + q/2) / 2 = (3q) / 4 Now the force between sphere A and sphere B will be: F' = (1 / (4πɛ₀)) × (q/2 × 3q/4) / d² = (3/8) × (1 / (4πɛ₀)) × (q² / d²) ⇒ F' = (3/8) × F",
+    "year": "2025",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2025_P12_Q1-explanation1.jpg",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2025_P12_Q1-explanation2.jpg",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2025_P12_Q1-explanation3.jpg",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2025_P12_Q1-explanation4.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "A thin spherical shell is charged by some source. The potential difference between the two points C and P (in V) shown in the figure is: [NEET 2024] (Take SI Units)",
+    "options": {
+      "A": "3 x 105",
+      "B": "1 x 105",
+      "C": "0.5 x 105",
+      "D": "Zero"
+    },
+    "answer": "d",
+    "explanation": "For uniformly charged spherical shell,",
+    "year": "2024",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2024_P12_Q2-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2024_P12_Q2-main2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2024_P12_Q2-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Two identical rectangular plane sheet A and B each of surface charge density ε0Cm-2 are placed parallel to each other as shown in figure. The electric field at the mid point P will be: [NEET 2024]",
+    "options": {
+      "A": "2 NC-1",
+      "B": "1 NC-1",
+      "C": "0.5 NC-1",
+      "D": "zero"
+    },
+    "answer": "d",
+    "explanation": "The electric field produced by a uniformly charged infinite sheet with surface charge density σ is given by the formula: E = σ / (2ε₀) Where:E is the electric field.σ is the surface charge density.ε₀ is the permittivity of free space (8.85 × 10⁻¹² C²/N·m²).Step-by-Step Analysis:Electric Field due to One Sheet: Each sheet A and B generates an electric field E = σ / (2ε₀) at points on both sides of the sheet. The direction of the electric field is perpendicular to the surface of the sheet and points away from the sheet if the charge is positive.Electric Fields at Point P (Midpoint):Let's assume the charge densities of the sheets are σ.For sheet A, the electric field at point P (midpoint) will point towards sheet A if the charge is positive.For sheet B, the electric field at point P (midpoint) will point away from sheet B if the charge is positive.Net Electric Field at Point P:Since the electric fields produced by sheet A and sheet B at the midpoint are opposite in direction, they cancel each other out.The magnitude of the electric field produced by each sheet is the same and they act in opposite directions at point P.Hence, the net electric field at point P is zero.Conclusion: The electric field at the midpoint between the two sheets will be zero due to the cancellation of the fields produced by the two identical sheets. Therefore, the correct answer is (d) zero.",
+    "year": "2024",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2024_P12_Q3-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Match List-I with List-II: [NEET 2024] (Here symbols have their usual meaning and R is the radius of the thin shell)",
+    "options": {
+      "A": "A-IV, B-III, C-I, D-II",
+      "B": "A-I, B-II, C-III, D-IV",
+      "C": "A-IV, B-III, C-II, D-I",
+      "D": "A-I, B-III, C-II, D-IV"
+    },
+    "answer": "c",
+    "explanation": "A. The field inside a thin shell According to Gauss' Law, the electric field inside a thin spherical shell of charge is zero. This is because the net flux through a Gaussian surface inside the shell is zero due to symmetry (all contributions from different parts of the shell cancel out). Matching with: IV. zeroB. The field outside a thin shell For a spherical shell with charge q on its surface, the field outside the shell behaves as though all the charge is concentrated at the center of the shell. The electric field at a distance r from the center is given by: Matching with: III. q / (4πε₀ r²) r̂ (r is the distance from the center of the shell)C. The field of a thin shell at the surface At the surface of the shell, the electric field behaves as though the entire charge is concentrated at the center, with the field magnitude being: Matching with: II. q / (4πε₀ R²) r̂D. The field due to a long charged wire The electric field produced by an infinitely long straight charged wire with linear charge density λ at a distance r from the wire is given by: Matching with: I. λ / (2πε₀ r) r̂ Correct answer: (c) A-IV, B-III, C-II, D-I",
+    "year": "2024",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2024_P12_Q4-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A particle of mass m and charge q is placed in a uniform electric field E at t = 0 s. The kinetic energy of the particle after time t is",
+    "options": {
+      "A": "Eqm / t",
+      "B": "E²q²t² / 2m",
+      "C": "2E²t² / qm",
+      "D": "Eq²m / 2t² [NEET 2024]"
+    },
+    "answer": "b",
+    "explanation": "When a charged particle is placed in a uniform electric field E, the force acting on it is F = qE.The acceleration of the particle is a = F / m = qE / m.Since the particle starts from rest at t = 0, its velocity at time t is v = at = (qE / m)t.The kinetic energy (KE) at time t is given by KE = (1/2)mv². Substituting v = (qE / m)t, we get: KE = (1/2)m[(qE / m)t]² = (q²E²t²) / (2m).Thus, the correct expression for the kinetic energy of the particle is E²q²t² / 2m, which corresponds to option (b).",
+    "year": "2024",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A metal cube of a side 5 cm is charged with 6 μC. The surface charge density on the cube is: [NEET 2024]",
+    "options": {
+      "A": "0.125 × 10⁻³ C m⁻²",
+      "B": "0.25 × 10⁻³ C m⁻²",
+      "C": "4 × 10⁻³ C m⁻²",
+      "D": "0.4 × 10⁻³ C m⁻²"
+    },
+    "answer": "d",
+    "explanation": "To calculate the surface charge density, we use the formula: Surface charge density (σ) = Charge / Area First, we need to find the area of one face of the cube.The side of the cube is given as 5 cm.The area of one face of the cube is: Area = side² = (5 cm)² = (0.05 m)² = 0.0025 m²Now, the total charge on the cube is 6 μC = 6 × 10⁻⁶ C. The cube has 6 faces, so the total surface area of the cube is:Total surface area = 6 × 0.0025 m² = 0.015 m² Now, calculating the surface charge density:σ = (6 × 10⁻⁶ C) / 0.015 m² = 0.4 × 10⁻³ C/m² Therefore, the correct answer is (d) 0.4 × 10⁻³ C/m².",
+    "year": "2024",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "If over a surface, then [NEET 2023]",
+    "options": {
+      "A": "The number of flux lines entering the surface must be equal to the number of flux lines leaving it",
+      "B": "The magnitude of the electric field on the surface is constant",
+      "C": "All the charges must necessarily be inside the surface",
+      "D": "The electric field inside the surface is necessarily uniform"
+    },
+    "answer": "a",
+    "explanation": "⇒ Net flux through the surface is zero. ⇒ Therefore, the number of flux lines entering the surface must be equal to the number of flux lines leaving it.",
+    "year": "2023",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2023_P12_Q7-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2023_P12_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "",
+    "options": {
+      "A": "n electric dipole is placed as shown in the figure. [diagram] The electric potential at point P due to the dipole is (ε0 = permittivity of free space and [diagram] A(3/8) qK × 102 V",
+      "B": "(5/8) qK × 102 V",
+      "C": "(8/5) qK × 102 V",
+      "D": "(8/3) qK × 102 V"
+    },
+    "answer": "a",
+    "explanation": "⌃The electrostatic potential due to a point charge is given by the formula:Potential = Kq/rWhere:K is the electrostatic constant.q is the charge value.r is the distance from the charge.In this scenario:The distance from the positive charge (q) is 2 cm or 2 × 10-2 m.The distance from the negative charge (-q) is 8 cm or 8 × 10-2 m.To find the potential at point P due to the dipole: × 102 V",
+    "year": "2023",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2023_P12_Q8-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2023_P12_Q8-explanation2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2023_P12_Q8-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "ordered_upper_labels",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "An electric dipole is placed at an angle of 30° with an electric field of intensity 2 × 10⁵ NC-1. It experiences a torque equal to 4 N-m. If the dipole length is 2 cm, calculate the magnitude of the charge on the dipole: [NEET 2023]",
+    "options": {
+      "A": "2 mC",
+      "B": "8 mC",
+      "C": "6 mC",
+      "D": "4 mC"
+    },
+    "answer": "a",
+    "explanation": "To calculate the charge on the dipole, we can use the formula for the torque experienced by an electric dipole in an external electric field: Torque (τ) = pE sinθ Where:τ is the torque experienced by the dipole (4 N-m),p is the dipole moment,E is the electric field intensity (2 × 10⁵ N/C),θ is the angle between the dipole moment and the electric field (30°).The dipole moment p is related to the charge q and the length of the dipole l by the formula:p = q × l Given:τ = 4 N-mE = 2 × 10⁵ N/Cθ = 30°l = 2 cm = 0.02 mNow, substitute the values into the torque formula: 4 = (q × 0.02) × (2 × 10⁵) × sin(30°) Since sin(30°) = 1/2, the equation becomes: 4 = (q × 0.02) × (2 × 10⁵) × 1/2 Simplifying: 4 = (q × 0.02) × 10⁵ Now solve for q: q = 4 / (0.02 × 10⁵) = 4 / 2000 = 2 × 10⁻³ C = 2 mC Therefore, the magnitude of the charge on the dipole is 2 mC, so the correct answer is (a) 2 mC.",
+    "year": "2023",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "According to Gauss's law in electrostatics, the electric flux through a closed surface depends on: [NEET 2023]",
+    "options": {
+      "A": "the area of the surface",
+      "B": "the quantity of charges enclosed by the surface",
+      "C": "the shape of the surface",
+      "D": "the volume enclosed by the surface"
+    },
+    "answer": "b",
+    "explanation": "Gauss's law states that the electric flux (Φ) through a closed surface is directly proportional to the net charge (Q) enclosed by that surface, and it is independent of the shape, size, or area of the surface. Mathematically, Gauss's law is expressed as:Φ = (Q_enc) / ε₀Where:Φ is the electric flux through the surface,Q_enc is the net charge enclosed by the surface,ε₀ is the permittivity of free space.Thus, the flux only depends on the enclosed charge, not on the surface's area, shape, or the volume it encloses. Therefore, the correct answer is (b).",
+    "year": "2023",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "A charge Q μC is placed at the centre of a cube. The flux coming out from any one of its faces will be (in SI units): [NEET 2023]",
+    "options": {
+      "A": "Q / ε₀ × 10⁻⁶",
+      "B": "2Q / 3ε₀ × 10⁻³",
+      "C": "Q / 6ε₀ × 10⁻³",
+      "D": "Q / 6ε₀ × 10⁻⁶"
+    },
+    "answer": "d",
+    "explanation": "According to Gauss's Law, the total electric flux (Φ) through a closed surface is given by: Φ = Q_enc / ε₀ Where:Φ is the total flux through the surface,Q_enc is the charge enclosed within the surface,ε₀ is the permittivity of free space.For a cube, the total flux is distributed equally through all six faces, since the charge is at the centre. Therefore, the flux through one face of the cube is: Φ_face = (Q / ε₀) / 6 = Q / 6ε₀ Since the charge is in microcoulombs (μC), we multiply by 10⁻⁶ to convert it to coulombs (C). Thus, the flux coming out from any one of the faces is: Q / 6ε₀ × 10⁻⁶",
+    "year": "2023",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Two point charges -q and +q are placed at a distance of L, as shown in the figure The magnitude of electric field intensity at a distance R(R >>L) varies as",
+    "options": {
+      "A": "1/R3",
+      "B": "1/R4",
+      "C": "1/R6",
+      "D": "1/R2"
+    },
+    "answer": "a",
+    "explanation": "For R >>L, arrangement is an electric dipole",
+    "year": "2022",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2022_P12_Q12-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2022_P12_Q12-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Polar molecules are the molecules",
+    "options": {
+      "A": "acquire a dipole moment only when the magnetic field is absent.",
+      "B": "having a permanent electric dipole moment.",
+      "C": "having zero dipole moment.",
+      "D": "acquire a dipole moment only in the presence of an electric field due to displacement of charges."
+    },
+    "answer": "b",
+    "explanation": "Polar molecules have centers of positive and negative charges separated by some distance, so they have permanent dipole moments.",
+    "year": "2021",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "A dipole is placed in an electric field as shown. In which direction will it move?",
+    "options": {
+      "A": "towards the left as its potential energy will decrease.",
+      "B": "towards the right as its potential energy will increase.",
+      "C": "towards the left as its potential energy will increase.",
+      "D": "towards the right as its potential energy will decrease."
+    },
+    "answer": "d",
+    "explanation": "E1| > |E2| as field lines are closer at charge +q, so the net force on the dipole acts towards the right side. A system always moves to decrease its potential energy.",
+    "year": "2021",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2021_P12_Q14-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2021_P12_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A short electric dipole has a dipole moment of 16×10-9 C m. The electric potential due to the dipole at a point at a distance of 0.6 m from the center of the dipole, situated on a line making an angle of 60° with the dipole axis is",
+    "options": {
+      "A": "400 V",
+      "B": "Zero",
+      "C": "50 V",
+      "D": "200 V"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q15-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q15-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q15-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The acceleration of an electron due to the mutual attraction between the electron and a proton when they are 1.6 Å apart is, (me ≈ 9 × 10−31 kg, e = 1.6 × 10−19 C)",
+    "options": {
+      "A": "1024 m/s2",
+      "B": "1023 m/s2",
+      "C": "1025 m/s2",
+      "D": "1022 m/s2"
+    },
+    "answer": "d",
+    "explanation": "Force of mutual attraction between the electron and proton. (when, r = 1.6 Aº = 1.6 × 10 − 10 m) is given as ∴ Acceleration of electron",
+    "year": "2020",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q16-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q16-explanation2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q16-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_upper_numeric_labels",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A spherical conductor of radius 10 cm has a charge of 3.2 × 10-7 C distributed uniformly. What is the magnitude of electric field at a point 15 cm from the centre of the sphere?",
+    "options": {
+      "A": "1.28 × 105 N/C",
+      "B": "1.28 × 106 N/C",
+      "C": "1.28 × 107 N/C",
+      "D": "1.28 × 104 N/C"
+    },
+    "answer": "a",
+    "explanation": "Given, radius, r = 10 cm = 10 × 10 -2 m Charge, q = 3.2 × 10 -7 C Electric field, E = ? Electric field at a point (x = 15 cm) from the centre of the sphere is Hence, correct option is (a).",
+    "year": "2020",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q17-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The electric field at a point on the equatorial plane at a distance r from the centre of a dipole having dipole moment r P is given by (r >> separation of two charges forming the dipole, ε 0 = permittivity of free space)",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Electric field due to electric dipole on equatorial plane at a distance r from the centre of dipole is given as",
+    "year": "2020",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q18-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q18-main2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q18-main3.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q18-main4.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2020_P12_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "A hollow metal sphere of radius R is uniformly charged. The electric field is due to the sphere at a distance r from the center",
+    "options": {
+      "A": "Increases as r increases for both r < R and r > R",
+      "B": "Zero as r increases for r < R, decreases as r increases for r > R",
+      "C": "Zero as r increases for r < R, increases as r increases for r > R",
+      "D": "Decreases as r increases for both r < R and r > R"
+    },
+    "answer": "b",
+    "explanation": "Charge Q will be distributed over the surface of a hollow metal sphere. (i) For r < R (inside) By Gauss law, ⇒ Ein = 0 (∵ qen = 0) (ii) For r > R (outside)",
+    "year": "2019",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q19-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q19-explanation2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q19-explanation3.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q19-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Two parallel infinite line charges with linear charge densities +λ C/m and λl C/m are placed at a distance of 2R in free space. What is the electric field mid-way between the two line charges?",
+    "options": {
+      "A": "Zero",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Electric field due to line charge (1) Electric field due to line charge (2)",
+    "year": "2019",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q20-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q20-main2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q20-main3.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q20-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q20-explanation2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q20-explanation3.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q20-explanation4.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q20-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Two point charges A and B, having charges +Q and -Q respectively, are placed at a certain distance apart, and the force acting between them is F. If 25% charge of A is transferred to B, then the force between the charges becomes",
+    "options": {
+      "A": "F",
+      "B": "9F/16",
+      "C": "16F/9",
+      "D": "4F/3"
+    },
+    "answer": "b",
+    "explanation": "If 25% of the charge of A transferred to B then",
+    "year": "2019",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q21-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q21-explanation2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q21-explanation3.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q21-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "A sphere encloses an electric dipole with charge ± 3 × 10−6 C. What is the total electric flux across the sphere?",
+    "options": {
+      "A": "3 × 106 N-m2 /C",
+      "B": "− 3 × 10−6 N-m2 /",
+      "C": "Czero",
+      "D": "6 × 10−6 N-m2 /C"
+    },
+    "answer": "c",
+    "explanation": "When a sphere encloses a charged dipole, Here, q = ± 3 × 10−6 C Thus, according to Gauss’s law, the net electric flux across the closed surface is equal to the net charge enclosed by it divided by ε0 , i.e. Hence, electric flux across the sphere is zero.",
+    "year": "2019",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q22-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2019_P12_Q22-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "ordered_upper_labels",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "An electron falls from rest through a vertical distance h in a uniform and vertically upward-directed electric field E. The direction of the electrical field is now reversed, keeping its magnitude the same. A proton is allowed to fall from rest through the same vertical distance h. The time fall of the electron, in comparison to the time fall of the proton is",
+    "options": {
+      "A": "Smaller",
+      "B": "5 times greater",
+      "C": "10 times greater",
+      "D": "equal"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2018_P12_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "A toy car with charge q moves on a frictionless horizontal plane surface under the influence of a uniform electric field Due to the force its velocity increases from 0 to 6 m/s in one-second duration. At that instant, the direction of the field is reversed. The car continues to move for two more seconds under the influence of this field. The average velocity and the average speed of the toy car between 0 to 3 seconds are respectively",
+    "options": {
+      "A": "2 m/s, 4 m/s",
+      "B": "1 m/s, 3 m/s",
+      "C": "1 m/s, 3.5 m/s",
+      "D": "1.5 m/s, 3 m/s"
+    },
+    "answer": "b",
+    "explanation": "0 < t < 1s : velocity increases from 0 to 6 m/s 1 < t < 2s : velocity decreases from 6 to 0 m/s but the car continues to move forward 2 < t < 3s : since field strength is same ⇒ same acceleration ∴ car's velocity increases from 0 to -6 m/",
+    "year": "2018",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2018_P12_Q24-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2018_P12_Q24-main2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2018_P12_Q24-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2018_P12_Q24-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Suppose the charge of a proton and an electron differ slightly. One of them is - e and the other is (e + ∆e). If the net of electrostatic force and gravitational force between two hydrogen atoms placed at a distance d (much greater than atomic size) apart is zero, then ∆e is of the order [Given mass of hydrogen, mh = 1.67 × 10-27 kg]",
+    "options": {
+      "A": "10-20 C",
+      "B": "10-23 C",
+      "C": "10 -37C",
+      "D": "10 -47C"
+    },
+    "answer": "c",
+    "explanation": "Net charge on one H-atom q = - e + e + ∆e = ∆e Net electrostatic repulsive force between two H-atoms Similarly, net gravitational attractive force between two H-atoms",
+    "year": "2017",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2017_P12_Q25-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2017_P12_Q25-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Two identical charged spheres suspended from a common point by two mass-less strings of lengths ℓ are initially at a distance d (d << ℓ) apart because of their mutual repulsion. The charges begin to leak from both spheres at a constant rate. As a result, the spheres approach each other with a velocity v. Then v varies as a function of the distance x between the spheres, as",
+    "options": {
+      "A": "v ∝ x-1",
+      "B": "v ∝ x1/2",
+      "C": "v ∝ x",
+      "D": "v ∝ x-1/2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2016_P12_Q26-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2016_P12_Q26-explanation2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2016_P12_Q26-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "An electric dipole is placed at an angle of 30° with an electric field of intensity 2 × 105 N C-1. It experiences a torque equal to 4 N m. Calculate the magnitude of charge on the dipole, if the dipole length is 2 cm",
+    "options": {
+      "A": "8 mC",
+      "B": "6 mC",
+      "C": "4 mC",
+      "D": "2 mC"
+    },
+    "answer": "d",
+    "explanation": "E = 2 × 105 N/C l = 2 cm τ = 4 Nm 4 = pEsinθ 4 = p × 2 × 105 × sin30° p = 4 × 10-5 cm",
+    "year": "2016",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2016_P12_Q27-explanation1.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2016_P12_Q27-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The electric field in a certain region is acting radially outward and is given by E = Ar. A charge contained in a sphere of radius = a centered at the origin of the field will be given by",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Electric Charges and Fields",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2015_P12_Q28-main.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2015_P12_Q28-main2.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2015_P12_Q28-main3.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2015_P12_Q28-main4.png",
+      "PHYSICS/P12/chapters/electric-charges-and-fields/ELECTRIC_CHARGES_AND_FIELDS-2015_P12_Q28-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

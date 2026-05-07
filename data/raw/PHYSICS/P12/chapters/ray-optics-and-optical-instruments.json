@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "Q1",
+    "text": "A microscope has an objective of focal length 2 cm, an eyepiece of focal length 4 cm, and a tube length of 40 cm. If the distance of distinct vision of the eye is 25 cm, the magnification in the microscope is",
+    "options": {
+      "A": "150",
+      "B": "250",
+      "C": "100",
+      "D": "125"
+    },
+    "answer": "d",
+    "explanation": "To determine the magnification of the microscope, we use the formula: Where:m is the total magnification.L is the tube length of the microscope.fo is the focal length of the objective lens.D is the distance of the distinct vision of the eye.fe is the focal length of the eyepiece.Given:L = 40 cm (tube length)fo = 2 cm (focal length of the objective)D = 25 cm (distance of distinct vision)fe = 4 cm (focal length of the eyepiece)Substitute these values into the formula: Calculate each part: Multiply these results:m = 20 × 6.25 = 125Thus, the magnification of the microscope is 125.",
+    "year": "2025",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2025_P12_Q1-explanation1.jpg",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2025_P12_Q1-explanation2.jpg",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2025_P12_Q1-explanation3.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "In a certain camera, a combination of four similar thin convex lenses is arranged axially in contact. Then the power of the combination and the total magnification in comparison to the power(p) and magnification (m) for each lens will be, respectively",
+    "options": {
+      "A": "4p and m⁴",
+      "B": "p⁴ and m⁴",
+      "C": "4p and 4m",
+      "D": "p⁴ and 4m"
+    },
+    "answer": "a",
+    "explanation": "In a camera with a series combination of four similar thin convex lenses, the effective power and total magnification of this combination can be calculated as follows:Effective Power: When lenses are in contact, their powers add up. Therefore, the effective power peff of the combination is the sum of the powers of each individual lens: peff = p1 + p2 + p3 + p4 = 4pTotal Magnification: The total magnification meff is the product of the magnifications of each lens in the series: meff = m1 × m2 × m3 × m4 = m4Thus, for a combination of four identical lenses, the effective power is four times the power of a single lens, and the effective magnification is the fourth power of the magnification of a single lens.",
+    "year": "2025",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A light ray enters through a right angled prism at point P with the angle of incidence 30∘ as shown in figure. It travels through the prism parallel to its base BC and emerges along the face AC. The refractive index of the prism is: [2024]",
+    "options": {
+      "A": "√5/4",
+      "B": "√5/2",
+      "C": "√3 /4",
+      "D": "√3/2"
+    },
+    "answer": "b",
+    "explanation": "In prism, r1 + c = A Apply Snell's law, on incidence surface On squaring,",
+    "year": "2024",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q3-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q3-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q3-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q3-explanation3.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q3-explanation4.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q3-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "A small telescope has an objective of focal length 140cm and an eye piece of focal length 5.0cm. The magnifying power of telescope for viewing a distant object is: [2024]",
+    "options": {
+      "A": "34",
+      "B": "28",
+      "C": "17",
+      "D": "32"
+    },
+    "answer": "b",
+    "explanation": "The magnifying power of a telescope when viewing distant objects can be calculated using the formula: Given in the problem: Focal Length of Objective Lens, f0 = 140cm Focal Length of Eyepiece Lens, fe=5.0cm Substituting these values into the formula gives: Thus, the magnifying power of the telescope is 28. The correct answer is Option B.",
+    "year": "2024",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q4-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q4-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "For a prism, when the light undergoes minimum deviation, the relationship between the angle of incidence (i) and the angle of emergence (i′) is: [2024]",
+    "options": {
+      "A": "i = i′",
+      "B": "i > i′",
+      "C": "i < i′",
+      "D": "i = 0"
+    },
+    "answer": "a",
+    "explanation": "When light passes through a prism and undergoes minimum deviation, the path of the light through the prism is symmetric. This means that the angle of incidence (i) is equal to the angle of emergence (i′). Explanation:At minimum deviation, the light enters and exits the prism at equal angles relative to the prism's surface.The light travels symmetrically through the prism, so the angle of incidence is equal to the angle of emergence.Final Answer: (a) i = i′.",
+    "year": "2024",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The graph which shows the correct variation of 1/v with 1/u for a concave mirror, where u is the object distance and v is the image distance, is: [2024]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "In the case of a concave mirror, the relationship between the object distance (u) and the image distance (v) is described by the mirror equation: Where:f is the focal length of the mirror,v is the image distance,u is the object distance.Rearranging, we get: This is a linear equation of the form y = mx + cy = mx + c, with: Step 1: Analyzing the graph options:The graph of 1/v1/v vs. 1/u1/u is a straight line with negative slope.It does not pass through the origin; instead, it cuts the y-axis at 1/f1/f.As the object distance increases (object goes farther away), 1/u decreases in magnitude and approaches zero from the negative side.Step 2: Looking at the given options:Graph 1: This shows a positive slope, which does not match the expected negative slope.Graph 2: This graph shows a negative slope and looks correct for the variation of 1/v with 1/u.Graph 3: This shows a curve, which is not consistent with the linear relationship.Graph 4: This graph also shows a curved relationship, which is incorrect.Final Answer: Graph 2 is correct because it represents a straight line with slope -1-1 and y-intercept 1/f, which matches the mirror equation for a concave mirror.",
+    "year": "2024",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q6-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q6-main2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q6-main3.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q6-main4.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q6-explanation1.jpg",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q6-explanation2.jpg",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2024_P12_Q6-explanation3.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The time taken by sunlight to pass through a glass slab of thickness 5 mm and refractive index 1.5 is: [2024]",
+    "options": {
+      "A": "(5/3) × 10-8 s",
+      "B": "(5/2) × 10-11 s",
+      "C": "(5/3) × 10-11 s",
+      "D": "(5/2) × 10-8 s"
+    },
+    "answer": "b",
+    "explanation": "To find the time taken by sunlight to pass through a glass slab, we use the formula: Time = Distance / Speed Given Data:Thickness of the glass slab = 5 mm = 5 × 10⁻³ mRefractive index of the glass = 1.5Speed of light in vacuum = 3 × 10⁸ m/sStep 1: Calculate the speed of light in the glass slab The speed of light in the medium is: Speed in glass = Speed of light in vacuum / Refractive index = (3 × 10⁸ m/s) / 1.5 = 2 × 10⁸ m/sStep 2: Calculate the time taken Now, we can calculate the time taken using the formula: Time = Distance / Speed = (5 × 10⁻³ m) / (2 × 10⁸ m/s) = (5 / 2) × 10⁻¹¹ s Final Answer: (b) (5/2) × 10⁻¹¹ s.",
+    "year": "2024",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Given below are two statements: [2024] Statement I: Image formation needs regular reflection and/or refraction. Statement II: The variety in colour of objects we see around us is due to the constituent colours of the light incident on them",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect.",
+      "B": "Statement I is incorrect but Statement II is correct.",
+      "C": "Both Statement I and Statement II are correct.",
+      "D": "Both Statement I and Statement II are incorrect."
+    },
+    "answer": "c",
+    "explanation": "Statement I: Image formation needs regular reflection and/or refraction.This statement is correct. Image formation in mirrors and lenses occurs through regular (specular) reflection and refraction. For example, in mirrors, light reflects off the surface in a regular manner to form an image, and in lenses, light bends (refracts) as it passes through the lens material to form an image.Statement II: The variety in colour of objects we see around us is due to the constituent colours of the light incident on them.This statement is also correct. The color of an object we perceive depends on the wavelengths of light it reflects. For example, a red object reflects primarily red wavelengths, and we see that color. The variety in the colors of objects is due to the combination of the different wavelengths of light that are incident on them.Conclusion: Both Statement I and Statement II are correct.Final Answer: (c) Both Statement I and Statement II are correct.",
+    "year": "2024",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Light travels a distance x in time t1 in air and 10x in time t2 in another denser medium. What is the critical angle for this medium?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q9-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q9-main2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q9-main3.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q9-main4.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Two thin lenses are of the same focal lengths (f), but one is convex and the other one is concave. When they are placed in contact with each other, the equivalent focal length of the combination will be",
+    "options": {
+      "A": "Zero",
+      "B": "f/4",
+      "C": "f/2",
+      "D": "Infinite"
+    },
+    "answer": "d",
+    "explanation": "When two thin lenses, one convex and the other concave, both with the same focal length fff, are placed in contact, the equivalent focal length of the combination can be determined using the lens maker's formula for combining focal lengths:For a convex lens, f1 = f and for a concave lens, f_2 = -ff2 = -f.",
+    "year": "2023",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "In the figure shown here, what is the equivalent focal length of the combination of lenses (Assuming that all layers are thin)?",
+    "options": {
+      "A": "40 cm",
+      "B": "40 cm",
+      "C": "100 cm",
+      "D": "50 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q11-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q11-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q11-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A lens is made up of 3 different transparent media as shown in figure. ! point object O is placed on its axis beyond 2f. How many real images will be obtained on the other side?",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "No image will be formed",
+      "D": "3"
+    },
+    "answer": "d",
+    "explanation": "It involves a lens composed of three different transparent materials with an object placed beyond 2f on its axis. Each material in the lens has a distinct refractive index, which could lead to unique refraction at each interface, potentially forming multiple images.Key Points:Each section of the lens might focus light differently due to varying refractive indices, potentially resulting in multiple focal points and images.The object's position beyond 2f typically results in a real image between f and 2f in a standard lens; however, varying indices in this multi-material lens might alter typical image formation.Conclusion:Given these differences, the answer is (d) 3 real images, suggesting that each material's distinct optical properties contribute to forming three separate real images.",
+    "year": "2023",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q12-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "εo and μo are the electric permittivity and magnetic permeability of free space respectively. If the corresponding quantities of a medium are 2 εo and 1.5 μo respectively, the refractive index of the medium will nearly be",
+    "options": {
+      "A": "√2",
+      "B": "√3",
+      "C": "3",
+      "D": "2"
+    },
+    "answer": "b",
+    "explanation": "The refractive index n of a medium is related to the electric permittivity (ϵ) and magnetic permeability (μ) of the medium as follows: Given:The electric permittivity of the medium is ϵ=2ϵ0,The magnetic permeability of the medium is μ=1.5μ0.Substitute these values into the equation: Simpifying,",
+    "year": "2023",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q13-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q13-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q13-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "A horizontal ray of light is incident on the right-angled prism with prism angle 6∘. If the refractive index of the material of the prism is 1.5, then the angle of emergence will be",
+    "options": {
+      "A": "9o",
+      "B": "10o",
+      "C": "4o",
+      "D": "6o"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q14-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q14-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q14-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Which set of colors will come out in air for a situation shown in figure?",
+    "options": {
+      "A": "Yellow, Orange and Red",
+      "B": "All",
+      "C": "Orange, Red and Violet",
+      "D": "Blue, Green and Yellow"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q15-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "An object is mounted on a wall. Its image of equal size is to be obtained on a parallel wall with the help of a convex lens placed between these walls. The lens is kept at distance x in front of the second wall. The required focal length of the lens will be",
+    "options": {
+      "A": "less than x/4",
+      "B": "more than x/44 but less than x/2",
+      "C": "x/2",
+      "D": "x/4"
+    },
+    "answer": "c",
+    "explanation": "When of an equal size image is formed the magnifi cation is unity. i.e., v = u image distance = object distance Here, v = x but according to lens formula, 1/u + 1/v = 1/f2/v = 1/ff =v/2 = x/2 = focal length of the lens is x/2.",
+    "year": "2023",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2023_P12_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "During a cloudy day, a primary and a secondary rainbow may be created, then the",
+    "options": {
+      "A": "secondary rainbow is due to single internal reflection and is formed above the primary one.",
+      "B": "primary rainbow is due to double internal reflection and is formed above the secondary one.",
+      "C": "primary rainbow is due to double internal reflection and is formed below the secondary one.",
+      "D": "secondary rainbow is due to double internal reflection and is formed above the primary one."
+    },
+    "answer": "d",
+    "explanation": "​Primary rainbow is result of three-step process, that is, refraction, internal reflection and refraction. Secondary rainbow is result of four step process, that is, refraction, internal reflection, internal reflection and refraction. Secondary rainbow appears above the primary rainbow.",
+    "year": "2022",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "An astronomical refracting telescope is being used by an observer to observe planets in normal adjustment. The focal lengths of the objective and eye piece used in the construction of the telescope are 20 m and 2 cm respectively. Consider the following statements about the telescope",
+    "options": {
+      "A": "(a), (b) and (d)",
+      "B": "(a), (b) and (c)",
+      "C": "(b), (c) and (d)",
+      "D": "(c) , (d) and (a)"
+    },
+    "answer": "a",
+    "explanation": "​Given fo = 20 m = 2000 cm, fe = 2 cm Distance between objective and eye piece I = f0 + fe = 20 m + 2 cm = 20.02 cm Magnification of telescope Image formed by telescope is inverted. Aperture of eye piece is smaller than that of objective. So, statements (a), (b) and (d) are correct.",
+    "year": "2022",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "In a Young's double slit experiment, a student observes 8 fringes in a certain segment of screen when a monochromatic light of 600 nm wavelength is used. If the wavelength of light is changed to 400 nm, then the number of fringes he would observe in the same region of the screen is",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "When light propagates through a material medium of relative permittivity εr and relative permeability μr, the velocity of light, v is given by (c-velocity of light in vacuum)",
+    "options": {
+      "A": "v = c",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "The speed of light in a vacuum is denoted as c, which is approximately 3×108 m/s. When light travels through a medium, its speed is affected by the medium's properties, specifically its permittivity and permeability. The speed of light v in a medium can be expressed using the formula: where: - c is the speed of light in vacuum, - μr is the relative permeability of the medium, - ϵr is the relative permittivity of the medium. If we know the values of μr and ϵr, we can substitute them into the formula to calculate v. The final expression for the speed of light in a medium with given relative permittivity and permeability is:",
+    "year": "2022",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q20-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q20-main2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q20-main3.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q20-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q20-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Two transparent media A and B are separated by a plane boundary. The speed of light in those media are 1.5 × 108 m/s and 2.0 × 108 m/s, respectively. The critical angle for a ray of light for these two media is",
+    "options": {
+      "A": "sin-1 (0.750)",
+      "B": "tan-1 (0.500)",
+      "C": "tan-1 (0.750)",
+      "D": "sin-1 (0.500)"
+    },
+    "answer": "a",
+    "explanation": "For TIR, ray of light should travel from denser to rarer medium",
+    "year": "2022",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q21-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "A biconvex lens has radii of curvature, 20 cm each. If the refractive index of the material of the lens is 1.5, the power of the lens is",
+    "options": {
+      "A": "+20 D",
+      "B": "+5 D",
+      "C": "Infinity",
+      "D": "+2 D"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2022_P12_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "A light ray falls on a glass surface of refractive index √3, at an angle 60°. The angle between the refracted and reflected rays would be",
+    "options": {
+      "A": "60°",
+      "B": "90°",
+      "C": "120°",
+      "D": "30°"
+    },
+    "answer": "b",
+    "explanation": "Given i = 60° and μ= √3 Here, angle of incidence i = tan-1 (μ) Hence, reflected and refracted rays would be perpendicular to each other",
+    "year": "2022",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "A lens of large focal length and large aperture is best suited as an objective of an astronomical telescope, since",
+    "options": {
+      "A": "a large aperture contributes to the quality and visibility of the images",
+      "B": "a large area of the objective ensures better light gathering power",
+      "C": "a large aperture provides a better re",
+      "D": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "The objective of an astronomical telescope has large focal length and large aperture. Because the lens used is convex lens and the magnification of an astronomical telescope is directly proportional to the focal length of the objective lens. This large aperture also contributes to the better quality and visibility of the images. Thus, it provides better resolution. Due to large focal length of the objective, it covers large area which ensures better light gathering power. Thus, all options (a), (b) and (c) are correct.",
+    "year": "2021",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "A convex lens A with a focal length of 20 cm and a concave lens B with a focal length of 5 cm are kept along the same axis with the distance d between them. If a parallel beam of light falling on A leaves B as a parallel beam, then distance d in cm will be",
+    "options": {
+      "A": "25",
+      "B": "15",
+      "C": "30",
+      "D": "50"
+    },
+    "answer": "b",
+    "explanation": "In the absence of a concave lens, the parallel beam will be focused at F2 i.e. at a distance of 20 cm. from lens A. The focal length of the concave lens is 5 cm. i.e. if this lens is placed at 5 cm from F2, then the beam will become parallel. So d = 15 cm.",
+    "year": "2021",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q25-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Find the value of the angle of emergence from the prism. The refractive index of the glass is √3",
+    "options": {
+      "A": "45°",
+      "B": "90°",
+      "C": "60°",
+      "D": "30°"
+    },
+    "answer": "c",
+    "explanation": "r1 + r2 = A = 30°r2 = 30° (r1 = 0°)From Snell's law,√3sinr2 = 1 x sine√3sin30° = sinee = 60°",
+    "year": "2021",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q26-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q26-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "A lens of large focal length and large aperture is best suited as an objective of an astronomical telescope since",
+    "options": {
+      "A": "a large aperture contributes to the quality and visibility of the images.",
+      "B": "a large area of the objective ensures better light-gathering power.",
+      "C": "a large aperture provides a better re .",
+      "D": "all of the above."
+    },
+    "answer": "d",
+    "explanation": "The large aperture(a) of the objective lens provides a better resolution∴ A good quality image is formed and also it gathers more light.",
+    "year": "2021",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q27-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "A point object is placed at a distance of 60 cm from a convex lens of focal length 30 cm. If a plane mirror were put perpendicular to the principal axis of the lens and at a distance of 40 cm from it, the final image would be formed at a distance of",
+    "options": {
+      "A": "30 cm from the plane mirror, it would be a virtual image.",
+      "B": "20 cm from the plane mirror, it would be a virtual image.",
+      "C": "20 cm from the lens, it would be a real image.",
+      "D": "30 cm from the lens, it would be a real image."
+    },
+    "answer": "b",
+    "explanation": "first, for image formation from the lens u = - 60 cm f = + 30 cm ⇒ this real image formed by the lens acts as a virtual object for the mirror A real image from the plane mirror is formed 20 cm in front of the mirror, hence at a 20 cm distance from the lens. Now, for second refraction from lens, u = - 20 cm f = +30 cm So, the Final virtual image is 60 cm from the lens or 20 cm behind the mirror.",
+    "year": "2021",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q28-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q28-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q28-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q28-explanation3.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2021_P12_Q28-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "An object is placed on the principal axis of a concave mirror at a distance of 1.5 f (f is the focal length). The image will be at",
+    "options": {
+      "A": "3f",
+      "B": "1.5 f",
+      "C": "1.5 f",
+      "D": "3f"
+    },
+    "answer": "a",
+    "explanation": "Object distance, u = - 1.5f By mirror formula,",
+    "year": "2020",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2020_P12_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "If the critical angle for total internal reflection from a medium to vacuum is 45°, then velocity of light in the medium is",
+    "options": {
+      "A": "1.5 × 108 m/s",
+      "B": "3/√2× 108 m/s",
+      "C": "√2 × 108 m/s",
+      "D": "3 × 108 m/s"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2020_P12_Q30-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "A plano-convex lens of unknown material and unknown focal length is given. With the help of a spherometer we can measure the",
+    "options": {
+      "A": "focal length of the lens",
+      "B": "radius of curvature of the curved surface",
+      "C": "aperture of the lens",
+      "D": "refractive index of the material"
+    },
+    "answer": "b",
+    "explanation": "Radius of curvature of the curved surface - This is precisely what a spherometer is designed to measure. By contacting the lens's surface at three points and measuring the small displacement of a central probe, the spherometer calculates the radius of curvature based on these contact points.",
+    "year": "2020",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "The power of a biconvex lens is 10 D and the radius of curvature of each surface is 10 cm. Then, the refractive index of the material of the lens is",
+    "options": {
+      "A": "4/3",
+      "B": "9/8",
+      "C": "5/3",
+      "D": "3/2"
+    },
+    "answer": "d",
+    "explanation": "Power of biconvex lens, P = 10D",
+    "year": "2020",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2020_P12_Q32-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "A ray is an incident at an angle of incidence i on one surface of a small angle prism (with the angle of prism A) and emerges normally from the opposite surface. If the refractive index of the material of the prism is m, then the angle of incidence is nearly equal to",
+    "options": {
+      "A": "μA",
+      "B": "μA/2",
+      "C": "A/2μ",
+      "D": "2A/μ"
+    },
+    "answer": "a",
+    "explanation": "Light ray emerges from another surface normally, hence e(angle of emergence) = 0",
+    "year": "2020",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2020_P12_Q33-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2020_P12_Q33-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Light with an average flux of 20 W/cm2 falls on a non-reflecting surface at normal incidence having a surface area of 20 cm2. The energy received by the surface during time span of 1 minute is",
+    "options": {
+      "A": "24 × 103 J",
+      "B": "48 × 103 J",
+      "C": "10 × 103 J",
+      "D": "12 × 103 J"
+    },
+    "answer": "a",
+    "explanation": "= 400 w∴ in 1 minute = 400 × 60= 24000",
+    "year": "2020",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2020_P12_Q34-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "An equi-convex lens has power P it is cut into two symmetrical halves by a plane containing the principal axis. The power of one part will be",
+    "options": {
+      "A": "0",
+      "B": "P/2",
+      "C": "P/4",
+      "D": "P"
+    },
+    "answer": "d",
+    "explanation": "When the lens is cut along its principal axis, the focal length of the two halves will remain same because the radius of curvature of both the surfaces are still same. So, the power also remains same as",
+    "year": "2019",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q35-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "A double convex lens has focal length 25 cm. The radius of curvature of one of the surfaces is doubled of the other. Find the radii, if the refractive index of the material of the lens is 1.5",
+    "options": {
+      "A": "100 cm, 50 cm",
+      "B": "25 cm, 50 cm",
+      "C": "18.75 cm, 37.5 cm",
+      "D": "50 cm, 100 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2019",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q36-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Which colour of the light has the longest wavelength?",
+    "options": {
+      "A": "Blue",
+      "B": "Green",
+      "C": "Violet",
+      "D": "Red"
+    },
+    "answer": "d",
+    "explanation": "Different colours of white light have different wavelengths. The descending order of the wavelength of the component of white light is",
+    "year": "2019",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q37-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "Pick the wrong answer in the context of the rainbow",
+    "options": {
+      "A": "When the light rays undergo two internal reflections in a water drop, a secondary rainbow is formed",
+      "B": "The order of colors is reversed in the secondary rainbow",
+      "C": "An observer can see a rainbow when his front is towards the sun",
+      "D": "Rainbow is a combined effect of dispersion refraction and reflection of sunlight"
+    },
+    "answer": "c",
+    "explanation": "An observer cannot see a rainbow when facing towards the sun. Rainbows appear when the observer is facing away from the sun, with the sun illuminating raindrops behind the observer. This statement is incorrect.",
+    "year": "2019",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Two similar thin equi-convex lenses, of focal length f each, are kept coaxially in contact with each other such that the focal length of the combination is F1. When the space between the two lenses is filled with glycerine (which has the same refractive index (μ = 1.5) as that of glass) then the equivalent focal length is F2. The ratio F1 : F2 will be",
+    "options": {
+      "A": "2 : 1",
+      "B": "1 : 2",
+      "C": "2 : 3",
+      "D": "3 : 4"
+    },
+    "answer": "b",
+    "explanation": "Equivalent focal length in air When glycerin is filled inside, the glycerin lens behaves like a diverging lens of focal length (-f)",
+    "year": "2019",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q39-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q39-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q39-explanation3.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q39-explanation4.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q39-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "In total internal reflection when the angle of incidence is equal to the critical angle for the pair of media in contact, what will be the angle of refraction?",
+    "options": {
+      "A": "180°",
+      "B": "0°",
+      "C": "Equal to the angle of incidence",
+      "D": "90°"
+    },
+    "answer": "d",
+    "explanation": "In the total internal reflection in which the rays of light travel from one medium to another medium, the incidence angle is equal to the critical angle. The angle of the refraction is 90° which grazes with the surface. At i = ic, the refracted ray grazes with the surface. So the angle of refraction is 90°.",
+    "year": "2019",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2019_P12_Q40-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "The refractive index of the material of a prism is √2 and the angle of the prism is 30°. One of the two refracting surfaces of the prism is made a mirror inwards, by silver coating. A beam of monochromatic light entering the prism from the other face will retrace its path (after reflection from the silvered surface) if its angle of incidence on the prism is",
+    "options": {
+      "A": "60°",
+      "B": "45°",
+      "C": "30°",
+      "D": "zero"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2018_P12_Q41-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "An object is placed at a distance of 40 cm from a concave mirror of a focal length of 15 cm. If the object is displaced through a distance of 20 cm towards the mirror, the displacement of the image will be",
+    "options": {
+      "A": "30 cm away from the mirror",
+      "B": "36 cm away from the mirror",
+      "C": "30 cm towards the mirror",
+      "D": "36 cm towards the mirror"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2018_P12_Q42-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2018_P12_Q42-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "An astronomical refracting telescope will have large angular magnification and high angular re , when it has an objective lens of",
+    "options": {
+      "A": "small focal length and large diameter",
+      "B": "large focal length and small diameter",
+      "C": "large focal length and large diameter",
+      "D": "small focal length and small diameter"
+    },
+    "answer": "c",
+    "explanation": "For astronomical refracting telescope, Angular magnification is for large focal length",
+    "year": "2018",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2018_P12_Q43-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2018_P12_Q43-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "text": "A beam of light from a source L is incident normally on a plane mirror fixed at a certain distance x from the source. The beam is reflected as a spot on a scale placed just above the source I. When the mirror is rotated through a small angle q, the spot of the light is found to move through a distance on the scale. The angle q is given by",
+    "options": {
+      "A": "y/x",
+      "B": "x/2y",
+      "C": "x/y",
+      "D": "y/2x"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2017_P12_Q44-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "text": "The ratio of resolving powers of an optical microscope for two wavelengths λ1 = 4000 Å and λ2 = 6000 Å is",
+    "options": {
+      "A": "9 : 4",
+      "B": "3 : 2",
+      "C": "16 : 81",
+      "D": "8 : 27"
+    },
+    "answer": "b",
+    "explanation": "Resolving power of a microscope = Given that the two wavelengths,λ1 = 4000 Å and λ2 = 6000 Å",
+    "year": "2017",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2017_P12_Q45-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2017_P12_Q45-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "text": "A thin prism having a refracting angle of 10° is made of glass with a refractive index of 1.42. This prism is combined with another thin prism of glass with a refractive index of 1.7. This combination produces dispersion without deviation. The refracting angle of the second prism should be",
+    "options": {
+      "A": "6°",
+      "B": "8°",
+      "C": "10°",
+      "D": "4°"
+    },
+    "answer": "a",
+    "explanation": "Dispersion without deviation this means that ray which is entering and the ray which is going out both are parallel, As given, A1=refracting angle of first prism=10o, μ1=1.42, μ2=1.7 A2=refracting angle of second prism As, δ=(μ-1)A So, δTotal = δ1- δ2=0 where δ is the daviation and in this case total deviation is zero. δ1=δ2 A2(μ2-1)=A1(μ1-1) A2(0.7)=10(0.42) A2=60",
+    "year": "2017",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "text": "The angle of incidence for a ray of light at a refracting surface of a prism is 45°. The angle of prism is 60°. If the ray suffers minimum deviation through the prism, the angle of minimum deviation and refractive index of the material of the prism respectively, are",
+    "options": {
+      "A": "30°; √2",
+      "B": "45°; √2",
+      "C": "30°; 1/√2",
+      "D": "45°; 1/√2"
+    },
+    "answer": "a",
+    "explanation": "Consider a ray of light PQ incident an the surface AB and moves along RS, after passing through the prism ABC. It is given that the incident ray suffers minimum deviation. Therefore, the ray inside the prism must be parallel to the base BC of the prism. From the geometry of the prism and the ray diagram, it is clear that angle of incidence, i = 45° angle of refraction r = r ′ = 30 ° angle of emergence, e = 45° Therefore, minimum deviation suffered by the ray is",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q47-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q47-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q47-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q48",
+    "text": "An air bubble in a glass slab with refractive index 1.5 (near normal incidence) is 5 cm deep when viewed from one surface and 3 cm deep when viewed from the opposite face. The thickness (in cm) of the slab is",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "16"
+    },
+    "answer": "c",
+    "explanation": "Let thickness of the given slab is t. According to the question, when viewed from both the surfaces",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q48-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q48-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q49",
+    "text": "A beam of light consisting of red, green and blue colours is incident on a right angled prism. The refractive index of the material of the prism for the above red, green and blue wavelengths are 1.39, 1.44 and 1.47, respectively. The prism will",
+    "options": {
+      "A": "separate the blue colour part from the red and green colours",
+      "B": "separate all the three colours from one another",
+      "C": "not separate the three colours at all",
+      "D": "separate the red colour part from the green and blue colours"
+    },
+    "answer": "d",
+    "explanation": "For refractive index of a index, Thus, only red colour do not suffer total internal reflection.",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q49-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q49-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q49-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q49-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q50",
+    "text": "The angle of a prism is A. One of its refracting surfaces is silvered. Light rays falling at an angle of incidence 2A on the first surface returns back through the same path after suffering reflection at the silvered surface. The refractive index µ , of the prism is",
+    "options": {
+      "A": "2 sin A",
+      "B": "2 cos A",
+      "C": "1/2cos A",
+      "D": "tan A"
+    },
+    "answer": "b",
+    "explanation": "According to question, diagram is shown below.",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q50-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q50-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q51",
+    "text": "Two identical glass (µg) = 3/2 equi-convex lenses of focal length f each are kept in contact. The space between the two lenses is filled with water ( µw ) = 4 3 The focal length of the combination is",
+    "options": {
+      "A": "f/3",
+      "B": "f",
+      "C": "4f/3",
+      "D": "3f/4"
+    },
+    "answer": "d",
+    "explanation": "Consider the situation shown is figure. Let radius of curvature of lens surfaces is R. The combination is equivalent to three lenses in contact.",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q51-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q51-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q51-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q52",
+    "text": "A astronomical telescope has objective and eyepiece of focal lengths 40 cm 4 cm respectively. To view an object 200 cm away from the objective, the lenses must be separated by a distance",
+    "options": {
+      "A": "46.0 cm",
+      "B": "50.0 cm",
+      "C": "54.0 cm",
+      "D": "37.3 cm"
+    },
+    "answer": "c",
+    "explanation": "According to question, Focal length of objective lens (F0 ) = + 40 cm Focal length of eyepiece lens (Fe) = 4 cm Object distance for objective lens (u0)= - 200 cm Applying lens formula for objective lens Image will be form at first focus of eyepiece lens. So, for normal adjustment distance between objectives and eye piece lense (length of tube) will be v + Fe ⇒ 50 + 4 ⇒ 54 cm",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q52-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q52-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q53",
+    "text": "An astronomical telescope has an objective and eyepiece of focal lengths of 40 cm and 4 cm respectively. To view an object 200 cm away from the objective, the lenses must be separated by a distance",
+    "options": {
+      "A": "54 cm",
+      "B": "37.3 cm",
+      "C": "46 cm",
+      "D": "50 cm"
+    },
+    "answer": "a",
+    "explanation": "The focal length of the objective lens, Fo = +40 cm The focal length of the eyepiece, Fe = 4 cm Object distance for the objective lens (uo) = -200 cm Applying lens formula for the objective lens, The image will be formed at the focus of an eyepiece lens. So, for normal adjustment distance between objectives and eyepiece (length of tube) will be, v + Fe = 50 + 4 = 54 cm",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q53-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q53-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q54",
+    "text": "Match the corresponding entries of column 1 with column 2. [Where m is the magnification produced by the mirror] Column - 1 Column - 2",
+    "options": {
+      "A": "A → c and d; B → b and d; C → b and c; D → a and d",
+      "B": "A → b and c; B → b and c; C → b and d; D → a and d",
+      "C": "A → a and c; B → a and d; C → a and b; D → c and d",
+      "D": "A → a and d; B → b and c; C → b and d; D → b and c"
+    },
+    "answer": "b",
+    "explanation": "(A) m = -2, so the image is magnified and inverted which is possible only for concave mirrors. since the image is i inverted it will be real. (B) M = -1/2, so the image is inverted and diminished. Since the image is inverted, so it will be real, and the mirror will be concave. (C) M = +2, the image is magnified so the mirror will be concave. The image is erect so it will be virtual. (D) m = +1/2, the image is erect so the image will be virtual. The image is virtual and diminished, so the mirror should be convex.",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q55",
+    "text": "The angle incidence for a ray of light at a refracting surface of a prism is 45 degrees. The angle of the prism is 60 degrees If the ray suffers minimum deviation through the prism, the angle of minimum deviation and refractive index of the material of the prism respectively, are",
+    "options": {
+      "A": "30 deg; 1/√2",
+      "B": "45 deg; 1/√2",
+      "C": "30 deg; √2",
+      "D": "45 deg; √2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2016_P12_Q55-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q56",
+    "text": "In an astronomical telescope in normal adjustment a straight black line of length L is drawn on inside part of objective lens. The eye-piece forms a real image of this line. The length of this image is I. The magnification of the telescope is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "We know, magnification of telescope, we have",
+    "year": "2015",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q56-main.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q56-main2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q56-main3.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q56-main4.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q56-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q56-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q56-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q57",
+    "text": "The refracting angle of a prism is A, and the refractive index of the material of the prism is cot (A/2). The angle of minimum deviation is",
+    "options": {
+      "A": "180º + 2A",
+      "B": "180º - 3A",
+      "C": "180º - 2A",
+      "D": "90º - A"
+    },
+    "answer": "c",
+    "explanation": "We know that,",
+    "year": "2015",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q57-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q57-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q57-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q58",
+    "text": "Two identical thin plano-convex glass lenses (refractive index 1.5) each having a radius of curvature of 20 cm are placed with their convex surfaces in contact at the center. The intervening space is filled with oil of a refractive index of 1.7. The focal length of the combination is",
+    "options": {
+      "A": "50 cm",
+      "B": "20 cm",
+      "C": "25 cm",
+      "D": "50 cm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q58-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q58-explanation2.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q58-explanation3.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2015_P12_Q58-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q59",
+    "text": "The angle of a prism is A. One of its refracting surfaces is silvered. Light rays falling at an angle of incidence 2A on the first surface returns back through the same path after suffering reflection at the silvered surface. The refractive index µ , of the prism is",
+    "options": {
+      "A": "2 sin A",
+      "B": "2 cos A",
+      "C": "1/2cos A",
+      "D": "tan A"
+    },
+    "answer": "b",
+    "explanation": "According to question, diagram is shown below.",
+    "year": "2014",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2014_P12_Q59-explanation1.png",
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2014_P12_Q59-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q60",
+    "text": "The angle of a prism is 'A'. One of its refracting surfaces is silvered. Light rays falling at an angle of incidence 2A on the first surface returns back through the same path after suffering reflection at the silvered surface. The refractive index μ, of the prism is",
+    "options": {
+      "A": "1/2 cos A",
+      "B": "tan A",
+      "C": "2 sin A",
+      "D": "2 cos A"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2014",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2014_P12_Q60-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q61",
+    "text": "If the focal length of the objective lens is increased then the magnifying power of",
+    "options": {
+      "A": "microscope and telescope both will decrease",
+      "B": "microscope will decrease but that of telescope will increase",
+      "C": "microscope will increase but that of telescope will decrease",
+      "D": "microscope and telescope both will increase"
+    },
+    "answer": "b",
+    "explanation": "​Magnifying power of a microscope, where f0 and fe are the focal lengths of the objective and eyepiece respectively and l is the distance between their focal points and D is the least distance of distinct vision. If f0, increases, then m will decrease.If f0. increases, then m will increase.",
+    "year": "2014",
+    "chapter": "Ray Optics and Optical Instruments",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/ray-optics-and-optical-instruments/RAY_OPTICS_AND_OPTICAL_INSTRUMENTS-2014_P12_Q61-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

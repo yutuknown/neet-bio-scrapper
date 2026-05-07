@@ -1,0 +1,580 @@
+[
+  {
+    "id": "Q1",
+    "text": "In an oscillating spring mass system, a spring is connected to a box filled with the sand. As the box oscillates, sand leaks slowly out of the box vertically so that the average frequency ω (t) and average amplitude A (t) of the system changes with time t. Which of the following options systemically depicts these changes correctly? [2025]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "At any point of time, time period is given by T = 2π √(m / k) Here m is decreasing, so time period T will be decreasing Since ω = 2π / T Hence as mass leaks, ω will increase Now, at any instant mg = kx0 So, equilibrium length x0 = mg / k, where m is decreasing So, equilibrium length will decrease. So, amplitude also go on decreasing.",
+    "year": "2025",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q1-explanation1.jpg",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q1-explanation2.jpg",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q1-explanation3.jpg",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q1-explanation4.jpg",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q1-explanation5.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Two identical point masses P and Q, suspended from two separate massless springs of spring constant k1 and k2, respectively, oscillate vertically. If their maximum speeds are the same, the ratio (AQ/AP) of the amplitude AQ of mass Q to the amplitude AP of mass P is: [2025]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Maximum speed in simple harmonic motion is given by: vmax = A × ω Since the masses are identical, angular frequency ω is given by: ω = √(k / m) Let AP and AQ be amplitudes and ω1 and ω2 be angular frequencies of P and Q respectively. Given: vmax(P) = vmax(Q) ⇒ AP × ω1 = AQ × ω2 ⇒ AQ / AP = ω1 / ω2 ⇒ AQ / AP = √(k1) / √(k2) ⇒ AQ / AP = √(k1 / k2) Therefore, the correct answer is Option B: √(k1 / k2)",
+    "year": "2025",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q2-explanation1.jpg",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q2-explanation2.jpg",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q2-explanation3.jpg",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q2-explanation4.jpg",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2025_P11_Q2-explanation5.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "If the mass of the bob in a simple pendulum is increased to thrice its original mass and its length is made half its original length, then the new time period of oscillation is x / 2 times its original time period. Then the value of x is: [2024]",
+    "options": {
+      "A": "√3",
+      "B": "√2",
+      "C": "√2",
+      "D": "4"
+    },
+    "answer": "b",
+    "explanation": "The period of oscillation, T, of a simple pendulum is determined by the formula: where: L is the length of the pendulumg is the acceleration due to gravity The mass of the bob does not factor into the equation for the period. Let's first denote the original length of the pendulum as L and the original period of oscillation as T1. Hence, When the length of the pendulum is halved, the new length L' would be L / 2. Thus, the new period T2 can be calculated as: We are given that the new period T22 is . Therefore, we can set up the equation: To find the value of x, we solve for x: Multiplying both sides by 2: Simplify to: x =√2 Hence, the correct answer is: Option B: √2",
+    "year": "2024",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q3-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q3-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q3-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q3-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q3-explanation5.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q3-explanation6.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q3-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "If represents the motion of a particle executing simple harmonic motion, the amplitude and time period of motion, respectively, are [2024]",
+    "options": {
+      "A": "5 cm, 2 s",
+      "B": "5 m, 2 s",
+      "C": "5 cm, 1 s",
+      "D": "5 m, 1 s"
+    },
+    "answer": "b",
+    "explanation": "In the equation for simple harmonic motion (SHM), , the general form can be used to identify the parameters of SHM, where: A is the amplitude.ω (omega) is the angular frequency.φ (phi) is the phase constant.t is the time. Comparing the given equation with the standard form: The amplitude A is 5 m, as that is the coefficient of sine in the equation.The angular frequency ω isπ rad/s. The angular frequency ω is related to the time period T of the motion through the formula: Given that ω=ππ, we can substitute and solve for T: Hence, the amplitude of the motion is 5 m and the time period is 2 s. Thus, the correct answer is: Option B: 5 m, 2 s",
+    "year": "2024",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q4-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q4-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q4-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q4-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2024_P11_Q4-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "The x-t graph of a particle performing simple harmonic motion is shown in the figure. The acceleration of the particle at t = 2 s is [2023]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Solution: Position of particle as function of time",
+    "year": "2023",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2023_P11_Q5-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2023_P11_Q5-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2023_P11_Q5-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2023_P11_Q5-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2023_P11_Q5-explanation5.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2023_P11_Q5-explanation6.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2023_P11_Q5-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Match List-I with List-II [2022]",
+    "options": {
+      "A": "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)",
+      "B": "(a) - (iv), (b) - (ii), (c) - (iii), (d) - (i)",
+      "C": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "D": "(a) - (i), (b) - (iv), (c) - (iii), (d) - (ii)"
+    },
+    "answer": "c",
+    "explanation": "(a) Amplitude of oscillation is continuously decreasing. It means bob of pendulum oscillate with air friction. (b) F = -kx (restoring force of a spring) (c) Amplitude of oscillation is remains same. It means bob of pendulum is oscillating under negligible air resistance. (d)",
+    "year": "2022",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2022_P11_Q6-main.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2022_P11_Q6-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2022_P11_Q6-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2022_P11_Q6-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2022_P11_Q6-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2022_P11_Q6-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Identify the function which represents a non-periodic motion. [2022]",
+    "options": {
+      "A": "[diagram]",
+      "B": "e-ωt",
+      "C": "sinωt",
+      "D": "sinωt + cosωt"
+    },
+    "answer": "b",
+    "explanation": "A periodic function repeats its value after a fixed time interval. (a) sin(ωt + π/4) Sine function is periodic with period = 2π/ω. So, it represents periodic motion. (b) e-ωt This is an exponential decay function. It does not repeat its values with time. Hence, it represents non-periodic motion. (c) sin ωt Sine function is periodic with period = 2π/ω. So, it represents periodic motion. (d) sin ωt + cos ωt Sum of two periodic functions with the same angular frequency ω is also periodic. So, it represents periodic motion. Correct answer: (b) e-ωt",
+    "year": "2022",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2022_P11_Q7-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Two pendulums of length 121 cm and 100 cm start vibrating in phase. At some instant, the two are at their mean position in the same phase. The minimum number of vibrations of the shorter pendulum after which the two are again in phase at the mean position is: [2022]",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "8",
+      "D": "11"
+    },
+    "answer": "d",
+    "explanation": "Solution:",
+    "year": "2022",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2022_P11_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "A body is executing simple harmonic motion with frequency 'n', the frequency of its potential energy is: [2021]",
+    "options": {
+      "A": "3n",
+      "B": "4n",
+      "C": "n",
+      "D": "2n"
+    },
+    "answer": "d",
+    "explanation": "Solution: Displacement equation of SHM of frequency 'n' x = Asin(ωt) = Asin(2πnt) Now, So frequency of potential energy = 2n",
+    "year": "2021",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2021_P11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "A spring is stretched by 5 cm by a force 10 N. The time period of the oscillations when a mass of 2 kg is suspended by it is: [2021]",
+    "options": {
+      "A": "3.14 s",
+      "B": "0.628 s",
+      "C": "0.0628 s",
+      "D": "6.28 s"
+    },
+    "answer": "",
+    "explanation": "Solution: F = kx 10 = k(5 × 10-2) = 2 x 102 = 200 N/m Now,",
+    "year": "2021",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2021_P11_Q10-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2021_P11_Q10-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The phase difference between displacement and acceleration of a particle in a simple harmonic motion is",
+    "options": {
+      "A": "3π/2 rad",
+      "B": "π/2 rad",
+      "C": "Zero",
+      "D": "π rad [2020]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2020_P11_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Average velocity of a particle executing SHM in one complete vibration is: [2019]",
+    "options": {
+      "A": "Aω/2",
+      "B": "Aω",
+      "C": "[diagram]",
+      "D": "Zero"
+    },
+    "answer": "d",
+    "explanation": "Solution: In one complete vibration, displacement is zero. So, average velocity in one complete vibration",
+    "year": "2019",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q12-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q12-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The displacement of a particle executing simple harmonic motion is given by y = A0+ Asinωt + Bcosωt Then the amplitude of its oscillation is given by : [2019]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "A + B"
+    },
+    "answer": "b",
+    "explanation": "Solution: y = A0+ Asinωt + Bsinωt Equate SHM y' = y - A0 = Asinωt + Bcosωt Resultant amplitude",
+    "year": "2019",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q13-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q13-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q13-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q13-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q13-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The radius of circle, the period of revolution, initial position and sense of revolution are indicated in the fig. y - projection of the radius vector of rotating particle P is: [2019]",
+    "options": {
+      "A": "y(t) = -3 cos2πt, where y in m",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Solution: At t = 0, y displacement is maximum, so equation will be cosine function. T = 4s y = a cosωt 2018",
+    "year": "2019",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q14-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q14-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q14-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q14-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q14-explanation5.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q14-explanation6.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q14-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A pendulum is hung from the roof of a sufficiently high building and is moving freely to and fro like a simple harmonic oscillator. The acceleration of the bob of the pendulum is 20 m/s2 at a distance of 5 m from the mean position. The time period of oscillation is:- [2018]",
+    "options": {
+      "A": "2πs",
+      "B": "πs",
+      "C": "2s",
+      "D": "1s"
+    },
+    "answer": "b",
+    "explanation": "Solution: 2017",
+    "year": "2019",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "A particle executes linear simple harmonic motion with an amplitude of 3 cm. When the particle is at 2 cm from the mean position, the magnitude of its velocity is equal to that of its acceleration. Then its time period in seconds is:- [2017]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2019",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q16-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q16-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q16-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q16-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2019_P11_Q16-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A particle is executing SHM along a straight line. Its velocities at distances x1 and x2 from the mean position are V1 and V2, respectively. Its time period is: [NEET /AIPMT Cancelled Paper 2015]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Solution:",
+    "year": "2016",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q17-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q17-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q17-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q17-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q17-explanation5.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q17-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "When two displacements represented by y1 = a sin(ωt) and y2 = b cos(ωt) are superimposed the motion is: [NEET /AIPMT Cancelled Paper 2015]",
+    "options": {
+      "A": "simple harmonic with amplitude (a+b)/2",
+      "B": "not a simple harmonic",
+      "C": "simple harmonic with amplitude a/b",
+      "D": "simple harmonic with amplitude [diagram]"
+    },
+    "answer": "d",
+    "explanation": "Solution: where c2 = a2 + b2 [since a2 + b2 = c2 cos (φ) + c2 sin (φ) = c2 ] The superimposed motion is simple harmonic with amplitude",
+    "year": "2016",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q18-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q18-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q18-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q18-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "A particle is executing a simple harmonic motion. Its maximum acceleration is α and maximum velocity is β. Them, its time period of vibration will be [NEET / AIPMT 2015]",
+    "options": {
+      "A": "β2/ α",
+      "B": "2πβ / α",
+      "C": "β2/ α2",
+      "D": "α / β"
+    },
+    "answer": "b",
+    "explanation": "As, we know, in SHM 2014",
+    "year": "2016",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The oscillation of a body on a smooth horizontal surface is represented by the equation, X = A cos (ωt) Where X = displacement at time t ω = frequency of oscillation Which one of the following graphs shows correctly the variation 'a' with 't'? [2014]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram] Here, a = acceleration at time 't' and T = time period"
+    },
+    "answer": "a",
+    "explanation": "Solution:",
+    "year": "2016",
+    "chapter": "Oscillations",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q20-explanation1.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q20-explanation2.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q20-explanation3.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q20-explanation4.png",
+      "PHYSICS/P11/chapters/oscillations/OSCILLATIONS-2016_P11_Q20-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

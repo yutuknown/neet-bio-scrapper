@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "Q1",
+    "text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R)",
+    "options": {
+      "A": "(A) is True but (R) is False.",
+      "B": "(A) is False but (R) is True.",
+      "C": "Both (A) and (R) are True and (R) is the correct explanation of (A).",
+      "D": "Both (A) and (R) are True but (R) is not the correct explanation of (A)."
+    },
+    "answer": "c",
+    "explanation": "The Golgi apparatus is an essential component of the cellular endomembrane system responsible for modifying, sorting, and packaging proteins and lipids for secretion or delivery to other organelles.The endoplasmic reticulum (ER) is involved in the synthesis of proteins (rough ER) and lipids (smooth ER).The Golgi apparatus receives materials from the ER, processes them, and then directs them to their appropriate destinations within or outside the cell. Assertion (A): The primary function of the Golgi apparatus is to package the materials made by the endoplasmic reticulum and deliver it to intracellular targets and outside the cell: This statement is true. The Golgi apparatus processes and packages proteins and lipids synthesized in the ER and sends them to various destinations.The golgi apparatus principally performs the function of packaging materials, to be delivered either to the intra-cellular targets or secreted outside the cell. Reason (R): Vesicles containing materials made by the endoplasmic reticulum fuse with the cis face of the Golgi apparatus, and they are modified and released from the trans face of the Golgi apparatus: This statement is true and provides the correct explanation for the Assertion.The Golgi apparatus has a cis face (receiving side) and a trans face (shipping side).Vesicles from the ER fuse with the cis face, and the materials within these vesicles are modified, sorted, and packaged as they move through the Golgi to be released from the trans face.That's why Golgi apparatus remains in close association with the endoplasmic reticlum. Therefore, both A and R are true, and R correctly explains A, making the correct answer option C).",
+    "year": "2025",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2025_B11_Q1-main.jpg",
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2025_B11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Which one of the following statements refers to Reductionist Biology?",
+    "options": {
+      "A": "Chemical approach to study and understand living organisms",
+      "B": "Behavioural approach to study and understand living organisms",
+      "C": "Physico-chemical approach to study and understand living organisms",
+      "D": "Physiological approach to study and understand living organisms"
+    },
+    "answer": "c",
+    "explanation": "Reductionist Biology is an approach in biology that seeks to understand complex biological systems by breaking them down into their simpler constituent parts. It involves studying the physical and chemical processes underlying the functioning of living organisms.This physico-chemical approach to study and understand living organisms is called 'Reductionist Biology'. The concepts and techniques of physics and chemistry are applied to understand biology.For example, the structure of DNA, the role of enzymes in metabolic pathways, and the biophysical properties of cell membranes are all studied using this approach.",
+    "year": "2025",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "From the statements given below choose the correct option",
+    "options": {
+      "A": "A, B and E are true",
+      "B": "B, D and E are true",
+      "C": "A, B and C are true",
+      "D": "A, B and D are true"
+    },
+    "answer": "c",
+    "explanation": "Statement A: \"The eukaryotic ribosomes are 80S and prokaryotic ribosomes are 70S\" is correct. In eukaryotic cells, ribosomes have a sedimentation rate of 80S (indicating their size and density), while in prokaryotic cells, ribosomes are smaller with a sedimentation rate of 70S. Statement B: \"Each ribosome has two sub-units\" is correct. Both prokaryotic and eukaryotic ribosomes consist of two subunits: a larger subunit and a smaller subunit. Statement C: \"The two sub-units of 80S ribosome are 60S and 40S while that of 70S are 50S and 30S\" is correct. The eukaryotic 80S ribosome is composed of a larger 60S subunit and a smaller 40S subunit.The prokaryotic 70S ribosome consists of a larger 50S subunit and a smaller 30S subunit. Statement D: \"The two sub-units of 80S ribosome are 60S and 20S and that of 70S are 50S and 20S\" is incorrect. This statement incorrectly mentions the smaller subunit as 20S, which is not accurate for either eukaryotic or prokaryotic ribosomes. Statement E: \"The two sub-units of 80S are 60S and 30S and that of 70S are 50S and 30S\" is incorrect. This statement incorrectly mentions the smaller subunit of the 80S ribosome as 30S instead of 40S.",
+    "year": "2025",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2025_B11_Q3-main.jpg",
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2025_B11_Q3-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication is",
+    "options": {
+      "A": "Cristae",
+      "B": "Endoplasmic Reticulum",
+      "C": "Mesosome",
+      "D": "Chromatophores"
+    },
+    "answer": "c",
+    "explanation": "Mesosome is an infolding of the plasma membrane found in prokaryotic cells, especially in bacteria.Mesosomes are invaginations of the plasma membrane.These extensions are in the form of vesicles, tubules and lamellae. They help in cell wall formation, DNA replication and distribution to daughter cells.They also help in respiration, secretion processes, to increase the surface area of the plasma membrane and enzymatic content. Other Options: Chromatophores: These are membranous structures found in photosynthetic prokaryotes like cyanobacteria. Their primary role is in photosynthesis.Cristae: Cristae are folds of the inner mitochondrial membrane found in eukaryotic cells. They are involved in oxidative phosphorylation and ATP production. Endoplasmic Reticulum: The endoplasmic reticulum is an organelle exclusive to eukaryotic cells and is involved in protein and lipid synthesis. Prokaryotic cells do not have this organelle. Other Options: Mesosome is an infolding of the plasma membrane found in prokaryotic cells, especially in bacteria.Mesosomes are invaginations of the plasma membrane.These extensions are in the form of vesicles, tubules and lamellae. They help in cell wall formation, DNA replication and distribution to daughter cells.They also help in respiration, secretion processes, to increase the surface area of the plasma membrane and enzymatic content. Chromatophores: These are membranous structures found in photosynthetic prokaryotes like cyanobacteria. Their primary role is in photosynthesis.Cristae: Cristae are folds of the inner mitochondrial membrane found in eukaryotic cells. They are involved in oxidative phosphorylation and ATP production. Endoplasmic Reticulum: The endoplasmic reticulum is an organelle exclusive to eukaryotic cells and is involved in protein and lipid synthesis. Prokaryotic cells do not have this organelle.",
+    "year": "2025",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2025_B11_Q4-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-IV, B-II, C-III, D-I",
+      "B": "A-II, B-III, C-I, D-IV",
+      "C": "A-I, B-II, C-III, D-IV",
+      "D": "A-II, B-I, C-IV, D-III"
+    },
+    "answer": "b",
+    "explanation": "Centromere (A-II): The centromere is a region of the chromosome where the microtubules of the spindle attach during cell division, specifically during mitosis and meiosis.Cilium (B-III): Cilia are hair-like structures on the surface of the cell, primarily involved in cell movement. They can move fluid over the cell surface or contribute to locomotion of the cell itself.Cristae (C-I): Cristae are the folds of the inner mitochondrial membrane, and they increase the surface area for chemical reactions to occur, including those involved in the synthesis of ATP during cellular respiration.Cell membrane (D-IV): The cell membrane is a phospholipid bilayer that provides a barrier which separates the interior of the cell from the outside environment while regulating the passage of materials into and out of the cell.",
+    "year": "2025",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2025_B11_Q5-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-III, B-II, C-IV, D-I",
+      "B": "A-II, B-III, C-I, D-IV",
+      "C": "A-III, B-IV, C-II, D-I",
+      "D": "A-I, B-II, C-III, D-IV"
+    },
+    "answer": "a",
+    "explanation": "Let's analyze each item in List I and the correct match in List II. Nucleolus (A) is primarily known as the site where ribosomal RNA (rRNA) is synthesized and where initial ribosome assembly occurs. Thus, it matches perfectly with III. Site of active ribosomal RNA synthesis. Centriole (B) is a cylindrical cellular structure composed of microtubules and is best known for its role in facilitating cell division, especially in the formation of the spindle apparatus. Its structure is often described as being like a cartwheel, which makes it accurately matched with II. Organization like the cartwheel. Leucoplasts (C) are a type of non-pigmented plastid found in plant cells, primarily involved in the storage of important nutrients such as starch, oils, and proteins. Hence, the appropriate pair is IV. For storing nutrients. Golgi apparatus (D) functions in the sorting, modifying, and packaging of macromolecules for cell secretion or for use within the cell. It includes the synthesis of glycolipids among its activities. Consequently, the correct match is I. Site of formation of glycolipid. With these correlations, the correct matches are: A - III,B - II,C - IV,D - I Therefore, the correct option is Option A: A-III, B-II, C-IV, D-I.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2024_B11_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The DNA present in chloroplast is",
+    "options": {
+      "A": "Linear, double stranded",
+      "B": "Circular, double stranded",
+      "C": "Linear, single stranded",
+      "D": "Circular, single stranded"
+    },
+    "answer": "b",
+    "explanation": "Chloroplasts are organelles found in the cells of plants and of some other organisms that carry out photosynthesis. They contain their own genetic material, separated from the DNA found in the nucleus of the cell. The DNA in chloroplasts has a distinct structure and form. The DNA within chloroplasts is mostly: Circular: The DNA forms a closed loop, similar to the DNA found in bacteria. This similarity supports the endosymbiotic theory, which proposes that chloroplasts originated as free-living prokaryotes that were engulfed by ancestral eukaryotic cells.Double-stranded: Like most DNA, the DNA in chloroplasts is made up of two complementary strands that wind around each other to form a double helix. Based on this information, the correct answer to your query about the form of DNA present in chloroplasts is: Option B: Circular, double stranded",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Given below are two statements: Statement I: Mitochondria and chloroplasts both double membranes bound organelles. Statement II: Inner membrane of mitochondria is relatively less permeable, as compared chloroplast. In the light of the above statements, choose the misappropriate answer from the options given below",
+    "options": {
+      "A": "Both Statement I and Statement II are correct.",
+      "B": "Both Statement I and Statement II are incorrect.",
+      "C": "Statement I is correct but Statement II is incorrect.",
+      "D": "Statement I is incorrect but Statement II is correct."
+    },
+    "answer": "c",
+    "explanation": "Statement I is correct because both mitochondria and chloroplasts are double membrane-bound organelles. Statement II is also correct because the inner mitochondrial membrane is highly selective (less permeable), whereas the inner membrane of chloroplast is comparatively more permeable due to transport proteins.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Match List I with List-II",
+    "options": {
+      "A": "A-IV, B-III, C-II, D-I",
+      "B": "A-IV, B-II, C-III, D-I",
+      "C": "A-II, B-IV, C-I, D-III",
+      "D": "A-II, B-I, C-IV, D-III"
+    },
+    "answer": "d",
+    "explanation": "The correct matching between List I and List II can be understood by knowing the respective functions or structural components of the mentioned items: Axoneme: This is the core of cilia or flagella, consisting of microtubules arranged in a characteristic pattern. This hence matches with II 'Cilia and flagella'.Cartwheel pattern: The term 'cartwheel structure' is specifically associated with the central hub of the centriole's microtubule triplet arrangements in cellular structures. Therefore, this matches with I 'Centriole'.Crista: Cristae are the internal membranes of mitochondria that are folded into ridges, involved in the mitochondrial energy generation. Therefore, C matches with IV 'Mitochondria'.Satellite: In a cellular context, satellites typically refer to certain types of secondary structures or appendages associated with nucleic acids, hence best matching with III 'Chromosome'. Thus, matching the correct items gives us: A-II, B-I, C-IV, D-III. This corresponds to Option D.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2024_B11_Q9-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Cell wall formation in bacteria is facilitated by",
+    "options": {
+      "A": "Ribosomes",
+      "B": "Mesosomes",
+      "C": "Golgi Apparatus",
+      "D": "Centrosomes"
+    },
+    "answer": "b",
+    "explanation": "Mesosomes are invaginations of the plasma membrane in prokaryotic cells, specifically bacteria. They play a crucial role in cell wall formation, DNA replication, and distribution to daughter cells. Other options are not directly involved in cell wall formation: 1. Ribosomes: These are the sites of protein synthesis but do not play a role in cell wall formation. 3. Golgi Apparatus: This organelle is involved in modifying, sorting, and packaging proteins and lipids for secretion or delivery to other organelles, not in bacteria. 4. Centrosomes: These are involved in organizing microtubules during cell division in eukaryotic cells, not in bacteria.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-I, B-IV, C-II, D-III",
+      "B": "A-III, B-IV, C-II, D-I",
+      "C": "A-I, B-III, C-II, D-IV",
+      "D": "A-III, B-II, C-I, D-IV"
+    },
+    "answer": "b",
+    "explanation": "Here's the matching of the components: A. Cilia: III. Axoneme - Cilia have a core structure called the axoneme, which is essential for their movement.B. Endoplasmic Reticulum: IV. Ribosomes - The rough ER is studded with ribosomes, which are the sites of protein synthesis.C. Mitochondria: II. Cristae - The inner membrane of mitochondria is folded into structures called cristae, which increase the surface area for ATP production.D. Kinetochore: I. Spindle fibres - The kinetochore is a protein structure on chromatids where the spindle fibers attach during cell division.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2024_B11_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Given below are two statements: Statement I: The Golgi cisternae are concentrically arranged near the nucleus with distinct convex cis or the forming face and concave trans or the maturing face. Statement II: The cis and trans faces of the organelle are identical and interconnected",
+    "options": {
+      "A": "Both Statement I and Statement II are True.",
+      "B": "Both Statement I and Statement II are False.",
+      "C": "Statement I is True but Statement II is False.",
+      "D": "Statement I is False but Statement II is True."
+    },
+    "answer": "c",
+    "explanation": "The Golgi cisternae are concentrically arranged near the nucleus with distinct convex cis or the forming face and concave trans or the maturing face. The cis and the trans faces of the organelle are entirely different, but interconnected.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Match List-I with List-II Choose the correct answer form the options given below",
+    "options": {
+      "A": "A-II,B-IV,C-III,D-I",
+      "B": "A-II, B-III,C-I,D-IV",
+      "C": "A-I,B-II, C-III, D-IV",
+      "D": "A-IV,B-II, C-III, D-I"
+    },
+    "answer": "a",
+    "explanation": "(a) A-II, B-IV, C-III, D-I: This is the correct option. Fleming is associated with the discovery of the cell nucleus (IV), Robert Brown with the nucleus (IV), George Palade with ribosomes (III), and Camillo Golgi with the Golgi apparatus (I).(b) A-II, B-III, C-I, D-IV: This is incorrect as it misassigns the contributions of these scientists.(c) A-I, B-II, C-III, D-IV: This is incorrect as it misassigns the contributions of these scientists.(d) A-IV, B-II, C-III, D-I: This is incorrect as it misassigns the contributions of these scientists.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2024_B11_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Mesosome in a cell is a",
+    "options": {
+      "A": "Membrane bound vesicular structure",
+      "B": "Chain of many ribosomes attached to a single mRNA",
+      "C": "special structure formed by the extension of plasma membrane",
+      "D": "medium sized chromosome"
+    },
+    "answer": "c",
+    "explanation": "(a) Membrane bound vesicular structure: This option is incorrect as mesosomes are not simply vesicular structures; they are extensions of the plasma membrane. (b) Chain of many ribosomes attached to a single mRNA: This describes a polysome, not a mesosome, making this option incorrect. (c) Special structure formed by the extension of plasma membrane: This is correct. Mesosomes are invaginations of the plasma membrane in prokaryotic cells, believed to be involved in cell division and DNA replication. (d) Medium sized chromosome: This option is incorrect as mesosomes are not chromosomes; they are membrane structures.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-II, B-I, C- IV, D- III",
+      "B": "A-IV, B-I, C- II, D- III",
+      "C": "A-I, B-II, C- III, D- IV",
+      "D": "A-II, B-III, C- IV, D- I"
+    },
+    "answer": "d",
+    "explanation": "A. Metacentric chromosome: Matches with II. Middle centromere forming two equal arms of chromosome. This is correct as metacentric chromosomes have centromeres located in the middle.B. Sub-metacentric chromosome: Matches with III. Centromere is slightly away from the middle chromosome resulting in two unequal arms. This is correct as sub-metacentric chromosomes have centromeres that are not centrally located.C. Acrocentric chromosome: Matches with IV. Centromere is situated close to its end forming one extremely short and one very long arm. This is accurate as acrocentric chromosomes have a centromere near one end.D. Telocentric chromosome: Matches with I. Chromosome has a terminal centromere. This is correct as telocentric chromosomes have their centromere at one end.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2024_B11_Q15-explanation1.png",
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2024_B11_Q15-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-II, B-I, C-IV, D-III",
+      "B": "A-IV, B-I, C-II, D-III",
+      "C": "A-IV, B-I, C-III, D-II",
+      "D": "A-IV, B-III, C-I, D-II"
+    },
+    "answer": "b",
+    "explanation": "A. F1 Particles: Matches with IV. Mitochondria. F1 particles are associated with ATP synthesis in mitochondria.B. Histones: Matches with I. Chromosomes. Histones are proteins that package and order DNA into structural units called nucleosomes, which make up chromosomes.C. Axoneme: Matches with II. Cilia. The axoneme is the structural basis of cilia and flagella, consisting of microtubules.D. Cisternae: Matches with III. Golgi apparatus. Cisternae are the flattened membrane-bound compartments that make up the Golgi apparatus.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2024_B11_Q16-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Given below are two statements: Statement I: Concentrically arranged cisternae of Golgi complex are arranged near the nucleus with distinct convex cis or forming face and concave trans or maturing face. Statement II: A number of proteins are modified in the cisternae of Golgi complex before they are released from cis face",
+    "options": {
+      "A": "Statement I is True but Statement II is False.",
+      "B": "Statement I is False but Statement II is True.",
+      "C": "Both Statement I and Statement II are True.",
+      "D": "Both Statement I and Statement II are False."
+    },
+    "answer": "a",
+    "explanation": "Statement I is true because the Golgi apparatus has concentrically arranged cisternae near the nucleus with a convex cis (forming) face and a concave trans (maturing) face. Statement II is false because although proteins are modified in the Golgi cisternae, they are released from the trans face, not the cis face.",
+    "year": "2024",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Which of the following are NOT considered as the part of endomembrane system? A. Mitochondria B. Endoplasmic reticulum C. Chloroplast D. Golgi Complex E. Peroxisomes",
+    "options": {
+      "A": "B & D only",
+      "B": "A, C & E only",
+      "C": "A & D only",
+      "D": "A, D & E only"
+    },
+    "answer": "b",
+    "explanation": "The endomembrane system in a cell includes: - The nuclear envelope - The endoplasmic reticulum (ER) - The Golgi apparatus (Golgi complex) - Lysosomes - Vesicles - The plasma membrane This system is involved in the modification, packaging, and transport of proteins and lipids. Mitochondria and chloroplasts are not part of the endomembrane system. They are both organelles with their own separate membranes, and they have their own DNA. They are thought to have originated from a symbiotic relationship with prokaryotic cells, a theory known as endosymbiosis. Peroxisomes, although they are membrane-bound organelles involved in many metabolic reactions, are also not considered part of the endomembrane system because they do not communicate with the other endomembrane organelles and are not involved in protein sorting or lipid synthesis like the other components of the endomembrane system.",
+    "year": "2023",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Which of the following functions is carried out by cytoskeleton in a cell?",
+    "options": {
+      "A": "Nuclear division",
+      "B": "Protein synthesis",
+      "C": "Motility",
+      "D": "Transportation"
+    },
+    "answer": "c",
+    "explanation": "An elaborate network of filamentous proteinaceous structures consisting of microtubules, microfilaments and intermediate filaments present in cytoplasm is collectively referred to as the cytoskeleton. It is involved in many functions such as mechanical support, motility, maintenance of the shape of the cell.",
+    "year": "2023",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Given below are two statements: Statement I: In bacteria, the mesosomes are formed by the extensions of the plasma membrane. Statement II: The mesosomes, in bacteria, help in DNA replication and cell wall formation. In light of the above statements",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect",
+      "B": "Statement I is incorrect but Statement II is",
+      "C": "Both Statement I and Statement II are",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "c",
+    "explanation": "Statement I: In bacteria, the mesosomes are indeed formed by the extensions of the plasma membrane into the cytoplasm. They are typically observed as invaginations of the plasma membrane. Statement II: Mesosomes in bacteria are thought to assist in several cellular processes including DNA replication, distribution of DNA during cell division, respiration, and cell wall formation. Hence, this statement is also correct.",
+    "year": "2023",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Which of the following statements are correct in the context of Golgi apparatus? (A) It is the important site for the formation of glycoprotein and glycolipids (B) It produces cellular energy in the form of ATP (C) It modifies the protein synthesized by ribosomes on ER (D) It facilitates the transport of ions (E) It provides mechanical support",
+    "options": {
+      "A": "(B) and (C) only",
+      "B": "(A) and (C) only",
+      "C": "(A) and (D) only",
+      "D": "(D) and (E) only"
+    },
+    "answer": "b",
+    "explanation": "(A) and (C) are correct. (B), (D) and (E) are incorrect. A. Statement A is correct. Glycoproteins and glycolipids are formed by addition of carbohydrate groups to proteins and lipids, respectively. Golgi is the site of this glycosylation process. B. Statement B is incorrect. ATP production primarily occurs in the mitochondria, not the Golgi apparatus. C. Statement C is correct. Golgi body modifies the proteins synthesised by ribosomes on the endoplasmic reticulum (ER). The Golgi apparatus receives proteins synthesised on the ribosomes of the ER and modifies them. This modification includes processes, like adding sugar moieties, cleaving signal peptides, and folding the proteins into their functional conformation. D. Statement D is incorrect. While the Golgi apparatus is involved in intracellular transport, it does not primarily facilitate the transport of ions. It mainly deals with the transport and sorting of proteins and lipids. E. Statement E is incorrect. The Golgi apparatus does not provide mechanical support. The cytoskeleton, which is composed of proteins such as microtubules and microfilaments, is responsible for providing structural support to the cell.",
+    "year": "2023",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which of the following statements with respect to the endoplasmic reticulum is incorrect?",
+    "options": {
+      "A": "SER is devoid of ribosomes",
+      "B": "In prokaryotes only RER are present",
+      "C": "SER are the sites for lipid synthesis",
+      "D": "RER has ribosomes attached to ER"
+    },
+    "answer": "b",
+    "explanation": "Presence of membranous organelles is an exclusive property of eukaryotic cells. Endoplasmic reticulum is an example of membranous organelles, so, it will always be found in eukaryotic cells only and never in the prokaryotes. This is true for SER and RER both.",
+    "year": "2022",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Which type of substance would face difficulty to pass through the cell membrane?",
+    "options": {
+      "A": "Substance soluble in lipids",
+      "B": "Substance with hydrophobic moiety",
+      "C": "Substance with hydrophilic moiety",
+      "D": "All substance irrespective of hydrophobic and hydrophilic moiety"
+    },
+    "answer": "c",
+    "explanation": "Substances that have a hydrophilic moiety find it difficult to pass through the plasma membrane; thus, their movement has to be facilitated.",
+    "year": "2022",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2022_B11_Q23-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "If the pH in lysosomes is increased to alkaline, what will be the outcome?",
+    "options": {
+      "A": "Lysosomal enzymes will be more active",
+      "B": "Hydrolytic enzymes will function more efficiently",
+      "C": "Hydrolytic enzymes will become inactive",
+      "D": "Lysosomal enzymes will be released into the cytoplasm"
+    },
+    "answer": "c",
+    "explanation": "Sol. Lysosomes contain hydrolytic enzymes which become active at acidic pH.If pH in lysosomes is increased to alkaline or basic then hydrolytic enzymes will become inactive.",
+    "year": "2022",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "When the centromere is situated in the middle of two equal arms of chromosomes, the chromosome is referred as",
+    "options": {
+      "A": "Sub-metacentric",
+      "B": "Acrocentric",
+      "C": "metacentric",
+      "D": "Telocentric"
+    },
+    "answer": "c",
+    "explanation": "When the centromere is situated in the middle of two equal arms of chromosomes, the chromosome is referred as Metacentric.When the centromere is present slightly away from the middle, it is called sub-metacentric chromosome.When the centromere is present very close to one end of the chromosome, it is called acrocentric chromosome.When the centromere is present at terminal position, the chromosome is called telocentric.",
+    "year": "2021",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Match List - I with List - II Choose the correct answer from the options given below",
+    "options": {
+      "A": "(iii) (iv) (i) (ii)",
+      "B": "(ii) (iii) (iv) (i)",
+      "C": "(iv) (iii) (ii) (i)",
+      "D": "(i) (iv) (iii) (ii)"
+    },
+    "answer": "a",
+    "explanation": "The inner membrane of mitochondria forms infoldings called cristae.Thylakoids are flattened membranous sacs in stroma of plastids.Cisternae are disc shaped sacs in Golgi apparatus.Primary constriction in chromosome that holds two chromatids together is called centromere. Hence, correct option is (a)- a(iii), b(iv), c(i), d(ii)",
+    "year": "2021",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2021_B11_Q26-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Which of the following is an incorrect statement?",
+    "options": {
+      "A": "The perinuclear space forms a barrier between the materials present inside the nucleus and that of the cytoplasm.",
+      "B": "Nuclear pores act as passages for proteins and RNA molecules in both directions between nucleus and cytoplasm.",
+      "C": "Mature sieve tube elements possess a conspicuous nucleus and usual cytoplasmic organelles.",
+      "D": "Microbodies are present both in plant and animal cells."
+    },
+    "answer": "c",
+    "explanation": "⌃A mature sieve tube elements possess a peripheral cytoplasm and a large central vacuole but lacks a nucleus. Rest of other statements are correct.",
+    "year": "2021",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "packed_upper_labels",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The organelles that are included in the endomembrane system are",
+    "options": {
+      "A": "Golgi complex, Mitochondria, Ribosomes and Lysosomes",
+      "B": "Golgi complex, Endoplasmic reticulus, Mitochondria and Lysosomes",
+      "C": "Endoplasmic reticulum, Mitochondria, Ribosomes and Lysosomes",
+      "D": "Endoplasmic reticulum, Golgi complex, Lysosomes and Vacuoles"
+    },
+    "answer": "d",
+    "explanation": "Endomembrane system consist of endoplasmic reticulum, Golgi complex, vacuoles and lysosomes.Mitochondria is semi-autonomous cell organelle.Ribosome is non-membranous cell organelle.",
+    "year": "2021",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Which of the following statements about inclusion bodies is incorrect?",
+    "options": {
+      "A": "They lie free in the cytoplasm",
+      "B": "These represent reserve material in cytoplasm.",
+      "C": "They are not bound by any membrane.",
+      "D": "These are involved in ingestion of food particles."
+    },
+    "answer": "d",
+    "explanation": "Inclusion bodies are nuclear or cytoplasmic aggregates which are stainable substances, usually proteins, and formed due to viral multiplication or genetic disorders in human beings these bodies are either intracellular or extracellular abnormalities and they are specific to certain diseases. These are not involved in ingestion of food particles.",
+    "year": "2020",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Which is the important site of formation of glycoproteins and glycolipids in eukaryotic cells?",
+    "options": {
+      "A": "Golgi bodies",
+      "B": "Polysomes",
+      "C": "Endoplasmic reticulum",
+      "D": "Peroxisomes"
+    },
+    "answer": "a",
+    "explanation": "Golgi bodies are site of formation of glycoproteins and glycolipids in eukaryotic cells.",
+    "year": "2020",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Which of the following pairs of organelles does not contain DNA?",
+    "options": {
+      "A": "Nuclear envelope and Mitochondria",
+      "B": "Mitochondria and Lysosome",
+      "C": "Chloroplast and Vacuoles",
+      "D": "Lysosomes and Vacuoles"
+    },
+    "answer": "d",
+    "explanation": "Lysosome and vacuoles do not contain DNA.",
+    "year": "2019",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "Which of the following statements regarding mitochondria is incorrect?",
+    "options": {
+      "A": "Mitochondrial matrix contains single circular DNA molecule and ribosomes.",
+      "B": "Outer membrane is permeable to monomers of carbohydrates, fats and proteins.",
+      "C": "Enzymes of electron transport are embedded in outer membrane.",
+      "D": "Inner membrane is convoluted with infoldings."
+    },
+    "answer": "c",
+    "explanation": "The enzymes required for the ETS are present in the inner matrix only as the elementary particles are embedded in the inner membrane of the mitochondrial matrix.",
+    "year": "2019",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "Which of the following statements is not correct?",
+    "options": {
+      "A": "Lysosomes are formed by the process of packaging in the endoplasmic reticulum.",
+      "B": "Lysosomes have numerous hydrolytic enzymes.",
+      "C": "The hydrolytic enzymes of lysosomes are active under acidic pH.",
+      "D": "Lysosomes are membrane-bound structures."
+    },
+    "answer": "a",
+    "explanation": "Lysosomes are indeed membrane-bound structures (Option A) that contain numerous hydrolytic enzymes (Option C) which are active under acidic conditions (Option D). However, lysosomes are not formed by the endoplasmic reticulum. Instead, they are formed from vesicles that bud off from the Golgi apparatus. The endoplasmic reticulum is involved in the synthesis of proteins, some of which are destined for lysosomes, but the actual formation and packaging of lysosomes occur at the Golgi apparatus.",
+    "year": "2019",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Which of the following is true for nucleolus?",
+    "options": {
+      "A": "Larger nucleoli are present in dividing cells.",
+      "B": "It is a membrane-bound structure.",
+      "C": "It takes part in spindle formation.",
+      "D": "It is a site for active ribosomal RNA synthesis."
+    },
+    "answer": "d",
+    "explanation": "The nucleolus (plural nucleoli) is a large, distinct, spheroidal subcompartment of the nucleus of eukaryote cells that is the site of ribosomal RNA (rRNA) synthesis and assembly of ribosomal subunits.",
+    "year": "2018",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "The Golgi complex participates in",
+    "options": {
+      "A": "Fatty acid breakdown",
+      "B": "Formation of secretory vesicles",
+      "C": "Respiration in bacteria",
+      "D": "Activation of amino acid."
+    },
+    "answer": "b",
+    "explanation": "The Golgi apparatus receives proteins and lipids from the ER. It modifies them, concentrates and packs them into secretory vesicles that are formed by budding off from the trans-Golgi surface.",
+    "year": "2018",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "Which of the following events does not occur in rough endoplasmic reticulum?",
+    "options": {
+      "A": "Protein folding",
+      "B": "Protein glycosylation",
+      "C": "Cleavage of signal peptide",
+      "D": "Phospholipid synthesis"
+    },
+    "answer": "d",
+    "explanation": "Phospholipid synthesis does not take place in rough endoplasmic reticulum (RER). Smooth endoplasmic reticulum (SER) is involved in lipid synthesis.",
+    "year": "2018",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Which of the following cell organelles is responsible for extracting energy from carbohydrates to form ATP? (2017)",
+    "options": {
+      "A": "Ribosome",
+      "B": "Chloroplast",
+      "C": "Mitochondrion",
+      "D": "Lysosome"
+    },
+    "answer": "c",
+    "explanation": "The site of aerobic oxidation of carbohydrates in cells to generate ATP are mitochondria.",
+    "year": "2017",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "A cell organelle containing hydrolytic enzymes is",
+    "options": {
+      "A": "Lysosome",
+      "B": "Microsome",
+      "C": "Ribosome",
+      "D": "Mesosome"
+    },
+    "answer": "a",
+    "explanation": "Lysosomes are small vesicles which are bounded by a single membrane and contain hydrolytic enzymes in the form of minute crystalline or semicrystalline granules of 5 - 8 nm. About 50 enzymes have been recorded to occur in them. All the enzymes do not occur in the same lysosome but there are different sets of enzymes in different types of lysosomes. The important enzymes are acid phosphatases, sulphatases, proteases, peptidases, nucleases, lipases and carbohydrases. They are also called acid hydrolases because these digestive enzymes usually function in acidic medium or pH of 4 - 5.",
+    "year": "2016",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Select the wrong statement",
+    "options": {
+      "A": "Bacterial cell wall is made up of peptidoglycan.",
+      "B": "Pili and fimbriae are mainly involved in motility of bacterial cells.",
+      "C": "Cyanobacteria lack flagellated cells.",
+      "D": "Mycoplasma is a wall-less microorganism."
+    },
+    "answer": "b",
+    "explanation": "Pili and fimbriae are bacterial appendages which arc not involved in locomotion. Actually, pili are long, fewer and thick tubular outgrowths which develop in response to F+ or fertility factor in Gram negative bacteria. Being long they are helpful in attaching to recipient cell and forming conjugation tube. Fimbriae are small bristle-like fibres sprouting from cell surface in large number. There are 300-400 of them per cell. They are involved in attaching bacteria to solid surfaces.",
+    "year": "2016",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/cell-the-unit-of-life/CELL_THE_UNIT_OF_LIFE-2016_B11_Q39-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "Mitochondria and chloroplast are",
+    "options": {
+      "A": "(A) is true but (B) is false.",
+      "B": "Both (A) and (B) are false.",
+      "C": "Both (A) and (B) are correct.",
+      "D": "(B) is true but (A) is false."
+    },
+    "answer": "a",
+    "explanation": "Mitochondria & chloroplast are semiautonomous cell organelle which are formed by division of pre-existing organelle & contain DNA but they also contain protein synthesizing machinery, thus (a) is true & (b) is false.",
+    "year": "2016",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "Which one of the following cell organelles is enclosed by a single membrane?",
+    "options": {
+      "A": "Lysosomes",
+      "B": "Nuclei",
+      "C": "Mitochondria",
+      "D": "Chloroplasts"
+    },
+    "answer": "a",
+    "explanation": "Double Membrane bound Organelles: Mitochondria, Chloroplasts, Endoplasmic Reticulum, Golgi Body, and Nucleus. Single Membrane bound Organelles: Lysosomes, Peroxisomes, and Vacuoles. Organelles lacking any membrane: Ribosomes, Centrioles, Nucleolus.",
+    "year": "2016",
+    "chapter": "Cell: The Unit of Life",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

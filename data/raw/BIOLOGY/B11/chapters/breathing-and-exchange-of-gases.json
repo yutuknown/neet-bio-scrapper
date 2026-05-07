@@ -1,0 +1,619 @@
+[
+  {
+    "id": "Q1",
+    "text": "Match List-I with List-II. Choose the",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "b",
+    "explanation": "Emphysema (A-II):Emphysema is a chronic respiratory disease where there is damage to the alveolar walls. This results in larger but fewer alveoli, reducing the surface area for gas exchange, causing shortness of breath. One of the major causes of cigarette smoking.Angina Pectoris (B-III):​A symptom of acute chest pain appears when no enough oxygen is reaching the heart muscle.Angina can occur in men and women of any age but it is more common among the middle-aged and elderly. It occurs due to conditions that affect the blood flow.Glomerulonephritis (C-IV):Glomerulonephritis is the inflammation of the glomeruli in the kidneys, which are responsible for filtering blood.This condition can result from infections, immune disorders, or other systemic conditions. It often leads to proteinuria (protein in urine), hematuria (blood in urine), and reduced kidney function.Tetany (D-I):Tetany is a condition characterized by rapid, involuntary muscle spasms.It is caused by low levels of calcium ions (Ca++) in body fluids, which affect muscle and nerve function.",
+    "year": "2025",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/breathing-and-exchange-of-gases/BREATHING_AND_EXCHANGE_OF_GASES-2025_B11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q2",
+    "text": "Which of the following factors are favourable for the formation of oxyhaemoglobin in alveoli?",
+    "options": {
+      "A": "High pO2 and High pCO2",
+      "B": "High pO2 and Lesser H+ concentration",
+      "C": "Low pCO2 and Lesser H+ concentration",
+      "D": "Low pCO2 and High temperature"
+    },
+    "answer": "b",
+    "explanation": "The formation of oxyhemoglobin in the alveoli is primarily influenced by the partial pressure of oxygen ( pO2 ), partial pressure of carbon dioxide ( pCO2), hydrogen ion concentration ( H+ ), and temperature. Understanding these factors will help in selecting the right option that describes the conditions favorable for maximizing the binding of oxygen to hemoglobin in the lungs. 1. Oxygen Partial Pressure ( pO2 ): High pO 2 enhances the formation of oxyhemoglobin. In the alveoli, where gas exchange occurs, the pO2 is relatively high, making it a favorable condition for oxyhemoglobin formation as oxygen molecules bind readily to hemoglobin. 2. Carbon Dioxide Partial Pressure ( pCO2 ): Lower pCO2 is favorable in the alveoli for oxyhemoglobin formation. High pCO2 leads to a lower pH (due to formation of carbonic acid), which can cause the release of O2 from hemoglobin (Bohr effect), reducing hemoglobin's affinity for oxygen. 3. Hydrogen Ion Concentration ( H+): Lesser H+ concentration, or higher pH, increases the affinity of hemoglobin for oxygen. In alkaline conditions (higher pH), hemoglobin is more likely to bind oxygen, thus forming oxyhemoglobin. 4. Temperature: Temperature also affects oxygen binding. Lower temperatures generally enhance the uptake of oxygen by hemoglobin. However, since the lung environment maintains a stable temperature, significant fluctuations in temperature are less of a consideration in this context compared to pO2 , pCO2 , and H+ concentration. Given these points, Option B - High pO2 and Lesser H+ concentration - best describes the conditions that are favorable for the formation of oxyhemoglobin in the alveoli. High pO2 ensures that more oxygen molecules are available to bind with hemoglobin, and a lower H+ concentration (higher pH) reduces the release of oxygen from hemoglobin, thereby increasing oxygen uptake.",
+    "year": "2024",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Match List I with List II: Choose the",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "a",
+    "explanation": "First, let's define each term listed in List I and match them with their appropriate descriptions in List II.List I:Expiratory Capacity (EC): This is the maximum volume of air that a person can expel from the lungs after a normal tidal expiration. It is composed of the expiratory reserve volume (ERV) and tidal volume (TV).Functional Residual Capacity (FRC): This represents the volume of air present in the lungs at the end of a passive expiration. It is the sum of the residual volume (RV) and the expiratory reserve volume (ERV).Vital Capacity (VC): This includes the total volume of air that can be expelled from the lungs after taking as deep an inhalation as possible. Hence, this comprises the tidal volume (TV), inspiratory reserve volume (IRV), and the expiratory reserve volume (ERV).Inspiratory Capacity (IC): It refers to the volume of air that can be inhaled after a normal expiration. This combines tidal volume (TV) and inspiratory reserve volume (IRV).List II:I. Expiratory reserve volume + Tidal volume + Inspiratory reserve volume = Vital Capacity (VC).II. Tidal volume + Expiratory reserve volume = Expiratory Capacity (EC).III. Tidal volume + Inspiratory reserve volume = Inspiratory Capacity (IC).IV. Expiratory reserve volume + Residual volume = Functional Residual Capacity (FRC).Now, let's match the terms: A (Expiratory Capacity) matches with II. B (Functional Residual Capacity) matches with IV. C (Vital Capacity) matches with I. D (Inspiratory Capacity) matches with III. The correct option that pairs these correctly is: Option A: A-II, B-IV, C-I, D-III.",
+    "year": "2024",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/breathing-and-exchange-of-gases/BREATHING_AND_EXCHANGE_OF_GASES-2024_B11_Q3-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q4",
+    "text": "In humans, the process of respiration involves the following steps: A. Diffusion of gases across alveolar membrane B. Diffusion of gases between blood and tissues C. Transport of gases by blood D. Utilisation of O2 by the cells for catabolic reactions E. Breathing or pulmonary ventilation Choose the correct sequence of steps from the options given below",
+    "options": {
+      "A": "A →E→B→C→D",
+      "B": "C →E→A→B→D",
+      "C": "B →D→C→E→A",
+      "D": "E →A→C→B→D"
+    },
+    "answer": "d",
+    "explanation": "E - Breathing or pulmonary ventilation: This is the process of moving air in and out of the lungs, also known as inhalation and exhalation.A - Diffusion of gases across alveolar membrane: In the lungs, oxygen diffuses from the alveoli (air sacs) into the blood, and carbon dioxide diffuses from the blood into the alveoli to be exhaled.C - Transport of gases by blood: Once the gases are exchanged in the alveoli, the oxygen is carried by the blood (mostly by red blood cells) to tissues, while carbon dioxide is transported back to the lungs for removal.B - Diffusion of gases between blood and tissues: In the tissues, oxygen diffuses from the blood into the cells, and carbon dioxide diffuses from the cells into the blood.D - Utilization of O2 by the cells for catabolic reactions: Inside the cells, oxygen is used for cellular respiration, a process that helps produce energy for the cell's functions, and carbon dioxide is produced as a byproduct.Thus, the correct order of steps is E → A → C → B → D.",
+    "year": "2024",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Match List-I with List-II: Choose the",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "c",
+    "explanation": "A. Residual volume (III): This refers to the volume of air remaining in the lungs after a forcible expiration. It cannot be expelled voluntarily and is crucial for maintaining lung inflation.B. Vital capacity (I): This is the maximum volume of air that can be breathed in after a forced expiration. It is the sum of tidal volume, inspiratory reserve volume, and expiratory reserve volume.C. Expiratory capacity (IV): This refers to the total volume of air that can be expired after normal inspiration. It is the sum of the tidal volume and expiratory reserve volume.D. Tidal volume (II): This is the volume of air inspired or expired during normal respiration (inhalation and exhalation).Thus, the correct matching is:A → III (Residual volume → Volume of air remaining in lungs after forcible expiration)B → I (Vital capacity → Maximum volume of air that can be breathed in after forced expiration)C → IV (Expiratory capacity → Total volume of air expired after normal inspiration)D → II (Tidal volume → Volume of air inspired or expired during normal respiration)Therefore, the correct answer is (C) A-III, B-I, C-IV, D-II.",
+    "year": "2024",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/breathing-and-exchange-of-gases/BREATHING_AND_EXCHANGE_OF_GASES-2024_B11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q6",
+    "text": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. Assertion (A): During the transportation of gases, about 20-25 percent of CO2 is carried by haemoglobin as carbamino-haemoglobin. Reason (R): This binding is related to high pCO2 and low pO2 in the tissues In the light of the above statements, choose the",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "c",
+    "explanation": "Assertion (A): \"During the transport of gases, about 20-25 percent of CO2 is carried by haemoglobin as carbamino-haemoglobin.\" This statement is True. About 20-25% of carbon dioxide (CO2) in the blood is transported bound to hemoglobin as carbaminohemoglobin, with the remaining CO2 being transported as bicarbonate ions in plasma. Reason (R): \"This binding is related to high pCO2 and low pO2 in the tissues.\" This statement is also True. The binding of CO2 to hemoglobin as carbaminohemoglobin is facilitated by high partial pressure of CO2 (pCO2) and low partial pressure of oxygen (pO2) in the tissues. This is due to the Bohr effect, where low oxygen levels promote the binding of CO2 to hemoglobin, enhancing CO2 transport from tissues to lungs. Since both the Assertion and Reason are true, and the Reason correctly explains the Assertion, the correct answer is (c) Both (A) and (R) are True and (R) is the correct explanation of (A).",
+    "year": "2024",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Vital capacity of lung is _________",
+    "options": {
+      "A": "IRV + ERV",
+      "B": "IRV + ERV + TV - RV",
+      "C": "IRV + ERV + TV + RV",
+      "D": "IRV + ERV + TV"
+    },
+    "answer": "d",
+    "explanation": "The vital capacity (VC) of the lung is the maximum amount of air a person can expel from the lungs after a maximum inhalation. It is equal to the sum of inspiratory reserve volume (IRV), tidal volume (TV), and expiratory reserve volume (ERV).Inspiratory reserve volume (IRV) is the amount of air that can be inhaled beyond a normal breath.Expiratory reserve volume (ERV) is the amount of air that can be exhaled beyond a normal breath.Tidal volume (TV) is the amount of air that is inhaled and exhaled during a normal breath.Therefore, vital capacity (VC) = IRV + ERV + TV.",
+    "year": "2023",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Select the sequence of steps in respiration",
+    "options": {
+      "A": "Diffusion of gases (O2 and CO2) across alveolar membrane.",
+      "B": "Diffusion of O2 and CO2 between blood and tissues",
+      "C": "Transport of gases by the blood",
+      "D": "Pulmonary ventilation by which atmospheric air is drawn in and CO2 rich alveolar air is released out."
+    },
+    "answer": "a",
+    "explanation": "(D) Pulmonary ventilation: This step involves the process of breathing, where atmospheric air is drawn into the lungs (inhalation), and CO2-rich alveolar air is expelled out (exhalation). This brings in oxygen and removes carbon dioxide.(A) Diffusion of gases (O2 and CO2) across alveolar membrane: After inhalation, oxygen from the air in the alveoli diffuses into the blood, and carbon dioxide diffuses from the blood into the alveoli to be exhaled.(C) Transport of gases by the blood: The oxygen is transported by the blood (mainly by red blood cells) from the lungs to the tissues, and carbon dioxide is carried from the tissues back to the lungs.(B) Diffusion of O2 and CO2 between blood and tissues: Oxygen diffuses from the blood into the tissues, and carbon dioxide from the tissues diffuses into the blood.(E) Utilisation of O2 by the cells for catabolic reactions and resultant release of CO2: Inside the cells, oxygen is used for cellular respiration, a catabolic process that generates energy, and carbon dioxide is produced as a byproduct.Thus, the correct order of steps is (D), (A), (C), (B), (E), which corresponds to option (a).",
+    "year": "2023",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Identify the region of human brain which has pneumotaxic centre that alters respiratory rate by reducing the duration of inspiration",
+    "options": {
+      "A": "Cerebrum",
+      "B": "Medulla",
+      "C": "Pons",
+      "D": "Thalamus"
+    },
+    "answer": "c",
+    "explanation": "⌃Option (c) is the correct answer as pneumotaxic centre is present in the pons region of the brain, that can moderate the functions of the respiratory rhythm centre.Option (b) is incorrect as medulla oblongata possesses respiratory rhythm centre and a chemosensitive area.Option (a) and (d) are incorrect as cerebrum and thalamus does not possess any specialised centre to moderate the respiratory rhythm to suit the demands of the body tissues.",
+    "year": "2022",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Which of the following statements are correct with respect to vital capacity?",
+    "options": {
+      "A": "It includes ERV, TV and IRV",
+      "B": "Total volume of air a person can inspire after a normal expiration.",
+      "C": "The maximum volume of air a person can breathe in after forced expiration.",
+      "D": "It includes ERV, RV and IRV."
+    },
+    "answer": "d",
+    "explanation": "Option (d) is the correct answer because statements (a), (c) and (e) are correct.Vital capacity includes ERV, TV and IRV.Vital capacity is the maximum volume of air a person can breathe in after a forced expiration or the maximum volume of air a person can breathe out after a forced inspiration.Statement (b) is incorrect as total volume of air a person can inspire after a normal expiration is termed as inspiratory capacity (IC).Statement (d) is incorrect as ERV, RV, IRV and TV comprise total lung capacity.",
+    "year": "2022",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Under normal physiological conditions in human being every 100 ml of oxygenated blood can deliver ___________ ml of O2 to the tissues",
+    "options": {
+      "A": "5 ml",
+      "B": "4 ml",
+      "C": "10 ml",
+      "D": "2 ml"
+    },
+    "answer": "a",
+    "explanation": "Option (a) is the correct answer because every 100 ml of oxygenated blood can deliver around 5 ml of O2 to the tissues under normal physiological conditions.",
+    "year": "2022",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Which of the following is not the function of conducting part of respiratory system",
+    "options": {
+      "A": "Inhaled air is humidified",
+      "B": "Temperature of inhaled air is brought to body temperature",
+      "C": "Provides surface for diffusion of O2 and CO2",
+      "D": "It clears inhaled air from foreign particles"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is correct because the part starting with the external nostrils upto the terminal bronchioles constitute the conducting part; whereas the alveoli and their ducts form the respiratory or exchange part of the respiratory system.The conducting part transports the atmospheric air to the alveoli, clears it from foreign particles, humidifies and also bring the air to body temperature. Exchange part is the site of actual diffusion of O2/CO2 between blood and atmospheric air.",
+    "year": "2022",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The partial pressures (in mm Hg) of oxygen (O2) and carbon dioxide (CO2) at alveoli (the site of diffusion) are : [NEET 2021]",
+    "options": {
+      "A": "pO2 = 95 and pCO2 = 40",
+      "B": "pO2 = 159 and pCO2 = 0.3",
+      "C": "pO2 = 104 and pCO2 = 40",
+      "D": "pO2 = 40 and pCO2 = 45"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is correct because pO2 in alveoli is 104 mm Hg and pCO2 in alveoli is 40 mmHg. In atmosphere, pO2 is 159 mm Hg and pCO2 is 0.3 mm Hg. In deoxygenated blood, pO2 is 40 mmHg and pCO2 is 45 mmHg. In oxygenated blood, pO2 is 95 mmHg and pCO2 is 40 mmHg.",
+    "year": "2021",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Select the favorable conditions required for the formation of oxyhemoglobin at the alveoli. [NEET 2021]",
+    "options": {
+      "A": "High pO2, high pCO2, less H+, higher temperature",
+      "B": "Low pO2, low pCO2, more H+, higher temperature",
+      "C": "High pO2, low pCO2, less H+, lower temperature",
+      "D": "Low pO2 high pCO2 more H+, higher temperature"
+    },
+    "answer": "c",
+    "explanation": "The factors favourable for the formation of oxyhaemoglobin at the alveolar level are; high pO2, low pCO2, less H+ concentration and lower temperature.The conditions favourable for the dissociation of oxygen from oxyhaemoglobin at the tissue level are; low pO2, high pCO2, high H+ concentration and high temperature.",
+    "year": "2021",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Assertion (A) : A person goes to high altitude and experiences 'altitude sickness' with symptoms like breathing difficulty and heart palpitations. Reason (R) : Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. In the light of the above statements, choose the",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "b",
+    "explanation": "Altitude sickness can be experienced at high altitude where body does not get enough oxygen due to low atmospheric pressure and causes nausea, fatigue and heart palpitations. Hence, correct option is (b) as [R] is correct explanation of [A].",
+    "year": "2021",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Select the correct events that occur during inspiration. [NEET 2020] (i) Contraction of diaphragm (ii) Contraction of external inter costal muscles (iii) Pulmonary volume decreases (iv) Intra pulmonary pressure increases",
+    "options": {
+      "A": "(i), (ii) and (iv)",
+      "B": "Only (iv)",
+      "C": "(i) and (ii)",
+      "D": "(iii) and (iv)"
+    },
+    "answer": "c",
+    "explanation": "Inspiration is initiated by the contraction of diaphragm, which increases the volume of thoracic chamber in the anterio-posterior axis. The contraction of external inter-coastal muscles lifts up the ribs and the sternum causing an increase in the volume of the thoracic chamber in the dorso-ventral axis.",
+    "year": "2020",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Identify the wrong statement with reference to transport of oxygen. [NEET 2020]",
+    "options": {
+      "A": "Higher H+ conc. in alveoli favours the formation of oxyhaemoglobin",
+      "B": "Low pCO2 in alveoli favours the formation of oxyhaemoglobin",
+      "C": "Binding of oxygen with haemoglobin is mainly related to partial pressure of O2",
+      "D": "Partial pressure of CO2 can interfere with O2 binding with haemoglobin."
+    },
+    "answer": "a",
+    "explanation": "Higher H+ concentration favours the dissociation of oxygen from oxyhaemoglobin in tissues. In the alveoli, high pO2, low pCO2, lesser H+ concentration and lower temperature favour formation of oxyhaemoglobin.",
+    "year": "2020",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Tidal Volume and Expiratory Reserve Volume of an athlete is 500 mL and 1000 mL respectively. What will be his expiratory capacity if the residual volume is 1200 mL? [NEET 2019]",
+    "options": {
+      "A": "2700 mL",
+      "B": "1500 mL",
+      "C": "1700 mL",
+      "D": "2200 mL"
+    },
+    "answer": "b",
+    "explanation": "Expiratory Capacity (EC) is the total volume of air a person can expire after a normal inspiration. This includes tidal volume and expiratory reserve volume. Since, Tidal Volume = 500 ml And Expiratory Reserve Volume = 1000 ml So, Expiratory Capacity = TV + ERV = 500 + 1000 = 1500 ml",
+    "year": "2019",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Which of the following options correctly represents the lung conditions in asthma and emphysema, respectively? [NEET 2018]",
+    "options": {
+      "A": "Inflammation of bronchioles; Decreased respiratory surface",
+      "B": "Increased number of bronchioles; Increased respiratory surface",
+      "C": "Increased respiratory surface; Inflammation of bronchioles",
+      "D": "Decreased respiratory surface; Inflammation of bronchioles"
+    },
+    "answer": "a",
+    "explanation": "Asthma is a difficulty in breathing, causing wheezing due to inflammation of bronchi and bronchioles. Emphysema is a chronic disorder in which abnormal distension of the bronchioles or alveolar sacs of the lungs occurs due to which respiratory surface is decreased for the exchange of oxygen and carbon dioxide.",
+    "year": "2018",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Match the items given in column I with those in column II and select the correct option given below. [NEET 2018]",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "b",
+    "explanation": "Tidal volume(TV) is the volume of air inspired or expired during a normal respiration. It is approx. 500 mL.Inspiratory reserve volume(IRV) average 2500-3000 mL and is the additional volume of air inspired forcibly by a person.Expiratory reserve volume (ERV) is additional volume of air a person can be expired by a forceful expiration. This averages 1000 - 1100 mL.Residual volume (RV) is volume of air remaining in lungs even after forceful expiration. This averages 1100 - 1200 mL.",
+    "year": "2018",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/breathing-and-exchange-of-gases/BREATHING_AND_EXCHANGE_OF_GASES-2018_B11_Q20-main.png",
+      "BIOLOGY/B11/chapters/breathing-and-exchange-of-gases/BREATHING_AND_EXCHANGE_OF_GASES-2018_B11_Q20-main2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q21",
+    "text": "Lungs are made up of air-filled sacs, the alveoli. They do not collapse even after forceful expiration, because of [NEET 2017]",
+    "options": {
+      "A": "Inspiratory reserve volume",
+      "B": "Tidal volume",
+      "C": "Expiratory reserve volume",
+      "D": "Residual volume."
+    },
+    "answer": "d",
+    "explanation": "Residual volume is the volume of air which remains in the lungs after the most forceful expiration. This residual air enables the lungs to continue exchange of gases even after maximum exhalation. Due to this, lungs do not collapse even after forceful expiration.",
+    "year": "2017",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "The partial pressure of oxygen in the alveoli of the lungs is [NEET 2016 Phase 2]",
+    "options": {
+      "A": "Equal to that in the blood",
+      "B": "More than that in the blood",
+      "C": "Less than that in the blood",
+      "D": "Less than that of carbon dioxide."
+    },
+    "answer": "b",
+    "explanation": "The partial pressure of oxygen in alveolar air is 104mmHg whereas it is 40mmHg in deoxygenated blood and 95mmHg in oxygenated blood.",
+    "year": "2016",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Name the chronic respiratory disorder caused mainly by cigarette smoking. [NEET 2016 Phase 2]",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Emphysema",
+      "D": "Asthma"
+    },
+    "answer": "c",
+    "explanation": "Emphysema results when the delicate linings of the air sacs in the lungs become damaged beyond repair. Most commonly, the toxins in cigarette smoke create the damage. Emphysema is called smoker's disease.",
+    "year": "2016",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Name the pulmonary disease in which alveolar surface area involved in gas exchange is drastically reduced due to damage in the alveolar walls. [NEET 2015 / AIPMT 2015 ]",
+    "options": {
+      "A": "Emphysema",
+      "B": "Pneumonia",
+      "C": "Asthma",
+      "D": "Pleurisy"
+    },
+    "answer": "a",
+    "explanation": "⌃In the disease emphysema, alveolar surface area is reduced due to destruction of alveolar walls.",
+    "year": "2015",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Approximately seventy per cent of carbon dioxide absorbed by the blood will be transported to the lungs: [NEET 2014 / AIPMT 2014 ]",
+    "options": {
+      "A": "As bicarbonate ions",
+      "B": "In the form of dissolved gas molecules",
+      "C": "By binding to R.B.C.",
+      "D": "As carbamino - haemoglobin"
+    },
+    "answer": "a",
+    "explanation": "About 70% of CO2 (about 2.5ml per 100 ml. of blood), received by blood from the tissues, enters the RBCs where it reacts with water to form carbonic acid (H2CO3). Carbonic anhydrase, exclusively found in RBCs, speeds up the formation of H2CO3 and rapidly converts it back to carbon dioxide and water when blood reaches the lungs. Almost as rapidly as formed, all carbonic acid of RBCs dissociates into hydrogen (H+) and bicarbonate ions (HCO-3).",
+    "year": "2014",
+    "chapter": "Breathing and Exchange of Gases",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

@@ -1,0 +1,573 @@
+[
+  {
+    "id": "Q1",
+    "text": "Consider a water tank shown in the figure. It has one wall at x = L and can be taken to be very wide in the z direction. When filled with a liquid of surface tension S and density ρ, the liquid, surface makes angle θ0(θ0≪1) with the x - axis at x = L. If y (x) is the height of the surface then the equation for y (x) is: [2025]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Curvature = 1 / ROC = |d2y/dx2| / (1 + (dy/dx)2)3/2 ≈ |d2y/dx2| / (1 + 0)3/2 = d2y/dx2 (dy/dx) ≈ tan θ ≈ 0 (small angle approximation) Change in pressure, ΔP = S × curvature ΔP = S × d2y/dx2 Also, ΔP = ρgy ⇒ ρgy = S × d2y/dx2 ⇒ d2y/dx2 = (ρg / S) y",
+    "year": "2025",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2025_P11_Q1-explanation1.jpg",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2025_P11_Q1-explanation2.jpg",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2025_P11_Q1-explanation3.jpg",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2025_P11_Q1-explanation4.jpg",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2025_P11_Q1-explanation5.jpg",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2025_P11_Q1-explanation6.jpg",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2025_P11_Q1-explanation7.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "A thin flat circular disc of radius 4.5 cm is placed gently over the surface of water. If the surface tension of water is 0.07 Nm-1, then the excess force required to take it away from the surface is: [2024]",
+    "options": {
+      "A": "198 N",
+      "B": "1.98 mN",
+      "C": "99 N",
+      "D": "19.8 mN"
+    },
+    "answer": "d",
+    "explanation": "The excess force required to remove a thin flat circular disc from the surface of water can be calculated using the formula for the force due to surface tension: Force (F) = 2πr × T Where: r is the radius of the disc,T is the surface tension of the water. Given: r = 4.5 cm = 0.045 m, T = 0.07 N/m. Now, substituting the values into the formula: F = 2π × 0.045 × 0.07 F ≈ 2 × 3.1416 × 0.045 × 0.07 F ≈ 0.0198 N Converting to milli Newtons (mN): F ≈ 19.8 mN So, the correct answer is: (d) 19.8 mN.",
+    "year": "2024",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A wire of length L and radius r ( r ≪ L ) is kept floating on the surface of a liquid of density ρ . The maximum radius of the wire for which it may not sink is: (the surface tension of liquid is T) [2024]",
+    "options": {
+      "A": "√T/ρg",
+      "B": "√2T/ρg",
+      "C": "√2Tρ/π",
+      "D": "√2T/πρg"
+    },
+    "answer": "d",
+    "explanation": "To determine the maximum radius of a wire floating on the surface of a liquid, we can use the concept of surface tension. The force due to surface tension must balance the weight of the wire in order to prevent it from sinking. Surface Tension Force: The total force due to surface tension F is given by: F = 2πrL × T Where: r is the radius of the wire,L is the length of the wire,T is the surface tension of the liquid. Weight of the Wire: The weight of the wire W is given by: W = ρg V Where: ρ is the density of the liquid,g is the acceleration due to gravity,V = πr²L is the volume of the wire. So, the weight of the wire becomes: W = ρg × πr²L Condition for Floating: For the wire to float without sinking, the surface tension force must be equal to the weight of the wire: 2πrL ×T = ρg × πr²L Now, canceling out common terms: 2T = ρg × r Solving for r: r = 2T / (ρg) Maximum Radius: Thus, the maximum radius of the wire for which it may not sink is: r = √(2T / (πρg)) So, the correct answer is: (d) √(2T / πρg).",
+    "year": "2024",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The pressure experienced by a swimmer 20 m below the water surface in a lake is appropriately: (Given density of water = 103 kgm-3, g = 10 ms-2 and 1 atm = 105 Pa) [2024]",
+    "options": {
+      "A": "1 atm",
+      "B": "2 atm",
+      "C": "3 atm m",
+      "D": "4 atm"
+    },
+    "answer": "c",
+    "explanation": "To calculate the pressure experienced by the swimmer at a depth of 20 m below the water surface, we need to use the formula for the pressure at a depth in a fluid: P = P₀ + ρgh Where: P is the total pressure at depth,P₀ is the atmospheric pressure at the surface (1 atm),ρ is the density of the water,g is the acceleration due to gravity,h is the depth below the surface. Given: ρ = 10³ kg/m³ (density of water),g = 10 m/s² (acceleration due to gravity),h = 20 m (depth),P₀ = 1 atm = 10⁵ Pa (atmospheric pressure). Now, we calculate the pressure at the depth: First, calculate the hydrostatic pressure due to the water column: ρgh = (10³ kg/m³) × (10 m/s²) × (20 m) = 2 × 10⁵ Pa Total pressure at the depth is the sum of atmospheric pressure and the hydrostatic pressure: P = 1 atm + 2 × 10⁵ Pa Since 1 atm = 10⁵ Pa, we have: P = 10⁵ Pa + 2 × 10⁵ Pa = 3 × 10⁵ Pa Now, convert the pressure to atmospheres: P = 3 × 10⁵ Pa / 10⁵ Pa = 3 atm Thus, the correct answer is: (c) 3 atm.",
+    "year": "2024",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "An ideal fluid is flowing in a non-uniform cross-sectional tube XY (as shown in the figure) from end X to end Y. If K1 and K2 are the kinetic energies per unit volume of the fluid at X and Y respectively, the correct relationship between K1 and K2 is: [2024]",
+    "options": {
+      "A": "K1 = K2",
+      "B": "2K1 = K2",
+      "C": "K1 > K2",
+      "D": "K1 < K2"
+    },
+    "answer": "c",
+    "explanation": "To solve this problem, we need to apply the principle of conservation of mechanical energy (also known as Bernoulli's theorem) and understand the relationship between velocity and kinetic energy in a fluid flow. Bernoulli's Principle: Bernoulli's equation states that for an ideal, incompressible fluid flowing through a non-uniform cross-sectional tube, the total mechanical energy (sum of pressure energy, kinetic energy, and potential energy) remains constant along a streamline. The equation is given by: P + ½ ρv² + ρgh = constant Where: P is the pressure of the fluid,ρ is the density of the fluid,v is the velocity of the fluid,g is the acceleration due to gravity,h is the height of the fluid at a point (potential energy term). In the given problem, K1 and K2 represent the kinetic energy per unit volume at points X and Y. The kinetic energy per unit volume is: K = ½ ρv² Now, we are given that the cross-section of the tube is non-uniform, which means the velocity of the fluid will change as it moves from one section to another. Relationship Between Kinetic Energy and Velocity: Since the tube is non-uniform, the velocity of the fluid will change based on the cross-sectional area. According to the continuity equation: A₁v₁ = A₂v₂ Where: A₁ and A₂ are the cross-sectional areas at points X and Y,v₁ and v₂ are the velocities of the fluid at points X and Y. If the cross-sectional area at point Y is smaller than at point X, the velocity of the fluid will increase at point Y (since the fluid must maintain the same flow rate). This implies that the kinetic energy at point Y (K2) will be higher than at point X (K1). Therefore, based on the continuity equation and Bernoulli's principle, the correct relationship between the kinetic energy per unit volume at points X and Y is: K1 > K2 This is because, at point X, the velocity is lower (due to a larger cross-sectional area), and at point Y, the velocity is higher (due to a smaller cross-sectional area), which leads to a greater kinetic energy at X. Thus, the correct answer is: (c) K1 > K2.",
+    "year": "2024",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2024_P11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The venturi-meter works on [2023]",
+    "options": {
+      "A": "Huygen's principle",
+      "B": "Bernoulli's principle",
+      "C": "The principle of parallel axes",
+      "D": "The principle of perpendicular axes"
+    },
+    "answer": "b",
+    "explanation": "Venturi-meter works on the Bernoulli's principle.",
+    "year": "2023",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The amount of energy required to form a soap bubble of radius 2 cm from a soap is nearly: (the surface tension of soap 0.03 Nm- 1) [2023]",
+    "options": {
+      "A": "50.1 × 10-4 J",
+      "B": "30.16 × 10-4 J",
+      "C": "5.06 × 10-4 J",
+      "D": "3.01 × 10-4 J"
+    },
+    "answer": "d",
+    "explanation": "To calculate the energy required to form a soap bubble, we need to consider the work done to increase the surface area of the bubble. When a soap bubble is formed, it has two surfaces (inner and outer) exposed to the air. The energy required is related to the surface area of the bubble and the surface tension of the soap solution. Formula for Energy: The energy required to form a soap bubble is given by the formula: Energy (E) = 4πr² × T Where: r is the radius of the bubble,T is the surface tension of the soap solution. Since a soap bubble has two surfaces, the total surface area exposed is 2 * 4πr². The formula for the energy required to form a soap bubble is: E = 8πr² × T Given: r = 2 cm = 0.02 m,T = 0.03 N/m (surface tension). Now, substituting the given values into the formula: E = 8π × (0.02)² × 0.03 E = 8π × 0.0004 × 0.03 E = 8 × 3.1416 × 0.000012 E ≈ 3.01 × 10⁻⁴ J Thus, the correct answer is: (d) 3.01 × 10⁻⁴ J.",
+    "year": "2023",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Which of the following statements is not true? [2023]",
+    "options": {
+      "A": "The coefficient of viscosity is a scalar quantity.",
+      "B": "Surface tension is a scalar quantity.",
+      "C": "Pressure is a vector quantity.",
+      "D": "Relative density is a scalar quantity."
+    },
+    "answer": "c",
+    "explanation": "(a) The coefficient of viscosity is a scalar quantity - TRUE The coefficient of viscosity (η) represents the internal friction of a fluid and has only magnitude, no direction. (b) Surface tension is a scalar quantity - TRUE Surface tension is measured as energy per unit area or force per unit length, and it has only magnitude, no direction. (c) Pressure is a vector quantity - FALSE Pressure is defined as force per unit area. While force is a vector, when we calculate pressure, we consider only the magnitude of the force acting perpendicular to the surface area. Pressure at a point acts equally in all directions (Pascal's principle) and is characterized only by its magnitude, making it a scalar quantity. (d) Relative density is a scalar quantity - TRUE Relative density (or specific gravity) is the ratio of the density of a substance to a reference substance (usually water). Being a ratio of two scalar quantities, it is also a scalar quantity. Therefore, option (c) is the incorrect statement, making it the correct answer to this question.",
+    "year": "2023",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The viscous drag acting on a metal sphere of diameter 1 mm, falling through a fluid of viscosity 0.8 Pa-s with a velocity of 2 m s-1 is nearly equal to: [2023]",
+    "options": {
+      "A": "15 × 10-3 N",
+      "B": "30 × 10-3 N",
+      "C": "1.5 × 10-3 N",
+      "D": "20 × 10-3 N"
+    },
+    "answer": "a",
+    "explanation": "To calculate the viscous drag on a metal sphere falling through a fluid, we use Stokes' Law, which is given by the formula: F = 6πηrv Where: F is the viscous drag force (in N),η is the dynamic viscosity of the fluid (in Pa-s),r is the radius of the sphere (in m),v is the velocity of the sphere (in m/s). Given: Diameter of the sphere = 1 mm = 1 × 10^-3 mRadius, r = (1 × 10^-3 m) / 2 = 0.5 × 10^-3 m = 5 × 10^-4 mViscosity, η = 0.8 Pa-sVelocity, v = 2 m/s Calculation: Substitute the given values into the formula: F = 6π × 0.8 × (5 × 10-4) × 2 F = 6 × 3.14 × 0.8 × 5 × 10-4 × 2 F = 15.072 × 10-3 N Thus, the viscous drag is approximately 15 × 10-3 N. Final Answer: (a) 15 × 10-3 N",
+    "year": "2023",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "If a soap bubble expands, the pressure inside the bubble [2022]",
+    "options": {
+      "A": "Increases",
+      "B": "Remains the same",
+      "C": "Is equal to the atmospheric pressure",
+      "D": "Decreases"
+    },
+    "answer": "d",
+    "explanation": "Excess pressure inside the bubble = P = P0 + 4T/R as 'R' increases 'P' decreases",
+    "year": "2022",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "A spherical ball is dropped in a long column of a highly viscous liquid. The curve in the graph shown, which represents the speed of the ball (v) as a function of time (t) is [2022]",
+    "options": {
+      "A": "B",
+      "B": "C",
+      "C": "D",
+      "D": "A"
+    },
+    "answer": "a",
+    "explanation": "Initial speed of ball is zero and it finally attains terminal speed",
+    "year": "2022",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2022_P11_Q11-main.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2022_P11_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The velocity of a small ball of mass M and density d, when dropped in a container filled with glycerine becomes constant after some time. If the density of glycerine is d/2, then the viscous force acting on the ball will be: [2021]",
+    "options": {
+      "A": "3/2Mg",
+      "B": "2Mg",
+      "C": "Mg/2",
+      "D": "Mg"
+    },
+    "answer": "c",
+    "explanation": "Mass = M Density of ball = d Density of glycerine = d/2",
+    "year": "2021",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2021_P11_Q12-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2021_P11_Q12-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "A barometer is constructed using a liquid (density = 760 kg/m3 ). What would be the height of the liquid column, when a mercury barometer reads 76 cm? (Density of mercury = 13600 kg/m3 ) [2020]",
+    "options": {
+      "A": "1.36 m",
+      "B": "13.6 m",
+      "C": "136 m",
+      "D": "0.76 m"
+    },
+    "answer": "b",
+    "explanation": "Density of liquid, ρl = 760 kg /m3 Density of mercury, ρm = 13600 kg /m3 Height of liquid column in mercury barometer, hm = 76 cm = 0.76 m If height of liquid in liquid column be hl , then",
+    "year": "2020",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2020_P11_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "A liquid does not wet the solid surface if angle of contact is [2020]",
+    "options": {
+      "A": "equal to 45°",
+      "B": "equal to 60°",
+      "C": "greater than 90°",
+      "D": "zero"
+    },
+    "answer": "c",
+    "explanation": "A liquid does not wet the solid surface, if the angle of contact is obtuse i.e., θ > 90º.",
+    "year": "2020",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "three_lower_plus_terminal_upper",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A soap bubble, having radius of 1 mm, is blown from a detergent having a surface tension of 2.5 × 10-2 N/m. The pressure inside the bubble equals at a point Z0 below the free surface of water in a container. Taking g = 10 m/s2, density of water = 103 kg/m3, the value of Z0 is [2019]",
+    "options": {
+      "A": "100 cm",
+      "B": "10 cm",
+      "C": "1 cm",
+      "D": "0.5 cm"
+    },
+    "answer": "c",
+    "explanation": "Excess pressure = 4T/R, Gauge pressure",
+    "year": "2019",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2019_P11_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "A small hole with area area of cross-section 2 mm2 is present near the bottom of a fully filled open tank of height 2 m. Taking g = 10 m/s2, the rate of flow of water through the open hole would be nearly [2019]",
+    "options": {
+      "A": "12.6 × 10-6 m3/s",
+      "B": "8.9 × 10-6 m3/s",
+      "C": "2.23 × 10-6 m3/s",
+      "D": "6.4 × 10-6 m3/s"
+    },
+    "answer": "a",
+    "explanation": "Rate of liquid flow",
+    "year": "2019",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2019_P11_Q16-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2019_P11_Q16-explanation2.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2019_P11_Q16-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A small sphere of radius 'r' falls from rest in a viscous liquid. As a result, heat is produced due to viscous force. The rate of production of heat when the sphere attains its terminal velocity, is proportional to:- [2018]",
+    "options": {
+      "A": "r3",
+      "B": "r2",
+      "C": "r5",
+      "D": "r4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2018_P11_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "A U tube with both ends open to the atmosphere, is partially filled with water. Oil, which is immiscible with water, is poured into one side until it stands at a distance of 10 mm above the water level on the other side. Meanwhile the water rises by 65 mm from its original level (see diagram). The density of the oil is:- [2017]",
+    "options": {
+      "A": "425 kg m-3",
+      "B": "800 kg m-3",
+      "C": "928 kg m-3",
+      "D": "650 kg m-3"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2017_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2017_P11_Q18-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Two non-mixing liquids of densities ρ and nρ (n > 1) are put in container. The height of each liquid is h. A solid cylinder of length L and density d is put in this container. The cylinder floats with its axis vertical and length pL (p < 1) in the denser liquid. The density d is equal to [2016]",
+    "options": {
+      "A": "{1 + (n - 1)p}ρ",
+      "B": "{1 + (n + 1)p}ρ",
+      "C": "{2+(n + 1)p}ρ",
+      "D": "{2 + (n - 1)p}ρ"
+    },
+    "answer": "a",
+    "explanation": "weight of body = upthrust by the two liquids If A = Area of section then",
+    "year": "2016",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2016_P11_Q19-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2016_P11_Q19-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The approximate depth of an ocean is 2700 m. The compressibility of water is 45.4 x 10-11 Pa-1 and density of water is 103 kg/m3. What fractional compression of water will be obtained at the bottom of the ocean? [2015]",
+    "options": {
+      "A": "1.4 x 10-2",
+      "B": "0.8 x 10-2",
+      "C": "1.0 x 10-2",
+      "D": "1.2 x 10-2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2015_P11_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "A wind with speed 40 m/s blows parallel to the roof of a house. The area of the roof is 250 m2. Assuming that the pressure inside the house is atmospheric pressure, the force exerted by the wind on the roof and the direction of the force will be: (Pair = 1.2 kg/m3) [2015]",
+    "options": {
+      "A": "2.4 x 105 N, downwards",
+      "B": "4.8 x 105 N, downwards",
+      "C": "4.8 x 105 N, upwards",
+      "D": "2.4 x 105 N, upwards"
+    },
+    "answer": "d",
+    "explanation": "2014",
+    "year": "2015",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2015_P11_Q21-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2015_P11_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "A certain number of spherical drops of a liquid of radius 'r' coalesce to form a single drop of radius 'R' and volume 'V'. If 'T' is the surface tension of the liquid, then: [2014]",
+    "options": {
+      "A": "[diagram]",
+      "B": "energy is neither released nor absorbed",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "",
+    "explanation": "Ans: ​(a)",
+    "year": "2015",
+    "chapter": "Mechanical Properties of Fluids",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2015_P11_Q22-explanation1.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2015_P11_Q22-explanation2.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2015_P11_Q22-explanation3.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2015_P11_Q22-explanation4.png",
+      "PHYSICS/P11/chapters/mechanical-properties-of-fluids/MECHANICAL_PROPERTIES_OF_FLUIDS-2015_P11_Q22-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

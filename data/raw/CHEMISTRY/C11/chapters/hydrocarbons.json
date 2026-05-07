@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "Q1",
+    "text": "Which one of the following reactions does not give benzene as the product?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Let's break down each reaction to determine whether it produces benzene or not: Reaction 1: C6H5COONa (Sodium Benzoate) + NaOH (Soda Lime) → C6H6 (Benzene) ​This is a decarboxylation reaction known as the \"Decarboxylation of Sodium Benzoate,\" which produces benzene as the product. When sodium benzoate reacts with soda lime (a mixture of NaOH and CaO), the carboxyl group is removed, and benzene is formed. Reaction 2: C6H12 (n-hexane) → Benzene (via MO3 at 773 K, 10-20 atm) ​This reaction does produce benzene. The catalytic cracking of n-hexane under high pressure and temperature typically results in cyclisation and followed by aromatisation. Reaction 3: CH≡CH (Ethyne or Acetylene) → Benzene (via red-hot Iron Tube at 873 K) ​This reaction is known as the \"Pyrolysis of Acetylene.\" When acetylene is passed through a red-hot iron tube, it undergoes cyclotrimerization to form benzene as the product. Reaction 4: C6H5N2+Cl- (Benzenediazonium Chloride) → Phenol (via H2O warm) This reaction involves hydrolysis of benzenediazonium chloride to form phenol (C₆H₅OH) with evolution of N₂ gas. Conclusion: The correct answer is Option b.",
+    "year": "2025",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q1-main.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q1-explanation1.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q1-explanation2.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q1-explanation3.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q1-explanation4.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q1-explanation5.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q1-explanation6.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q1-explanation7.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Which one of the following compounds does not decolourize bromine water?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Option 1: Cyclohexane (C6H12): Cyclohexane is a saturated hydrocarbon (alkane). Alkanes do not undergo addition reactions with bromine water because they do not have double or triple bonds. Therefore, it will not decolorize bromine water.Option 2: Phenol (C6H5OH): Phenol has a hydroxyl group attached to an aromatic ring. While phenol does not have double bonds like alkenes or alkynes, the hydroxyl group can act as an electron-donating group, but phenol can still decolorize bromine water by reacting with it, especially under certain conditions (e.g., electrophilic substitution). ​Option 3: Styrene (C6H5CH=CH2): Styrene contains a C=C double bond (alkene), which can easily react with bromine water, decolorizing it by undergoing an addition reaction to form a dibromide. Option 4: Aniline (C6H5NH2): Aniline has an amine group (-NH2), which is electron-donating, and can participate in reactions with bromine, leading to the decolorization of bromine water by forming substitution products like brominated aniline. Therefore, the compound that does not decolorize bromine water is Cyclohexane (Option 1), as it is a saturated alkane and does not have any reactive sites like double bonds or groups that could react with bromine.",
+    "year": "2025",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q2-main.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q2-explanation1.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q2-explanation2.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q2-explanation3.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q2-explanation4.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q2-explanation5.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q2-explanation6.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Predict the major product ′P′ in the following sequence of reactions",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "free radicals generated by benzoyl peroxide lead to anti-Markovnikov addition of HBr, where bromine adds to the less substituted carbonIn the second step, the cyanide ion (CN-) attacks the methyl bromide, displacing the bromine atom and forming a nitrile group (-CN) on the carbon chain.In the third step, sodium amalgam (Na(Hg)) in ethanol reduces the nitrile group (-CN) to a primary amine (-NH2), resulting in the final product, a primary amine. Therefore, the major product 'P' is Option C.",
+    "year": "2025",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q3-main.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q3-explanation1.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q3-explanation2.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q3-explanation3.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q3-explanation4.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q3-explanation5.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Which one of the following compounds can exist as cis-trans isomers?",
+    "options": {
+      "A": "1, 1-Dimethycyclopropane",
+      "B": "1, 2-Dimethylcyclohexane",
+      "C": "Pent-1-ene",
+      "D": "2-Methylhex-2-ene"
+    },
+    "answer": "b",
+    "explanation": "Pent-1-ene: Pent-1-ene has a terminal double bond (C1=C2), and one of the carbons in the double bond (C1) has two identical hydrogen atoms. Therefore, it cannot exhibit cis-trans isomerism. 2-Methylhex-2-ene: The double bond in 2-methylhex-2-ene (C2=C3) has two same groups attached to both C2. Therefore, it can not exhibit cis-trans isomerism. 1,1-Dimethylcyclopropane: In 1,1-dimethylcyclopropane, both methyl groups are attached to the same carbon atom in the ring. Since the substituents are not on different carbons, cis-trans isomerism is not possible. 1,2-Dimethylcyclohexane: In 1,2-dimethylcyclohexane, the methyl groups are attached to different carbons in the ring, and the ring restricts rotation. Therefore, it can exhibit cis-trans isomerism. Therefore, the compounds that can exhibit cis-trans isomerism is 1,2-Dimethylcyclohexane",
+    "year": "2025",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q4-explanation1.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q4-explanation2.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q4-explanation3.jpg",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2025_C11_Q4-explanation4.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Given below are two statements: Statement I : The boiling point of three isomeric pentanes follows the order n-pentane > isopentane > neopentane Statement II : When branching increases, the molecule attains a shape of sphere. This results in smaller surface area for contact, due to which the intermolecular forces between the spherical molecules are weak, thereby lowering the boiling point",
+    "options": {
+      "A": "Both Statement I and Statement II are",
+      "B": "Both Statement I and Statement II are incorrect",
+      "C": "Statement I is correct but Statement II is incorrect",
+      "D": "Statement I is incorrect but Statement II is correct"
+    },
+    "answer": "",
+    "explanation": "Statement I: n-pentane: It is a straight-chain alkane with the formula C5H12, and it has the highest boiling point among the isomers because of its larger surface area which allows for greater van der Waals forces (dispersion forces).isopentane (also known as methylbutane): It has one branch in its carbon chain. The branching reduces the surface area slightly, which slightly weakens the van der Waals forces compared to n-pentane.neopentane (also known as dimethylpropane): It has a highly branched structure making it almost spherical. This shape minimizes the surface area significantly, thereby reducing the van der Waals forces drastically compared to the other two isomers. Thus, the boiling point order correctly reflects the influence of molecular structure and intermolecular forces. Hence, Statement I is correct. Statement II: This statement elaborates on why branching leads to lower boiling points. The assertion is that increased branching gives the molecule a more spherical shape, which then results in a smaller surface area, and thus weaker intermolecular forces (primarily van der Waals forces). Weaker intermolecular forces correspond with a lower energy requirement for the liquid to gas phase transition, thereby lowering the boiling point. This explanation is coherent with concepts in physical chemistry regarding molecular interactions and phase change. Therefore, Statement II is also correct. In summary, both Statement I and Statement II are correct, reflecting the accurate relationship between molecular structure, intermolecular forces, and physical properties like boiling points. Therefore, the correct answer is: Option A: Both Statement I and Statement II are correct.",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Identify the major product C formed in the following reaction sequence",
+    "options": {
+      "A": "propylamine",
+      "B": "butylamine",
+      "C": "butanamide",
+      "D": "α-bromobutanoic acid"
+    },
+    "answer": "a",
+    "explanation": "Step-l is SN reaction with nucleophile.Step-II will give amide. Step-III is Hoffmann bromamide degradation reaction.",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q6-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q6-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q6-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "For the given reaction: 'P' is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "In the given reaction, the compound is an alkene with a -CH=CH- group. When treated with KMnO₄ (potassium permanganate) under acidic conditions, the alkene undergoes oxidation, resulting in the formation of a diol (vicinal diol, where two hydroxyl groups are added across the double bond). Therefore, the major product will be a diol, specifically option (b), where the two hydroxyl groups are added to the adjacent carbon atoms. Thus, P is option (b).",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q7-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q7-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q7-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q7-main4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Phenanthrene is an aromatic compound and follows Huckel's (4n+2)π(4�+2)� electron rule. The value of n� is",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "d",
+    "explanation": "In the given structure of phenanthrene, the compound is an aromatic hydrocarbon. To apply Huckel's rule, we need to determine the number of π-electrons involved in conjugation. Huckel's rule states that for a compound to be aromatic, the number of π-electrons must fit the formula (4n + 2), where n is a non-negative integer. Phenanthrene consists of three fused benzene rings, meaning the total number of π-electrons is 14 (6 from each benzene ring). We apply Huckel's rule: n = (π-electrons - 2) / 4 For phenanthrene, with 14 π-electrons:(4n + 2) = 14Solving this gives n = 3, which indicates the value of n is 3. Therefore, the correct answer is (d) 3.",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Match List -I with List -II",
+    "options": {
+      "A": "A-II, B-IV, C-III, D-I",
+      "B": "A-II, B-III, C-IV, D-I",
+      "C": "A-II, B-III, C-I, D-IV",
+      "D": "A-IV, B-I, C-III, D-II"
+    },
+    "answer": "b",
+    "explanation": "A. CH₃CH=CH₂ + H₂O + KMnO₄ (dil.) → This reaction is an oxidation reaction in which an alkene (propylene) is oxidized with potassium permanganate (diluted) and water.The product formed is a vicinal diol (glycol) due to oxidation with cold dilute KMnO₄ (Baeyer's reagent) B. CH₃CH=CH₂ + O₂ (air), (ii) Zn + H₂O → This reaction is an ozonolysis of propene followed by reduction with zinc and water, which gives propan-2-ol (CH₃CH(OH)CH₃) as a product. C. CH₃CH=CH₂ + H₃O⁺ → This is an acid-catalyzed hydration of propene, which leads to the formation of propan-2-ol (CH₃CH(OH)CH₃), adding water to the double bond. D. CH₃CH=CH₂ + KMnO₄ (conc.) → This reaction involves the oxidation of propene with concentrated potassium permanganate, which leads to acetic acid (CH₃COOH) due to cleavage of the double bond. Now, matching with the correct products from List-II: A → I: CH₃₂C = O + CO₂ + H₂O (as propene undergoes oxidative cleavage)B → IV: CH₃CH(OH)CH₃ (propan-2-ol formed from ozonolysis)C → II: CH₃CH(OH)CH₃ (propan-2-ol formed from acid-catalyzed hydration)D → III: CH₃COOH (acetic acid formed from oxidation with KMnO₄) Thus, the correct match is Option B.",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The major product P formed in the following reaction sequence is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Step (i) - Br₂: The first step involves the addition of bromine (Br₂) to the double bond of the starting compound, which will result in the formation of a dibromide.Step (ii) - Alcoholic KOH: Alcoholic KOH typically leads to the elimination of HBr (from the dibromide formed) and the formation of an alkene. This is an elimination reaction where the bromine atoms are removed, resulting in the formation of a new double bond.Step (iii) - NaNH₂: Sodium amide (NaNH₂) is a strong base and is often used in elimination reactions. It will further dehydrohalogenate (remove a hydrogen atom and a halogen) to form a new alkene.Step (iv) - Red hot Fe, 873 K: The final step involves heating the compound with red-hot iron (Fe) at a high temperature (873 K), which typically results in a coupling reaction. The final product is a substituted benzene ring. Based on this sequence, the major product will be a disubstituted benzene ring with two methyl groups in a meta position. This matches the structure shown in option (c). Therefore, the correct answer is (c).",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q10-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q10-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q10-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q10-explanation4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q10-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Given below are two statements: Statement I: Propene on treatment with diborane gives an addition product with the formula (CH₃)₂ - CH3) - B. Statement II: Oxidation of (CH₃)₂ - CH3) - B with hydrogen peroxide in the presence of NaOH gives propan-2-ol. In light of the above statements",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect",
+      "B": "Statement I is incorrect but Statement II is",
+      "C": "Both Statement I and Statement II are",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "b",
+    "explanation": "Statement I: Propene on treatment with diborane gives an addition product with the formula (CH₃)₂ - CH3) - B. Reaction of propene with diborane: Diborane (B₂H₆) reacts with alkenes (like propene) in a hydroboration reaction. This results in the addition of borane (BH₃) across the double bond, producing a trialkylborane. In the case of propene, this would result in B(CH₂CH₃)(CH₃)₂. The formula in the statement is not entirely accurate, as the actual structure would be (CH₃)₂CH-CH₂-B, with the B (boron) attached to the carbon of the propyl group. So, Statement I is incorrect. Statement II: Oxidation of (CH₃)₂ - CH3) - B with hydrogen peroxide in the presence of NaOH gives propan-2-ol. Oxidation of the trialkylborane: The oxidation of a trialkylborane (like the one formed in the reaction above) with hydrogen peroxide in the presence of NaOH leads to the formation of an alcohol. Specifically, in this case, the product of the oxidation would be propan-2-ol. So, Statement II is correct. Conclusion: Statement I is incorrect, and Statement II is correct. Thus, the correct answer is (b) Statement I is incorrect but Statement II is correct.",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Baeyer's reagent is",
+    "options": {
+      "A": "Acidic potassium permanganate",
+      "B": "Acidic potassium dichromate",
+      "C": "Cold, dilute, aqueous of potassium permanganate",
+      "D": "Hot, concentrated of potassium permanganate"
+    },
+    "answer": "c",
+    "explanation": "Baeyer's reagent is a cold, dilute, aqueous solution of potassium permanganate (KMnO₄). It is commonly used in organic chemistry to test for the presence of double bonds, particularly alkenes. The reagent is a mild oxidizing agent that reacts with alkenes to form diols (vicinal diols) in a reaction known as Baeyer's test. Option (a): Acidic potassium permanganate is a strong oxidizer, not Baeyer's reagent.Option (b): Acidic potassium dichromate is not Baeyer's reagent.Option (d): Hot, concentrated potassium permanganate is a stronger oxidizer and is used for different purposes, such as oxidizing alkyl side chains, but it is not Baeyer's reagent.",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The major product X formed in the following reaction sequence is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Step (i): Chlorination of nitrobenzene with chlorine (Cl₂) in the presence of FeCl₃. Nitrobenzene undergoes electrophilic substitution where the chlorine attaches to the ortho or para position relative to the nitro group. However, due to the strong electron-withdrawing effect of the nitro group, chlorination primarily occurs at the para position to the nitro group. So, we would get para-chloro-nitrobenzene. Step (ii): Reduction of para-chloro-nitrobenzene using Sn/HCl. This reduction converts the nitro group (-NO₂) into an amino group (-NH₂), so the product becomes para-chloroaniline. Step (iii): Reaction of para-chloroaniline with NaNO₂/HCl. This step involves diazotization, where the amino group (-NH₂) is converted into a diazonium salt (-N₂⁺). The result is para-chlorobenzenediazonium chloride. Step (iv): Reaction of para-chlorobenzenediazonium chloride with KI. In this reaction, the diazonium ion undergoes nucleophilic substitution with the iodide ion (I⁻), replacing the diazonium group (-N₂⁺) with iodine (I). Thus, the product is para-chloro-iodobenzene. So, the major product X formed in the given reaction sequence is option C, which is C₂H₅Cl with the chlorine at the para position to the ethyl group. Thus, the correct answer is option C.",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q13-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q13-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q13-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q13-main4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Arrange the following compounds in increasing order of their solubilities in chloroform: NaCl, CH₃OH, cyclohexane (C₆H₁₂), CH₃CN",
+    "options": {
+      "A": "NaCl < CH₃CN < CH₃OH < cyclohexane",
+      "B": "CH₃OH < CH₃CN < NaCl < cyclohexane",
+      "C": "NaCl < CH₃OH < CH₃CN < cyclohexane",
+      "D": "cyclohexane < CH₃CN < CH₃OH < NaCl"
+    },
+    "answer": "c",
+    "explanation": "Solubility in chloroform is influenced by the polarity of the compounds. Chloroform (CHCl₃) is a relatively non-polar solvent, so compounds that are non-polar or weakly polar will generally be more soluble in it, while polar compounds will be less soluble.NaCl: Sodium chloride (NaCl) is an ionic compound and is highly polar. It is not soluble in chloroform, as chloroform does not provide the necessary interactions to break the ionic bonds.CH₃OH (Methanol): Methanol is a polar molecule, but it also has a non-polar methyl group (CH₃). While methanol is somewhat soluble in chloroform, its solubility is lower compared to non-polar substances.CH₃CN (Acetonitrile): Acetonitrile is a moderately polar molecule and is more soluble in chloroform than methanol, but still less soluble than non-polar molecules.Cyclohexane: Cyclohexane is non-polar and highly soluble in chloroform, which is also relatively non-polar. Thus, the order of solubility in chloroform is: NaCl < CH₃OH < CH₃CN < cyclohexane",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The alkane that can be oxidized to the corresponding alcohol by KMnO₄ as per the equation is, when",
+    "options": {
+      "A": "R₁ = H, R₂ = H, R₃ = H",
+      "B": "R₁ = CH₃, R₂ = CH₃, R₃ = CH₃",
+      "C": "R₁ = CH₃, R₂ = H, R₃ = H",
+      "D": "R₁ = CH₃, R₂ = CH₃, R₃ = H"
+    },
+    "answer": "c",
+    "explanation": "KMnO₄ (potassium permanganate) is a strong oxidizing agent and is often used to oxidize alkanes to alcohols. However, KMnO₄ is most effective at oxidizing primary alkyl groups and secondary alkyl groups, where it can introduce hydroxyl groups.The equation typically represents oxidation of an alkane to a corresponding alcohol. When KMnO₄ is used, it will oxidize a primary carbon (C-H group) into a hydroxyl group (-OH), forming an alcohol.In option (c), R₁ = CH₃, R₂ = H, R₃ = H corresponds to ethyl (C₂H₅) as part of the alkane chain. This structure is appropriate for oxidation by KMnO₄, resulting in the corresponding alcohol. Thus, R₁ = CH₃, R₂ = H, R₃ = H is the alkane that will be oxidized to the corresponding alcohol.",
+    "year": "2024",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2024_C11_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Identify product (A) is the following reaction",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q16-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q16-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q16-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q16-main4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q16-main5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Consider the following reaction and identify the product (P)",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q17-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q17-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q17-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q17-main4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q17-main5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Consider the following compounds/species",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "6",
+      "D": "2"
+    },
+    "answer": "b",
+    "explanation": "i. The first compound is naphthalene, which consists of two fused benzene rings. This is a polycyclic aromatic hydrocarbon, and it follows Hückel's rule (4n + 2 π-electrons), which makes it aromatic.ii. The second compound is pyridine, which consists of a six-membered ring with one nitrogen atom replacing one of the carbon atoms. It is aromatic because it satisfies Hückel's rule with 6 π-electrons (which makes it a 4n + 2 system, where n = 1).iii. The third compound appears to be a square structure, which is not aromatic. Aromatic compounds need to have a cyclic structure with conjugated double bonds (alternating single and double bonds) or a ring with π-electrons that follow Hückel's rule. This structure does not meet those criteria.iv. The fourth compound is pyrrole, which has a five-membered ring with one nitrogen atom and conjugated double bonds. It is aromatic because it has 6 π-electrons (following Hückel's rule, 4n + 2).v. The fifth compound is a three-membered ring with one positive charge. This is not aromatic because the electron delocalization doesn't follow the necessary criteria for aromaticity (it doesn't have the required π-electrons for aromatic stabilization).vi. The sixth compound is benzene, which is a six-membered ring with alternating single and double bonds. It is aromatic because it follows Hückel's rule with 6 π-electrons (n = 1).vii. The seventh compound is phenanthrene, which is another polycyclic aromatic hydrocarbon with fused benzene rings. It is aromatic because it satisfies the necessary criteria for aromaticity. The aromatic compounds in the list are: i. Naphthalene (aromatic)ii. Pyridine (aromatic)iv. Pyrrole (aromatic)vi. Benzene (aromatic)vii. Phenanthrene (aromatic) So, the correct answer is (b) 4, as only four out of the seven compounds are aromatic.",
+    "year": "2023",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2023_C11_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Which amongst the following compounds will show geometrical isomerism?",
+    "options": {
+      "A": "Pent-1-ene",
+      "B": "2,3-Dimethylbut-2-ene",
+      "C": "2-Methylprop-1-ene",
+      "D": "3,4-Dimethylhex-3-ene"
+    },
+    "answer": "d",
+    "explanation": "The compound that will show geometrical isomerism is 3,4-Dimethylhex-3-ene. Geometrical isomerism (also called cis-trans isomerism) occurs when a compound has a double bond (C=C) and each carbon of the double bond has two different groups attached to it, which allows for the existence of isomers where the positions of these groups relative to the double bond can differ (either on the same side or opposite sides). Let's break down each compound: Pent-1-ene: This is an alkene (with a C=C bond), but there are no different groups attached to the same carbon of the double bond (both have hydrogen atoms). Hence, no geometrical isomerism is possible.2,3-Dimethylbut-2-ene: This compound has a double bond between C2 and C3. However, on both sides of the double bond, the two carbons are attached to identical groups (hydrogen and methyl). So, this compound does not exhibit geometrical isomerism.2-Methylprop-1-ene: This compound has a double bond between C1 and C2, but C1 and C2 are each attached to two hydrogens and there are no two different groups on each side of the double bond. Therefore, no geometrical isomerism is possible.3,4-Dimethylhex-3-ene: This compound has a double bond between C3 and C4, and each carbon of the double bond is attached to two different groups (a methyl group and a hydrogen). This satisfies the condition for geometrical isomerism, so cis-trans isomerism is possible here. Therefore, the correct answer is (d) 3,4-Dimethylhex-3-ene, as it will show geometrical isomerism.",
+    "year": "2023",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The decreasing order of boiling points of the following alkanes is : (a) heptane (b) butane (c) 2-methylbutane (d) 2-methylpropane (e) hexane",
+    "options": {
+      "A": "(a) > (e) > (c) > (b) > (d)",
+      "B": "(a) > (c) > (e) > (d) > (b)",
+      "C": "(c) > (d) > (a) > (e) > (b)",
+      "D": "(a) > (e) > (b) > (c) > (d)"
+    },
+    "answer": "a",
+    "explanation": "With increase in number of carbons in alkane, boiling point increasesIn case of isomeric alkanes, greater is the number of branches, lesser is the boiling point. Boiling point order :",
+    "year": "2022",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The products A and B in the following reaction sequence are",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q21-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q21-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q21-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q21-main4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q21-main5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q21-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "The incorrect method for the synthesis of alkenes is",
+    "options": {
+      "A": "Treating vicinal dihalides with Zn metal",
+      "B": "Treating of alkynes with Na in liquid NH3",
+      "C": "Heating alkyl halides with alcoholic KOH",
+      "D": "Treating alkyl halides in aqueous KOH"
+    },
+    "answer": "d",
+    "explanation": "Alkenes can be prepared",
+    "year": "2022",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q22-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2022_C11_Q22-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The correct structure of 2, 6-dimethyl-dec-4-ene is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2021",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2021_C11_Q23-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2021_C11_Q23-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2021_C11_Q23-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2021_C11_Q23-main4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2021_C11_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "An alkene on ozonolysis gives methanal as one of the product. Its structure is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2020",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2020_C11_Q24-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2020_C11_Q24-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2020_C11_Q24-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2020_C11_Q24-explanation4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2020_C11_Q24-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "The most suitable reagent for the following conversion, is",
+    "options": {
+      "A": "Na/liquid NH3",
+      "B": "H2, Pd/C, quinoline",
+      "C": "Zn/HCl",
+      "D": "Hg2+/H+, H2O"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2019",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q25-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q25-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "An alkene \"A\" on reaction with O3 and Zn-H2O gives propanone and ethanal in equimolar ratio. Addition of HCl to alkene \"A\" gives \"B\" as the major product. The structure of product \"B\" is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2019",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q26-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q26-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q26-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q26-explanation4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q26-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Among the following, the reaction that proceeds through an electrophilic substitution, is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Generation of electrophile:",
+    "year": "2019",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q27-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q27-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q27-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q27-explanation4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q27-explanation5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q27-explanation6.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2019_C11_Q27-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Hydrocarbon (A) reacts with bromine by substitution to form an alkyl bromide which by Wurtz reaction is converted to gaseous hydrocarbon containing less than four carbon atoms. (A) is",
+    "options": {
+      "A": "CH ≡ CH",
+      "B": "CH2 = CH2",
+      "C": "CH3 - CH3",
+      "D": "CH4"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2018",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2018_C11_Q28-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2018_C11_Q28-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Which one is the correct order of acidity ?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Greater the character of C-atom in hydrocarbons, greater the electronegativity of that carbon and thus greater the acidic nature of the H attached to electronegative carbon. Thus CH≡CH > CH3 -C≡CH > CH2 = CH2 > CH3-CH3",
+    "year": "2017",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q29-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q29-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q29-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q29-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Predict the correct intermediate and product in the following reaction",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q30-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q30-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q30-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q30-explanation4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q30-explanation5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2017_C11_Q30-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "With respect to the conformers of ethane, which of the following statements is true?",
+    "options": {
+      "A": "Bond angle changes but bond length remains same.",
+      "B": "Both bond angle and bond length change.",
+      "C": "Both bond angle and bond length remain same.",
+      "D": "Bond angle remains same but bond length changes."
+    },
+    "answer": "c",
+    "explanation": "Conformers are the isomers which are formed by rotation about single bonds without any cleavage of any bond. These conformers have same bond angle between them and have same bond length while their dihedral angle changes.",
+    "year": "2017",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "The pair of electron in the given carbanion, is present in which of the following orbitals?",
+    "options": {
+      "A": "sp",
+      "B": "2p",
+      "C": "sp3",
+      "D": "sp2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q32-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q32-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "In the reaction",
+    "options": {
+      "A": "X=2-butyne; Y= 3-hexyne",
+      "B": "X=1-butyne; Y =3-hexyne",
+      "C": "X=1-butyne ;Y = 2-hexyne",
+      "D": "X=2-butyne;Y=2-hexyne"
+    },
+    "answer": "b",
+    "explanation": "NaNH2/liq.NH3 behaves as a base, so it abstracts a proton from acetylene to form acetylide anion followed by alkylation to give compound (X) i.e 1-butyne (X) further reacts with NaNH2/Liq NH3 followed by alkylation with ethyl bromide yields 3-hexyne (Y).",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q33-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q33-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Consider the nitration of benzene using mixed conc. H2SO4 and HNO3 . If a larger amount of KHSO4 is added to the mixture the rate of nitration will be",
+    "options": {
+      "A": "Doubled",
+      "B": "Faster",
+      "C": "Slower",
+      "D": "Unchanged"
+    },
+    "answer": "c",
+    "explanation": "In the nitration of benzene in the presence of conc. H2SO4 and HNO3, benzene is formed. HNO3 +H2SO4 If a large amount of KHSO4 is added to this mixture more HSO4- ion furnishes and hence the concentration of electrophile decreases, rate of electrophilic aromatic reaction slows down.",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q34-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "For the following reactions : Which of the following statements is correct?",
+    "options": {
+      "A": "(A) is elimination, (B) and (C) are substitution reactions.",
+      "B": "(A) is substitution, (B) and (C) are addition reactions.",
+      "C": "(A) and (B) are elimination reactions and (C) is addition reaction.",
+      "D": "(A) is elimination, (B) is substitution and (C) is addition reaction."
+    },
+    "answer": "d",
+    "explanation": "(A) Saturated compound is converted into unsaturated compound by removal of group of atoms hence, it is an elimination reaction.(B) -Br group is replaced by -OH group hence, it is a substitution reaction.(C) Addition of Br2 converts an unsaturated compound into a saturated compound hence, it is an addition reaction.",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q35-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "Which of the following can be used as the halide component for Friedel-Crafts reaction?",
+    "options": {
+      "A": "Chlorobenzene",
+      "B": "Bromobenzene",
+      "C": "Chloroethene",
+      "D": "Isopropyl chloride"
+    },
+    "answer": "d",
+    "explanation": "Friedel-Crafts reaction : Chlorobenzene, bromobenzene and chloroethene are not suitable halide components as lone pair of electrons of halogen are delocalized with π-bonds to attain double bond (C = X) character.",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q36-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "In pyrrole the electron density is maximum on",
+    "options": {
+      "A": "2 and 3",
+      "B": "3 and 4",
+      "C": "2 and 4",
+      "D": "2 and 5"
+    },
+    "answer": "d",
+    "explanation": "Pyrrole has maximum electron density on 2 and 5. It generally reacts with electrophiles at the C-2 or C-5 due to the highest degree of stability of the protonated intermediate. Attack at position 3 or 4 yields a carbocation that is a hybrid of structures (I) and (II). Attack at position 2 or 5 yields a carbocation that is a hybrid not only of structures (III) and (IV) (analogous to I and II) but also of structure (V). The extra stabilization conferred by (V) makes this ion the more stable one. Also, attack at position 2 or 5 is faster because the developing positive charge is accommodated by three atoms of the ring instead of by only two.",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q37-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q37-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "In which of the following molecules, all atoms are coplanar?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "Biphenyl is coplanar as all carbon atoms are sp2 hybridised.",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q38-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q38-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q38-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q38-main4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "In the given reaction, the product P is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q39-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q39-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q39-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q39-main4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q39-main5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2016_C11_Q39-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "The compound that will react most readily with gaseous bromine has the formula",
+    "options": {
+      "A": "C3H6",
+      "B": "C2H2",
+      "C": "C4H10",
+      "D": "C2H4"
+    },
+    "answer": "a",
+    "explanation": "Propene is most reactive towards Br2 (gaseous) than CH2 = CH2, HC ≡ CH and butane due to most electron density.",
+    "year": "2016",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "Given The enthalpy of hydrogenation of these compounds will be in the order as",
+    "options": {
+      "A": "II > I > III",
+      "B": "I > II > III",
+      "C": "III > II > I",
+      "D": "II > III > I"
+    },
+    "answer": "c",
+    "explanation": "Higher is the stability, lower is the enthalpy of hydrogenation. (I) is most stable due to aromatic character. Hence it has lowest enthalpy of hydrogenation. (III) is least stable as no resonance is present. Hence, it has highest enthalpy of hydrogenation. Thus, the decreasing order of the enthalpy of hydrogenation is III > II > I.",
+    "year": "2015",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q41-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "A single compound of the structure is obtainable from ozonolysis of which of the following cyclic compounds ?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q42-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q42-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q42-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q42-explanation4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q42-explanation5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q42-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "Which of the following is not the product of dehydration of",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q43-main.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q43-main2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q43-main3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q43-main4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q43-main5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q43-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "text": "2,3-Dimethyl-2-butene can be prepared by heating which of the following compounds with a strong acid?",
+    "options": {
+      "A": "(CH3)3CCH = CH2",
+      "B": "(CH3)2C = CHCH2CH3",
+      "C": "(CH3)2CHCH2CH = CH2",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q44-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q44-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "text": "The reaction of C6H5CH = CHCH3 with HBr produces",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q45-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q45-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q45-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q45-explanation4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2015_C11_Q45-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "text": "Identity Z in the sequence of reactions",
+    "options": {
+      "A": "CH3 (CH2)4 -O-CH3",
+      "B": "CH3CH2 -CH(CH3) -O-CH2CH3",
+      "C": "CH3 - (CH2)3 -O-CH2CH3",
+      "D": "(CH3)2CH2 -O-CH2CH3"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2014",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q46-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q46-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "text": "Which of the following organic compounds has same hybridization as its combustion product (CO2)?",
+    "options": {
+      "A": "Ethene",
+      "B": "Ethanol",
+      "C": "Ethane",
+      "D": "Ethyne"
+    },
+    "answer": "d",
+    "explanation": "HC ≡ CH and O = C = O both have sp-hybridised carbon",
+    "year": "2014",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q48",
+    "text": "What products are formed when the following compound is treated with Br2 in the presence of FeBr3?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "-CH3 group is o,p-directing. Because of crowding, no substitution occurs at the carbon atom between the two -CH3 groups in m-Xylene, even though two -CH3 groups activate that position.",
+    "year": "2014",
+    "chapter": "Hydrocarbons",
+    "class": "C11",
+    "images": [
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q48-explanation1.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q48-explanation2.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q48-explanation3.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q48-explanation4.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q48-explanation5.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q48-explanation6.png",
+      "CHEMISTRY/C11/chapters/hydrocarbons/HYDROCARBONS-2014_C11_Q48-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_punct_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

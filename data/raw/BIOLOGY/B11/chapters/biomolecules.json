@@ -1,0 +1,1368 @@
+[
+  {
+    "id": "Q1",
+    "text": "The protein portion of an enzyme is called",
+    "options": {
+      "A": "Apoenzyme",
+      "B": "Prosthetic group",
+      "C": "Cofactor",
+      "D": "Coenzyme"
+    },
+    "answer": "a",
+    "explanation": "Enzymes are biological catalysts that speed up chemical reactions in living organisms without being consumed in the process.Enzymes are composed of two main parts: the protein portion and the non-protein portion.The protein portion of an enzyme is called an Apoenzyme, and it is inactive by itself.The non-protein part, which can either be a cofactor or coenzyme, binds to the apoenzyme to form an active enzyme known as a holoenzyme. Holoenzyme = Apoenzyme + Coenzyme",
+    "year": "2025",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Match List-I with List-II: Choose the option with all correct matches",
+    "options": {
+      "A": "A-III, B-II, C-I, D-IV",
+      "B": "A-II, B-III, C-I, D-IV",
+      "C": "A-III, B-IV, C-II, D-I",
+      "D": "A-III, B-II, C-IV, D-I"
+    },
+    "answer": "a",
+    "explanation": "A. Adenosine - III. Nucleoside: Adenosine is composed of adenine attached to a ribose sugar, making it a nucleoside.B. Adenylic acid - II. Nucleotide: Adenylic acid, also known as adenosine monophosphate (AMP), consists of three components: adenine (a nitrogenous base), ribose (a sugar), and a phosphate group. C. Adenine - I. Nitrogen base: Adenine is one of the nitrogenous bases found in DNA and RNA. D. Alanine - IV. Amino acid: Alanine is an amino acid used in the biosynthesis of proteins.",
+    "year": "2025",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2025_B11_Q2-main.jpg",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2025_B11_Q2-explanation1.jpg",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2025_B11_Q2-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Which one of the following enzymes contains 'Haem' as the prosthetic group?",
+    "options": {
+      "A": "Succinate dehydrogenase",
+      "B": "Catalase",
+      "C": "RuBisCo",
+      "D": "Carbonic anhydrase"
+    },
+    "answer": "b",
+    "explanation": "Catalase: Catalase is an enzyme that contains haem as its prosthetic group.It plays a critical role in protecting cells from oxidative damage by decomposing hydrogen peroxide (H2O2).The haem group in catalase contains iron, which is essential for the enzyme's catalytic activity.The reaction catalyzed by catalase is: 2H2O2 → 2H2O + O2This enzyme is highly efficient and critical for maintaining cellular health in aerobic organisms. Other Options: RuBisCo: RuBisCo (Ribulose-1,5-bisphosphate carboxylase-oxygenase) is a key enzyme involved in the Calvin cycle of photosynthesis.It catalyzes the fixation of carbon dioxide (CO₂) into organic compounds in plants.It does not contain haem; instead, it is a protein enzyme with no metalloprotein or haem group association. Carbonic anhydrase: This enzyme catalyzes the reversible conversion of carbon dioxide (CO2) and water (H2O) into carbonic acid (H2CO3), which then dissociates into bicarbonate (HCO3⁻) and protons (H⁺).It contains zinc (Zn2+) as a cofactor Succinate dehydrogenase: This enzyme is part of the citric acid cycle (Krebs cycle) and the electron transport chain in mitochondria.It facilitates the oxidation of succinate to fumarate and contains iron-sulfur clusters and FAD (flavin adenine dinucleotide) as cofactors. Other Options: Catalase: Catalase is an enzyme that contains haem as its prosthetic group.It plays a critical role in protecting cells from oxidative damage by decomposing hydrogen peroxide (H2O2).The haem group in catalase contains iron, which is essential for the enzyme's catalytic activity.The reaction catalyzed by catalase is:2H2O2 → 2H2O + O2This enzyme is highly efficient and critical for maintaining cellular health in aerobic organisms. RuBisCo: RuBisCo (Ribulose-1,5-bisphosphate carboxylase-oxygenase) is a key enzyme involved in the Calvin cycle of photosynthesis.It catalyzes the fixation of carbon dioxide (CO₂) into organic compounds in plants.It does not contain haem; instead, it is a protein enzyme with no metalloprotein or haem group association. Carbonic anhydrase: This enzyme catalyzes the reversible conversion of carbon dioxide (CO2) and water (H2O) into carbonic acid (H2CO3), which then dissociates into bicarbonate (HCO3⁻) and protons (H⁺).It contains zinc (Zn2+) as a cofactor Succinate dehydrogenase: This enzyme is part of the citric acid cycle (Krebs cycle) and the electron transport chain in mitochondria.It facilitates the oxidation of succinate to fumarate and contains iron-sulfur clusters and FAD (flavin adenine dinucleotide) as cofactors.",
+    "year": "2025",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Name the class of enzyme that usually catalyze the following reaction: Where, G → a group other than hydrogen S → a substrate S# → another substate",
+    "options": {
+      "A": "Transferase",
+      "B": "Ligase",
+      "C": "Hydrolase",
+      "D": "Lyase"
+    },
+    "answer": "a",
+    "explanation": "Enzymes are divided into 6 classes, each with 4-13 subclasses and named accordingly by a four-digit number. Transferases: Enzymes catalysing a transfer of a group, G (other than hydrogen), between a pair of substrates S and S' S - G + S' → S + S' - G Hydrolases: Enzymes catalysing hydrolysis of ester, ether, peptide, glycosidic, C-C, C-halide or P-N bonds.Oxidoreductases/dehydrogenases: Enzymes which catalyse oxidoreduction of two substrates S and S'.Lyases: Enzymes that catalyse removal of groups from substrates by mechanisms other than hydrolysis leaving double bonds.Isomerases: Includes all enzymes catalysing inter-conversion of optical, geometric or positional isomers.Ligases: Enzymes catalysing the linking together of 2 compounds, e.g., enzymes which catalyse joining of C-O, C-S, C-N, P-O etc. bonds",
+    "year": "2025",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2025_B11_Q4-main.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Lecithin, a small molecular weight organic compound found in living tissues, is an example of",
+    "options": {
+      "A": "Amino acids",
+      "B": "Phospholipids",
+      "C": "Glycerides",
+      "D": "Carbohydrates"
+    },
+    "answer": "b",
+    "explanation": "The correct answer is option (b). Some lipids have phosphorous and a phosphorylated organic compound in them. These are phospholipids. They are found in cell membrane. Lecithin is one example. Option (c) is incorrect as glycerides are another group of lipids in which both glycerol and fatty acids are present. Option (a) and (d) are incorrect as amino acids and carbohydrates are separate groups of biomolecules.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The cofactor of the enzyme carboxypeptidase is",
+    "options": {
+      "A": "Zinc",
+      "B": "Niacin",
+      "C": "Flavin",
+      "D": "Haem"
+    },
+    "answer": "a",
+    "explanation": "The enzyme carboxypeptidase is well-known for its utilization of a zinc ion as a cofactor in its catalytic mechanism. The zinc ion plays a crucial role in the hydrolysis of peptide bonds, the reaction facilitated by carboxypeptidase. The presence of zinc allows for proper stabilization of water molecules which are necessary in the catalysis, making the hydrolysis of the peptide bond effective. This zinc dependency categorizes carboxypeptidase as a metalloenzyme. Therefore, the correct answer is: Option A: Zinc Other options mentioned, such as Niacin, Flavin, and Haem, serve as cofactors for different enzymes. For example, Niacin is involved in the formation of NAD+ (Nicotinamide adenine dinucleotide) which acts as an electron carrier in many enzymatic reactions. Flavins (like FMN and FAD) are involved in a myriad of oxidation-reduction (redox) reactions. Haem, found in hemoglobin and cytochromes, also plays crucial roles primarily in electron transfer processes and oxygen transport. These are not associated with the functioning of carboxypeptidase, which specifically requires zinc for its enzymatic activity.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match List I with List II Choose the correct answer from the options given below",
+    "options": {
+      "A": "A-IV, B-I, C-II, D-III",
+      "B": "A-I, B-II, C-III, D-IV",
+      "C": "A-II, B-III, C-IV, D-I",
+      "D": "A-III, B-IV, C-I, D-II"
+    },
+    "answer": "a",
+    "explanation": "To solve this matching question, we need to correctly identify what each item in List I represents and match it with its corresponding description in List II: GLUT-4 is a glucose transporter protein that allows glucose to be absorbed into cells when insulin is present. Hence, it should be matched with \"Enables glucose transport into cells.\"Insulin is a hormone produced by the pancreas that helps regulate blood glucose levels by facilitating the uptake of glucose into tissues. It should be matched with \"Hormone.\"Trypsin is an enzyme that aids in the digestion of proteins in the digestive system. It should be matched with \"Enzyme.\"Collagen is a primary structural protein that forms connective tissues throughout the body, including the extracellular matrix. It should be matched with \"Intercellular ground substance.\" Here's how we match each term with the correct description from List II: A-IV, B-I, C-II, D-III This corresponds to: A (GLUT-4) - IV (Enables glucose transport into cells)B (Insulin) - I (Hormone)C (Trypsin) - II (Enzyme)D (Collagen) - III (Intercellular ground substance) Therefore, the answer is Option A",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-IV, B-II, C-III, D-I",
+      "B": "A-III, B-II, C-I, D-IV",
+      "C": "A-II, B-IV, C-I, D-III",
+      "D": "A-IV, B-I, C-III, D-II"
+    },
+    "answer": "c",
+    "explanation": "The task here is to correctly match the enzymes listed in List I with their corresponding type of bond they hydrolyze or act on, as listed in List II. To do this, we need to understand the function of each enzyme: Lipase: This enzyme catalyzes the breakup of fats (lipids), primarily working on the ester bonds in triglycerides. Thus, Lipase corresponds to Ester bond (II).Nuclease: Nucleases are enzymes that cleave the phosphodiester bonds within the nucleic acids, DNA and RNA. Therefore, Nuclease corresponds to Phosphodiester bond (IV).Protease: These enzymes hydrolyze proteins by breaking peptide bonds between amino acids. Thus, Protease matches with Peptide bond (I).Amylase: Amylase acts on starches, breaking down the glycosidic bonds in carbohydrate molecules to produce simple sugars. Hence, Amylase corresponds to Glycosidic bond (III). Matching these to the given options: A - Lipase corresponds to Ester bond (II).B - Nuclease corresponds to Phosphodiester bond (IV).C - Protease corresponds to Peptide bond (I).D - Amylase corresponds to Glycosidic bond (III). This matches with Option C, hence the correct response is: Option C",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Regarding catalytic cycle of an enzyme action, select the correct sequential steps : A. Substrate enzyme complex formation. B. Free enzyme ready to bind with another substrate. C. Release of products. D. Chemical bonds of the substrate broken. E. Substrate binding to active site",
+    "options": {
+      "A": "E, A, D, C, B",
+      "B": "A, E, B, D, C",
+      "C": "B, A, C, D, E",
+      "D": "E, D, C, B, A"
+    },
+    "answer": "a",
+    "explanation": "The correct order of the steps in the catalytic cycle of enzyme action involves the following key events: Substrate binding to the active site: Before any reaction can take place, the substrate must bind to the enzyme's active site. This is where the substrate is correctly positioned for the reaction.Formation of the substrate-enzyme complex: Once the substrate binds to the active site, a substrate-enzyme complex is formed. This complex stabilizes the transition state of the reaction and lowers the activation energy required for the reaction.Chemical bonds of the substrate broken : Within the substrate-enzyme complex, the specific chemical reaction occurs, leading to the breaking of bonds within the substrate. This step often involves changes to the chemical structure of the substrate, turning it into the product(s) of the reaction.Release of products: After the reaction occurs, the product(s) of the reaction are released from the enzyme, leaving the enzyme unchanged.Free enzyme ready to bind with another substrate: Once the product is released, the enzyme is free again to bind with another substrate, repeating the cycle. Given the correct sequence and your provided options, the correct answer is: Option A This sequence correctly describes the steps involved in the catalytic cycle of enzyme action, from substrate binding to the release of products and the readiness of the enzyme to start a new cycle.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Inhibition of Succinic dehydrogenase enzyme by malonate is a classical example of",
+    "options": {
+      "A": "Cofactor inhibition",
+      "B": "Feedback inhibition",
+      "C": "Competitive inhibition",
+      "D": "Enzyme activation"
+    },
+    "answer": "c",
+    "explanation": "Sol: The inhibition of the enzyme succinic dehydrogenase by malonate is a classic example of competitive inhibition. To understand why this is the case, let's explore the mechanism and dynamics of this specific type of inhibition in the context of the given enzyme and inhibitor. Competitive Inhibition: This type of enzyme inhibition occurs when an inhibitor compound resembles the substrate's structure and competes with the substrate for binding to the active site of the enzyme. If the inhibitor binds to the active site, it prevents the substrate from binding, temporarily blocking the enzyme's activity. Importantly, competitive inhibition can typically be overcome by increasing the concentration of the substrate, as this can displace the inhibitor from the active site. Succinic Dehydrogenase and Malonate: Succinic dehydrogenase is an enzyme that plays a critical role in the citric acid cycle, an essential metabolic pathway for energy production. It catalyzes the oxidation of succinate into fumarate. The structure of malonate is closely similar to that of succinate, the natural substrate of succinic dehydrogenase. Because of its structural similarity, malonate competes with succinate for the active site on succinic dehydrogenase. When malonate binds to the active site, it effectively inhibits the enzyme from catalyzing the reaction to convert succinate into fumarate. Conclusion: Considering these points, Option C, Competitive inhibition, is correct for describing the inhibition of succinic dehydrogenase by malonate, as it directly competes with the substrate for the active site of the enzyme. Other options such as cofactor inhibition, feedback inhibition, and enzyme activation do not accurately describe the situation with malonate and succinic dehydrogenase. Cofactor inhibition involves inhibition by substances that affect the enzyme's cofactors, feedback inhibition generally pertains to the regulation of biochemical pathways by their product, and enzyme activation is a process that increases the enzyme's activity, none of which apply in this context.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Which of the following statement is incorrect about enzymes?",
+    "options": {
+      "A": "They are highly substrate specific",
+      "B": "In thermophilic organisms, enzymes can catalyze reaction at high temperatures, i.e. 90°C",
+      "C": "All enzymes are proteinaceous in nature",
+      "D": "Some enzymes have metal ions"
+    },
+    "answer": "c",
+    "explanation": "(a) They are highly substrate specific: This is true. Enzymes are highly specific to the substrate they act upon, meaning they catalyze reactions with particular molecules. (b) In thermophilic organisms, enzymes can catalyze reactions at high temperatures, i.e. 90°C: This is true. Thermophilic organisms have enzymes that can function at extremely high temperatures, even up to 90°C or more. (c) All enzymes are proteinaceous in nature: This is incorrect. While most enzymes are proteins, some are made of RNA molecules, known as ribozymes. (d) Some enzymes have metal ions: This is true. Many enzymes require metal ions (such as zinc, magnesium, or iron) to function properly as cofactors. Therefore, the incorrect statement is (c).",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The following can be found as a zwitter ion",
+    "options": {
+      "A": "Fatty acid",
+      "B": "Monosaccharide",
+      "C": "Amino acid",
+      "D": "Nucleic acid"
+    },
+    "answer": "c",
+    "explanation": "(a) Fatty acid: Fatty acids do not typically exist as zwitterions. They are usually in their ionized form at physiological pH.(b) Monosaccharide: Monosaccharides (simple sugars) do not form zwitterions. They generally have hydroxyl groups and do not carry both positive and negative charges on the same molecule.(c) Amino acid: This is correct. Amino acids, at physiological pH, exist as zwitterions. They contain both a positively charged amino group (-NH₃⁺) and a negatively charged carboxyl group (-COO⁻), making them neutral overall but having both positive and negative charges.(d) Nucleic acid: Nucleic acids, such as DNA and RNA, do not exist as zwitterions. They contain acidic phosphate groups but are not zwitterions. Therefore, the correct answer is (c) Amino acid.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Which of the following is not a complex polysaccharide?",
+    "options": {
+      "A": "Inulin",
+      "B": "Chitin",
+      "C": "Glucosamine",
+      "D": "N-acetyl galactosamine"
+    },
+    "answer": "a",
+    "explanation": "(a) Inulin: Inulin is a type of carbohydrate, specifically a fructan, that is a polysaccharide but is not considered a \"complex\" polysaccharide. It consists of fructose units and is typically used by plants as a storage carbohydrate.(b) Chitin: Chitin is a complex polysaccharide made of N-acetylglucosamine, found in the exoskeletons of arthropods and the cell walls of fungi. It is a complex polysaccharide.(c) Glucosamine: Glucosamine is not a polysaccharide itself but is an amino sugar that forms part of larger polysaccharides such as glycosaminoglycans (e.g., in cartilage).(d) N-acetyl galactosamine: This is an amino sugar that forms part of complex polysaccharides, such as glycosaminoglycans. Therefore, Inulin is not a complex polysaccharide, making (a) the correct answer.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "loose_lower_sequence",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-IV, B-III, C-I, D-II",
+      "B": "A-IV, B-III, C-II, D-I",
+      "C": "A-II, B-I, C-III, D-IV",
+      "D": "A-II, B-III, C-I, D-IV"
+    },
+    "answer": "d",
+    "explanation": "A. Ribozyme (II. Non-proteinaceous enzyme): A ribozyme is a non-proteinaceous enzyme, meaning it is made of RNA and not protein.B. Lecithin (III. Lipid): Lecithin is a type of lipid, specifically a phospholipid, commonly found in cell membranes.C. Glut-4 (I. Glucose transport): GLUT-4 (Glucose transporter type 4) is involved in glucose transport in cells, particularly in muscle and fat cells.D. Vitamins (IV. Coenzyme): Vitamins often act as coenzymes or precursors to coenzymes in various metabolic reactions. Therefore, the correct matching is A-II, B-III, C-I, D-IV.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-IV, C-II, D-I",
+      "B": "A-II, B-IV, C-I, D-III",
+      "C": "A-III, B-I, C-II, D-IV",
+      "D": "A-II, B-I, C-IV, D-III"
+    },
+    "answer": "c",
+    "explanation": "A. Toxin (III. Ricin): Ricin is a toxic protein derived from castor beans. It is a well-known toxin.B. Polymeric substance (I. Gum): Gums are polysaccharides or polymeric substances derived from plants that form gels when hydrated.C. Lectin (II. Concanavalin A): Concanavalin A is a type of lectin, which is a protein that binds to specific carbohydrate structures on cell surfaces.D. Drug (IV. Vinblastin): Vinblastine is a drug used in cancer treatment, particularly for its role in inhibiting cell division. Therefore, the correct matching is A-III, B-I, C-II, D-IV.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III, B-I, C-IV, D-II",
+      "B": "A-II, B-III, C-I, D-IV",
+      "C": "A-III, B-IV, C-I, D-II",
+      "D": "A-I, B-III, C-IV, D-II"
+    },
+    "answer": "c",
+    "explanation": "A. Collagen (III. Most abundant protein in animal world): Collagen is the most abundant protein in the animal world, providing structural support in tissues.B. GLUT-4 (IV. Enables glucose transport into cells): GLUT-4 is a glucose transporter that enables the transport of glucose into muscle and fat cells.C. Trypsin (I. Enzyme): Trypsin is a digestive enzyme that breaks down proteins in the small intestine.D. RuBisCO (II. Most abundant enzyme in biosphere): RuBisCO is the most abundant enzyme on Earth, playing a key role in the Calvin cycle of photosynthesis. Therefore, the correct matching is A-III, B-IV, C-I, D-II.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q16-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Which of the following graphs explains the effect of pH on the enzyme activity?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "The graph that explains the effect of pH on enzyme activity typically shows that enzyme activity increases as the pH moves towards an optimal level, then decreases as the pH becomes too high or too low. This is a typical bell-shaped curve, where the enzyme activity is highest at a specific optimal pH, which matches the graph in option (a).",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q17-explanation1.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q17-explanation2.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q17-explanation3.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q17-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The catalytic cyclic of an enzyme action is described as: A. Enzyme releases products of the reaction and gets free. B. Substrate induces the enzyme to alter its shape. C. The substrate binds with the active site of the enzyme. D. Enzymes-product complex is formed",
+    "options": {
+      "A": "C→B→A→D",
+      "B": "C→B→D→A",
+      "C": "B→C→D→A",
+      "D": "D→C→A→B"
+    },
+    "answer": "b",
+    "explanation": "C. The substrate binds with the active site of the enzyme: The substrate first binds to the enzyme's active site.B. Substrate induces the enzyme to alter its shape: The binding of the substrate often induces a conformational change in the enzyme (induced fit model).D. Enzyme-product complex is formed: The enzyme catalyzes the reaction, forming the enzyme-product complex.A. Enzyme releases products of the reaction and gets free: Finally, the enzyme releases the products and returns to its original form, ready for the next cycle. Therefore, the correct order is C → B → D → A.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Which of the following is a nucleotide?",
+    "options": {
+      "A": "Uridine",
+      "B": "Adenylic acid",
+      "C": "Guanine",
+      "D": "Guanosine"
+    },
+    "answer": "b",
+    "explanation": "Adenylic acid is a nucleotide, which consists of a nitrogenous base (adenine), a sugar (ribose or deoxyribose), and a phosphate group.Uridine is a nucleoside, not a nucleotide, as it lacks the phosphate group.Guanine is a nitrogenous base, not a nucleotide.Guanosine is a nucleoside, as it consists of the base guanine and a sugar but lacks the phosphate group.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Enzymes that catalyse the removal of groups from substrates by mechanisms other than hydrolysis leaving double bonds, are known as",
+    "options": {
+      "A": "Transferases",
+      "B": "Oxidoreductases",
+      "C": "Dehydrogenases",
+      "D": "Lyases"
+    },
+    "answer": "d",
+    "explanation": "Lyases are enzymes that catalyze the removal of groups from substrates by mechanisms other than hydrolysis, often leaving double bonds. Examples include dehydratases, decarboxylases, and other enzymes that break bonds without the use of water.Transferases catalyze the transfer of functional groups.Oxidoreductases are enzymes that catalyze oxidation-reduction reactions.Dehydrogenases are a subclass of oxidoreductases that specifically catalyze the removal of hydrogen atoms.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-III,B-IV,C-II,D-I",
+      "B": "A-III,B-II,C-I,D-IV",
+      "C": "A-I,B-III,C-II,D-IV",
+      "D": "A-IV,B-III,C-II,D-I"
+    },
+    "answer": "a",
+    "explanation": "A. Primary structure of protein (III. Polypeptide chain): The primary structure of a protein refers to the sequence of amino acids in the polypeptide chain.B. Secondary structure of protein (IV. Alpha helix and β sheet): The secondary structure of a protein involves the regular folding of the polypeptide chain into structures like alpha helices and beta sheets.C. Tertiary structure of protein (II. Disulphide bonds): The tertiary structure refers to the overall three-dimensional shape of the protein, which is stabilized by interactions such as disulfide bonds.D. Quaternary structure of protein (I. Human haemoglobin): The quaternary structure is the arrangement of multiple polypeptide chains in a multi-subunit protein, like human hemoglobin. Thus, the correct matching is A-III, B-IV, C-II, D-I.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q21-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which of the following graphs depicts the effect of substrate concentration on velocity of enzyme catalysed reaction?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "The graph in (a) depicts the typical effect of substrate concentration on the velocity of an enzyme-catalyzed reaction. As the substrate concentration increases, the reaction velocity increases proportionally until it reaches a maximum velocity (Vmax), at which point all enzyme active sites are occupied, and further increases in substrate concentration do not increase the reaction rate. This is a classic Michaelis-Menten kinetics graph.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q22-main.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q22-main2.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q22-main3.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2024_B11_Q22-main4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Which of the following are not fatty acids? A. Glutamic acid B. Arachidonic acid C. Palmitic acid D. Lecithin E. Aspartic acid",
+    "options": {
+      "A": "C, D and E only",
+      "B": "A and B only",
+      "C": "A, D and E only",
+      "D": "B and C only"
+    },
+    "answer": "c",
+    "explanation": "A. Glutamic acid: This is an amino acid, not a fatty acid.B. Arachidonic acid: This is a fatty acid. It is an essential polyunsaturated fatty acid found in the cell membranes.C. Palmitic acid: This is a fatty acid. It is a saturated fatty acid found in animal fats and plant oils.D. Lecithin: Lecithin is a phospholipid, not a fatty acid. It is composed of fatty acids, but it itself is not a fatty acid.E. Aspartic acid: This is an amino acid, not a fatty acid. Therefore, A, D, and E are not fatty acids, making (c) A, D, and E only the correct answer.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Ligases is a class of enzymes responsible for catalysing the linking together of two compounds. Which of the following bonds is not catalysed by it?",
+    "options": {
+      "A": "C-C",
+      "B": "P-O",
+      "C": "C-O",
+      "D": "C-N"
+    },
+    "answer": "a",
+    "explanation": "Ligases are enzymes that catalyze the joining of two molecules, typically using energy derived from ATP or another nucleotide triphosphate. They are involved in forming various types of bonds, but not all bonds.(a) C-C: This is generally not catalyzed by ligases. C-C bond formation typically requires other mechanisms or enzymes.(b) P-O: Ligases can catalyze the formation of phosphodiester bonds (P-O), such as in the joining of DNA strands.(c) C-O: Ligases can catalyze the formation of C-O bonds, such as in the joining of alcohols and other molecules.(d) C-N: Ligases can also catalyze the formation of C-N bonds, for example, in the synthesis of peptides or other amide linkages. Therefore, the bond that is not catalyzed by ligases is C-C.",
+    "year": "2024",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Cellulose does not form blue colour with Iodine because",
+    "options": {
+      "A": "It is a disaccharide",
+      "B": "It is a helical molecule",
+      "C": "It does not contain complex helices and hence cannot hold iodine molecules",
+      "D": "It breaks down when iodine reacts with it"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the correct answer because cellulose does not contain complex helices and hence cannot hold iodine molecules. Option (a), (b) and (d) are not correct",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2023_B11_Q25-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Given below are two statements: Statement I: A protein is imagined as a line, the left end represented by first amino acid (C-terminal) and the right end represented by last amino acid (N-terminal). Statement II: Adult human haemoglobin, consists of 4 subunits (two subunits of α type and two subunits of β type.)",
+    "options": {
+      "A": "Both Statement I and Statement II are false.",
+      "B": "Statement I is true but Statement II is false.",
+      "C": "Statement I is false but Statement II is true.",
+      "D": "Both Statement I and Statement II are true."
+    },
+    "answer": "c",
+    "explanation": "Statement I is false - because the C-terminal represents the last amino acid in the protein chain, not the first. The N-terminal represents the first amino acid. Statement II is true - Adult human hemoglobin consists of 4 subunits: two subunits of α-type and two subunits of β-type. These subunits come together to form a complex protein structure responsible for carrying oxygen in the blood. The correct option is (C): Statement I is false but Statement II is true",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Given below are two statements: Statement I: low temperature preserves the enzyme in a temporarily inactive state whereas high temperature destroys enzymatic activity because proteins are denatured by heat. Statement II: when the inhibitor closely resembles the substrate in its molecular structure and inhibits the activity of enzyme, it is known as competitive inhibitor",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "a",
+    "explanation": "Statement I is true - Low temperatures can slow down enzymatic reactions by placing the enzyme in an inactive state, and high temperatures can denature proteins, including enzymes, which can lead to a loss of enzymatic activity.Statement II is also true - A competitive inhibitor is a molecule that closely resembles the substrate of an enzyme and competes for the active site, thus reducing the enzyme's activity. This type of inhibition is called competitive inhibition. So, the correct answer is : Option A : Both Statement I and Statement II are true.",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Malonate inhibits the growth of pathogenic bacteria by inhibiting the activity of",
+    "options": {
+      "A": "Dinitrogenase",
+      "B": "Succinic dehydrogenase",
+      "C": "Amylase",
+      "D": "Lipase"
+    },
+    "answer": "b",
+    "explanation": "Malonate is a competitive inhibitor of succinic dehydrogenase. Succinic dehydrogenase is an enzyme in the citric acid cycle (Krebs cycle) that helps in the conversion of succinate to fumarate. Malonate mimics succinate and competes for the same binding site on the enzyme, thereby inhibiting its activity and blocking the bacterial growth.",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(A)-II (B)-I (C)-IV (D)-III",
+      "B": "(A)-IV (B)-III (C)-I (D)-II",
+      "C": "(A)-IV (B)-I (C)-II (D)-III",
+      "D": "(A)-I (B)-IV (C)-III (D)-II"
+    },
+    "answer": "c",
+    "explanation": "Protein (A): Peptide bonds (IV) link amino acids in proteins.Unsaturated fatty acid (B): C=C double bonds (I) are present in unsaturated fatty acids, making them unsaturated.Nucleic acid (C): Phosphodiester bonds (II) join nucleotides in nucleic acids like DNA and RNA.Polysaccharide (D): Glycosidic bonds (III) link monosaccharides in polysaccharides like starch and cellulose.",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2023_B11_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Inulin is a polymer of",
+    "options": {
+      "A": "Fructose",
+      "B": "Galactose",
+      "C": "Amino Acids",
+      "D": "Glucose"
+    },
+    "answer": "a",
+    "explanation": "Inulin is a carbohydrate polymer made up of fructose units linked together. It is a type of fructan and is commonly found in plants like chicory and Jerusalem artichoke. Inulin is used as a dietary fiber and has various health benefits.",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Which of the following is not a secondary metabolite?",
+    "options": {
+      "A": "Curcumin",
+      "B": "Morphine",
+      "C": "Anthocyanin",
+      "D": "Lecithin"
+    },
+    "answer": "d",
+    "explanation": "Curcumin, Morphine, and Anthocyanin are all secondary metabolites. Curcumin is an active compound in turmeric and a secondary metabolite known for its medicinal properties.Morphine is an alkaloid found in opium and is a secondary metabolite used for its analgesic properties.Anthocyanin is a pigment found in plants and is a secondary metabolite responsible for the red, blue, and purple colors of many fruits and flowers. Lecithin is not a secondary metabolite. It is a phospholipid, primarily involved in the structure and function of cell membranes, and is classified as a primary metabolite.",
+    "year": "2023",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "When a carrier protein facilitates the movement of two molecules across the membrane in same direction, it is called",
+    "options": {
+      "A": "Symport",
+      "B": "Uniport",
+      "C": "Transport",
+      "D": "Antiport"
+    },
+    "answer": "a",
+    "explanation": "A symport is the transport of two types of molecules across the membrane in same direction.Antiport is the transport of two different molecules in opposite directions.Uniport is transport of a molecule across the membrane independent of other molecule.",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "(a) - (i), (b) - (iv), (c) - (iii), (d) - (ii)",
+      "B": "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)",
+      "C": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "D": "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)"
+    },
+    "answer": "b",
+    "explanation": "Option (b) is the correct answer as adenine is a purine, anthocyanin is a pigment, chitin is a polysaccharide and codeine is an alkaloid.",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2022_B11_Q33-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Primary proteins are also called as polypeptides because",
+    "options": {
+      "A": "They can assume many conformations",
+      "B": "They are linear chains",
+      "C": "They are polymers of peptide monomers",
+      "D": "Successive amino acids are joined by peptide bonds"
+    },
+    "answer": "d",
+    "explanation": "Option (4) is the correct answer because primary proteins are heteropolymers containing strings of amino acids linked by peptide bonds.Option (1) and (2) are incorrect as primary proteins are called polypeptides due to the presence of many monomers linked via peptide bonds, not due to the presence of many conformations.Option (3) is incorrect because proteins are polymers of amino acid monomers.",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "Choose the incorrect enzymatic rection",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Option (b) is the correct answer because maltose is a disaccharide which on hydrolysis gives two molecules of glucose. Options (a), (c) and (d) represent correct enzymatic reactions so they are not the answer.",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2022_B11_Q35-explanation1.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2022_B11_Q35-explanation2.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2022_B11_Q35-explanation3.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2022_B11_Q35-explanation4.png",
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2022_B11_Q35-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "Given below are two statements: Statement I : Amino acids have a property of ionizable nature of -NH2 and -COOH groups, hence have different structures at different pH. Statement-II : Amino acids can exist as Zwitterionic form at acidic and basic pH",
+    "options": {
+      "A": "Statement I is incorrect but Statement II is",
+      "B": "Both Statement I and Statement II are",
+      "C": "Both Statement I and Statement II are incorrect",
+      "D": "Statement I is correct but Statement II is incorrect"
+    },
+    "answer": "d",
+    "explanation": "Option (d) is the correct answer as statement I is correct but statement II is incorrect A particular property of amino acids is the ionizable nature of -NH2 and -COOH groups. Hence, in solutions of different pH, the structure of amino acid changes. Amino acid exists as a dipolar ion called a zwitterion at a particular pH called isoelectric point.",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "In the enzyme which catalyses the breakdown of: H2O2 → H2O + O2 the prosthetic group is",
+    "options": {
+      "A": "Niacin",
+      "B": "Nicotinamide adenine dinucleotide",
+      "C": "Haem",
+      "D": "Zinc"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the correct answer because peroxidase is the enzyme that catalyzes the breakdown of hydrogen peroxide to water and oxygen; haem is the prosthetic group of this enzyme.Option (a) and (b) are incorrect because co-enzyme nicotinamide adenine dinucleotide (NAD) and NADP contain the vitamin niacin.Option (d) is incorrect because zinc is a co-factor for the proteolytic enzyme carboxypeptidase.",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "sequential_lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "Read the following statements on lipids and find out correct set of statements: (A) Lecithin found in the plasma membrane is a glycolipid (B) Saturated fatty acids possess one or more c = c bonds (C) Gingely oil has lower melting point, hence remains as oil in winter (D) Lipids are generally insoluble in water but soluble in some organic solvents (E) When fatty acid is esterified with gIycerol, monoglycerides are formed",
+    "options": {
+      "A": "(A), (D) and (E) only",
+      "B": "(A), (B) and (D) only",
+      "C": "(C), (D) and (E) only",
+      "D": "(A), (B) and (C) only"
+    },
+    "answer": "c",
+    "explanation": "Option (c) is the correct answer because statements (c), (d) and (e) correct as oils have lower melting point and hence remain oil in winters. Lipids are generally insoluble in water but soluble in some organic solvents.Option (a), (b) and (d) are incorrect because statements (a) and (b) are incorrect. Lecithin is a type of phospholipid found in plasma membrane. Saturated fatty acids are without double bond.",
+    "year": "2022",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Which of the following are not secondary metabolites in plants?",
+    "options": {
+      "A": "Vinblastin, curcumin",
+      "B": "Rubber, gums",
+      "C": "Morphine, codeine",
+      "D": "Amino acids, glucose"
+    },
+    "answer": "d",
+    "explanation": "Amino acids and glucose are included under the category of primary metabolites as they have identifiable functions and play known roles in normal physiological processes.Rubber, gums, morphine, codeine, vinblastin and curcumin are included under the category of secondary metabolites as their role or functions in host organisms is not known yet. However, many of them are useful to human welfare.",
+    "year": "2021",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "Match List -I with List - II. Choose the correct answer from the options given below",
+    "options": {
+      "A": "(ii) (i) (iv) (iii)",
+      "B": "(iv) (iii) (i) (ii)",
+      "C": "(iv) (i) (ii) (iii)",
+      "D": "(i) (iv) (iii) (ii)"
+    },
+    "answer": "c",
+    "explanation": "In a polypeptide or a protein, amino acids are linked by a peptide bond which is formed when the carboxyl (-COOH) group of one amino acid reacts with amino (-NH2) group of the next amino acid with the elimination of a water moiety.Unsaturated fatty acids are with one or more C = C double bonds.In nucleic acids, a phosphate moiety links the 3'-carbon of one sugar of one nucleotide to the 5'-carbon of the sugar of the succeeding nucleotide. The bond between the phosphate and hydroxyl group is an ester bond. As there is one such ester bond on either side, it is called phosphodiester bond.In a polysaccharide, the individual monosaccharides are linked by a glycosidic bond.",
+    "year": "2021",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2021_B11_Q40-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "Following are the statements with reference to 'lipids'. (a) Lipids having only single bonds are called unsaturated fatty acids. (b) Lecithin is a phospholipid. (c) Trihydroxy propane is glycerol. (d) Palmitic acid has 20 carbon atoms including carboxyl carbon. (e) Arachidonic acid has 16 carbon atoms. Choose the correct answer from the options given below",
+    "options": {
+      "A": "(b) and (c) only",
+      "B": "(b) and (e) only",
+      "C": "(a) and (b) only",
+      "D": "(c) and (d) only"
+    },
+    "answer": "a",
+    "explanation": "The correct option is (a) because lipids having only single bonds are called saturated fatty acids and lipids having one or more C = C double bonds are called unsaturated fatty acids. Palmitic acid has 16 carbon atoms including carboxyl carbon. Arachidonic acid has 20 carbon atoms including the carboxyl carbon. Lecithin is a phospholipid found in cell membrane. Glycerol has 3 carbons, each bearing a hydroxyl ( - OH) group.",
+    "year": "2021",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "Identify the substances having glycosidic bond and peptide bond, respectively in their structure",
+    "options": {
+      "A": "Cellulose, lecithin",
+      "B": "Inulin, Insulin",
+      "C": "Chitin, cholesterol",
+      "D": "Glycerol, trypsin"
+    },
+    "answer": "b",
+    "explanation": "Inulin is a mixture of linear fructose polymers with different chain length and a glucose molecule at each C2 end. Adjacent fructose units are linked through glycosidic bond. The inulin that is used for medicine is most commonly obtained by soaking chicory roots in hot water. Insulin is a protein composed of 51 amino acids and acts as a hormone which is secreted by beta-cells of pancreas. Adjacent amino acids are attached through peptide bond.",
+    "year": "2020",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "Which one of the following is the most abundant protein in the animals?",
+    "options": {
+      "A": "Lectin",
+      "B": "Insulin",
+      "C": "Haemoglobin",
+      "D": "Collagen"
+    },
+    "answer": "d",
+    "explanation": "Collagen is the most abundant protein in animal world. Collagen is the major insoluble fibrous protein found in the extracellular matrix and in connective tissue. RuBisCO is the most abundant protein in the whole of the Biosphere.",
+    "year": "2020",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "text": "Identify the basic amino acid from the following",
+    "options": {
+      "A": "Lysine",
+      "B": "Valine",
+      "C": "Tyrosine",
+      "D": "Glutamic acid"
+    },
+    "answer": "a",
+    "explanation": "Glutamic Acid - is an acidic amino acid. Lysine - is a basic amino acid. Valine - is an aliphatic amino acid. Tyrosine - is an aromatic amino acid.",
+    "year": "2020",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "text": "Match the following: Choose the correct option from the following",
+    "options": {
+      "A": "(A) → (ii), (B) → (iii), (C) → (i), (D) → (iv)",
+      "B": "(A) → (iii), (B) → (i), (C) → (iv), (D) → (ii)",
+      "C": "(A) → (ii), (B) → (iv), (C) → (iii), (D) → (i)",
+      "D": "(A) → (iii), (B) → (iv), (C) → (i), (D) → (ii)"
+    },
+    "answer": "c",
+    "explanation": "Malonate is the competitive inhibitor of catalytic activity of succinic dehydrogenase, Collagen is proteinaceous in nature and possesses peptide bonds, Chitin is a homopolymer present in the cell wall of fungi and exoskeleton of arthropods, Abrin and Ricin are toxins, secondary metabolites.",
+    "year": "2020",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2020_B11_Q45-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "text": "Concanavalin A is",
+    "options": {
+      "A": "A pigment",
+      "B": "An alkaloid",
+      "C": "An essential oil",
+      "D": "A lectin"
+    },
+    "answer": "d",
+    "explanation": "Concanavalin A is an example of lectin.",
+    "year": "2019",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "text": "Consider the following statements",
+    "options": {
+      "A": "(A) is false but (B) is true.",
+      "B": "Both (A) and (B) are true.",
+      "C": "(A) is true but (B) is false.",
+      "D": "Both (A) and (B) are false."
+    },
+    "answer": "c",
+    "explanation": "Coenzyme or metal ion that is tightly bound to enzyme protein is called prosthetic group while a complete catalytic active enzyme with its bound prosthetic group is called holoenzyme.",
+    "year": "2019",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q48",
+    "text": "The two functional groups characteristic of sugars are",
+    "options": {
+      "A": "Hydroxyl and methyl",
+      "B": "Carbonyl and methyl",
+      "C": "Carbonyl and phosphate",
+      "D": "Carbonyl and hydroxyl"
+    },
+    "answer": "d",
+    "explanation": "Sugar is a carbohydrate. These are polyhydroxy aldehyde, ketone or their derivatives, which means they have carbonyl and hydroxyl groups in its structure.",
+    "year": "2018",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q49",
+    "text": "Which of the following statements is correct with reference to enzymes?",
+    "options": {
+      "A": "Holoenzyme = Apoenzyme + Coenzyme",
+      "B": "Coenzyme - Apoenzyme + Holoenzyme",
+      "C": "Holoenzyme = Coenzyme + Co-factor",
+      "D": "Apoenzyme = Holoenzyme + Coenzyme"
+    },
+    "answer": "a",
+    "explanation": "Holoenzyme is the complete conjugate enzyme consisting of an apoenzyme and a cofactor. Cofactor may be organic or inorganic in nature. Organic cofactors are of two types-coenzyme and prosthetic group.",
+    "year": "2017",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q50",
+    "text": "Which of the following are not polymeric?",
+    "options": {
+      "A": "Proteins",
+      "B": "Polysaccharides",
+      "C": "Lipids",
+      "D": "Nucleic acids"
+    },
+    "answer": "c",
+    "explanation": "- Nucleic acids are polymers of nucleotides - Proteins are polymers of amino acids - Polysaccharides are polymers of monosaccharides - Lipids are the tri-esters of fatty acids with glycerol.",
+    "year": "2017",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q51",
+    "text": "A non-proteinaceous enzyme is",
+    "options": {
+      "A": "Lysozyme",
+      "B": "Ribozyme",
+      "C": "Ligase",
+      "D": "Deoxyribonuclease"
+    },
+    "answer": "b",
+    "explanation": "A ribozyme is a ribonucleic acid (RNA) enzyme that catalyses a chemical reaction in a similar way to that of a protein enzyme. These are found in ribosomes and are also called catalytic RNAs.",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q52",
+    "text": "Which of the following is the least likely to be involved in stabilising the three-dimensional folding of most proteins?",
+    "options": {
+      "A": "Hydrogen bonds",
+      "B": "Electrostatic interaction",
+      "C": "Hydrophobic interaction",
+      "D": "Ester bonds"
+    },
+    "answer": "d",
+    "explanation": "Tertiary structure or three dimensional structure of protein is stabilised by several types of bonds-hydrogen bonds, ionic bonds, van der Waal's interactions, covalent bonds and hydrophobic bonds.",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q53",
+    "text": "Which of the following describes the given graph correctly?",
+    "options": {
+      "A": "Endothermic reaction with energy A in presence of enzyme and B in absence of enzyme.",
+      "B": "Exothermic reaction with energy A in presence of enzyme and B in absence of enzyme.",
+      "C": "Endothermic reaction with energy A in absence of enzyme and B in presence of enzyme.",
+      "D": "Exothermic reaction with energy A in absence of enzyme and B in presence of enzyme."
+    },
+    "answer": "b",
+    "explanation": "The graph shows the activation energies of catalyzed and uncatalyzed reations. A transition state is observed when the reactants are at the crest of the hump. At this state, they are ready to be converted to products. If the products are at a lower level than the reactants, the reaction is exothermic.",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/biomolecules/BIOMOLECULES-2016_B11_Q53-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q54",
+    "text": "A typical fat molecule is made up of",
+    "options": {
+      "A": "One glycerol and one fatty acid molecule",
+      "B": "Three glycerol and three fatty acid molecules",
+      "C": "Three glycerol molecules and one fatty acid molecule",
+      "D": "One glycerol and three fatty acid molecules."
+    },
+    "answer": "d",
+    "explanation": "Neutral or true fats are triglycerides which are formed by esterification of three molecules of fatty acids with one molecule of trihydric alcohol, glycerol (glycerine or trihydroxy propane).",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q55",
+    "text": "Which one of the following statements is wrong?",
+    "options": {
+      "A": "Uracil is a pyrimidine.",
+      "B": "Glycine is a sulphur containing amino acid.",
+      "C": "Sucrose is a disaccharide.",
+      "D": "Cellulose is a polysaccharide."
+    },
+    "answer": "b",
+    "explanation": "Glycine (abbreviated as Gly or G) is the smallest of the 20 amino acids commonly found in proteins, and indeed is the smallest possible (having a hydrogen substituent as its side-chain). The formula is NH2CH2COOH. Its codons are GGU, GGC, GGA, GGG of the genetic code.",
+    "year": "2016",
+    "chapter": "Biomolecules",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

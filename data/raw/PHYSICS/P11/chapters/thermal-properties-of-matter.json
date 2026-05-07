@@ -1,0 +1,540 @@
+[
+  {
+    "id": "Q1",
+    "text": "Three identical heat conducting rods are connected in series as shown in the figure. The rods on the sides have thermal conductivity 2K while that in the middle has thermal conductivity K. The left end of the combination is maintained at temperature 3T and the right end at T. The rods are thermally insulated from outside. In the steady state, temperature at the left junction is T1 and that at the right junction is T2. The ratio T1/T2 is: [2025]",
+    "options": {
+      "A": "5/3",
+      "B": "5/4",
+      "C": "3/2",
+      "D": "4/3"
+    },
+    "answer": "a",
+    "explanation": "Explanation: For a rod of length L and conductivity k: Since all rods have same A and L, AL\\frac{A}{L} cancels.Rod 1 (conductivity 2K):Q = 2K(3T-T1)Rod 2 (conductivity K):Q = K(T1-T2)Rod 3 (conductivity 2K):Q = 2K(T2-T)Because heat current is same:2K(3T-T1)=K(T1-T2)=2K(T2-T)Divide all by K:2(3T-T1)=(T1-T2)= 2(T2-T)Taking first and last:3T - T_1 = T_2 - T3T-T1 = T2-TT2= 4T - T1 (1)Using middle equality:2(3T - T_1) = T_1 - T_22 (3T-T1) = T1-T2Substitute (1):6T - 2T1= T1-(4T-T1)6T- 2T1 = 2T1-4T10T = 4T_110T = 4T1 Now from (1): So the ratio:",
+    "year": "2025",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2025_P11_Q1-main.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2025_P11_Q1-explanation1.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2025_P11_Q1-explanation2.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2025_P11_Q1-explanation3.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2025_P11_Q1-explanation4.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2025_P11_Q1-explanation5.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "A metallic bar of Young's modulus 0.5 × 1011 Nm-2, coefficient of linear thermal expansion 10-5 °C-1, length 1 m and cross-sectional area 10-3 m2 is heated from 0°C to 100°C without expansion or bending. The compressive force developed in the metallic bar is: [2024]",
+    "options": {
+      "A": "50 × 103 N",
+      "B": "100 × 103 N",
+      "C": "2 × 103 N",
+      "D": "5 × 103 N"
+    },
+    "answer": "a",
+    "explanation": "Explanation:Thermal strain = α ΔT = 10-5 × 100 = 10-3.Stress = E × (thermal strain) = 0.5 × 1011 × 10-3 = 5 × 107 N/m2.Force = stress × area = 5 × 107 × 10-3 = 5 × 104 N = 50 × 103 N.Final Answer: (a) 50 × 103 N.",
+    "year": "2024",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Given below are two statements: One is labeled as Assertion (A) and the other is labeled as Reason (R). Assertion (A): Houses made of concrete roofs overlaid with foam keep the room hotter during summer. Reason (R): The layer of foam insulation prohibits heat transfer, as it contains air pockets. In the light of the above statements, choose the correct answer from the options given below: [2024]",
+    "options": {
+      "A": "(A) is True but (R) is False.",
+      "B": "(A) is False but (R) is True.",
+      "C": "Both (A) and (R) are True but (R) is not the correct explanation of (A).",
+      "D": "Both (A) and (R) are True and (R) is the correct explanation of (A)."
+    },
+    "answer": "b",
+    "explanation": "Explanation:Assertion analysis: Concrete absorbs and stores heat; adding a layer of foam insulation on top of a concrete roof reduces heat transfer from the roof into the interior, so with foam-overlay the room tends to remain cooler (not hotter) during daytime compared to an uninsulated concrete roof. Hence Assertion (A) is false.Reason analysis: Foam contains air pockets and has low thermal conductivity, so it reduces heat transfer. This statement is true.Final Answer: (b) (A) is False but (R) is True.",
+    "year": "2024",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The energy that will be ideally radiated by a 100 kW transmitter in 1 hour is [2022]",
+    "options": {
+      "A": "36 × 104 J",
+      "B": "36 × 105 J",
+      "C": "1 × 105 J",
+      "D": "36 × 107 J"
+    },
+    "answer": "d",
+    "explanation": "36 × 107 J Explanation:Power P = 100 kW = 100 × 103 W. Time t = 1 hour = 3600 s.Energy E = P × t = (100 × 103) × 3600 = 3.6 × 108 J = 36 × 107 J.Final Answer: (d) 36 × 107 J",
+    "year": "2022",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A cup of coffee cools from 90°C to 80°C in t minutes, when the room temperature is 20°C. The time taken by a similar cup of coffee to cool from 80°C to 60°C at room temperature same at 20°C. [2021]",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "d",
+    "explanation": "13/5 t Explanation: According to Newton's Law of Cooling, the rate of cooling is proportional to the temperature excess above the surroundings. For cooling from T_1T1 to T2: Step 1: Time for cooling from 90°C → 80°C Step 2: Time for cooling from 80°C → 60°C Step 3: Ratio Simplify using logarithm rule: Evaluating gives: So,",
+    "year": "2021",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-main.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-explanation1.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-explanation2.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-explanation3.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-explanation4.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-explanation5.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-explanation6.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-explanation7.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2021_P11_Q5-explanation8.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q6",
+    "text": "The quantities of heat required to raise the temperature of two solid copper spheres of radii r1 and r2 (r1 = 1.5 r2) through 1 K are in the ratio: [2020]",
+    "options": {
+      "A": "3 : 2",
+      "B": "5 : 3",
+      "C": "27 : 8",
+      "D": "9 : 4"
+    },
+    "answer": "c",
+    "explanation": "27/8 Explanation:The heat required to raise the temperature of a body is:Q = m c ΔTFor the same material (copper) and same temperature rise (\\Delta T = 1ΔT=1 K):Q \\propto mQ ∝ mMass of a solid sphere: So,Q \\propto r^3Q ∝ r3Given:r_1 = 1.5\\, r_2r1 =1.5r2Then: Thus the required ratio is: Q1 : Q2 = 27 : 8",
+    "year": "2020",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2020_P11_Q6-explanation1.jpg",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2020_P11_Q6-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "A copper rod of 88 cm and an aluminium rod of unknown length have their increase in length independent of increase in temperature. The length of aluminium rod is: [2019] (αCu = 1.7 × 10-5 K-1 and αAl = 2.2 × 10-5 K-1)",
+    "options": {
+      "A": "6.8 cm",
+      "B": "113.9 cm",
+      "C": "88 cm",
+      "D": "68 cm"
+    },
+    "answer": "d",
+    "explanation": "68 cm Explanation:If increase in length is same for both rods for any ΔT, then αCu LCu = αAl LAl.LAl = (αCu LCu)/αAl = (1.7 × 10-5 × 88)/(2.2 × 10-5) = (1.7 × 88)/2.2 = 68 cm.",
+    "year": "2019",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The power radiated by a black body is P and it radiates maximum energy at wavelength If the temperature of the black body is now changed so that it radiates maximum energy at wavelength , the power radiated by it becomes nP. The value of n is:- [2018]",
+    "options": {
+      "A": "3/4",
+      "B": "4/3",
+      "C": "256/81",
+      "D": "81/256"
+    },
+    "answer": "c",
+    "explanation": "Explanation:Stefan-Boltzmann law: P ∝ T⁴.Wien's displacement law: T ∝ 1/λm.Therefore P ∝ (1/λm)⁴ ⇒ P₂/P₁ = (λm1/λm2)⁴.Given λm2 = (3/4) λm1, so P₂/P₁ = (1/(3/4))⁴ = (4/3)⁴ = 256/81.Hence n = 256/81.",
+    "year": "2018",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2018_P11_Q8-main.png",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2018_P11_Q8-main2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "A spherical black body with a radius of 12 cm radiates 450 watt power at 500 K. If the radius were halved and the temperature doubled, the power radiated in watt would be:- [2017]",
+    "options": {
+      "A": "450",
+      "B": "1000",
+      "C": "1800",
+      "D": "225"
+    },
+    "answer": "c",
+    "explanation": "1800 Explanation:Power radiated by a sphere: P = σ A T⁴ = σ (4πr²) T⁴.If r → r/2 then area ∝ r² → (1/4) of original. If T → 2T then T⁴ → 16 T⁴. Net factor = 16 × 1/4 = 4.Therefore new power = 4 × 450 W = 1800 W.",
+    "year": "2017",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Two rods A and B of different materials are welded together as shown in figure. Their thermal conductivities are K1 and K2. The thermal conductivity of the composite rod will be:- [2017]",
+    "options": {
+      "A": "[diagram]",
+      "B": "K1 + K2",
+      "C": "2(K1 + K2)",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Explanation:When two rods are placed side by side and both ends are at common temperatures, heat flows in parallel through both rods. If cross-sectional areas and length are same, equivalent conductivity is average of conductivities:Keq = (K1 + K2)/2.Thus option (d) is correct.",
+    "year": "2017",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2017_P11_Q10-main.png",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2017_P11_Q10-main2.png",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2017_P11_Q10-main3.png",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2017_P11_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Coefficient of linear expansion of brass and steel rods are α1 and α2. Lengths of brass and steel rods are ℓ1 and ℓ2 respectively. If (ℓ2 - ℓ1) is maintained same at all temperatures, which one of the following relations holds good ? [2016]",
+    "options": {
+      "A": "α1ℓ1 = α2ℓ2",
+      "B": "α1ℓ2 = α2ℓ1",
+      "C": "α1ℓ22 = α2ℓ12",
+      "D": "α12ℓ2 = α22ℓ1"
+    },
+    "answer": "a",
+    "explanation": "α1ℓ1 = α2ℓ2 Explanation:Let initial lengths be ℓ1, ℓ2. After temperature change Δt:New lengths: ℓ'1 = ℓ1(1 + α1 Δt), ℓ'2 = ℓ2(1 + α2 Δt).Given ℓ'2 - ℓ'1 = ℓ2 - ℓ1 for all Δt.Hence ℓ2α2 = ℓ1α1, or α1ℓ1 = α2ℓ2.",
+    "year": "2016",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A piece of ice falls from a height h so that it melts completely. Only one-quarter of the heat produced is absorbed by the ice and all energy of ice gets converted in to heat during its fall. The value of h is : [Latent heat of ice is 3.4 x 105 J/Kg and g = 10 N/kg] [2016]",
+    "options": {
+      "A": "68 km",
+      "B": "34 km",
+      "C": "544 km",
+      "D": "136 km"
+    },
+    "answer": "d",
+    "explanation": "136 Km Explanation:Energy produced by fall per unit mass = g h.Only one-quarter absorbed by ice: (1/4) g h = L.So h = 4L/g = 4 × (3.4 × 105)/10 = 1.36 × 105 m = 136 km.",
+    "year": "2016",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "A black body is at temperature 5760 K. The energy of radiation emitted by the body at wavelength 250 nm is U1, at wavelength 500 nm is U2 and that at 1000 nm is U3. Wien's constant, b = 2.88 x 106 nmK. Which of the following is correct? [2016]",
+    "options": {
+      "A": "U1 > U2",
+      "B": "U1 = 0",
+      "C": "U3 = 0",
+      "D": "U2 > U1"
+    },
+    "answer": "d",
+    "explanation": "U2 > U1 Explanation:Wien's law: λm T = b ⇒ λm = b/T = (2.88 × 106 nm·K)/(5760 K) = 500 nm.So intensity is maximum at 500 nm, therefore U2 > U1 (and U2 > U3).",
+    "year": "2016",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Two identical bodies are made of a material for which the heat capacity increases with temperature. One of these is at 100°C, while the other one is at 0°C. If the two bodies are brought into contact, then, assuming no heat loss, the final common temperature is [2016]",
+    "options": {
+      "A": "50°C",
+      "B": "more than 50°C",
+      "C": "less than 50°C but greater than 0°C",
+      "D": "0°C"
+    },
+    "answer": "b",
+    "explanation": "more than 50°C Explanation:Since heat capacity increases with temperature, the hotter body (100°C) has larger heat capacity than the colder one (0°C). On bringing into contact the final temperature will be closer to 100°C than to 0°C, therefore it will be more than 50°C.",
+    "year": "2016",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A body cools from a temperature 3T to 2T in 10 minutes. The room temperature is T. Assume that Newton's law of cooling is applicable. The temperature of the body at the end of next 10 minutes will be [2016]",
+    "options": {
+      "A": "7/4 T",
+      "B": "3/2 T",
+      "C": "4/3 T",
+      "D": "T"
+    },
+    "answer": "b",
+    "explanation": "3/2 T Explanation:Let Ts = T (surroundings). For an interval where object cools from Ta to Tb in time Δt, using Newton's law approximate form with average driving temperature:Time ∝ (temperature drop)/(average temperature - Ts).First interval: 3T → 2T, drop = T, average = (3T + 2T)/2 = 2.5T, driving = 2.5T - T = 1.5T. Thus proportional time ∝ T/1.5T = 2/3 (units).Second interval: 2T → T' (after next 10 min). Let drop = 2T - T' and average = (2T + T')/2, driving = (2T + T')/2 - T.Equating ratio of times for equal 10-minute intervals and solving gives T' = 3T/2.",
+    "year": "2016",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The two ends of a metal rod are maintained at temperatures 100°C and 110°C. the rate of heat flow in the rod is found to be 4.0 J/s. If the ends are maintained at temperatures 200°C and 210°C, the rate of heat flow will be: [2015]",
+    "options": {
+      "A": "4.0 J/s",
+      "B": "44.0 J/s",
+      "C": "16.8 J/s",
+      "D": "8.0 J/s"
+    },
+    "answer": "a",
+    "explanation": "4.0 J/s Explanation:Rate of heat flow for a uniform rod is proportional to the temperature difference between the ends (ΔT), provided geometry and thermal conductivity are unchanged.In both cases ΔT = 10°C, so heat flow remains the same: 4.0 J/s.",
+    "year": "2015",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The value of coefficient of volume expansion of glycerin is 5 ×10-4 K-1. The fractional change in the density of glycerin for a rise of 40°C in its temperature, is [2015]",
+    "options": {
+      "A": "0.025",
+      "B": "0.010",
+      "C": "0.015",
+      "D": "0.020"
+    },
+    "answer": "d",
+    "explanation": "0.020 Explanation:For small volume expansion γ, fractional decrease in density ≈ γ ΔT.γ ΔT = (5 × 10-4) × 40 = 0.020.",
+    "year": "2015",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "On observing light from three different stars P, Q and R, it was found that intensity of violet colour is maximum in the spectrum of P, the intensity of green colour is maximum in the spectrum of R and the intensity of red colour is maximum in the spectrum of Q. If TP, TQ and TR are the respective absolute temperatures of P, Q and R, then it can be concluded from the above observations that: [2015]",
+    "options": {
+      "A": "TP < TQ < TR",
+      "B": "TP > TQ > TR",
+      "C": "TP > TR > TQ",
+      "D": "TP < TR < TQ"
+    },
+    "answer": "c",
+    "explanation": "TP > TR > TQ Explanation:From Wein's Displacement law, From the light spectrum, Wien's law: higher temperature ⇒ peak shifts to shorter wavelength (violet < green < red). Therefore TP (violet peak) > TR (green peak) > TQ (red peak).",
+    "year": "2015",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2015_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2015_P11_Q18-explanation2.png",
+      "PHYSICS/P11/chapters/thermal-properties-of-matter/THERMAL_PROPERTIES_OF_MATTER-2015_P11_Q18-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Light with an energy flux of 25 x 104 W m-2 falls on a perfectly reflecting surface at normal incidence. If the surface area is 15 cm2, the average force exerted on the surface is [2014]",
+    "options": {
+      "A": "1.20 x 10-6 N",
+      "B": "3.0 x 10-6 N",
+      "C": "1.25 x 10-6 N",
+      "D": "2.50 x 10-6 N"
+    },
+    "answer": "d",
+    "explanation": "2.50 x 10-6 N Explanation:Radiation pressure on a perfectly reflecting surface: p = 2I/c, where I is energy flux and c is speed of light (3 × 108 m/s).I = 25 × 104 W m-2 = 2.5 × 105 W m-2.p = 2 × (2.5 × 105)/(3 × 108) = (5 × 105)/(3 × 108) = 1.6667 × 10-3 N m-2.Area A = 15 cm2 = 15 × 10-4 m2 = 1.5 × 10-3 m2.Force F = p × A = 1.6667 × 10-3 × 1.5 × 10-3 = 2.5 × 10-6 N.",
+    "year": "2014",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Certain quantity of water cools from 70°C to 60°C in the first 5 minutes and to 54° C in the next 5 minutes. The temperature of the surroundings is [2014]",
+    "options": {
+      "A": "42°C",
+      "B": "10°C",
+      "C": "45°C",
+      "D": "20°C"
+    },
+    "answer": "c",
+    "explanation": "45°C Explanation:Using Newton's law of cooling in the form: cooling rate ∝ (object temperature - surroundings temperature). For equal time intervals, temperature drops are proportional to differences from surroundings.For first interval: drop 70 → 60, drop = 10; average temperature ≈ 65 ⇒ driving difference = 65 - Ts.For second interval: drop 60 → 54, drop = 6; average ≈ 57 ⇒ driving difference = 57 - Ts.Using proportionality: 10/(65 - Ts) = 6/(57 - Ts).Solving: 10(57 - Ts) = 6(65 - Ts) ⇒ 570 - 10Ts = 390 - 6Ts ⇒ 180 = 4Ts ⇒ Ts = 45°C.",
+    "year": "2014",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Steam at 100°C is passed into 20 g of water at 10°C. When water acquires a temperature of 80°C, the mass of water present will be: [Take specific heat of water = 1 cal g-1 °C-1 and latent heat of steam = 540 cal g-1] [2014]",
+    "options": {
+      "A": "42.5 g",
+      "B": "22.5 g",
+      "C": "24 g",
+      "D": "31.5 gAns:"
+    },
+    "answer": "",
+    "explanation": "",
+    "year": "2014",
+    "chapter": "Thermal Properties of Matter",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-07T05:44:00.724Z",
-  "courseTitle": "Class 12 Biology NCERT Solutions, MCQs & Videos 2026-2027",
-  "courseUrl": "https://edurev.in/courses/716_Biology-Class-12",
-  "chapterCount": 13,
-  "pyqChapterCount": 13,
-  "scrapedChapterCount": 13,
-  "auditedChapterCount": 2,
-  "totalQuestions": 593,
-  "totalImages": 153,
-  "totalTables": 64,
+  "generatedAt": "2026-05-07T19:46:58.263Z",
+  "courseTitle": "NEET Class 12 Chemistry NCERT Solutions, MCQs & Videos",
+  "courseUrl": "https://edurev.in/courses/1548_Chemistry-Class-12",
+  "chapterCount": 18,
+  "pyqChapterCount": 9,
+  "scrapedChapterCount": 32,
+  "auditedChapterCount": 13,
+  "totalQuestions": 1217,
+  "totalImages": 327,
+  "totalTables": 18,
   "highRiskCount": 0,
-  "mediumRiskCount": 2,
+  "mediumRiskCount": 0,
   "schemaFailureCount": 0,
-  "benchmarkCoverage": 2
+  "benchmarkCoverage": 13
 }

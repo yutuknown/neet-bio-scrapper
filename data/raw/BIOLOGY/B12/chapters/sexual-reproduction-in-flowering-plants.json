@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "Q1",
+    "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): A typical unfertilised, angiosperm embryo sac at maturity is 8-nucleate and 7-celled. Reason (R): The egg apparatus has 2 polar nuclei",
+    "options": {
+      "A": "(A) is True but (R) is False.",
+      "B": "(A) is False but (R) is True.",
+      "C": "Both (A) and (R) are True and (R) is the correct explanation of (A)",
+      "D": "Both (A) and (R) are True but (R) is not the correct explanation of (A)"
+    },
+    "answer": "a",
+    "explanation": "Assertion (A): True A mature embryo sac in angiosperms is typically 8-nucleate and 7-celled: 1 egg cell, 2 synergids, 3 antipodal cells, 1 central cell with 2 polar nuclei → Total: 7 cells, 8 nucleiReason (R): False The egg apparatus consists of: 1 egg cell, 2 synergids. It does NOT contain the polar nuclei. The 2 polar nuclei are found in the central cell, not in the egg apparatus.Therefore, the correct answer is: 1. (A) is True but (R) is False.",
+    "year": "2025",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Both wind and water pollinated flowers are not very colourful and do not produce nectar. Reason (R): The flowers produce enormous amount of pollen grains in wind and water pollinated flowers",
+    "options": {
+      "A": "(A) is True but (R) is False.",
+      "B": "(A) is False but (R) is True.",
+      "C": "Both (A) and (R) are True and (R) is the correct explanation of (A).",
+      "D": "Both (A) and (R) are True but (R) is not the correct explanation of (A)."
+    },
+    "answer": "c",
+    "explanation": "Assertion (A): True Flowers pollinated by wind (anemophily) and water (hydrophily) are generally not showy, lack fragrance or nectar, and are not brightly coloured, since they do not need to attract pollinators like insects or animals.Reason (R): True To compensate for the lack of targeted pollination, such flowers produce a very large quantity of pollen grains to increase the chance that some will reach the female flower.R is the correct explanation of A because the absence of showy structures and nectar is an adaptation linked to the indiscriminate pollination mechanisms (wind/water), and high pollen production ensures successful pollination despite low efficiency.",
+    "year": "2025",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "How many meiotic and mitotic divisions need to occur for the development of a mature female gametophyte from the megaspore mother cell in an angiosperm plant?",
+    "options": {
+      "A": "1 Meiosis and 3 Mitosis",
+      "B": "No Meiosis and 2 Mitosis",
+      "C": "2 Meiosis and 3 Mitosis",
+      "D": "1 Meiosis and 2 Mitosis"
+    },
+    "answer": "a",
+    "explanation": "Meiosis (1 time):The megaspore mother cell (MMC) undergoes meiosis to form four haploid megaspores.Out of these, only one survives (the functional megaspore).Mitosis (3 times):The functional megaspore undergoes three successive mitotic divisions:First mitosis → 2 nucleiSecond mitosis → 4 nucleiThird mitosis → 8 nucleiThese 8 nuclei are arranged into 7 cells (3 antipodals, 2 synergids, 1 egg, and 1 central cell with 2 nuclei).",
+    "year": "2025",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Cells of the tapetum possess dense cytoplasm and generally have more than one nucleus. Reason (R): Presence of more than one nucleus in the tapetum increases the efficiency of nourishing the developing microspore mother cells",
+    "options": {
+      "A": "(A) is True but (R) is False.",
+      "B": "(A) is False but (R) is True.",
+      "C": "Both (A) and (R) are True and (R) is the correct explanation of (A).",
+      "D": "Both (A) and (R) are True but (R) is not the correct explanation of (A)."
+    },
+    "answer": "c",
+    "explanation": "Explanation:Tapetum is the innermost layer of the anther wall and plays a vital role in nourishing developing pollen grains.Assertion (A): TrueTapetal cells are metabolically active, possess dense cytoplasm, and often become binucleate or multinucleate either by mitosis without cytokinesis or by nuclear fusion.Reason (R): TrueThe multinucleate condition enhances metabolic activity and protein synthesis, thereby increasing the efficiency of nourishment provided to the developing microspores (pollen grains) after the megaspore mother cells undergo meiosis.Note: The tapetum primarily nourishes the developing pollen grains (microspores) rather than the microspore mother cells themselves, though it supports the entire process of pollen development.",
+    "year": "2025",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Identify the set of correct statements: A. The flowers of Vallisneria are colourful and produce nectar. B. The flowers of water lily are not pollinated by water. C. In most of water-pollinated species, the pollen grains are protected from wetting. D. Pollen grains of some hydrophytes are long and ribbon like. E. In some hydrophytes, the pollen grains are carried passively inside water. Choose the correct answer from the options given below",
+    "options": {
+      "A": "C, D and E only",
+      "B": "A, B, C and D only",
+      "C": "A, C, D and E only",
+      "D": "B, C, D and E only"
+    },
+    "answer": "d",
+    "explanation": "To determine the correct set of statements, we need to analyze each statement individually based on the characteristics of water-pollinated plants and specific examples given:Statement A: \"The flowers of Vallisneria are colourful and produce nectar.\" This statement is incorrect. Vallisneria is an example of a water-pollinated (hydrophilous) plant. Unlike insect-pollinated flowers, which are often colorful and produce nectar to attract pollinators, water-pollinated flowers typically lack bright colors and nectar because they do not need to attract insects or other animals. Vallisneria flowers are small and inconspicuous.Statement B: \"The flowers of water lily are not pollinated by water.\" This statement is correct. Water lilies are typically pollinated by insects, not by water. The large and colorful flowers of water lilies are adapted to attract insect pollinators, contrasting starkly with the typical features of water-pollinated flowers.Statement C: \"In most of water-pollinated species, the pollen grains are protected from wetting.\" This statement is correct. In water-pollinated plants, the pollen grains often have a covering or are structured in a way that prevents them from becoming waterlogged and sinking. This adaptation allows them to float on the water's surface and reach the female parts of other plants.Statement D: \"Pollen grains of some hydrophytes are long and ribbon like.\" This statement is correct. In some water-pollinated plants, such as seagrasses (e.g., Zostera), the pollen grains are indeed elongated and ribbon-like, which helps them to be transported more effectively by water currents.Statement E: \"In some hydrophytes, the pollen grains are carried passively inside water.\" This statement is also correct. Many hydrophytes have pollen grains that are transported by water currents, rather than being actively carried by animal pollinators or the wind. This passive transport is typical in water-pollinated species.Based on the analysis, Statements B, C, D, and E are correct, while Statement A is incorrect. Therefore, the correct answer is: Option D: B, C, D, and E only",
+    "year": "2024",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Identify the correct description about the given figure",
+    "options": {
+      "A": "Wind pollinated plant inflorescence showing flowers with well exposed stamens.",
+      "B": "Water pollinated flowers showing stamens with mucilaginous covering.",
+      "C": "Cleistogamous flowers showing autogamy.",
+      "D": "Compact inflorescence showing complete autogamy"
+    },
+    "answer": "a",
+    "explanation": "The given diagram shows a wind pollinated plant showing compact inflorescence and well exposed stamens. Stamens are exposed so complete autogamy does not occur.",
+    "year": "2024",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/B12/chapters/sexual-reproduction-in-flowering-plants/SEXUAL_REPRODUCTION_IN_FLOWERING_PLANTS-2024_B12_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The junction between ovule and funicle is represented by",
+    "options": {
+      "A": "Nucellus",
+      "B": "Integument",
+      "C": "Chalaza",
+      "D": "Hilum"
+    },
+    "answer": "d",
+    "explanation": "The ovule is a small structure attached to the placenta by means of a stalk called funicle. The body of the ovule fuses with funicle in the region called hilum. Thus, hilum represents the junction between ovule and funicle. Each ovule has one or two protective envelopes called integuments. Integuments encircle the nucellus except at the tip where a small opening called the micropyle is organised. Opposite the micropylar end, is the chalaza, representing the basal part of the ovule",
+    "year": "2024",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Which of the following represents the female gametophyte?",
+    "options": {
+      "A": "Ovule",
+      "B": "Embryo sac",
+      "C": "Nucellus",
+      "D": "Endosperm"
+    },
+    "answer": "b",
+    "explanation": "The embryo sac is the female gametophyte in plants, and it develops within the ovule. It contains the egg cell, which is fertilized during reproduction.",
+    "year": "2024",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/B12/chapters/sexual-reproduction-in-flowering-plants/SEXUAL_REPRODUCTION_IN_FLOWERING_PLANTS-2024_B12_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The flowers of Amorphophallus provide a safe place for the pollinator to lay eggs. This is an example of",
+    "options": {
+      "A": "Amensalism",
+      "B": "Anemophily",
+      "C": "Floral reward",
+      "D": "Commensalism"
+    },
+    "answer": "c",
+    "explanation": "The floral reward is a mutualistic relationship where the flower provides a benefit (such as a safe place or food) to the pollinator in exchange for pollination. In this case, Amorphophallus flowers provide a safe place for the pollinator to lay eggs.",
+    "year": "2024",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Which part of the ovule stores reserve food material?",
+    "options": {
+      "A": "Nucellus",
+      "B": "Integument",
+      "C": "Placenta",
+      "D": "Funicle"
+    },
+    "answer": "a",
+    "explanation": "The nucellus is the central part of the ovule that stores reserve food material. This food is utilized by the developing embryo during seed development.",
+    "year": "2024",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Pollen grains remain preserved as fossils due to the presence of",
+    "options": {
+      "A": "Epidermal layer",
+      "B": "Tapetum",
+      "C": "Exine layer",
+      "D": "Intine layer"
+    },
+    "answer": "c",
+    "explanation": "Pollen grains are preserved as fossils mainly because of the exine layer. The exine is the outermost layer of the pollen grain, made up of a durable substance called sporopollenin, which is highly resistant to decay, chemicals, and environmental conditions. This makes the exine layer an effective protective barrier, allowing pollen grains to be preserved over long periods of time as fossils. The other layers (epidermal layer, tapetum, and intine layer) do not provide the same level of protection for fossilization as the exine layer.",
+    "year": "2024",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Large, colourful, fragrant flowers with nectar are seen in",
+    "options": {
+      "A": "Insect pollinated plants",
+      "B": "Bird pollinated plants",
+      "C": "Bat pollinated plants",
+      "D": "Wind pollinated plants"
+    },
+    "answer": "a",
+    "explanation": "Large, colorful, fragrant flowers with nectar are features that attract biotic pollinators. Insect pollinated plants, also known as entomophilous plants, often have these characteristics to attract insects such as bees, butterflies, and moths, which play a significant role in their pollination process.",
+    "year": "2023",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "In angiosperm, the haploid, diploid and triploid structures of a fertilized embryo sac sequentially are",
+    "options": {
+      "A": "Synergids, Primary endosperm nucleus and zygote",
+      "B": "Antipodals, synergids, and primary endosperm nucleus",
+      "C": "Synergids, Zygote and Primary endosperm nucleus",
+      "D": "Synergids, antipodals and Polar nuclei"
+    },
+    "answer": "c",
+    "explanation": "Synergids are the cells of gametophyte and hence these are haploid Zygote is formed by fusion of two gametes and thus it is diploid. Primary endosperm nucleus is formed by the fusion of diploid secondary nucleus with a male gamete. Therefore, it is triploid.",
+    "year": "2023",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Given below are two statements : One labelled as Assertion A and the other labelled as Reason R : Assertion A : In gymnosperms the pollen grains are released from the microsporangium and carried by air currents. Reason R : Air currents carry the pollen grains to the mouth of the archegonia where the male gametes are discharged and pollen tube is not formed",
+    "options": {
+      "A": "Both A and R are true but R is NOT the current explanation of A",
+      "B": "A is true but R is false",
+      "C": "A is false but R is true",
+      "D": "Both A and R are true and R is the correct explanation of A"
+    },
+    "answer": "b",
+    "explanation": "The correct answer is Option B : A is true but R is false. Assertion A is true. In gymnosperms, the pollen grains are indeed released from the microsporangium and are typically carried by air currents, a method of pollination known as anemophily. Reason R is false. Although it's true that air currents carry the pollen grains, the pollen grains do not directly reach the mouth of the archegonia in gymnosperms. Instead, they land on the ovule, where they germinate and form a pollen tube that delivers the male gametes to the egg. Therefore, a pollen tube is formed in gymnosperms, contrary to what Reason R suggests.",
+    "year": "2023",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "What is the function of tassels in the corn cob?",
+    "options": {
+      "A": "To protect seeds",
+      "B": "To attract insects",
+      "C": "To trap pollen grains",
+      "D": "To disperse pollen grains"
+    },
+    "answer": "c",
+    "explanation": "Windpollinated flowers often have a single ovule in each ovary and numerous flowers packed into an inflorescence; a familiar example is the corn cob - the tassels you see are nothing but the stigma and style which wave in the wind to trap pollen grains. Wind-pollination is quite common in grasses",
+    "year": "2023",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/B12/chapters/sexual-reproduction-in-flowering-plants/SEXUAL_REPRODUCTION_IN_FLOWERING_PLANTS-2023_B12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "In which of the following sets of families, the pollen grain are viable for months?",
+    "options": {
+      "A": "Solanaceae, Poaceae and Liliaceae",
+      "B": "Brassicaceae, Liliaceae and Poaceae",
+      "C": "Rosaceae, Liliaceae and Poaceae",
+      "D": "Leguminosae, Solanaceae and Rosaceae"
+    },
+    "answer": "d",
+    "explanation": "In some plant families, the pollen grains are viable for extended periods, even for months. The families listed in Option D are known to have pollen grains that remain viable for long durations:Leguminosae (Fabaceae): Pollen grains of many legumes (e.g., beans, peas) can remain viable for an extended period.Solanaceae: Members of the Solanaceae family (e.g., tomatoes, peppers) also produce pollen that can remain viable for a longer time.Rosaceae: Pollen grains in many members of the Rosaceae family (e.g., apples, roses) can remain viable for months.Thus, the correct set of families where pollen grains are viable for months is Leguminosae, Solanaceae, and Rosaceae.",
+    "year": "2023",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Transfer of pollen grains from anther to stigma of another flower of the same plant is known as",
+    "options": {
+      "A": "Geitonogamy",
+      "B": "Xenogamy",
+      "C": "Autogamy",
+      "D": "Cleistogamy"
+    },
+    "answer": "a",
+    "explanation": "Geitonogamy refers to the transfer of pollen grains from the anther to the stigma of another flower on the same plant. It is a form of cross-pollination but occurs between flowers of the same individual plant.Here is a brief explanation of the other options:Xenogamy: This is the transfer of pollen from the anther of one plant to the stigma of a different plant, usually of the same species.Autogamy: This is self-pollination, where pollen from the anther of a flower fertilizes the stigma of the same flower.Cleistogamy: This is a type of self-pollination that occurs in closed flowers, where the flowers do not open, and pollination occurs without exposure to the external environment.Thus, the correct term for pollen transfer between flowers of the same plant is Geitonogamy.",
+    "year": "2023",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "In angiosperms, the correct sequence of events leading to the formation of female gametophyte in the ovule is: A. 3 successive free nuclear divisions in functional megaspore. B. Degeneration of 3 megaspores. C. Meiotic division in megaspore mother cell. D. Migration of 3 nuclei towards each pole. E. Formation of a wall resulting in seven-celled embryo sac",
+    "options": {
+      "A": "(A), (B), (C), (D), (E)",
+      "B": "(C), (E), (A), (D), (B)",
+      "C": "(B), (C), (A), (D), (E)",
+      "D": "(C), (B), (A), (D), (E)"
+    },
+    "answer": "d",
+    "explanation": "The formation of the female gametophyte (embryo sac) in angiosperms occurs in the ovule in a series of steps:(C) Meiotic division in megaspore mother cell: The process begins with meiosis in the megaspore mother cell, which produces four megaspores, but only one of them is functional, and the others degenerate.(B) Degeneration of 3 megaspores: Out of the four megaspores formed, three degenerate, and the remaining one becomes the functional megaspore.(A) Three successive free nuclear divisions in the functional megaspore: The functional megaspore undergoes three rounds of free nuclear divisions, where no cell walls are formed, leading to the formation of eight nuclei.(D) Migration of 3 nuclei towards each pole: The eight nuclei are arranged with three migrating towards the micropylar pole (the pole near the opening of the ovule), and three towards the chalazal pole (the opposite end).(E) Formation of a wall resulting in the seven-celled embryo sac: After the migration of the nuclei, cell walls form around the nuclei, resulting in the formation of a seven-celled structure with the egg cell, two synergids, three antipodal cells, and a central cell with two polar nuclei.Thus, the correct sequence of events is: (C), (B), (A), (D), (E).",
+    "year": "2023",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Identify the incorrect statement related to Pollination",
+    "options": {
+      "A": "Flowers produce, foul odours to attract flies and beetles to get pollinated.",
+      "B": "Moths and butterflies are the most dominant pollinating agents among insects.",
+      "C": "Pollination by water is quite rare in flowering plants.",
+      "D": "Pollination by wind is more common amongst abiotic pollination."
+    },
+    "answer": "b",
+    "explanation": "Among the animals, insects, particularly bees are the dominant biotic pollinating agents.",
+    "year": "2022",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Given below are two statements: Statement I: Cleistogamous flowers are invariably autogamous. Statement II: Cleistogamy is disadvantageous as there is no chance for cross pollination",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect.",
+      "B": "Statement I is incorrect but Statement II is correct.",
+      "C": "Both Statement I and Statement II are correct.",
+      "D": "Both Statement I and Statement II are incorrect."
+    },
+    "answer": "c",
+    "explanation": "Cleistogamous flowers does not open at all. In such flowers autogamy occurs. Lack of cross pollination is a disadvantage of cleistogamy.",
+    "year": "2022",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [
+      "BIOLOGY/B12/chapters/sexual-reproduction-in-flowering-plants/SEXUAL_REPRODUCTION_IN_FLOWERING_PLANTS-2022_B12_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The residual persistent part which forms the perisperm in the seeds of beet is [NEET 2022 Phase 2 ]",
+    "options": {
+      "A": "Integument",
+      "B": "Calyx",
+      "C": "Endosperm",
+      "D": "Nucellus"
+    },
+    "answer": "d",
+    "explanation": "Mostly nucellus is consumed after fertilisation due to absorption of food by developing embryo in a seed. Sometimes, the nucellus remains persistent in the seed and is called perisperm.",
+    "year": "2022",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "To ensure that only the desired pollens fall on the stigma in artificial hybridization process [NEET 2022 Phase 2 ] (a) the female flower buds of plant producing unisexual flowers need not be bagged. (b) there is no need to emasculate unisexual flowers of selected female parent (c) emasculated flowers are to be bagged immediately after cross pollination (d) emasculated flowers are to be bagged after removal of anthers (e) bisexual flowers, showing protogyny are never selected for cross Choose the correct answer from the options given belows",
+    "options": {
+      "A": "(a), (d) and (e) only",
+      "B": "(a), (b) and (c) only",
+      "C": "(b), (c) and (d) only",
+      "D": "(b), (c) and (e) only"
+    },
+    "answer": "c",
+    "explanation": "(b) There is no need to emasculate unisexual flowers of the selected female parent - This statement is correct because unisexual flowers do not have male reproductive parts (stamens), so there is no need to remove anthers (emasculate) to prevent self-pollination. (c) Emasculated flowers are to be bagged immediately after cross-pollination - This statement is correct because, after cross-pollination with the desired pollen, the flowers need to be bagged to prevent further contamination from unwanted pollen or other pollinating agents. (d) Emasculated flowers are to be bagged after removal of anthers - This statement is correct. The emasculated flowers should be bagged after anther removal and before cross-pollination. This prevents contamination with unwanted pollen. After cross-pollination, the flowers should be bagged again to avoid any further contamination.The other options are incorrect : (a) The female flower buds of plant producing unisexual flowers need not be bagged - This statement is incorrect because even unisexual flowers need to be bagged to prevent contamination from unwanted pollen or other pollinating agents. (e) Bisexual flowers, showing protogyny, are never selected for cross - This statement is incorrect because protogyny (when the female reproductive part matures before the male reproductive part) can reduce the chances of self-pollination, making these flowers suitable for cross-pollination.",
+    "year": "2022",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "In general the egg apparatus of embryo sac in angiosperm consists of [NEET 2022 Phase 2 ]",
+    "options": {
+      "A": "One egg cell, two synergids, two antipodal cells, two Polar nuclei",
+      "B": "One egg cell, two synergids, three antipodal cells, two Polar nuclei",
+      "C": "One egg cell, two synergids, two antipodal cells, three Polar nuclei",
+      "D": "One egg cell, three synergids, two antipodal cells, two Polar nuclei"
+    },
+    "answer": "b",
+    "explanation": "⌃The egg apparatus of an embryo sac consists of one egg cell and two synergids.Whereas the embryo sac consists of one egg cell, two synergies, three antipodals and two polar nuclei.As per the question none of the option is correct however considering the composition of embryo sac the correct option should be 2.",
+    "year": "2022",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "The term used for transfer of pollen grains from anthers of one plant to stigma of a different plant which during pollination, brings genetically different types of pollen grains to stigma, is",
+    "options": {
+      "A": "Chasmogamy",
+      "B": "Cleistogamy",
+      "C": "Xenogamy",
+      "D": "Geitonogamy"
+    },
+    "answer": "c",
+    "explanation": "Xenogamy refers to the transfer to pollen grains from anthers of one plant to stigma of a different plant which during pollination, brings genetically different types of pollen grains to stigma.Cleistogamy is a condition in which flower does not open.Geitonogamy refers to the transfer of pollen grain from anther to stigma of another flower of the same plant.Chasmogamy is a condition in which flowers remain open.",
+    "year": "2021",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "A typical angiosperm embryo sac at maturity is",
+    "options": {
+      "A": "7-nucleate and 7-celled",
+      "B": "8-nucleate and 8-celled",
+      "C": "8-nucleate and 7-celled",
+      "D": "7-nucleate and 8-celled"
+    },
+    "answer": "c",
+    "explanation": "A typical angiospermic embryo sac has seven cells that are three antipodals, one central cell, one egg cell and two synergids.The central cell has two polar nuclei, hence the embryo sac is eight nucleated.",
+    "year": "2021",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "In some members of which of the following pairs of families, pollen grains retain their viability for months after release?",
+    "options": {
+      "A": "Poaceae; Solanaceae",
+      "B": "Rosaceae; Leguminosae",
+      "C": "Poaceae; Rosaceae",
+      "D": "Poaceae; Leguminosae"
+    },
+    "answer": "b",
+    "explanation": "In some members of Rosaceae, Leguminosae and Solanaceae pollen grains maintain viability for a month due to sporopollenin.The outer wall or exine of pollen grains contains sporopollenin. It is one of the most resistant organic compounds known. It protects pollen grains from external factors such as temperature, acid, alkali, etc. because of sporopollenin, pollen grains are preserved as fossils.",
+    "year": "2021",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Diadelphous stamens are found in",
+    "options": {
+      "A": "China rose and citrus",
+      "B": "China rose",
+      "C": "Citrus",
+      "D": "Pea"
+    },
+    "answer": "d",
+    "explanation": "Diadelphous condition is a condition of arrangement of filaments and stamen in a flower, e.g. Pea. In this condition, filaments of nine different stamens are connected into one unit and the tenth posterior stamen remains out of the bundle as a stand part. The androecium of pea flower is diadelphous because the filaments of the anther are united in two bundles. In the case of pea, out of ten, nine stamens form a staminal tube while one is free. Thus, the correct answer is 'Pea' which exhibit diadelphous conditionChina rose has monoadelphous stamens while, Citrus has polyadelhphous stamens. Monoadelphous stamens are grouped in single bundle whereas polyadelphous stamens occur in more than two bundles.",
+    "year": "2021",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The body of the ovule is fused within the funicle at",
+    "options": {
+      "A": "Chalaza",
+      "B": "Hilum",
+      "C": "Micropyle",
+      "D": "Nucellus"
+    },
+    "answer": "b",
+    "explanation": "Understanding the Components:- The ovule consists of several parts: the chalaza, micropyle, and the body of the ovule itself. The funicle is a stalk that connects the ovule to the ovary wall.2. Identifying the Junction:- The question asks for the specific site where the ovule is attached to the funicle. This is critical to determine which of the given options is correct.3. Analyzing the Options:- Option 1: Hilum - This is the point where the ovule is attached to the funicle.- Option 2: Micropyle - This is the opening at the opposite end of the ovule, not where it attaches to the funicle.- Option 3: Nucellus - This is the tissue within the ovule but does not refer to the attachment point.- Option 4: Chalaza - This is the end of the ovule opposite the micropyle, but it is not the point of attachment to the funicle.4. Conclusion:- The correct answer is Option 1: Hilum, as it is the specific site where the body of the ovule is fused with the funicle.Final Answer:The body of the ovule is fused within the funicle at the hilum.",
+    "year": "2020",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "The plant parts which consist of two generations one within the other: (i) Pollen grains inside the anther (ii) Germinated pollen grain with two male gametes (iii) Seed inside the fruit (iv) Embryo sac inside the ovule",
+    "options": {
+      "A": "(iii) and (iv)",
+      "B": "(i) and (iv)",
+      "C": "(ii) only",
+      "D": "(i) only"
+    },
+    "answer": "b",
+    "explanation": "The plant parts which consist of two generations one within the other are pollen grains inside the anther and embryo sac inside the ovule. Pollen grain is haploid inside the diploid anther. Embryo sac is haploid inside the diploid ovule.",
+    "year": "2020",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Persistent nucellus in the seed is known as",
+    "options": {
+      "A": "Tegmen",
+      "B": "Chalaza",
+      "C": "Perisperm",
+      "D": "Hilum"
+    },
+    "answer": "c",
+    "explanation": "In some seeds, remains of nucellus persist. This residual nucellus which persists in the seed is called perisperm Examples: Black pepper, coffee, castor, cardamom, Nymphaea.",
+    "year": "2019",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "What is the fate of the male gametes discharged in the synergid?",
+    "options": {
+      "A": "One fuses with the egg and other fuses with central cell nuclei.",
+      "B": "One fuses with the egg, other(s) degenerates in the synergid.",
+      "C": "All fuse with the egg.",
+      "D": "One fuses with the egg, other(s) fuse(s) with synergid nucleus."
+    },
+    "answer": "a",
+    "explanation": "In flowering plants,Out of the two male gametes, one gametes fuses with the nucleus of the nucleus of the egg cell and forms the zygote. The process is known as syngamy.The other male gamete fuses with the two polar nuclei located in the central cell to form a triploid primary endosperm nucleus (PEN). Since, the process involves the fusion of three haploid nuclei, it is known as triple fusion.Since two kinds of fusions (syngamy and triple fusion) take place in an embryo sac it is known as double fertilisation",
+    "year": "2019",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "Which one of the following statement regarding post-fertilisation development in flowering plants is incorrect?",
+    "options": {
+      "A": "Ovules develops into embryo sac.",
+      "B": "Ovary develops into fruit.",
+      "C": "Zygote develops into embryo.",
+      "D": "Central cell develops into endosperm."
+    },
+    "answer": "a",
+    "explanation": "Post-fertilisation changes in flowering plants:Ovary develops into fruit Zygote develops into embryo Central cell (specifically the primary endosperm nucleus formed after triple fusion) develops into endosperm Ovule develops into seed Option (a) is incorrect because ovules develop into seeds, not embryo sac. The embryo sac (female gametophyte) is formed before fertilisation from the functional megaspore through mitotic divisions. After fertilisation, the entire ovule transforms into a seed.",
+    "year": "2019",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "In some plants, the female gamete develops into embryo without fertilization. This phenomenon is known as",
+    "options": {
+      "A": "Syngamy",
+      "B": "Parthenocarpy",
+      "C": "Parthenogenesis",
+      "D": "Autogamy"
+    },
+    "answer": "c",
+    "explanation": "Explanation:Parthenogenesis is the process whereby the female gamete (egg) develops into a new organism without fertilisation. Examples include development of haploid plants from unfertilized eggs.Note: Parthenocarpy is the development of seedless fruits without fertilisation (e.g., banana, seedless grapes). Syngamy is the fusion of gametes. Autogamy is self-pollination.",
+    "year": "2019",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Pinus seed cannot germinate and establish without fungal association. This is because",
+    "options": {
+      "A": "it has very hard seed coat",
+      "B": "Its seed contain inhibitors that prevent germination",
+      "C": "its embryo is immature",
+      "D": "it has obligate association with mycorrhizae"
+    },
+    "answer": "d",
+    "explanation": "The pinus seeds have a very hard seed coat so without fungal association the seed cannot absorb water. The mycorrhizae penetrate deep inside the seeds to moisten them.",
+    "year": "2019",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "Placentation, in which ovules develop on the inner wall of the ovary or in peripheral part, is",
+    "options": {
+      "A": "Parietal",
+      "B": "Free central",
+      "C": "Basal",
+      "D": "Axile"
+    },
+    "answer": "a",
+    "explanation": "In parietal placentation the ovules develop on the inner wall of ovary or in peripheral part. E.g. Mustard, Argemone, etc.",
+    "year": "2019",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "Which of the following has proved helpful in preserving pollen as fossils?",
+    "options": {
+      "A": "Pollenkitt",
+      "B": "Cellulosic intine",
+      "C": "Oil content",
+      "D": "Sporopollenin"
+    },
+    "answer": "d",
+    "explanation": "Sporopollenin cannot be degraded by enzyme; strong acids and alkali, therefore it is helpful in preserving pollen as fossil.",
+    "year": "2018",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "Winged pollen grains are present in",
+    "options": {
+      "A": "Mustard",
+      "B": "Cycas",
+      "C": "Mango",
+      "D": "Pinus"
+    },
+    "answer": "d",
+    "explanation": "Winged pollen grains are present in Pinus. Each pollen grain has two wing-like structures which enables it to float in air, as an adaptation for dispersal by the wind.",
+    "year": "2018",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q38",
+    "text": "Double fertilisation is",
+    "options": {
+      "A": "Fusion of two male gametes of a pollen tube with two different eggs",
+      "B": "Fusion of one male gamete with two polar nuclei",
+      "C": "Fusion of two male gametes with one egg",
+      "D": "Syngamy and triple fusion."
+    },
+    "answer": "d",
+    "explanation": "⌃Double fertilization occurs only in angiosperms. Two types of fusion, syngamy and triple fusion takes place.",
+    "year": "2018",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "compact_upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q39",
+    "text": "Functional megaspore in an angiosperm develops into an",
+    "options": {
+      "A": "Endosperm",
+      "B": "Embryo sac",
+      "C": "Embryo",
+      "D": "Ovule"
+    },
+    "answer": "b",
+    "explanation": "In angiosperms, the functional megaspore is the first cell of female gametophyte. It enlarges and undergoes three nuclear mitotic divisions to form embryo sac.",
+    "year": "2017",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q40",
+    "text": "Attractants and rewards are required for",
+    "options": {
+      "A": "Entomophily",
+      "B": "Hydrophily",
+      "C": "Cleistogamy",
+      "D": "Anemophily"
+    },
+    "answer": "a",
+    "explanation": "Insect pollinated plants provide rewards as edible pollen grain and nectar as usual rewards. In order to materialize and maximize pollination flowers have developed a set of attributes which are aimed at attracting the pollinators called attractants.",
+    "year": "2017",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q41",
+    "text": "Flowers which have single ovule in the ovary and are packed into inflorescence are usually pollinated by",
+    "options": {
+      "A": "Bee",
+      "B": "Wind",
+      "C": "Bat",
+      "D": "Water"
+    },
+    "answer": "b",
+    "explanation": "Wind pollination or anemophily occurs in flowers which are having a single ovule in each ovary, and numerous flowers packed in an inflorescence. It is a non-directional pollination.",
+    "year": "2017",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q42",
+    "text": "A dioecious flowering plant prevents both",
+    "options": {
+      "A": "Autogamy and geitonogamy",
+      "B": "Geitonogamy and xenogamy",
+      "C": "Cleistogamy and xenogamy",
+      "D": "Autogamy and xenogamy."
+    },
+    "answer": "a",
+    "explanation": "Autogamy occurs in bisexual flowers. Geitonogamous flowers are unisexual but present in the same plant. Dioecious condition is observed when unisexual male and female flowers are present on different plants and it prevents both autogamy and geitonogamy.",
+    "year": "2017",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q43",
+    "text": "Double fertilisation is exhibited by",
+    "options": {
+      "A": "Algae",
+      "B": "Fungi",
+      "C": "Angiosperms",
+      "D": "Gymnosperms"
+    },
+    "answer": "c",
+    "explanation": "Double fertilisation is the characteristic feature of angiosperms. Here, two male gametes are released in the embryo sac or female gametophyte. One male gamete fuses with the egg cell to form zygote that gives rise to embryo whereas the other male gamete fuses with the secondary nucleus to form primary endosperm nucleus (PEN) that gives rise to endosperm.",
+    "year": "2017",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q44",
+    "text": "In majority of angiosperms",
+    "options": {
+      "A": "Egg has a filiform apparatus.",
+      "B": "There are numerous antipodal cells.",
+      "C": "Reduction division occurs in the megaspore mother cells.",
+      "D": "A small central cell is present in that embryo sac."
+    },
+    "answer": "c",
+    "explanation": "Megaspore mother cell of megasporangium undergoes meiosis and forms megaspore tetrad, out of which, one megaspore is functional. Central cell of embryo sac is the large cell consisting of two polar nuclei. Synergids, the flanking cells of the egg cell, have finger-like projections of the wall in their cytoplasm, the filiform apparatus.An embryo sac has three antipodal cells which provide nutrition to developing the embryo.",
+    "year": "2016",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q45",
+    "text": "Pollination in water hyacinth and water lily is brought about by the agency of",
+    "options": {
+      "A": "Water",
+      "B": "Insects or wind",
+      "C": "Birds",
+      "D": "Bats"
+    },
+    "answer": "b",
+    "explanation": "Water lily has actinomorphic flowers and produce large number of stamen to favour anemophily (wind pollination). Water hyacinth exhibit entomophily and is pollinated by insects that feed on its foliage.",
+    "year": "2016",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q46",
+    "text": "The ovule of an angiosperm is technically equivalent to",
+    "options": {
+      "A": "Megasporangium",
+      "B": "Megasporophyll",
+      "C": "Megasporem other cell",
+      "D": "Megaspore"
+    },
+    "answer": "a",
+    "explanation": "The archesporial cells (2n) of young ovule cut off the parietal cell and are differentiated into megaspore mother cells (2n). The diploid megaspore mother cells then undergo meiosis to form a linear tetrad of megaspores. Megaspore is the first cell of the female gametophyte. Out of four, the functional megaspore undergoes megagametogenesis to 8-nucleate and 7-celled embryo sac. Ovule serves as megasporangium wherein megaspores production occurs.",
+    "year": "2016",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q47",
+    "text": "The coconut water from tender coconut represents",
+    "options": {
+      "A": "Free nuclear proembryo",
+      "B": "Free nuclear endosperm",
+      "C": "Endocarp",
+      "D": "Fleshy mesocarp"
+    },
+    "answer": "b",
+    "explanation": "The coconut water from tender coconut represents the free nuclear or liquid endosperm. During the development of nuclear type of endosperm, the primary endosperm mother cell divides by free nuclear divisions, and these divisions are not followed by cell wall formation. Thus, the free nuclei remain in the cytoplasm of the embryo sac.",
+    "year": "2016",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q48",
+    "text": "Which one of the following statements is not true?",
+    "options": {
+      "A": "Pollen grains of many species cause severe allergies.",
+      "B": "Stored pollen in liquid nitrogen can be used in the crop breeding programmes.",
+      "C": "Tapetum helps in the dehiscence of anther.",
+      "D": "Exine of pollen grains is made up of sporopollenin."
+    },
+    "answer": "c",
+    "explanation": "Tapetum is important for the nutrition and development of pollen grains, as well as a source of precursors for the pollen coat.",
+    "year": "2016",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q49",
+    "text": "Seed formation without fertilisation in flowering plants involves the process of",
+    "options": {
+      "A": "Somatic hybridisation",
+      "B": "Apomixis",
+      "C": "Sporulation",
+      "D": "Budding"
+    },
+    "answer": "b",
+    "explanation": "Apomixis is a reproductive process which does not involve gametic fusion. In apomictic flowering plants there is no fertilisation and embryos develop simply by division of a cell of ovule.",
+    "year": "2016",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q50",
+    "text": "Which of the following statements is not correct?",
+    "options": {
+      "A": "Pollen germination and pollen tube growth are regulated by chemical components of pollen interacting with those of the pistil.",
+      "B": "Some reptiles have also been",
+      "C": "Pollen grains of many species can germinate on the stigma of a flower, but only one pollen tube of the same species grows into the style.",
+      "D": "Insects that consume pollen or nectar without bringing about pollination are called pollen/ nectar robbers."
+    },
+    "answer": "c",
+    "explanation": "Pollen-pistil interaction is the group of events that occur from the time of pollen deposition over the stigma to the time of pollen tube entry into ovule. It is a safety measure to ensure that illegitimate crossing does not occur. Pollen grains of number of plants may settle over a stigma. The pollens belonging to same species would germinate while other fail to do so but the pollen tube of the compatible pollen will grow through the style to reach the ovule whereas growth of incompatible pollens will be arrested at stigmatic disc or sometimes in the beginning part of style.",
+    "year": "2016",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q51",
+    "text": "Proximal end of the filament of stamen is attached to the",
+    "options": {
+      "A": "Placenta",
+      "B": "Thalamus or petal",
+      "C": "Anther",
+      "D": "Connective"
+    },
+    "answer": "b",
+    "explanation": "The proximal end is attached to the thalamus whereas the distal end bears anther.",
+    "year": "2016",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "class": "B12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

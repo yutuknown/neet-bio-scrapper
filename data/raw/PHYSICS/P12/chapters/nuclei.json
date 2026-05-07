@@ -1,0 +1,559 @@
+[
+  {
+    "id": "Q1",
+    "text": "In the nuclear emission stated above, the mass number and atomic number of the product Q respectively, are",
+    "options": {
+      "A": "280, 81",
+      "B": "286, 80",
+      "C": "288, 82",
+      "D": "286, 79"
+    },
+    "answer": "d",
+    "explanation": "286, 79 To determine the mass number and atomic number of the final product Q in the provided nuclear reactions, we need to analyze the impact of each type of decay (alpha, positron emission, beta-minus decay, and electron capture) on the mass number and atomic number of the initial element 1. Alpha decay (α decay): In alpha decay, an alpha particle (which is a nucleus) is emitted. This reduces the mass number by 4 units and the atomic number by 2 units. 2. Beta plus decay (positron emission, e+): During positron emission, a proton in the nucleus is transformed into a neutron, and a positron is emitted. This decreases the atomic number by 1 but does not change the mass number. 3. Beta-minus decay (β- decay): In a beta-minus decay, a neutron in the nucleus converts into a proton and an electron (beta particle) and an antineutrino are emitted. This results in an increase in the atomic number by 1, while the mass number remains unchanged. 4. Electron capture (e- capture): During electron capture, an atomic electron is absorbed by the nucleus, causing a proton to convert into a neutron. This process decreases the atomic number by 1 without altering the mass number. From the calculations above, the mass number of Q is 286, and its atomic number is 79. D: Mass number = 286, Atomic number = 79",
+    "year": "2024",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q1-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q1-explanation2.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q1-explanation3.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q1-explanation4.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q1-explanation5.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q1-explanation6.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q1-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "The ratio of nuclear densities and nuclear volumes of and are, respectively",
+    "options": {
+      "A": "13 : 1 and 14 : 1",
+      "B": "14 : 1 and 1 : 1",
+      "C": "1 : 1 and 14 : 1",
+      "D": "1 : 1 and 13 : 1"
+    },
+    "answer": "c",
+    "explanation": "Nuclear density is nearly constant for all nuclei because it depends on mass and volume, and both increase proportionally with the mass number. So, the ratio of nuclear densities of Fe-56 to He-4 is 1:1. The volume of a nucleus is proportional to its mass number. Fe has mass number 56 and He has 4. Therefore, the volume ratio of Fe to He is 56:4, which simplifies to 14:1.",
+    "year": "2024",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q2-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q2-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "An excited heavy nucleus emits radiations in the following sequence: Where Z and A are the atomic and mass number of element X, respectively. The possible emitted particles or radiations in the sequence, respectively are",
+    "options": {
+      "A": "e⁺, α, e⁻, α, γ",
+      "B": "e⁻, α, e⁺, α, γ",
+      "C": "α, e⁻, α, e⁺, γ",
+      "D": "α, e⁺, α, e⁻, γ"
+    },
+    "answer": "c",
+    "explanation": "First step: Mass number decreases by 4, atomic number by 2 → alpha particle (α) emitted.Second step: Atomic number increases by 1 → beta-minus (e⁻) emitted.Third step: Mass number decreases by 4, atomic number by 2 → another alpha (α) emitted.Fourth step: Atomic number decreases by 1 → beta-plus (e⁺) emitted.Fifth step: No change in mass or atomic number → gamma (γ) radiation emitted.",
+    "year": "2024",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q3-main.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q3-main2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Water is used as a coolant in a nuclear reactor because of its",
+    "options": {
+      "A": "High thermal expansion coefficient",
+      "B": "High specific heat capacity",
+      "C": "Low density",
+      "D": "Low boiling point"
+    },
+    "answer": "b",
+    "explanation": "Water is an excellent coolant because it has a high specific heat capacity, meaning it can absorb and carry away a large amount of heat without undergoing a significant increase in temperature. This makes it very effective for removing the heat produced during nuclear fission in reactors. Options like low density or low boiling point would not be ideal for a coolant.",
+    "year": "2024",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Select the correct statements among the following: A. Slow neutrons can cause fission in more effectively than fast neutrons. B. alphα-rays are helium nuclei. C. \\betaβ-rays are fast-moving electrons or positrons. D. \\gammaγ-rays are electromagnetic radiations of wavelengths larger than X-rays",
+    "options": {
+      "A": "A, B, and C only",
+      "B": "A, B, and D only",
+      "C": "A and B only",
+      "D": "C and D only"
+    },
+    "answer": "a",
+    "explanation": "Statement A is correct: Slow (thermal) neutrons are more effective in inducing fission in Uranium-235 because they are more likely to be captured by the nucleus. Statement B is correct: Alpha particles (\\alphaα-rays) are indeed nuclei of helium atoms (2 protons and 2 neutrons). Statement C is correct: Beta particles (\\betaβ-rays) are either electrons (β⁻) or positrons (β⁺), moving at high speeds. Statement D is incorrect: \\gammaγ-rays have shorter wavelengths (higher energy) than X-rays, not longer.",
+    "year": "2024",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2024_P12_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The half life of a radioactive substance is 20 minutes. In how much time, the activity of substance drops to (1/16)th of its initial value?",
+    "options": {
+      "A": "20 minutes",
+      "B": "40 minutes",
+      "C": "60 minutes",
+      "D": "80 minutes"
+    },
+    "answer": "d",
+    "explanation": "80 minutes Solution:",
+    "year": "2023",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2023_P12_Q6-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "In the given nuclear reaction, the element X is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Solution:",
+    "year": "2022",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2022_P12_Q7-main.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2022_P12_Q7-main2.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2022_P12_Q7-main3.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2022_P12_Q7-main4.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2022_P12_Q7-main5.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2022_P12_Q7-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2022_P12_Q7-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "A nucleus with mass number 240 breaks into fragments each of mass number 120, the binding energy per nucleon of unfragmented nuclei is 7.6 MeV while that of fragments is 8.5 MeV. The total gain in the Binding Energy in the process is",
+    "options": {
+      "A": "804 MeV",
+      "B": "216 MeV",
+      "C": "0.9 MeV",
+      "D": "9.4 MeV"
+    },
+    "answer": "b",
+    "explanation": "216 MeV Solution: Given binding energy per nucleon of X, Y & Z are 7.6 MeV, 8.5 MeV & 8.5 MeV respectively. Gain in binding energy is :- Q = Binding Energy of products - Binding energy of reactants = (120 × 8.5 × 2) - (240 × 7.6) MeV = 216 MeV",
+    "year": "2021",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2021_P12_Q8-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "A radioactive nucleus undergoes spontaneous decay in the sequence Where Z is the atomic number of element X. The possible decay particles in the sequence are",
+    "options": {
+      "A": "β+,α,β-",
+      "B": "β-,α,β+",
+      "C": "α,β-,β+",
+      "D": "α,β+,β-"
+    },
+    "answer": "a",
+    "explanation": "β+,α,β- Solution: β+ decreases atomic number by 1 α decreases atomic number by 2 β- decreases atomic number by 1",
+    "year": "2021",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2021_P12_Q9-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2021_P12_Q9-explanation2.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2021_P12_Q9-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The half-life of a radioactive nuclide is 100 hours. The fraction of original activity that will remain after 150 hours would be",
+    "options": {
+      "A": "2/3",
+      "B": "2/3√2",
+      "C": "1/2",
+      "D": "1/2√2"
+    },
+    "answer": "d",
+    "explanation": "1/2√2 Solution:",
+    "year": "2021",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2021_P12_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The energy equivalent of 0.5 g of a substance is",
+    "options": {
+      "A": "1.5×1013 J",
+      "B": "0.5×1013J",
+      "C": "4.5×1016J",
+      "D": "4.5×1013J"
+    },
+    "answer": "d",
+    "explanation": "4.5×1013J Solution: E = Δmc2 = 0.5 × 10-3 × (3 × 108)2 = 0.5 ×10-3 × 9 ×1016 E = 4.5 ×1013 J",
+    "year": "2020",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "When a uranium isotope is bombarded with a neutron, it generates three neutrons and",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Solution: 92 = 36 + Z; ← A + 89 + 3 = 235 ⇒ A = 144 Z = 56",
+    "year": "2020",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2020_P12_Q12-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2020_P12_Q12-explanation2.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2020_P12_Q12-explanation3.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2020_P12_Q12-explanation4.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2020_P12_Q12-explanation5.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2020_P12_Q12-explanation6.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2020_P12_Q12-explanation7.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2020_P12_Q12-explanation8.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "For a radioactive material, half-life is 10 minutes. If initially there are 600 number of nuclei, the time taken (in minutes) for the disintegration of 450 nuclei is",
+    "options": {
+      "A": "20",
+      "B": "10",
+      "C": "30",
+      "D": "15"
+    },
+    "answer": "a",
+    "explanation": "20 Solution:",
+    "year": "2019",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2019_P12_Q13-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2019_P12_Q13-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "For a radioactive material, half-life is 10 minutes. If initially there are 600 number of nuclei, the time taken (in minutes) for the disintegration of 450 nuclei is",
+    "options": {
+      "A": "20",
+      "B": "10",
+      "C": "30",
+      "D": "15"
+    },
+    "answer": "a",
+    "explanation": "20 Solution: Given N0 = 600, N1 = 450, T = 10 min Number of nuclei remaining, N = 600 - 450 = 150 after time 't' According to the law of radioactive decay,",
+    "year": "2018",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2018_P12_Q14-explanation1.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2018_P12_Q14-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Radioactive material 'A' has decay constant '8 λ' and material 'B' has decay constant 'λ'. Initially they have same number of nuclei. After what time, the ratio of number of nuclei of material 'B' to that 'A' will be 1/e?",
+    "options": {
+      "A": "1/7λ",
+      "B": "1/8λ",
+      "C": "1/9λ",
+      "D": "1/10λ"
+    },
+    "answer": "a",
+    "explanation": "1/7λ Solution:",
+    "year": "2017",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2017_P12_Q15-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2017_P12_Q15-explanation2.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2017_P12_Q15-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "When an alphaα-particle of mass m moving with velocity v bombards on a heavy nucleus of charge Ze, its distance of closest approach from the nucleus depends on m as",
+    "options": {
+      "A": "[diagram]",
+      "B": "m",
+      "C": "1/m",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "1/m Solution: At closest distance of approach, the kinetic energy of the particle will convert completely into electrostatic potential energy.",
+    "year": "2016",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2016_P12_Q16-main.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2016_P12_Q16-main2.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2016_P12_Q16-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A nucleus of uranium decays at rest into nuclei of thorium and helium. Then",
+    "options": {
+      "A": "The helium nucleus has more momentum than the thorium nucleus.",
+      "B": "The helium nucleus has less kinetic energy than the thorium nucleus.",
+      "C": "The helium nucleus has more kinetic energy than the thorium nucleus.",
+      "D": "The helium nucleus has less momentum than the thorium nucleus."
+    },
+    "answer": "c",
+    "explanation": "The helium nucleus has more kinetic energy than the thorium nucleus. Solution: In an explosion a body breaks up into two pieces of unequal masses both part will have numerically equal momentum and lighter part will have more velocity.",
+    "year": "2015",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q17-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "If radius of the 1327 nucleus is taken to be RAl, then the radius of 53125 nucleus is nearly",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Solution:",
+    "year": "2015",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q18-main.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q18-main2.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q18-main3.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q18-main4.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q18-main5.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q18-main6.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q18-explanation1.jpg",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2015_P12_Q18-explanation2.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 6,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "The Binding energy per nucleon of nuclei are 5.60 MeV and 7.06 MeV, respectively. In the nuclear reaction the value of energy Q released is",
+    "options": {
+      "A": "8.4 MeV",
+      "B": "17.3 MeV",
+      "C": "19.6 MeV",
+      "D": "2.4 MeV"
+    },
+    "answer": "b",
+    "explanation": "17.3 MeV Solution:",
+    "year": "2014",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2014_P12_Q19-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2014_P12_Q19-explanation2.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2014_P12_Q19-explanation3.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2014_P12_Q19-explanation4.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2014_P12_Q19-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "A radio isotope 'X' with a half life 1.4 × 109 years decays to 'Y' which is stable. A sample of the rock from a cave was found to contain 'X' and 'Y' in the ratio 1 : 7. The age of the rock is",
+    "options": {
+      "A": "4.20 × 109 years",
+      "B": "8.40 × 109 years",
+      "C": "1.96 × 109 years",
+      "D": "3.92 × 109 years"
+    },
+    "answer": "a",
+    "explanation": "4.20 × 109 years Solution: Ratio of X:Y is given = 1:7 That is, ⇒ 7mx = my Let, the initial total mass is m. Therefore, time taken to become 1/8 unstable part = 3 x T1/2 = 3 x 1.4 x 109 = 4.2 x 109 y",
+    "year": "2014",
+    "chapter": "Nuclei",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2014_P12_Q20-explanation1.png",
+      "PHYSICS/P12/chapters/nuclei/NUCLEI-2014_P12_Q20-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

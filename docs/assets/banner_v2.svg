@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1121" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#3B82F6" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bg)" rx="24" />
+  <rect width="1200" height="400" fill="url(#grid)" rx="24" />
+
+  <!-- Top left accent line -->
+  <rect x="0" y="80" width="8" height="100" fill="url(#accent)" rx="0" />
+
+  <!-- DNA/Abstract shape background -->
+  <g transform="translate(700, 200) rotate(-15)" stroke-opacity="0.5">
+    <path d="M -150 0 Q -75 -100 0 0 T 150 0 T 300 0 T 450 0" fill="none" stroke="#06B6D4" stroke-width="8" opacity="0.3">
+      <animate attributeName="stroke-opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M -150 0 Q -75 100 0 0 T 150 0 T 300 0 T 450 0" fill="none" stroke="#8B5CF6" stroke-width="8" opacity="0.3">
+      <animate attributeName="stroke-opacity" values="0.6;0.2;0.6" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Typography -->
+  <g transform="translate(100, 160)">
+    <text font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="72" fill="#F8FAFC" letter-spacing="-2">
+      NEET Scraper <tspan fill="#3B82F6">Pro</tspan>
+    </text>
+    <text y="50" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="28" fill="#94A3B8" letter-spacing="0.5">
+      Intelligent Extraction &amp; Audit Engine
+    </text>
+
+    <!-- Badges -->
+    <g transform="translate(0, 90)">
+      <!-- Biology: x=0, w=120, cx=60 -->
+      <rect x="0" y="0" width="120" height="40" rx="20" fill="#06B6D4" fill-opacity="0.1" stroke="#06B6D4" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="60" y="26" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="16" fill="#06B6D4" text-anchor="middle">Biology</text>
+
+      <!-- Physics: x=140, w=120, cx=200 -->
+      <rect x="140" y="0" width="120" height="40" rx="20" fill="#8B5CF6" fill-opacity="0.1" stroke="#8B5CF6" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="200" y="26" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="16" fill="#A78BFA" text-anchor="middle">Physics</text>
+
+      <!-- Chemistry: x=280, w=130, cx=345 -->
+      <rect x="280" y="0" width="130" height="40" rx="20" fill="#EC4899" fill-opacity="0.1" stroke="#EC4899" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="345" y="26" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="16" fill="#F472B6" text-anchor="middle">Chemistry</text>
+    </g>
+  </g>
+
+  <!-- Info Cards -->
+  <g transform="translate(760, 50)">
+    <rect width="360" height="90" fill="url(#card)" stroke="#334155" stroke-width="2" rx="16" />
+    <circle cx="50" cy="45" r="24" fill="#10B981" fill-opacity="0.15" />
+    <path d="M 38 45 L 45 52 L 62 35" fill="none" stroke="#10B981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="95" y="42" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="22" fill="#F8FAFC">100% Fidelity</text>
+    <text x="95" y="68" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="16" fill="#94A3B8">Deterministic Asset Mapping</text>
+  </g>
+
+  <g transform="translate(700, 160)">
+    <rect width="360" height="90" fill="url(#card)" stroke="#334155" stroke-width="2" rx="16" />
+    <circle cx="50" cy="45" r="24" fill="#F59E0B" fill-opacity="0.15" />
+    <path d="M 32 45 L 40 45 L 45 32 L 55 58 L 60 45 L 68 45" fill="none" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="95" y="42" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="22" fill="#F8FAFC">Audit Subsystem</text>
+    <text x="95" y="68" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="16" fill="#94A3B8">Mathematical Gap Detection</text>
+  </g>
+
+  <g transform="translate(800, 270)">
+    <rect width="360" height="90" fill="url(#card)" stroke="#334155" stroke-width="2" rx="16" />
+    <circle cx="50" cy="45" r="24" fill="#3B82F6" fill-opacity="0.15" />
+    <rect x="36" y="32" width="28" height="26" rx="4" fill="none" stroke="#3B82F6" stroke-width="3" />
+    <path d="M 36 44 H 64" fill="none" stroke="#3B82F6" stroke-width="3" />
+    <text x="95" y="42" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="22" fill="#F8FAFC">Static Dashboard</text>
+    <text x="95" y="68" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="16" fill="#94A3B8">Vite-Powered Local Review</text>
+  </g>
+</svg>

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "Q1",
+    "text": "Find the statement that is NOT correct with regard to the structure of monocot stem",
+    "options": {
+      "A": "Vascular bundles are conjoint and closed.",
+      "B": "Phloem parenchyma is absent.",
+      "C": "Hypodermis is parenchymatous.",
+      "D": "Vascular bundles are scattered."
+    },
+    "answer": "c",
+    "explanation": "The monocot stem has a sclerenchymatous hypodermis, a large number of scattered vascular bundles, each surrounded by a sclerenchymatous bundle sheath, and a large, conspicuous parenchymatous ground tissue. Thus statement (c) is incorrect because the hypodermis is typically sclerenchymatous (providing mechanical support), not parenchymatous.Vascular bundles are conjoint and closed - true: xylem and phloem occur together and cambium is absent in each bundle.Peripheral vascular bundles are generally smaller than the centrally located ones - true: bundle size often varies across the stem cross-section.The phloem parenchyma is absent, and water-containing cavities may be present within some monocot vascular bundles - true: phloem parenchyma is typically not seen in monocot stems.",
+    "year": "2025",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Bulliform cells are responsible for",
+    "options": {
+      "A": "Inward curling of leaves in monocots.",
+      "B": "Protecting the plant from sall stress.",
+      "C": "Increased photosynthesis in monocots.",
+      "D": "Providing large spaces for storage of sugars."
+    },
+    "answer": "a",
+    "explanation": "\u200bBulliform cells are specialised, large, thin-walled cells found in the upper (adaxial) epidermis of many monocot leaves, especially grasses. Their main role is to regulate leaf folding or rolling in response to water stress. When turgor in bulliform cells is high (well-watered conditions) the leaf remains expanded; when these cells lose water and become flaccid, the leaf rolls or folds inward, reducing exposed surface area and thereby reducing transpiration and water loss. Optionwise brief evaluation: Option A: Correct - bulliform cell collapse causes inward curling (leaf rolling) in monocots. Option B: Incorrect - salt stress responses involve ion regulation and other mechanisms; bulliform cells are primarily involved in drought/water conservation. Option C: Incorrect - bulliform cells do not directly increase photosynthesis; they modulate leaf position which can indirectly affect light interception. Option D: Incorrect - bulliform cells are not storage cells for sugars; they function in leaf movement through changes in turgor.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "In the given figure, which component has thin outer walls and highly thickened inner walls?",
+    "options": {
+      "A": "C",
+      "B": "D",
+      "C": "A",
+      "D": "B"
+    },
+    "answer": "a",
+    "explanation": "Guard cells (label C in the figure) have a thin outer wall (facing the epidermis) and a strongly thickened inner wall (adjacent to the stomatal pore). This differential wall thickness causes the guard cells to bow out when turgid, opening the pore, and to collapse together when flaccid, closing it.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/anatomy-of-flowering-plants/ANATOMY_OF_FLOWERING_PLANTS-2024_B11_Q3-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Given below are two statements: Statement I: Parenchyma is living but collenchyma is dead tissue. Statement II: Gymnosperms lack xylem vessels but presence of xylem vessels is the characteristic of angiosperms",
+    "options": {
+      "A": "Both Statement I and Statement II are False",
+      "B": "Statement I is True but Statement II is False",
+      "C": "Statement I is False but Statement II is True",
+      "D": "Both Statement I and Statement II are True"
+    },
+    "answer": "c",
+    "explanation": "Statement I: Parenchyma is living but collenchyma is dead tissue. This statement is False. Both parenchyma and collenchyma are living simple tissues. Parenchyma cells are thin-walled and primarily involved in storage, photosynthesis and repair, while collenchyma cells are living cells with unevenly thickened primary walls that provide flexible mechanical support to growing parts. Statement II: Gymnosperms lack xylem vessels but presence of xylem vessels is the characteristic of angiosperms. This statement is True. Gymnosperms mainly have tracheids (no true vessels), whereas angiosperms commonly possess vessels (vessel elements) in their xylem, which are more efficient for water conduction. Therefore, (c) is correct: Statement I is False but Statement II is True.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Arrange them in correct sequence starting from the periphery to the centre: A. Endodermis B. Pith C. Epidermis D. Pericycle E. Cortex",
+    "options": {
+      "A": "D, C, E, A, B",
+      "B": "A, C, E, B, D",
+      "C": "C, E, A, D, B",
+      "D": "C, E, D, B, A"
+    },
+    "answer": "c",
+    "explanation": "In a monocot root, the internal tissue layers from the outside (periphery) to inside (centre) are arranged as follows:C. Epidermis - outermost protective single cell layer.E. Cortex - region of parenchyma beneath the epidermis for storage and transport.A. Endodermis - innermost cortex layer containing Casparian strips; it regulates movement into the stele.D. Pericycle - a thin layer just inside the endodermis from which lateral roots originate.B. Pith - central parenchymatous region prominent in many monocot roots.Thus, the correct sequence is: C (Epidermis) \u2192 E (Cortex) \u2192 A (Endodermis) \u2192 D (Pericycle) \u2192 B (Pith) Hence, Option (c) is correct.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The given figure, with reference to the anatomy of plants, represents",
+    "options": {
+      "A": "Tracheid",
+      "B": "Xylem fibre",
+      "C": "Xylem parenchyma",
+      "D": "Vessel"
+    },
+    "answer": "d",
+    "explanation": "The figure represents a Vessel (d). Vessels (vessel elements) are elongated, tube-like xylem elements with perforation plates at the ends and thick, lignified secondary walls. They conduct water efficiently and are characteristic of most angiosperms. Tracheids are narrower and lack open perforations between cells; xylem parenchyma and fibres differ in wall thickness and living status.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/anatomy-of-flowering-plants/ANATOMY_OF_FLOWERING_PLANTS-2024_B11_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Read the following statements and find out the correct set of statements: A. Companion cells help in maintaining the pressure gradient in the sieve tubes. B. Gymnosperms lack vessels in their xylem C. The xylem vessels are devoid of cytoplasm D. Xylem fibres may be septate or aseptate E. A mature sieve element in phloem possesses cytoplasm, vacuole and nucleus",
+    "options": {
+      "A": "B, C, D, E only",
+      "B": "A, B, D, E only",
+      "C": "A, B, C, D only",
+      "D": "C, D, E only"
+    },
+    "answer": "c",
+    "explanation": "A: True - Companion cells are metabolically active cells adjacent to sieve tube elements; they facilitate loading/unloading of solutes and help maintain the osmotic and pressure gradients required for phloem translocation.B: True - Gymnosperms generally lack true vessel elements; water conduction is mainly via tracheids.C: True - Mature xylem vessels are dead, hollow tubes that lack cytoplasm to allow unobstructed water flow.D: True - Xylem fibres may be septate (with cross walls) or aseptate (without cross walls) depending on the species.E: False - Mature sieve tube elements lack a nucleus (and often have reduced organelles) and depend on companion cells for many functions; they do contain cytoplasm but not a functional nucleus.Therefore, statements A, B, C and D are correct - Option (c) is the best choice.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "Given below are two statements: Statement I: In collenchyma, cell walls are thickened at corners due to deposition of cellulose, hemicellulose and pectin. Statement II: Sclerenchyma consists of lignified cell walls and possesses pits. In light of the above statements",
+    "options": {
+      "A": "Both Statement I and Statement II are True",
+      "B": "Both Statement I and Statement II are False",
+      "C": "Statement I is True but Statement II is False",
+      "D": "Statement I is False but Statement II is True"
+    },
+    "answer": "a",
+    "explanation": "Statement I: In collenchyma, cell walls are thickened at corners due to deposition of cellulose, hemicellulose, and pectin. This statement is True. Collenchyma cells have unevenly thickened primary cell walls, especially at the corners, composed mainly of cellulose, hemicellulose and pectic substances; they provide flexible support to young organs. Statement II: Sclerenchyma consists of lignified cell walls and possesses pits. This statement is True. Sclerenchyma cells (fibres and sclereids) have heavily lignified secondary walls and often show pits (for limited radial transport) - they provide rigid mechanical support. The correct answer is (a) Both Statement I and Statement II are True.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Which of the following simple tissues are commonly found in the fruit walls of nuts and pulp of pear?",
+    "options": {
+      "A": "Sclereids",
+      "B": "Fibres",
+      "C": "Parenchyma",
+      "D": "Collenchyma"
+    },
+    "answer": "a",
+    "explanation": "Sclereids are specialised sclerenchymatous cells with thick, lignified walls that impart hardness and a gritty texture. They are commonly found in the hard seed coats and fruit walls of nuts, and also produce the gritty texture of pear pulp (stone cells). Their presence explains the gritty sensation when eating pears.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Which of the following helps in maintenance of the pressure gradient in sieve tubes?",
+    "options": {
+      "A": "Albuminous cells",
+      "B": "Sieve cells",
+      "C": "Phloem parenchyma",
+      "D": "Companion cells"
+    },
+    "answer": "d",
+    "explanation": "Companion cells are closely associated with sieve tube elements in angiosperms. They actively load sugars and other solutes into sieve tubes and help maintain the osmotic differences that generate the pressure gradients required for mass flow (phloem transport). Sieve tube elements are enucleate or nearly so and rely on companion cells for metabolic support; thus companion cells are essential for maintaining the functional pressure gradient.",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Given below are two statements: Statement I: In a dicotyledonous leaf, the adaxial epidermis generally bears more stomata than the abaxial epidermis. Statement II: In a dicotyledonous leaf, the adaxially placed palisade parenchyma is made up of elongated cells, which are arranged vertically and parallel to each other. In light of the above statements",
+    "options": {
+      "A": "Statement I is True but Statement II is False",
+      "B": "Statement I is False but Statement II is True",
+      "C": "Both Statement I and Statement II are True",
+      "D": "Both Statement I and Statement II are False"
+    },
+    "answer": "b",
+    "explanation": "Statement I: In most dicot leaves, stomata are more numerous on the abaxial (lower) epidermis than on the adaxial (upper) epidermis; this reduces direct exposure to sunlight and helps limit water loss. Therefore, Statement I is generally False (exceptions exist in some xerophytic leaves). Statement II: Palisade parenchyma is composed of elongated, columnar cells arranged vertically (perpendicular to the leaf surface) and packed with chloroplasts; they are located on the adaxial side and maximise light absorption. Thus Statement II is True. Hence, only Statement II is correct - Option (b).",
+    "year": "2024",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Given below are two statements : Statement I : Endarch and exarch are the terms often used for describing the position of secondary xylem in the plant body. Statement II : Exarch condition is the most common feature of the root system",
+    "options": {
+      "A": "Both Statement I and Statement II are true",
+      "B": "Both Statement I and Statement II are false",
+      "C": "Statement I is correct but Statement II is false",
+      "D": "Statement I is incorrect but Statement II is true"
+    },
+    "answer": "d",
+    "explanation": "Statement I: Incorrect - the terms endarch and exarch are used to describe the developmental sequence of primary xylem (protoxylem and metaxylem), not secondary xylem. In endarch condition protoxylem is innermost and metaxylem towards the periphery (typical of stems); in exarch the protoxylem is peripheral and metaxylem central (typical of roots).Statement II: True - the exarch condition (protoxylem towards periphery and metaxylem towards centre) is typical and most common in roots.Therefore, Statement I is incorrect and Statement II is true - Option (d).",
+    "year": "2023",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Identify the correct statements: A. Lenticels are the lens-shaped openings permitting the exchange of gases. B. Bark formed early in the season is called hard bark. C. Bark is a technical term that refers to all tissues exterior to vascular cambium. D. Bark refers to periderm and secondary phloem. E. Phellogen is single-layered in thickness",
+    "options": {
+      "A": "B and C only",
+      "B": "B, C and E only",
+      "C": "A and D only",
+      "D": "A, B and D only"
+    },
+    "answer": "c",
+    "explanation": "A. True. Lenticels are small, lens-shaped openings in the bark that permit gas exchange between internal tissues and the atmosphere. B. False. Bark produced early in the season (spring) is generally less woody and is often termed \"soft bark\"; hard bark is usually produced later in the season. C. Partly True (but often interpreted differently in various texts). Conventionally, in plant anatomy, \"bark\" refers to all tissues outside the vascular cambium (this includes periderm and secondary phloem). However, many question keys distinguish between the technical phrase \"bark = periderm + secondary phloem\" (equivalent to D) and broader non-technical usage. Because of such ambiguity in some exam keys, the intended correct pair given here is A and D. D. True. Bark commonly refers to the outer protective tissues, primarily the periderm (outer bark) together with the secondary phloem (inner bark). E. False. Phellogen (cork cambium) is usually multilayered in active tissues; it is not strictly single-layered in most species. Note: There is some variation in how different sources phrase the definition of \"bark.\" Following the exam key provided here, Option (c) (A and D only) is chosen.",
+    "year": "2023",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The transverse section of plant part showed polyarch, radial and exarch xylem, with endodermis and pericycle. The plant part is identified as",
+    "options": {
+      "A": "Monocot root",
+      "B": "Dicot root",
+      "C": "Dicot stem",
+      "D": "Monocot stem"
+    },
+    "answer": "a",
+    "explanation": "(a) True. Monocot roots typically exhibit polyarch xylem arrangements and have a distinct endodermis and pericycle. (b) False. Dicot roots usually have fewer than six xylem bundles and do not exhibit polyarch arrangements. (c) False. Dicot stems have a different vascular arrangement and do not show polyarch xylem. (d) False. Monocot stems do not typically have polyarch xylem; they have scattered vascular bundles.",
+    "year": "2023",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Consider the following tissues in the stellar region of a stem showing secondary growth: A. Primary xylem B. Secondary xylem C. Primary phloem D. Secondary phloem Arrange these in the correct sequence of their position from pith towards cortex",
+    "options": {
+      "A": "A, B, D, C",
+      "B": "B, A, C, D",
+      "C": "A, B, C, D",
+      "D": "B, A, D, C"
+    },
+    "answer": "a",
+    "explanation": "(a) A, B, D, C: Correct. From the pith outwards in a stem undergoing secondary growth the usual order is: primary xylem (formed during primary growth) \u2192 secondary xylem (formed by vascular cambium towards inside) \u2192 secondary phloem (formed by cambium towards outside) \u2192 primary phloem (original primary tissue pushed further outward). Thus option (a) gives the correct positional sequence.(b) B, A, C, D: This sequence is incorrect. It suggests that secondary xylem (B) is closest to the pith, followed by primary xylem (A), which is not accurate as primary xylem is formed first during primary growth. (c) A, B, C, D: This sequence is also incorrect. While it correctly places primary xylem (A) and secondary xylem (B) in order, it incorrectly positions primary phloem (C) before secondary phloem (D), which is not how they are arranged in a mature dicot stem. (d) B, A, D, C: This sequence is incorrect as well. It incorrectly places secondary xylem (B) before primary xylem (A) and also misplaces the phloem types, suggesting a structure that does not exist in typical dicotyledonous stems. Understanding the arrangement of these tissues is crucial for comprehending how dicotyledonous plants grow and develop, especially in terms of their vascular system and secondary growth capabilities.",
+    "year": "2023",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Read the following statements about the vascular bundles: (a) In roots, the xylem and phloem in a vascular bundle are arranged in an alternate manner along the different radii. (b) Conjoint closed vascular bundles do not possess cambium. (c) In open vascular bundles, cambium is present in between xylem and phloem (d) The vascular bundles of dicotyledonous stem possess endarch protoxylem (e) In the monocotyledonous root, usually there are more than six xylem bundles present",
+    "options": {
+      "A": "(b), (c), (d) and (e) Only",
+      "B": "(a), (b), (c), (d) and (e)",
+      "C": "(a), (c), (d) and (e) Only",
+      "D": "(a), (b) and (d) Only"
+    },
+    "answer": "b",
+    "explanation": "Statement a: In roots, xylem and phloem are arranged alternately in different radii (radial vascular arrangement), which is correct. Statement b:Conjoint closed vascular:Xylem and phloem lie together along the same radius as in stems and leaves (conjoint).In closed bundles, cambium is absent - hence they do not give secondary growth.Statement c: Open vascular bundles have cambium between xylem and phloem, and hence can produce secondary xylem and phloem (secondary growth).Statement d: Endarch condition (protoxylem towards centre, metaxylem towards periphery) is characteristic of dicot stems; thus this statement is correct. Statement e: Monocot roots are often polyarch (more than six xylem arms/bundles), so this statement is correct.All five statements (a), (b), (c), (d) and (e) are correct - Option (b).",
+    "year": "2022",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Initiation of lateral roots and vascular cambium during secondary growth takes place in cells of",
+    "options": {
+      "A": "Pericycle",
+      "B": "Epiblema",
+      "C": "Cortex",
+      "D": "Endodermis"
+    },
+    "answer": "a",
+    "explanation": "Initiation of lateral roots and the formation of vascular cambium (in many dicot roots) are events that involve the pericycle. Pericycle cells can dedifferentiate and divide to form the root primordia and contribute to cambial activity; epiblema (root epidermis), cortex and endodermis do not typically dedifferentiate to give lateral roots or vascular cambium.",
+    "year": "2022",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Match List I with List II Select the correct answer from the options given below",
+    "options": {
+      "A": "(i) (ii) (iii) (iv)",
+      "B": "(iii) (ii) (iv) (i)",
+      "C": "(ii) (iv) (i) (iii)",
+      "D": "(iv) (iii) (ii) (i)"
+    },
+    "answer": "c",
+    "explanation": "(a) Meristematic tissues are those tissues which have cells with active cell division capacity. (b) Simple tissues are those tissues which have all the cells similar in structure and function. (c) Vascular tissues are complex permanent tissues hence they have different types of cells. (d) Sclereids are sclerenchymatous cells which are dead with highly thickened walls and narrow lumen.",
+    "year": "2021",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/anatomy-of-flowering-plants/ANATOMY_OF_FLOWERING_PLANTS-2021_B11_Q18-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Select the correct pair",
+    "options": {
+      "A": "Cells of medullary rays that form part of a cambial ring - Interfascicular cambium",
+      "B": "Loose parenchyma cells rupturing the epidermis and forming a lens-shaped opening in the bark - Spongy parenchyma",
+      "C": "Large colourless empty cells in the epidermis of grass leaf - Subsidiary cells",
+      "D": "In dicot leaves, vascular bundles are surrounded tissue by large thick-walled cells - Conjunctive tissue"
+    },
+    "answer": "a",
+    "explanation": "When cells of the medullary rays dedifferentiate and become meristematic, they contribute to the interfascicular cambium, which links the fascicular cambia to form a continuous cambial ring.Loose parenchyma cells that rupture the epidermis to form lens-shaped openings in the bark are called complementary cells (associated with lenticels), not spongy parenchyma.Large colourless empty cells in the epidermis of grass leaves are bulliform (motor) cells, not subsidiary cells.In dicot leaves, vascular bundles are surrounded by bundle sheath cells (thick-walled in some cases), not by a conjunctive tissue as named here.",
+    "year": "2021",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "The transverse section of a plant shows the following anatomical features: (i) a Large number of scattered vascular bundles surrounded by bundle sheath. (ii) Large conspicuous parenchymatous ground tissue. (iii) Vascular bundles conjoint and closed. (iv) Phloem parenchyma absent. Identify the category of plant and its part",
+    "options": {
+      "A": "Dicotyledonous stem",
+      "B": "Dicotyledonous root",
+      "C": "Monocotyledonous stem",
+      "D": "Monocotyledonous root"
+    },
+    "answer": "c",
+    "explanation": "The described features are characteristic of the monocot stem: numerous scattered conjoint collateral closed vascular bundles each surrounded by a sclerenchymatous bundle sheath; large parenchymatous ground tissue; absence of cambium (closed bundles) and phloem parenchyma. Hence Option (c) is correct.",
+    "year": "2020",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Stomata in grass leaf are",
+    "options": {
+      "A": "Dumb-bell shaped",
+      "B": "Kidney-shaped",
+      "C": "Rectangular",
+      "D": "Barrel-shaped"
+    },
+    "answer": "a",
+    "explanation": "Grass being a monocot, typically has dumb-bell shaped stomata. These are associated with specialised subsidiary cells and permit rapid opening and closing, an adaptation common in many grasses.",
+    "year": "2018",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Secondary xylem and phloem in dicot stem are produced by",
+    "options": {
+      "A": "Apical meristems",
+      "B": "Vascular cambium",
+      "C": "Phellogen",
+      "D": "Axillary meristems"
+    },
+    "answer": "b",
+    "explanation": "The vascular cambium is the lateral meristem that produces secondary tissues: it cuts off cells towards the pith which mature into secondary xylem, and cuts off cells towards the periphery which mature into secondary phloem. Thus vascular cambium is responsible for secondary thickening in dicot stems.",
+    "year": "2018",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Casparian strips occur in",
+    "options": {
+      "A": "Epidermis",
+      "B": "Pericycle",
+      "C": "Cortex",
+      "D": "Endodermis."
+    },
+    "answer": "d",
+    "explanation": "Casparian strips are bands of suberin (and sometimes lignin) deposited on the radial and inner tangential walls of endodermal cells. They block apoplastic movement of water and dissolved substances into the vascular cylinder, forcing selective passage through endodermal cells (symplast), thus helping the plant regulate uptake.",
+    "year": "2018",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Plants having little or no secondary growth are",
+    "options": {
+      "A": "Grasses",
+      "B": "Deciduous angiosperms",
+      "C": "Conifers",
+      "D": "Cycads."
+    },
+    "answer": "a",
+    "explanation": "Grasses (monocots) generally lack a vascular cambium and therefore show little or no typical secondary growth. Some monocots exhibit anomalous secondary growth (e.g., palms show a different pattern), but most grasses do not develop secondary thickening.",
+    "year": "2018",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "The vascular cambium normally gives rise to",
+    "options": {
+      "A": "Primary phloem",
+      "B": "Secondary xylem",
+      "C": "Periderm",
+      "D": "Phelloderm."
+    },
+    "answer": "b",
+    "explanation": "The vascular cambium produces secondary xylem to the inner side and secondary phloem to the outer side. Therefore secondary xylem (b) is the correct choice. Periderm and phelloderm are produced by cork cambium (phellogen), not by vascular cambium.",
+    "year": "2017",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Cortex is the region found between",
+    "options": {
+      "A": "Epidermis and stele",
+      "B": "Pericycle and endodermis",
+      "C": "Endodermis and pith",
+      "D": "Endodermis and vascular bundle."
+    },
+    "answer": "a",
+    "explanation": "In botanical terms, the cortex is the region located between the epidermis (outermost layer) and the stele (central vascular cylinder). The cortex consists mainly of parenchymatous cells and functions in storage and transport of substances. Hence option (a) is correct.The other options refer to different anatomical relations:Option (b): Pericycle and endodermis are internal layers forming part of the stele boundary, not the exterior boundary of cortex.Option (c): Endodermis and pith - the pith lies at the centre of the stem, interior to the stele; cortex is not between them.Option (d): Endodermis and vascular bundle - endodermis is the inner boundary of cortex, but vascular bundles are inside the stele; the option as stated is not the conventional definition.",
+    "year": "2016",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Specialized epidermal cells surrounding the guard cells are called",
+    "options": {
+      "A": "Bulliform cells",
+      "B": "Lenticels",
+      "C": "Complementary cells",
+      "D": "Subsidiary cells."
+    },
+    "answer": "d",
+    "explanation": "Specialised epidermal cells that flank or surround guard cells and assist in stomatal function are called subsidiary cells (also called accessory cells). They often help regulate the movement of guard cells and contribute to stomatal mechanics.",
+    "year": "2016",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "Vascular bundles in monocotyledons are considered closed because",
+    "options": {
+      "A": "Cambium is absent",
+      "B": "There are no vessels with perforations",
+      "C": "Xylem is surrounded all around by phloem",
+      "D": "A bundle sheath surrounds each bundle"
+    },
+    "answer": "a",
+    "explanation": "Vascular bundles are described as closed when they lack a cambium between xylem and phloem; hence they cannot give rise to secondary xylem and phloem. In many monocots vascular bundles are conjoint and closed because cambium is absent, so option (a) is the correct reason.",
+    "year": "2015",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "You are given a fairly old piece of dicot stem and a dicot root. Which of the following anatomical structures will you use to distinguish between the two?",
+    "options": {
+      "A": "Secondary xylem",
+      "B": "Secondary phloem",
+      "C": "Protoxylem",
+      "D": "Cortical cells"
+    },
+    "answer": "c",
+    "explanation": "The position of protoxylem (and hence the maturation pattern of primary xylem) differs in dicot roots and stems and is a reliable distinguishing feature even in older material. In dicot roots protoxylem is exarch (towards the periphery of the stele), whereas in dicot stems protoxylem is endarch (towards the centre of the vascular bundle). Thus option (c) protoxylem is the correct choice for distinguishing a dicot root from a dicot stem. window.addEventListener(\"blur\",()=>{setTimeout(()=>{if(document.activeElement.tagName===\"IFRAME\"){FirebaseEventsViaWeb.onVideoPlayInTextDoc();}});},{once:false});",
+    "year": "2014",
+    "chapter": "Anatomy of Flowering Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

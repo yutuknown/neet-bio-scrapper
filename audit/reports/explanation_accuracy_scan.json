@@ -1,0 +1,714 @@
+[
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Anatomy of Flowering Plants",
+    "slug": "anatomy-of-flowering-plants",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 29,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Animal Kingdom",
+    "slug": "animal-kingdom",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 42,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Biological Classification",
+    "slug": "biological-classification",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 29,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Biomolecules",
+    "slug": "biomolecules",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 55,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Body Fluids and Circulation",
+    "slug": "body-fluids-and-circulation",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 28,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Breathing and Exchange of Gases",
+    "slug": "breathing-and-exchange-of-gases",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 25,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Cell Cycle and Cell Division",
+    "slug": "cell-cycle-and-cell-division",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 47,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Cell: The Unit of Life",
+    "slug": "cell-the-unit-of-life",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 41,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Chemical Coordination and Integration",
+    "slug": "chemical-coordination-and-integration",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 34,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Excretory Products and their Elimination",
+    "slug": "excretory-products-and-their-elimination",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 25,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Locomotion and Movement",
+    "slug": "locomotion-and-movement",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 31,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Morphology of Flowering Plants",
+    "slug": "morphology-of-flowering-plants",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 33,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Neural Control and Coordination",
+    "slug": "neural-control-and-coordination",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 15,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Photosynthesis in Higher Plants",
+    "slug": "photosynthesis-in-higher-plants",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 37,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Plant - Growth & Development",
+    "slug": "plant-growth-and-development",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 36,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Plant Kingdom",
+    "slug": "plant-kingdom",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 33,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Respiration in Plants",
+    "slug": "respiration-in-plants",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 24,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "Structural Organisation in Animals",
+    "slug": "structural-organisation-in-animals",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 42,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B11",
+    "chapter": "The Living World",
+    "slug": "the-living-world",
+    "sourceUrl": null,
+    "covered": false,
+    "coverageReason": "no_source_mapping_for_chapter",
+    "sourceQuestionCount": 0,
+    "jsonQuestionCount": 8,
+    "counts": {},
+    "categories": {}
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Biodiversity and its Conservation",
+    "slug": "biodiversity-and-its-conservation",
+    "sourceUrl": "https://edurev.in/t/133181/Previous-Year-Questions-2016-19-Biodiversity-and",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 48,
+    "jsonQuestionCount": 48,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 1,
+      "explanation_mismatch": 0,
+      "ui_text_leaked": 0
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [
+        {
+          "jsonId": "Q3",
+          "sourceQ": "Q1",
+          "year": "2024",
+          "text": "List of endangered species was released by",
+          "sourceSnippet": "The list of endangered species is officially released by the International Union for Conservation of Nature (IUCN), which is specified as Option D. The IUCN is \u2026"
+        }
+      ],
+      "explanation_mismatch": [],
+      "ui_text_leaked": []
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Biotechnology & its Applications",
+    "slug": "biotechnology-and-its-applications",
+    "sourceUrl": "https://edurev.in/t/133173/Previous-Year-Questions-2016-19-Biotechnology-an",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 41,
+    "jsonQuestionCount": 41,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 0,
+      "ui_text_leaked": 1
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [],
+      "ui_text_leaked": [
+        {
+          "jsonId": "Q41",
+          "sourceQ": "Q2",
+          "year": "2014",
+          "text": "To obtain virus-free healthy plants from a diseased one by tissue culture technique, which part/parts of the diseased plant will be taken ?"
+        }
+      ]
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Biotechnology: Principle & Processes",
+    "slug": "biotechnology-principle-and-processes",
+    "sourceUrl": "https://edurev.in/t/133171/Biotechnology-Principles-and-Processes-1-From-Past",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 67,
+    "jsonQuestionCount": 68,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 1,
+      "ui_text_leaked": 1
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [
+        {
+          "jsonId": "Q68",
+          "sourceQ": "Q2",
+          "year": "2014",
+          "text": "Commonly used vectors for human genome sequencing are",
+          "similarity": 0.07,
+          "sourceSnippet": "Bacterial artificial chromosome (BAC) vectors are based on natural, extra-chromosomal plasmid of E. coli. BAC vector contains genes for replication and maintena\u2026",
+          "jsonSnippet": "Bacterial artificial chromosome (BAC) vectors are based on natural, extra-chromosomal plasmid of E. coli. BAC vector contains genes for replication and maintena\u2026"
+        }
+      ],
+      "ui_text_leaked": [
+        {
+          "jsonId": "Q22",
+          "sourceQ": "Q3",
+          "year": "2023",
+          "text": "During the purification process for recombinant DNA technology, addition of chilled ethanol precipitates out"
+        }
+      ]
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Ecosystem",
+    "slug": "ecosystem",
+    "sourceUrl": "https://edurev.in/t/170135/NEET-Previous-Year-Questions-2016-23-Ecosystem",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 23,
+    "jsonQuestionCount": 23,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 1,
+      "explanation_mismatch": 0,
+      "ui_text_leaked": 0
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [
+        {
+          "jsonId": "Q23",
+          "sourceQ": "Q1",
+          "year": "2016",
+          "text": "The term ecosystem was coined by",
+          "sourceSnippet": "Sir Arthur George Tansley was an English botanist and a pioneer in the science of ecology who coined the term ecosystem. The document NEET Previous Year Questio\u2026"
+        }
+      ],
+      "explanation_mismatch": [],
+      "ui_text_leaked": []
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Evolution",
+    "slug": "evolution",
+    "sourceUrl": "https://edurev.in/t/133159/Evolution-Past-Year-Questions-Of-NEET-2014-2016-B",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 33,
+    "jsonQuestionCount": 33,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 1,
+      "ui_text_leaked": 0
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [
+        {
+          "jsonId": "Q16",
+          "sourceQ": "Q3",
+          "year": "2021",
+          "text": "Match List-I with List-II [NEET 2021] Choose the correct answer from the options given below",
+          "similarity": 0.032,
+          "sourceSnippet": "The question requires matching events in historical geological eras to the prevalent life forms of those periods. To do this accurately, knowledge of what chara\u2026",
+          "jsonSnippet": "The correct option is (c) Adaptive radiation is the process of evolution of different species in a given geographical area starting from a point and literally r\u2026"
+        }
+      ],
+      "ui_text_leaked": []
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Human Health & Diseases",
+    "slug": "human-health-and-diseases",
+    "sourceUrl": "https://edurev.in/t/170134/NEET-Previous-Year-Questions-2016-23-Human-Health-Disease",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 46,
+    "jsonQuestionCount": 46,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 1,
+      "ui_text_leaked": 0
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [
+        {
+          "jsonId": "Q27",
+          "sourceQ": "Q5",
+          "year": "2021",
+          "text": "Match List-I with List-II Choose the correct answer from the options given below",
+          "similarity": 0.015,
+          "sourceSnippet": "A. Typhoid : Caused by the bacterium Salmonella (II). B. Elephantiasis : Caused by Aschelminthes (III), specifically filarial worms. C. Ringworm : Caused by Mic\u2026",
+          "jsonSnippet": "Filariasis or elephantiasis is caused by filarial worm known as Wuchereria bancrofti. It affect the lymphatic vessels of lower limbs resulting in gross deformit\u2026"
+        }
+      ],
+      "ui_text_leaked": []
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Human Reproduction",
+    "slug": "human-reproduction",
+    "sourceUrl": "https://edurev.in/t/170117/NEET-Previous-Year-Questions-2016-21-Human-Repro",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 44,
+    "jsonQuestionCount": 44,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 1,
+      "ui_text_leaked": 0
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [
+        {
+          "jsonId": "Q24",
+          "sourceQ": "Q3",
+          "year": "2022",
+          "text": "Which of the following statements are true for spermatogenesis but do not hold true for Oogenesis?",
+          "similarity": 0.267,
+          "sourceSnippet": "Concept: The process of formation of the male gamete (sperm) is called spermatogenesis. The process of formation of the female gamete (ovum) is called oogenesis\u2026",
+          "jsonSnippet": "Concept:The process of formation of the male gamete (sperm) is called spermatogenesis.The process of formation of the female gamete (ovum) is called oogenesis.E\u2026"
+        }
+      ],
+      "ui_text_leaked": []
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Microbes in Human Welfare",
+    "slug": "microbes-in-human-welfare",
+    "sourceUrl": "https://edurev.in/t/133169/Microbes-in-Human-Welfare-Past-Year-Questions-Of-N",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 23,
+    "jsonQuestionCount": 23,
+    "counts": {
+      "missing_explanation_from_source": 1,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 2,
+      "ui_text_leaked": 0
+    },
+    "categories": {
+      "missing_explanation_from_source": [
+        {
+          "jsonId": "Q11",
+          "sourceQ": "Q1",
+          "year": "2021",
+          "text": "Match List - I with List - II [NEET 2021] Choose the correct answer from the options given below",
+          "jsonSnippet": "Examples of acid producers are Aspergillus niger (a fungus) of citric acid, Acetobacter aceti (a bacterium) of acetic acid; Clostridium butylicum (a bacterium) \u2026"
+        }
+      ],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [
+        {
+          "jsonId": "Q17",
+          "sourceQ": "Q2",
+          "year": "2019",
+          "text": "Which of the following can be used as a biocontrol agent in the treatment of plant disease? [NEET 2019]",
+          "similarity": 0.022,
+          "sourceSnippet": "Lactobacillus is used for the production of curd, Saccharomyces cerevisiae is used for making bread, Aspergillus niger is used in citric acid production, while \u2026",
+          "jsonSnippet": "A biological control being developed for use in the treatment of plant disease is the fungus is trichoderma species are free-living fungi that are very common i\u2026"
+        },
+        {
+          "jsonId": "Q18",
+          "sourceQ": "Q4",
+          "year": "2019",
+          "text": "Which of the following is a commercial blood cholesterol-lowering agent? [NEET 2019]",
+          "similarity": 0.032,
+          "sourceSnippet": "A biological control being developed for use in the treatment of plant disease is the fungus is trichoderma species are free-living fungi that are very common i\u2026",
+          "jsonSnippet": "Streptokinase is used as a 'clot buster' to remove clots from the blood vessels of patients who have a myocardial infarction.Lipases are used in detergent formu\u2026"
+        }
+      ],
+      "ui_text_leaked": []
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Molecular Basis of Inheritance",
+    "slug": "molecular-basis-of-inheritance",
+    "sourceUrl": "https://edurev.in/t/170129/NEET-Previous-Year-Questions-2016-22-Molecular-Ba",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 92,
+    "jsonQuestionCount": 92,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 0,
+      "ui_text_leaked": 1
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [],
+      "ui_text_leaked": [
+        {
+          "jsonId": "Q47",
+          "sourceQ": "Q7",
+          "year": "2022",
+          "text": "Ten E.coli cells with 15N - dsDNA are incubated in medium containing 14N nucleotide. After 60 minutes, how many E.coli cells will have DNA totally free from 15N\u2026"
+        }
+      ]
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Organisms and Population",
+    "slug": "organisms-and-population",
+    "sourceUrl": "https://edurev.in/t/170147/NEET-Previous-Year-Questions-2016-22-Organisms-P",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 39,
+    "jsonQuestionCount": 39,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 1,
+      "ui_text_leaked": 1
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [
+        {
+          "jsonId": "Q15",
+          "sourceQ": "Q8",
+          "year": "2023",
+          "text": "Match List I with List II. Choose the correct answer from the options given below",
+          "similarity": 0.067,
+          "sourceSnippet": "A. Predator : Pisaster (II) is a type of starfish, which acts as a predator, particularly preying on mussels and other organisms in intertidal zones. B. Mutuali\u2026",
+          "jsonSnippet": "A leopard and a lion in a forest/grassland (A) : These two species are predators that hunt in the same environment and likely compete for the same prey. This is\u2026"
+        }
+      ],
+      "ui_text_leaked": [
+        {
+          "jsonId": "Q34",
+          "sourceQ": "Q1",
+          "year": "2017",
+          "text": "Asymptote in a logistic growth curve is obtained when"
+        }
+      ]
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Principles of Inheritance & Variation",
+    "slug": "principles-of-inheritance-and-variation",
+    "sourceUrl": "https://edurev.in/t/170125/NEET-Previous-Year-Questions-2016-22-Principles-o",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 56,
+    "jsonQuestionCount": 56,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 3,
+      "ui_text_leaked": 0
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [
+        {
+          "jsonId": "Q9",
+          "sourceQ": "Q4",
+          "year": "2024",
+          "text": "Match List I with List II : Choose the",
+          "similarity": 0.044,
+          "sourceSnippet": "Let's analyze each term in List-I with the definitions presented in List-II: A. Two or more alternative forms of a gene: These are called alleles. Thus, A match\u2026",
+          "jsonSnippet": "Sol: To correctly match List I with List II concerning medical conditions and their associated chromosomes, it's essential to have some understanding of genetic\u2026"
+        },
+        {
+          "jsonId": "Q7",
+          "sourceQ": "Q6",
+          "year": "2024",
+          "text": "Match List I with List II Choose the",
+          "similarity": 0.046,
+          "sourceSnippet": "Sol: To correctly match List I with List II concerning medical conditions and their associated chromosomes, it's essential to have some understanding of genetic\u2026",
+          "jsonSnippet": "Let's analyze each term in List-I with the definitions presented in List-II: A. Two or more alternative forms of a gene: These are called alleles. Thus, A match\u2026"
+        },
+        {
+          "jsonId": "Q56",
+          "sourceQ": "Q8",
+          "year": "2016",
+          "text": "A tall true breeding garden pea plant is crossed with a dwarf true breeding garden pea plant When the F1 plants were selfed the resulting genotypes in the ratio\u2026",
+          "similarity": 0.025,
+          "sourceSnippet": "When a tall true breeding garden pea plant is crossed with a dwarf true breeding garden pea plant and the F 1 plants were soiled the resulting genotypes were in\u2026",
+          "jsonSnippet": "When a tall true breeding garden pea plant is crossed with a dwarf true breeding garden pea plant and the F1 plants were soiled the resulting genotypes were in \u2026"
+        }
+      ],
+      "ui_text_leaked": []
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Reproductive Health",
+    "slug": "reproductive-health",
+    "sourceUrl": "https://edurev.in/t/133150/Reproductive-Health-1-From-Past-28-Years-Questions",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 39,
+    "jsonQuestionCount": 39,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 1,
+      "ui_text_leaked": 1
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [
+        {
+          "jsonId": "Q21",
+          "sourceQ": "Q3",
+          "year": "2021",
+          "text": "Match List-I with List-II [NEET 2021] Choose the correct answer from the options given below",
+          "similarity": 0.019,
+          "sourceSnippet": "A. Vasectomy: III. Surgical method - This is a permanent method of male sterilization. B. Coitus interruptus: IV. Natural method - This involves withdrawal befo\u2026",
+          "jsonSnippet": "Vaults is a rubber dome, which fits over the vaginal vault or cervix. They prevents the entry of sperm into the uterus.IUDs are the devices which are inserted b\u2026"
+        }
+      ],
+      "ui_text_leaked": [
+        {
+          "jsonId": "Q1",
+          "sourceQ": "Q1",
+          "year": "2025",
+          "text": "What are the potential drawbacks in adoption of the IVF method? A. High fatality risk to mother B. Expensive instruments and reagents C. Husband/wife necessary \u2026"
+        }
+      ]
+    }
+  },
+  {
+    "subject": "",
+    "class_code": "B12",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "slug": "sexual-reproduction-in-flowering-plants",
+    "sourceUrl": "https://edurev.in/t/170111/NEET-Previous-Year-Questions-2016-20-Sexual-Repr",
+    "covered": true,
+    "coverageReason": null,
+    "sourceQuestionCount": 51,
+    "jsonQuestionCount": 51,
+    "counts": {
+      "missing_explanation_from_source": 0,
+      "missing_explanation_in_json": 0,
+      "explanation_mismatch": 0,
+      "ui_text_leaked": 0
+    },
+    "categories": {
+      "missing_explanation_from_source": [],
+      "missing_explanation_in_json": [],
+      "explanation_mismatch": [],
+      "ui_text_leaked": []
+    }
+  }
+]

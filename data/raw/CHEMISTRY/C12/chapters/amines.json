@@ -1,0 +1,653 @@
+[
+  {
+    "id": "Q1",
+    "text": "The correct order of decreasing basic strength of the given amines is",
+    "options": {
+      "A": "N-ethylethanamine > ethanamine > N -methylaniline > benzenamine",
+      "B": "benzenamine > ethanamine > N -methylaniline >N-ethylethanamine",
+      "C": "N -methylaniline > benzenamine > ethanamine >N-ethylethanamine",
+      "D": "N-ethylethanamine > ethanamine > benzenamine >N-methylaniline"
+    },
+    "answer": "a",
+    "explanation": "Lower is the value of pKb, higher is the basicity. Also, aliphatic amines are stronger bases than aromatic amines. pKb : Benzenamine > N-Methylaniline > Ethanamine > N-Ethylethanamine Basic strength : N-Ethylethanamine > Ethanamine > N-Methylaniline > Benzenamine N-methylaniline: The nitrogen is part of an aromatic ring, and the lone pair of electrons on nitrogen is delocalized into the ring through resonance, reducing its availability for protonation. This makes it less basic. Benzenamine: Similar to N-methylaniline, its lone pair is delocalized into the aromatic ring, making it less basic than aliphatic amines. Ethanamine: This is a simple aliphatic amine where the lone pair on nitrogen is readily available for protonation. It is more basic than aromatic amines.N-ethylethanamine: This is a secondary aliphatic amine, and the presence of two alkyl groups provides a stronger inductive effect, increasing the availability of the lone pair. It is the most basic among the given compounds. The correct order of decreasing basic strength is N-ethylethanamine > ethanamine > N-methylaniline > benzenamine",
+    "year": "2025",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2025_C12_Q1-explanation1.jpg",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2025_C12_Q1-explanation2.jpg",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2025_C12_Q1-explanation3.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Given below are two statements: Statement I: Benzenediazonium salt is prepared by the reaction of aniline with nitrous acid at 273 - 278 K. It decomposes easily in the dry state Statement II: Insertion of iodine into the benzene ring is difficult and hence iodobenzene is prepared through the reaction of benzenediazonium salt with KI",
+    "options": {
+      "A": "Statement I is correct; Statement II is incorrect",
+      "B": "Statement I is incorrect; Statement II is",
+      "C": "Both Statement I and Statement II are",
+      "D": "Both Statement I and Statement II are incorrect"
+    },
+    "answer": "c",
+    "explanation": "Statement I: Benzenediazonium salt is indeed prepared by the reaction of aniline with nitrous acid at 273-278 K.It is unstable in the dry state, decomposing readily due to the release of nitrogen gas.Hence, Statement I is correct. Statement II:Iodine insertion directly into the benzene ring is challenging due to iodine's low reactivity.Iodobenzene can be efficiently prepared via the reaction of benzenediazonium salt with KI, as the diazonium group facilitates substitution with iodine.Hence, Statement II is correct. Therefore, both Statement I and Statement II are correct.",
+    "year": "2025",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2025_C12_Q2-explanation1.jpg",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2025_C12_Q2-explanation2.jpg",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2025_C12_Q2-explanation3.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Given below are two statements: Statement I : Aniline does not undergo Friedel-Crafts alkylation reaction. Statement II : Aniline cannot be prepared through Gabriel synthesis",
+    "options": {
+      "A": "Both statement I and Statement II are true",
+      "B": "Both Statement I and Statement II are false",
+      "C": "Statement I is correct but Statement II is false",
+      "D": "Statement I is incorrect but Statement II is true"
+    },
+    "answer": "",
+    "explanation": "Aniline does not undergo Friedel-Crafts alkylation reaction due to salt formation with aluminium chloride, the Lewis acid, which is used as a catalyst.Aniline (aromatic primary amine) cannot be prepared by Gabriel phthalimide synthesis because aryl halides do not undergo nucleophilic substitution with anion formed by phthalimide.",
+    "year": "2024",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Identify the major product C formed in the following reaction sequence",
+    "options": {
+      "A": "Butylamine",
+      "B": "Butanamide",
+      "C": "α-Bromobutanoic acid",
+      "D": "Propylamine"
+    },
+    "answer": "d",
+    "explanation": "Step 1: CH₃-CH₂-CH₂-I + NaCN → CH₃-CH₂-CH₂-CN This is a nucleophilic substitution reaction (SN2).Product A = Butyl cyanide (Butanenitrile) Step 2: CH₃-CH₂-CH₂-CN → Partial hydrolysis → CH₃-CH₂-CH₂-CONH₂ Nitrile undergoes partial hydrolysis (controlled conditions) to give amide.Product B = Butanamide Step 3: CH₃-CH₂-CH₂-CONH₂ + Br₂/NaOH → CH₃-CH₂-CH₂-NH₂ This is the Hofmann bromamide reaction (converts amides to amines with loss of one carbon atom).Final product C = Propylamine Final Answer: (d) Propylamine",
+    "year": "2024",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2024_C12_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-II, B-III, C-I, D-IV",
+      "B": "A-III, B-II, C-I, D-IV",
+      "C": "A-II, B-I, C-III, D-IV",
+      "D": "A-I, B-III, C-II, D-IV"
+    },
+    "answer": "b",
+    "explanation": "A. Benzenamine (Aniline) Aromatic amine; lone pair on nitrogen is delocalized into the benzene ring → less available for protonation.Therefore, it's a weak base.pK₍ᵦ₎ ≈ 4.70 → Matches with III B. Phenylmethanamine (Benzylamine) The -NH₂ group is not directly attached to the benzene ring (it's on a CH₂ group), so the electron pair is not delocalized.Thus, it's a stronger base than aniline.pK₍ᵦ₎ ≈ 9.38 → Matches with II C. Methenamine (Hexamethylenetetramine) It's a weak base due to steric hindrance and resonance.pK₍ᵦ₎ ≈ 3.38 → Matches with I D. N-Ethylethanamine (Diethylamine) Aliphatic amine with two ethyl groups; inductive effect increases basicity.Diethylamine is generally more basic than benzylamine due to stronger +I effect of two alkyl groups.pK₍ᵦ₎ ≈ 3.0 → Matches with IV Hence Final Answer is (b) A-III, B-II, C-I, D-IV",
+    "year": "2024",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2024_C12_Q5-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "Match List-I with List-II",
+    "options": {
+      "A": "A-IV, B-III, C-II, D-I",
+      "B": "A-IV, B-II, C-III, D-I",
+      "C": "A-IV, B-II, C-I, D-III",
+      "D": "A-II, B-III, C-I, D-IV"
+    },
+    "answer": "a",
+    "explanation": "A. Carbylamine test → IV. Aniline The Carbylamine test is used to detect primary amines like aniline (C₆H₅NH₂).When treated with chloroform and alcoholic KOH, it produces an offensive-smelling isocyanide. B. Bayer's test → III. Ethylene Bayer's test uses alkaline potassium permanganate to detect unsaturation (double/triple bonds) like in ethylene (C₂H₄).A purple KMnO₄ solution gets decolorized in the presence of an alkene. C. Iodoform test → II. Acetone The Iodoform test detects compounds with the structure CH₃CO- or CH₃CH(OH)-, like acetone (CH₃COCH₃).It gives a yellow precipitate of iodoform (CHI₃). D. Phthalein dye test → I. Phenol The Phthalein dye test is used for phenols.Phenol reacts with phthalic anhydride in acidic medium to form phenolphthalein, which is a pH indicator. So, the correct match is: A-IV, B-III, C-II, D-I → Option (a)",
+    "year": "2024",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2024_C12_Q6-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Given below are two statements: Statement I: Benzenediazonium chloride is a colourless crystalline solid. It is insoluble in water but reacts with water when warmed. Statement II: Benzenediazonium chloride on reacting with HCl in presence of copper powder gives chlorobenzene as the product. This is an example of Gattermann reaction",
+    "options": {
+      "A": "Both Statement I and Statement II are true",
+      "B": "Both Statement I and Statement II are false",
+      "C": "Statement I is true but Statement II is false",
+      "D": "Statement I is false but Statement II is true"
+    },
+    "answer": "d",
+    "explanation": "Statement I: \"Benzenediazonium chloride is a colourless crystalline solid. It is insoluble in water but reacts with water when warmed.\" This statement is true. Benzenediazonium chloride is indeed a colourless solid and is known to be insoluble in cold water but can hydrolyze upon warming, leading to the formation of phenol and nitrogen gas. Statement II: \"Benzenediazonium chloride on reacting with HCl in presence of copper powder gives chlorobenzene as the product. This is an example of Gattermann reaction.\" This statement is false. The reaction of benzenediazonium chloride with HCl and copper powder produces chlorobenzene, but it is not a Gattermann reaction. The Gattermann reaction typically involves the formylation of aromatic compounds, not the formation of chlorobenzene from diazonium salts. Since Statement I is true and Statement II is false, the correct answer is (d): \"Statement I is true but Statement II is false.\"",
+    "year": "2024",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The compound that does not undergo Friedel-Crafts alkylation reaction but gives a positive carbylamine test is",
+    "options": {
+      "A": "Aniline",
+      "B": "Pyridine",
+      "C": "N-Methylaniline",
+      "D": "Triethylamine"
+    },
+    "answer": "a",
+    "explanation": "Friedel-Crafts Alkylation Reaction is an electrophilic substitution reaction. It requires a Lewis acid catalyst (like AlCl₃) and an electron-rich aromatic ring. Aniline (C₆H₅NH₂) has an amino group (-NH₂) that is strongly electron-donating through resonance, making the ring electron-rich, but: The lone pair on nitrogen of aniline reacts with AlCl₃, forming a complex.This deactivates the aromatic ring, preventing the Friedel-Crafts reaction from occurring. Aniline does give a positive carbylamine test: Carbylamine test is used to detect primary amines.Aniline is a primary aromatic amine and reacts with chloroform (CHCl₃) and alc. KOH to produce foul-smelling isocyanide, confirming a positive test. So, Aniline fails Friedel-Crafts alkylation but passes the carbylamine test, making option (a) the correct answer.",
+    "year": "2024",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Which of the following reactions will NOT give primary amine as the product?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q9-main.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q9-main2.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q9-main3.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q9-main4.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Identify the product in the following reaction",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Reagents: Cu₂Br₂/HBr - This is used in Sandmeyer reaction to replace -N₂⁺ with Br, forming bromobenzene.Mg/dry ether - Converts bromobenzene to phenyl magnesium bromide (Grignard reagent).H₂O - On hydrolysis, the Grignard reagent gives benzene. Step-by-step: Aniline → diazonium salt → bromobenzene (via Sandmeyer)Bromobenzene → phenyl MgBr (via Mg)Phenyl MgBr + H₂O → benzene",
+    "year": "2023",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q10-explanation1.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q10-explanation2.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q10-explanation3.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q10-explanation4.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q10-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The least basic compounds/species among the following is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "We are comparing basicity among different compounds with amino groups. (a) Guanidine derivative with a carbonyl (=O) - moderately basic (b) Has a positive charge on carbon and -OH; very unstable and least likely to donate lone pair, hence least basic (c) Iminoguanidine - contains imine (=NH), relatively more basic (d) A guanidinium ion - stabilized by resonance, still more basic than (b) Correct Answer: (b) - least basic due to positive charge on C and low electron availability",
+    "year": "2023",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q11-explanation1.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q11-explanation2.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q11-explanation3.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2023_C12_Q11-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Which of the following is the correct sequence of reagents for converting 4-nitrotoluene to 2-bromotoluene?",
+    "options": {
+      "A": "NaNO₂/HCl; Sn/HCl; Br₂; H₂O/H₃PO₂",
+      "B": "Sn/HCl; NaNO₂/HCl; Br₂; H₂O/H₃PO₂",
+      "C": "Br₂; Sn/HCl; NaNO₂/HCl; H₂O/H₃PO₂",
+      "D": "Sn/HCl; Br₂; NaNO₂/HCl; H₂O/H₃PO₂"
+    },
+    "answer": "c",
+    "explanation": "Step-by-step reasoning: Bromination first (Br₂): Bromination of 4-nitrotoluene occurs electrophilically.Due to the deactivating, meta-directing nature of the -NO₂ group, Br goes to the position ortho to -CH₃, i.e., 2-position. Reduction (Sn/HCl): Now reduce -NO₂ to -NH₂, converting nitro group to amine. Diazotization (NaNO₂/HCl): Convert -NH₂ to diazonium salt. Hydro-de-diazoniation (H₂O/H₃PO₂): Use H₃PO₂ to remove the diazonium group, forming 2-bromotoluene. Therefore, correct sequence is: Br₂ → Sn/HCl → NaNO₂/HCl → H₂O/H₃PO₂",
+    "year": "2023",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Given below are two statements Statement I: Primary aliphatic amines react with HNO2 to give unstable diazonium salts. Statement II: Primary aromatic amines react with HNO2 to form diazonium salts which are stable even above 300 K",
+    "options": {
+      "A": "Statement I is correct but Statement II is incorrect.",
+      "B": "Statement I is incorrect but Statement II is correct.",
+      "C": "Both Statement I and Statement II are correct.",
+      "D": "Both Statement I and Statement II are incorrect."
+    },
+    "answer": "a",
+    "explanation": "Statement II is incorrect. The aromatic diazonium salts are unstable above 300 K.",
+    "year": "2022",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The product formed from the following reaction sequence is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2022_C12_Q14-explanation1.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2022_C12_Q14-explanation2.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2022_C12_Q14-explanation3.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2022_C12_Q14-explanation4.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2022_C12_Q14-explanation5.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2022_C12_Q14-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Identify the compound that will react with Hinsberg's reagent to give a solid which dissolves in alkali",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "1° amines react with Hingsberg's reagent to give a solid, which dissolve in alkali.",
+    "year": "2021",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2021_C12_Q15-explanation1.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2021_C12_Q15-explanation2.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2021_C12_Q15-explanation3.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2021_C12_Q15-explanation4.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2021_C12_Q15-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The reagent 'R' in the given sequence of a chemical reaction is",
+    "options": {
+      "A": "HI",
+      "B": "CuCN/KCN",
+      "C": "H2O",
+      "D": "CH3CH2OH"
+    },
+    "answer": "d",
+    "explanation": "R : CH3CH2OH Certain mild reducing agents like hypophosphorus acid or ethanol reduce diazonium salts to arene and themselves get oxidised to phosphorous acid and ethanal respectively.",
+    "year": "2021",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2021_C12_Q16-explanation1.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2021_C12_Q16-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Which of the following amine will give the carbylamine test?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Carbylamine reaction is give by 1° amine & aniline.",
+    "year": "2020",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2020_C12_Q17-explanation1.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2020_C12_Q17-explanation2.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2020_C12_Q17-explanation3.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2020_C12_Q17-explanation4.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2020_C12_Q17-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The correct order of the basic strength of methyl substituted amines in aqueous is",
+    "options": {
+      "A": "(CH3)2NH > CH3NH2 > (CH3)3N",
+      "B": "(CH3)3N > CH3NH2 > (CH3)2NH",
+      "C": "(CH3)3N > (CH3)2NH > CH3NH2",
+      "D": "CH3NH2 > (CH3)2NH > (CH3)3N"
+    },
+    "answer": "a",
+    "explanation": "In aqueous solution, electron donating inductive effect, solvation effect (H-bonding) and steric hindrance all together affect basic strength of substituted amines Basic character:",
+    "year": "2019",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2019_C12_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "Nitration of aniline in strong acidic medium also gives m-nitroaniline because",
+    "options": {
+      "A": "In spite of substituents nitro group always goes to only m-position.",
+      "B": "In electrophilic substitution reactions amino group is meta directive.",
+      "C": "In absence of substituents nitro group always goes to m-position",
+      "D": "In acidic (strong) medium aniline is present as anilinium ion."
+    },
+    "answer": "b",
+    "explanation": "In acidic medium aniline is protonated to form anilinium ion which is meta directing.",
+    "year": "2018",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2018_C12_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Which of the following reactions is appropriate for converting acetamide to methanamine?",
+    "options": {
+      "A": "Hoffmann bromamide reaction",
+      "B": "Stephens reaction",
+      "C": "Gabriel phthalimide synthesis",
+      "D": "Carbylamine reaction"
+    },
+    "answer": "a",
+    "explanation": "This reaction is known as hoffmann bromamide reaction.",
+    "year": "2017",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2017_C12_Q20-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The correct statement regarding the basicity of arylamines is",
+    "options": {
+      "A": "Arylamines are generally more basic than alkylamines, because the nitrogen atom in arylamines is sp-hybridized.",
+      "B": "Arylamines are generally less basic than alkylamines because the nitrogen lone pair electrons are delocalized by interaction with the aromatic ring π electrons system.",
+      "C": "Arylamines are generally more basic than alkylamines because the nitrogen lone pair electrons are not delocalized by interaction with the aromatic ring π electron system.",
+      "D": "Arylamines are generally more basic than alkylamines because of aryl group"
+    },
+    "answer": "b",
+    "explanation": "In arylamines, lone pair of electrons on nitrogen atom is delocalised over the benzene ring, thus, not available for donation. So, arylamines are less basic than alkylamines.",
+    "year": "2016",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "The electrolytic reduction of nitrobenzene in strongly acidic medium produces",
+    "options": {
+      "A": "Aniline",
+      "B": "p-Aminophenol",
+      "C": "Azoxybenzene",
+      "D": "Azobenzene"
+    },
+    "answer": "b",
+    "explanation": "Electrolytic reduction of nitrobenzene in weakly acidic medium gives aniline but in strongly acidic medium, it gives para-amino phenol obviously through the acid catalysed rearrangement of initially formed phenyl hydroxyl amine.",
+    "year": "2015",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2015_C12_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "In the following reaction, the product",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "The above reaction is a coupling reaction of aniline with diazonium salt to give azo benzene compound. This coupling reaction takes place at the para-position to - NH2 group of benzene. This reaction act as electrophilic substitution reaction of aniline.",
+    "year": "2014",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q23-main.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q23-main2.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q23-main3.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q23-main4.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q23-explanation1.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q23-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Which of the following will be most stable diazonium salt ?",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "Diazonium salt containing aryl group directly linked to the nitrogen atom is most stable due to resonance stabilization between the benzene nucleus and N-atom. [Resonance structure of benzene diazonium ion]",
+    "year": "2014",
+    "chapter": "Amines",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q24-explanation1.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q24-explanation2.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q24-explanation3.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q24-explanation4.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q24-explanation5.png",
+      "CHEMISTRY/C12/chapters/amines/AMINES-2014_C12_Q24-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

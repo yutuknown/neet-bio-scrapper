@@ -1,28 +1,530 @@
 {
-  "generatedAt": "2026-05-07T05:44:00.724Z",
+  "generatedAt": "2026-05-07T19:46:58.263Z",
   "chapters": [
     {
-      "slug": "principles-of-inheritance-and-variation",
-      "title": "Principles of Inheritance & Variation",
-      "risk": "medium",
+      "slug": "biodiversity-and-its-conservation",
+      "title": "Biodiversity and its Conservation",
+      "risk": "low",
       "weakMatches": [
         {
-          "sourceIndex": 0,
-          "scrapedIndex": 0,
-          "scrapedId": "Q1",
-          "sourceYear": "2025",
-          "scrapedYear": "2025",
-          "score": 0.5313,
+          "sourceIndex": 24,
+          "scrapedIndex": 24,
+          "scrapedId": "Q25",
+          "sourceYear": "2022",
+          "scrapedYear": "2022",
+          "score": 0.5971,
+          "matched": true
+        }
+      ]
+    },
+    {
+      "slug": "biotechnology-and-its-applications",
+      "title": "Biotechnology & its Applications",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 21,
+          "scrapedIndex": 21,
+          "scrapedId": "Q22",
+          "sourceYear": "2023",
+          "scrapedYear": "2023",
+          "score": 0.5262,
           "matched": false
         },
         {
-          "sourceIndex": 6,
-          "scrapedIndex": 6,
-          "scrapedId": "Q7",
+          "sourceIndex": 24,
+          "scrapedIndex": 24,
+          "scrapedId": "Q25",
+          "sourceYear": "2022",
+          "scrapedYear": "2022",
+          "score": 0.501,
+          "matched": false
+        },
+        {
+          "sourceIndex": 26,
+          "scrapedIndex": 26,
+          "scrapedId": "Q27",
+          "sourceYear": "2021",
+          "scrapedYear": "2021",
+          "score": 0.5656,
+          "matched": true
+        }
+      ]
+    },
+    {
+      "slug": "biotechnology-principle-and-processes",
+      "title": "Biotechnology: Principle & Processes",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 37,
+          "scrapedIndex": 38,
+          "scrapedId": "Q39",
+          "sourceYear": "2022",
+          "scrapedYear": "2022",
+          "score": 0.5704,
+          "matched": true
+        }
+      ]
+    },
+    {
+      "slug": "ecosystem",
+      "title": "Ecosystem",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 2,
+          "scrapedIndex": 2,
+          "scrapedId": "Q3",
+          "sourceYear": "2025",
+          "scrapedYear": "2025",
+          "score": 0.49,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "slug": "evolution",
+      "title": "Evolution",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 15,
+          "scrapedIndex": 22,
+          "scrapedId": "Q23",
+          "sourceYear": "2021",
+          "scrapedYear": "2019",
+          "score": 0.4333,
+          "matched": false
+        },
+        {
+          "sourceIndex": 22,
+          "scrapedIndex": 24,
+          "scrapedId": "Q25",
+          "sourceYear": "2019",
+          "scrapedYear": "2018",
+          "score": 0.4032,
+          "matched": false
+        },
+        {
+          "sourceIndex": 24,
+          "scrapedIndex": 25,
+          "scrapedId": "Q26",
+          "sourceYear": "2018",
+          "scrapedYear": "2018",
+          "score": 0.5167,
+          "matched": false
+        },
+        {
+          "sourceIndex": 25,
+          "scrapedIndex": 27,
+          "scrapedId": "Q28",
+          "sourceYear": "2018",
+          "scrapedYear": "2016",
+          "score": 0.3667,
+          "matched": false
+        },
+        {
+          "sourceIndex": 27,
+          "scrapedIndex": 32,
+          "scrapedId": "Q33",
+          "sourceYear": "2016",
+          "scrapedYear": "2016",
+          "score": 0.5023,
+          "matched": false
+        },
+        {
+          "sourceIndex": 32,
+          "scrapedIndex": 3,
+          "scrapedId": "Q4",
+          "sourceYear": "2016",
+          "scrapedYear": "2024",
+          "score": 0.197,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "slug": "human-health-and-diseases",
+      "title": "Human Health & Diseases",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 19,
+          "scrapedIndex": 17,
+          "scrapedId": "Q18",
+          "sourceYear": "2023",
+          "scrapedYear": "2023",
+          "score": 0.5042,
+          "matched": false
+        },
+        {
+          "sourceIndex": 26,
+          "scrapedIndex": 29,
+          "scrapedId": "Q30",
+          "sourceYear": "2021",
+          "scrapedYear": "2020",
+          "score": 0.3749,
+          "matched": false
+        },
+        {
+          "sourceIndex": 29,
+          "scrapedIndex": 41,
+          "scrapedId": "Q42",
+          "sourceYear": "2020",
+          "scrapedYear": "2017",
+          "score": 0.3981,
+          "matched": false
+        },
+        {
+          "sourceIndex": 41,
+          "scrapedIndex": 42,
+          "scrapedId": "Q43",
+          "sourceYear": "2016",
+          "scrapedYear": "2017",
+          "score": 0.4576,
+          "matched": false
+        },
+        {
+          "sourceIndex": 42,
+          "scrapedIndex": 45,
+          "scrapedId": "Q46",
+          "sourceYear": "2016",
+          "scrapedYear": "2017",
+          "score": 0.384,
+          "matched": false
+        },
+        {
+          "sourceIndex": 45,
+          "scrapedIndex": 19,
+          "scrapedId": "Q20",
+          "sourceYear": "2016",
+          "scrapedYear": "2023",
+          "score": 0.2173,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "slug": "human-reproduction",
+      "title": "Human Reproduction",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 17,
+          "scrapedIndex": 17,
+          "scrapedId": "Q18",
+          "sourceYear": "2023",
+          "scrapedYear": "2023",
+          "score": 0.5492,
+          "matched": false
+        },
+        {
+          "sourceIndex": 34,
+          "scrapedIndex": 34,
+          "scrapedId": "Q35",
+          "sourceYear": "2019",
+          "scrapedYear": "2019",
+          "score": 0.5703,
+          "matched": true
+        },
+        {
+          "sourceIndex": 36,
+          "scrapedIndex": 36,
+          "scrapedId": "Q37",
+          "sourceYear": "2018",
+          "scrapedYear": "2018",
+          "score": 0.512,
+          "matched": false
+        },
+        {
+          "sourceIndex": 39,
+          "scrapedIndex": 39,
+          "scrapedId": "Q40",
+          "sourceYear": "2016",
+          "scrapedYear": "2016",
+          "score": 0.494,
+          "matched": false
+        },
+        {
+          "sourceIndex": 40,
+          "scrapedIndex": 40,
+          "scrapedId": "Q41",
+          "sourceYear": "2016",
+          "scrapedYear": "2016",
+          "score": 0.5212,
+          "matched": false
+        },
+        {
+          "sourceIndex": 41,
+          "scrapedIndex": 41,
+          "scrapedId": "Q42",
+          "sourceYear": "2016",
+          "scrapedYear": "2016",
+          "score": 0.5372,
+          "matched": false
+        },
+        {
+          "sourceIndex": 42,
+          "scrapedIndex": 42,
+          "scrapedId": "Q43",
+          "sourceYear": "2016",
+          "scrapedYear": "2016",
+          "score": 0.5739,
+          "matched": true
+        }
+      ]
+    },
+    {
+      "slug": "microbes-in-human-welfare",
+      "title": "Microbes in Human Welfare",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 10,
+          "scrapedIndex": 14,
+          "scrapedId": "Q15",
+          "sourceYear": "2021",
+          "scrapedYear": "2019",
+          "score": 0.4122,
+          "matched": false
+        },
+        {
+          "sourceIndex": 14,
+          "scrapedIndex": 16,
+          "scrapedId": "Q17",
+          "sourceYear": "2019",
+          "scrapedYear": "2019",
+          "score": 0.5653,
+          "matched": true
+        },
+        {
+          "sourceIndex": 16,
+          "scrapedIndex": 17,
+          "scrapedId": "Q18",
+          "sourceYear": "2019",
+          "scrapedYear": "2019",
+          "score": 0.5837,
+          "matched": true
+        },
+        {
+          "sourceIndex": 17,
+          "scrapedIndex": 21,
+          "scrapedId": "Q22",
+          "sourceYear": "2019",
+          "scrapedYear": "2017",
+          "score": 0.4399,
+          "matched": false
+        },
+        {
+          "sourceIndex": 21,
+          "scrapedIndex": 22,
+          "scrapedId": "Q23",
+          "sourceYear": "2017",
+          "scrapedYear": "2016",
+          "score": 0.5165,
+          "matched": false
+        },
+        {
+          "sourceIndex": 22,
+          "scrapedIndex": 3,
+          "scrapedId": "Q4",
+          "sourceYear": "2016",
+          "scrapedYear": "2024",
+          "score": 0.2585,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "slug": "molecular-basis-of-inheritance",
+      "title": "Molecular Basis of Inheritance",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 68,
+          "scrapedIndex": 69,
+          "scrapedId": "Q70",
+          "sourceYear": "2019",
+          "scrapedYear": "2019",
+          "score": 0.5186,
+          "matched": false
+        },
+        {
+          "sourceIndex": 69,
+          "scrapedIndex": 70,
+          "scrapedId": "Q71",
+          "sourceYear": "2019",
+          "scrapedYear": "2019",
+          "score": 0.4392,
+          "matched": false
+        },
+        {
+          "sourceIndex": 70,
+          "scrapedIndex": 81,
+          "scrapedId": "Q82",
+          "sourceYear": "2019",
+          "scrapedYear": "2017",
+          "score": 0.3904,
+          "matched": false
+        },
+        {
+          "sourceIndex": 81,
+          "scrapedIndex": 82,
+          "scrapedId": "Q83",
+          "sourceYear": "2017",
+          "scrapedYear": "2017",
+          "score": 0.4551,
+          "matched": false
+        },
+        {
+          "sourceIndex": 82,
+          "scrapedIndex": 83,
+          "scrapedId": "Q84",
+          "sourceYear": "2017",
+          "scrapedYear": "2017",
+          "score": 0.4214,
+          "matched": false
+        },
+        {
+          "sourceIndex": 83,
+          "scrapedIndex": 86,
+          "scrapedId": "Q87",
+          "sourceYear": "2017",
+          "scrapedYear": "2016",
+          "score": 0.3113,
+          "matched": false
+        },
+        {
+          "sourceIndex": 86,
+          "scrapedIndex": 90,
+          "scrapedId": "Q91",
+          "sourceYear": "2016",
+          "scrapedYear": "2016",
+          "score": 0.5195,
+          "matched": false
+        },
+        {
+          "sourceIndex": 90,
+          "scrapedIndex": 91,
+          "scrapedId": "Q92",
+          "sourceYear": "2016",
+          "scrapedYear": "2016",
+          "score": 0.3895,
+          "matched": false
+        },
+        {
+          "sourceIndex": 91,
+          "scrapedIndex": 68,
+          "scrapedId": "Q69",
+          "sourceYear": "2016",
+          "scrapedYear": "2019",
+          "score": 0.1143,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "slug": "organisms-and-population",
+      "title": "Organisms and Population",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 14,
+          "scrapedIndex": 15,
+          "scrapedId": "Q16",
+          "sourceYear": "2023",
+          "scrapedYear": "2023",
+          "score": 0.5396,
+          "matched": false
+        },
+        {
+          "sourceIndex": 15,
+          "scrapedIndex": 16,
+          "scrapedId": "Q17",
+          "sourceYear": "2023",
+          "scrapedYear": "2023",
+          "score": 0.5021,
+          "matched": false
+        },
+        {
+          "sourceIndex": 16,
+          "scrapedIndex": 18,
+          "scrapedId": "Q19",
+          "sourceYear": "2023",
+          "scrapedYear": "2023",
+          "score": 0.5163,
+          "matched": false
+        },
+        {
+          "sourceIndex": 18,
+          "scrapedIndex": 20,
+          "scrapedId": "Q21",
+          "sourceYear": "2023",
+          "scrapedYear": "2023",
+          "score": 0.4663,
+          "matched": false
+        },
+        {
+          "sourceIndex": 20,
+          "scrapedIndex": 23,
+          "scrapedId": "Q24",
+          "sourceYear": "2023",
+          "scrapedYear": "2022",
+          "score": 0.3394,
+          "matched": false
+        },
+        {
+          "sourceIndex": 23,
+          "scrapedIndex": 38,
+          "scrapedId": "Q39",
+          "sourceYear": "2022",
+          "scrapedYear": "2016",
+          "score": 0.3416,
+          "matched": false
+        },
+        {
+          "sourceIndex": 29,
+          "scrapedIndex": 29,
+          "scrapedId": "Q30",
+          "sourceYear": "2019",
+          "scrapedYear": "2019",
+          "score": 0.5269,
+          "matched": false
+        },
+        {
+          "sourceIndex": 38,
+          "scrapedIndex": 10,
+          "scrapedId": "Q11",
+          "sourceYear": "2016",
+          "scrapedYear": "2024",
+          "score": 0.1682,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "slug": "principles-of-inheritance-and-variation",
+      "title": "Principles of Inheritance & Variation",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 5,
+          "scrapedIndex": 5,
+          "scrapedId": "Q6",
           "sourceYear": "2024",
           "scrapedYear": "2024",
-          "score": 0.5197,
-          "matched": false
+          "score": 0.5654,
+          "matched": true
+        },
+        {
+          "sourceIndex": 6,
+          "scrapedIndex": 8,
+          "scrapedId": "Q9",
+          "sourceYear": "2024",
+          "scrapedYear": "2024",
+          "score": 0.5889,
+          "matched": true
         },
         {
           "sourceIndex": 7,
@@ -30,151 +532,77 @@
           "scrapedId": "Q8",
           "sourceYear": "2024",
           "scrapedYear": "2024",
-          "score": 0.4594,
-          "matched": false
+          "score": 0.5925,
+          "matched": true
         },
         {
           "sourceIndex": 8,
-          "scrapedIndex": 8,
-          "scrapedId": "Q9",
+          "scrapedIndex": 6,
+          "scrapedId": "Q7",
           "sourceYear": "2024",
           "scrapedYear": "2024",
-          "score": 0.5192,
-          "matched": false
-        },
-        {
-          "sourceIndex": 9,
-          "scrapedIndex": 9,
-          "scrapedId": "Q10",
-          "sourceYear": "2023",
-          "scrapedYear": "2023",
-          "score": 0.5725,
+          "score": 0.5773,
           "matched": true
         },
         {
-          "sourceIndex": 12,
-          "scrapedIndex": 12,
-          "scrapedId": "Q13",
+          "sourceIndex": 10,
+          "scrapedIndex": 10,
+          "scrapedId": "Q11",
           "sourceYear": "2023",
           "scrapedYear": "2023",
-          "score": 0.5722,
+          "score": 0.5698,
           "matched": true
         },
         {
-          "sourceIndex": 17,
-          "scrapedIndex": 17,
-          "scrapedId": "Q18",
+          "sourceIndex": 21,
+          "scrapedIndex": 21,
+          "scrapedId": "Q22",
           "sourceYear": "2022",
           "scrapedYear": "2022",
-          "score": 0.5105,
+          "score": 0.5027,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "slug": "reproductive-health",
+      "title": "Reproductive Health",
+      "risk": "low",
+      "weakMatches": [
+        {
+          "sourceIndex": 7,
+          "scrapedIndex": 7,
+          "scrapedId": "Q8",
+          "sourceYear": "2023",
+          "scrapedYear": "2023",
+          "score": 0.424,
           "matched": false
         },
         {
-          "sourceIndex": 31,
-          "scrapedIndex": 31,
-          "scrapedId": "Q32",
+          "sourceIndex": 20,
+          "scrapedIndex": 9,
+          "scrapedId": "Q10",
+          "sourceYear": "2021",
+          "scrapedYear": "2023",
+          "score": 0.4138,
+          "matched": false
+        },
+        {
+          "sourceIndex": 22,
+          "scrapedIndex": 22,
+          "scrapedId": "Q23",
           "sourceYear": "2020",
           "scrapedYear": "2020",
-          "score": 0.5576,
-          "matched": true
+          "score": 0.5461,
+          "matched": false
         },
         {
           "sourceIndex": 37,
           "scrapedIndex": 37,
           "scrapedId": "Q38",
-          "sourceYear": "2019",
-          "scrapedYear": "2019",
-          "score": 0.5938,
-          "matched": true
-        },
-        {
-          "sourceIndex": 39,
-          "scrapedIndex": 39,
-          "scrapedId": "Q40",
-          "sourceYear": "2019",
-          "scrapedYear": "2019",
-          "score": 0.5432,
-          "matched": false
-        },
-        {
-          "sourceIndex": 44,
-          "scrapedIndex": 44,
-          "scrapedId": "Q45",
-          "sourceYear": "2017",
-          "scrapedYear": "2017",
-          "score": 0.3389,
-          "matched": false
-        },
-        {
-          "sourceIndex": 45,
-          "scrapedIndex": 45,
-          "scrapedId": "Q46",
-          "sourceYear": "2017",
-          "scrapedYear": "2017",
-          "score": 0.3586,
-          "matched": false
-        },
-        {
-          "sourceIndex": 46,
-          "scrapedIndex": 47,
-          "scrapedId": "Q48",
-          "sourceYear": "2017",
-          "scrapedYear": "2016",
-          "score": 0.3222,
-          "matched": false
-        },
-        {
-          "sourceIndex": 47,
-          "scrapedIndex": 49,
-          "scrapedId": "Q50",
-          "sourceYear": "2017",
-          "scrapedYear": "2016",
-          "score": 0.2332,
-          "matched": false
-        },
-        {
-          "sourceIndex": 49,
-          "scrapedIndex": 53,
-          "scrapedId": "Q54",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.4141,
-          "matched": false
-        },
-        {
-          "sourceIndex": 51,
-          "scrapedIndex": 52,
-          "scrapedId": "Q53",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.3812,
-          "matched": false
-        },
-        {
-          "sourceIndex": 52,
-          "scrapedIndex": 50,
-          "scrapedId": "Q51",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.3528,
-          "matched": false
-        },
-        {
-          "sourceIndex": 54,
-          "scrapedIndex": null,
-          "scrapedId": null,
-          "sourceYear": null,
-          "scrapedYear": null,
-          "score": 0,
-          "matched": false
-        },
-        {
-          "sourceIndex": 55,
-          "scrapedIndex": null,
-          "scrapedId": null,
-          "sourceYear": null,
-          "scrapedYear": null,
-          "score": 0,
+          "sourceYear": "2014",
+          "scrapedYear": "2014",
+          "score": 0.5018,
           "matched": false
         }
       ]
@@ -182,294 +610,42 @@
     {
       "slug": "sexual-reproduction-in-flowering-plants",
       "title": "Sexual Reproduction in Flowering Plants",
-      "risk": "medium",
+      "risk": "low",
       "weakMatches": [
-        {
-          "sourceIndex": 4,
-          "scrapedIndex": 4,
-          "scrapedId": "Q5",
-          "sourceYear": "2024",
-          "scrapedYear": "2024",
-          "score": 0.5475,
-          "matched": false
-        },
-        {
-          "sourceIndex": 5,
-          "scrapedIndex": 5,
-          "scrapedId": "Q6",
-          "sourceYear": "2024",
-          "scrapedYear": "2024",
-          "score": 0.5858,
-          "matched": true
-        },
-        {
-          "sourceIndex": 6,
-          "scrapedIndex": 6,
-          "scrapedId": "Q7",
-          "sourceYear": "2024",
-          "scrapedYear": "2024",
-          "score": 0.5723,
-          "matched": true
-        },
-        {
-          "sourceIndex": 10,
-          "scrapedIndex": 10,
-          "scrapedId": "Q11",
-          "sourceYear": "2024",
-          "scrapedYear": "2024",
-          "score": 0.5753,
-          "matched": true
-        },
-        {
-          "sourceIndex": 11,
-          "scrapedIndex": 11,
-          "scrapedId": "Q12",
-          "sourceYear": "2023",
-          "scrapedYear": "2023",
-          "score": 0.5848,
-          "matched": true
-        },
-        {
-          "sourceIndex": 13,
-          "scrapedIndex": 13,
-          "scrapedId": "Q14",
-          "sourceYear": "2023",
-          "scrapedYear": "2023",
-          "score": 0.5028,
-          "matched": false
-        },
-        {
-          "sourceIndex": 14,
-          "scrapedIndex": 14,
-          "scrapedId": "Q15",
-          "sourceYear": "2023",
-          "scrapedYear": "2023",
-          "score": 0.5801,
-          "matched": true
-        },
-        {
-          "sourceIndex": 15,
-          "scrapedIndex": 15,
-          "scrapedId": "Q16",
-          "sourceYear": "2023",
-          "scrapedYear": "2023",
-          "score": 0.5755,
-          "matched": true
-        },
-        {
-          "sourceIndex": 16,
-          "scrapedIndex": 16,
-          "scrapedId": "Q17",
-          "sourceYear": "2023",
-          "scrapedYear": "2023",
-          "score": 0.5836,
-          "matched": true
-        },
         {
           "sourceIndex": 17,
           "scrapedIndex": 17,
           "scrapedId": "Q18",
           "sourceYear": "2023",
           "scrapedYear": "2023",
-          "score": 0.5018,
-          "matched": false
+          "score": 0.5885,
+          "matched": true
         },
         {
-          "sourceIndex": 18,
-          "scrapedIndex": 18,
-          "scrapedId": "Q19",
+          "sourceIndex": 21,
+          "scrapedIndex": 21,
+          "scrapedId": "Q22",
           "sourceYear": "2022",
           "scrapedYear": "2022",
-          "score": 0.5862,
+          "score": 0.5826,
           "matched": true
         },
         {
           "sourceIndex": 22,
-          "scrapedIndex": 36,
-          "scrapedId": "Q37",
+          "scrapedIndex": 22,
+          "scrapedId": "Q23",
           "sourceYear": "2022",
-          "scrapedYear": "2017",
-          "score": 0.2813,
+          "scrapedYear": "2022",
+          "score": 0.5248,
           "matched": false
-        },
-        {
-          "sourceIndex": 24,
-          "scrapedIndex": 23,
-          "scrapedId": "Q24",
-          "sourceYear": "2021",
-          "scrapedYear": "2021",
-          "score": 0.5824,
-          "matched": true
-        },
-        {
-          "sourceIndex": 26,
-          "scrapedIndex": 25,
-          "scrapedId": "Q26",
-          "sourceYear": "2021",
-          "scrapedYear": "2021",
-          "score": 0.5334,
-          "matched": false
-        },
-        {
-          "sourceIndex": 27,
-          "scrapedIndex": 26,
-          "scrapedId": "Q27",
-          "sourceYear": "2020",
-          "scrapedYear": "2020",
-          "score": 0.5395,
-          "matched": false
-        },
-        {
-          "sourceIndex": 29,
-          "scrapedIndex": 28,
-          "scrapedId": "Q29",
-          "sourceYear": "2019",
-          "scrapedYear": "2019",
-          "score": 0.5931,
-          "matched": true
-        },
-        {
-          "sourceIndex": 30,
-          "scrapedIndex": 29,
-          "scrapedId": "Q30",
-          "sourceYear": "2019",
-          "scrapedYear": "2019",
-          "score": 0.5627,
-          "matched": true
-        },
-        {
-          "sourceIndex": 36,
-          "scrapedIndex": 35,
-          "scrapedId": "Q36",
-          "sourceYear": "2018",
-          "scrapedYear": "2018",
-          "score": 0.5738,
-          "matched": true
         },
         {
           "sourceIndex": 37,
-          "scrapedIndex": 40,
-          "scrapedId": "Q41",
-          "sourceYear": "2018",
-          "scrapedYear": "2017",
-          "score": 0.2523,
-          "matched": false
-        },
-        {
-          "sourceIndex": 38,
-          "scrapedIndex": 38,
-          "scrapedId": "Q39",
-          "sourceYear": "2017",
-          "scrapedYear": "2017",
-          "score": 0.3994,
-          "matched": false
-        },
-        {
-          "sourceIndex": 39,
           "scrapedIndex": 37,
           "scrapedId": "Q38",
-          "sourceYear": "2017",
-          "scrapedYear": "2017",
-          "score": 0.573,
-          "matched": true
-        },
-        {
-          "sourceIndex": 40,
-          "scrapedIndex": 39,
-          "scrapedId": "Q40",
-          "sourceYear": "2017",
-          "scrapedYear": "2017",
-          "score": 0.3368,
-          "matched": false
-        },
-        {
-          "sourceIndex": 41,
-          "scrapedIndex": 46,
-          "scrapedId": "Q47",
-          "sourceYear": "2017",
-          "scrapedYear": "2016",
-          "score": 0.2121,
-          "matched": false
-        },
-        {
-          "sourceIndex": 42,
-          "scrapedIndex": 42,
-          "scrapedId": "Q43",
-          "sourceYear": "2017",
-          "scrapedYear": "2016",
-          "score": 0.2096,
-          "matched": false
-        },
-        {
-          "sourceIndex": 43,
-          "scrapedIndex": 41,
-          "scrapedId": "Q42",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.5298,
-          "matched": false
-        },
-        {
-          "sourceIndex": 44,
-          "scrapedIndex": 47,
-          "scrapedId": "Q48",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.3634,
-          "matched": false
-        },
-        {
-          "sourceIndex": 45,
-          "scrapedIndex": 43,
-          "scrapedId": "Q44",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.5646,
-          "matched": true
-        },
-        {
-          "sourceIndex": 46,
-          "scrapedIndex": 44,
-          "scrapedId": "Q45",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.5693,
-          "matched": true
-        },
-        {
-          "sourceIndex": 47,
-          "scrapedIndex": 45,
-          "scrapedId": "Q46",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.5799,
-          "matched": true
-        },
-        {
-          "sourceIndex": 48,
-          "scrapedIndex": 48,
-          "scrapedId": "Q49",
-          "sourceYear": "2016",
-          "scrapedYear": "2016",
-          "score": 0.3566,
-          "matched": false
-        },
-        {
-          "sourceIndex": 49,
-          "scrapedIndex": null,
-          "scrapedId": null,
-          "sourceYear": null,
-          "scrapedYear": null,
-          "score": 0,
-          "matched": false
-        },
-        {
-          "sourceIndex": 50,
-          "scrapedIndex": null,
-          "scrapedId": null,
-          "sourceYear": null,
-          "scrapedYear": null,
-          "score": 0,
+          "sourceYear": "2018",
+          "scrapedYear": "2018",
+          "score": 0.4627,
           "matched": false
         }
       ]

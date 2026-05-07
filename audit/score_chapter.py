@@ -10,6 +10,13 @@ from extract_source_signals import summarize_source_signals
 from schema import validate_chapter
 
 
+def explanation_text(question: dict[str, Any]) -> str:
+    value = question.get("explanation", "")
+    if isinstance(value, dict):
+        return str(value.get("correct", "") or value.get("others", "") or "").strip()
+    return str(value or "").strip()
+
+
 def load_scraped_questions(path: str) -> list[dict[str, Any]]:
     return json.loads(Path(path).read_text(encoding="utf-8"))
 
@@ -59,7 +66,7 @@ def semantic_score(signals: dict[str, Any], scraped_questions: list[dict[str, An
 def anomaly_score(scraped_questions: list[dict[str, Any]], gap: dict[str, Any]) -> float:
     if not scraped_questions:
         return 1.0
-    empty_explanation_rate = sum(1 for q in scraped_questions if not q.get("explanation", {}).get("correct")) / len(scraped_questions)
+    empty_explanation_rate = sum(1 for q in scraped_questions if not explanation_text(q)) / len(scraped_questions)
     image_density = sum(len(q.get("images", [])) for q in scraped_questions) / len(scraped_questions)
     duplicate_option_rate = sum(1 for q in scraped_questions if len(set(q.get("options", {}).values())) < 4) / len(scraped_questions)
     raw = 0.4 * gap["schema_gap_risk"] + 0.25 * empty_explanation_rate + 0.2 * duplicate_option_rate + 0.15 * (1.0 if image_density > 2.5 else 0.0)

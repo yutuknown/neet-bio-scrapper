@@ -1,0 +1,380 @@
+[
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Gravitation",
+    "slug": "gravitation",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/gravitation.json",
+    "question_count": 35,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Kinetic Theory",
+    "slug": "kinetic-theory",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/kinetic-theory.json",
+    "question_count": 20,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Laws of Motion",
+    "slug": "laws-of-motion",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/laws-of-motion.json",
+    "question_count": 27,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Mechanical Properties of Fluids",
+    "slug": "mechanical-properties-of-fluids",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/mechanical-properties-of-fluids.json",
+    "question_count": 22,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Mechanical Properties of Solids",
+    "slug": "mechanical-properties-of-solids",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/mechanical-properties-of-solids.json",
+    "question_count": 11,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Motion in a Plane",
+    "slug": "motion-in-a-plane",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/motion-in-a-plane.json",
+    "question_count": 27,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Motion in a Straight Line",
+    "slug": "motion-in-a-straight-line",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/motion-in-a-straight-line.json",
+    "question_count": 19,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Oscillations",
+    "slug": "oscillations",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/oscillations.json",
+    "question_count": 20,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "System of Particles and Rotational Motion",
+    "slug": "system-of-particles-and-rotational-motion",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/system-of-particles-and-rotational-motion.json",
+    "question_count": 42,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Thermal Properties of Matter",
+    "slug": "thermal-properties-of-matter",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/thermal-properties-of-matter.json",
+    "question_count": 21,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Thermodynamics",
+    "slug": "thermodynamics",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/thermodynamics.json",
+    "question_count": 22,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Units and Measurements",
+    "slug": "units-and-measurements",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/units-and-measurements.json",
+    "question_count": 29,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Waves",
+    "slug": "waves",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/waves.json",
+    "question_count": 25,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P11",
+    "chapter": "Work, Energy and Power",
+    "slug": "work-energy-and-power",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P11/chapters/work-energy-and-power.json",
+    "question_count": 31,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Alternating Current",
+    "slug": "alternating-current",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/alternating-current.json",
+    "question_count": 37,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Atoms",
+    "slug": "atoms",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/atoms.json",
+    "question_count": 9,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Current Electricity",
+    "slug": "current-electricity",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/current-electricity.json",
+    "question_count": 76,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "slug": "dual-nature-of-radiation-and-matter",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/dual-nature-of-radiation-and-matter.json",
+    "question_count": 39,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Electric Charges and Fields",
+    "slug": "electric-charges-and-fields",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/electric-charges-and-fields.json",
+    "question_count": 28,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Electromagnetic Induction",
+    "slug": "electromagnetic-induction",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/electromagnetic-induction.json",
+    "question_count": 39,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Electromagnetic Waves",
+    "slug": "electromagnetic-waves",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/electromagnetic-waves.json",
+    "question_count": 26,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Magnetism and Matter",
+    "slug": "magnetism-and-matter",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/magnetism-and-matter.json",
+    "question_count": 3,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Moving Charges and Magnetism",
+    "slug": "moving-charges-and-magnetism",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/moving-charges-and-magnetism.json",
+    "question_count": 33,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Nuclei",
+    "slug": "nuclei",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/nuclei.json",
+    "question_count": 20,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Ray Optics and Optical Instruments",
+    "slug": "ray-optics-and-optical-instruments",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/ray-optics-and-optical-instruments.json",
+    "question_count": 61,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "physics",
+    "class_code": "P12",
+    "chapter": "Wave Optics",
+    "slug": "wave-optics",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/PHYSICS/P12/chapters/wave-optics.json",
+    "question_count": 10,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C11",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "slug": "chemical-bonding-and-molecular-structure",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C11/chapters/chemical-bonding-and-molecular-structure.json",
+    "question_count": 49,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C11",
+    "chapter": "Classification of Elements & Periodicity in Properties",
+    "slug": "classification-of-elements-and-periodicity-in-properties",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C11/chapters/classification-of-elements-and-periodicity-in-properties.json",
+    "question_count": 24,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C11",
+    "chapter": "Equilibrium",
+    "slug": "equilibrium",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C11/chapters/equilibrium.json",
+    "question_count": 43,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C11",
+    "chapter": "Hydrocarbons",
+    "slug": "hydrocarbons",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C11/chapters/hydrocarbons.json",
+    "question_count": 48,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C11",
+    "chapter": "Redox Reactions",
+    "slug": "redox-reactions",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C11/chapters/redox-reactions.json",
+    "question_count": 14,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C11",
+    "chapter": "Some Basic Concepts Of Chemistry",
+    "slug": "some-basic-concepts-of-chemistry",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C11/chapters/some-basic-concepts-of-chemistry.json",
+    "question_count": 20,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C11",
+    "chapter": "Structure of Atom",
+    "slug": "structure-of-atom",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C11/chapters/structure-of-atom.json",
+    "question_count": 31,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "slug": "alcohols-phenols-and-ethers",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/alcohols-phenols-and-ethers.json",
+    "question_count": 29,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "slug": "aldehydes-ketones-and-carboxylic-acids",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/aldehydes-ketones-and-carboxylic-acids.json",
+    "question_count": 46,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Amines",
+    "slug": "amines",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/amines.json",
+    "question_count": 24,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Biomolecules",
+    "slug": "biomolecules",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/biomolecules.json",
+    "question_count": 22,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Chemical Kinetics",
+    "slug": "chemical-kinetics",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/chemical-kinetics.json",
+    "question_count": 35,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Coordination Compounds",
+    "slug": "coordination-compounds",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/coordination-compounds.json",
+    "question_count": 41,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Electrochemistry",
+    "slug": "electrochemistry",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/electrochemistry.json",
+    "question_count": 32,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Haloalkanes and Haloarenes",
+    "slug": "haloalkanes-and-haloarenes",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/haloalkanes-and-haloarenes.json",
+    "question_count": 27,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  },
+  {
+    "subject": "chemistry",
+    "class_code": "C12",
+    "chapter": "Solutions",
+    "slug": "solutions",
+    "json_path": "/home/everarpitraj/neet-bio-scrapper/data/raw/CHEMISTRY/C12/chapters/solutions.json",
+    "question_count": 27,
+    "coverage_reason": "no_source_mapping_for_chapter"
+  }
+]

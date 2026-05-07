@@ -5,10 +5,10 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-ROOT = Path(__file__).resolve().parent.parent
-CHAPTER_DIR = ROOT / "data" / "raw" / "BIOLOGY" / "chapters"
-REPORT_DIR = ROOT / "audit" / "reports"
+from subject_sources import audit_targets
 
+ROOT = Path(__file__).resolve().parent.parent
+REPORT_DIR = ROOT / "audit" / "reports"
 OPTION_LABELS = ["A", "B", "C", "D"]
 
 
@@ -16,7 +16,7 @@ def load_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def scan_question(chapter_slug: str, question: dict[str, Any]) -> dict[str, Any] | None:
+def scan_question(target: dict[str, Any], question: dict[str, Any]) -> dict[str, Any] | None:
     options = question.get("options", {}) if isinstance(question.get("options"), dict) else {}
     values = {label: str(options.get(label, "") or "").strip() for label in OPTION_LABELS}
     non_empty_option_count = sum(1 for value in values.values() if value)
@@ -42,7 +42,9 @@ def scan_question(chapter_slug: str, question: dict[str, Any]) -> dict[str, Any]
         return None
 
     return {
-        "chapter_slug": chapter_slug,
+        "subject": target.get("subject", ""),
+        "class_code": target["class_code"],
+        "chapter_slug": target["slug"],
         "chapter": question.get("chapter", ""),
         "question_id": question.get("id", ""),
         "year": question.get("year", ""),
@@ -58,24 +60,27 @@ def scan_question(chapter_slug: str, question: dict[str, Any]) -> dict[str, Any]
     }
 
 
-def scan_all() -> dict[str, Any]:
+def scan_all(targets: list[dict[str, Any]] | None = None) -> dict[str, Any]:
+    targets = targets or audit_targets()
     chapters: list[dict[str, Any]] = []
     anomalies: list[dict[str, Any]] = []
 
-    for path in sorted(CHAPTER_DIR.glob("*.json")):
+    for target in targets:
+        path = target["json_path"]
         questions = load_json(path)
-        chapter_slug = path.stem
         chapter_anomalies = [
             result
             for question in questions
             if isinstance(question, dict)
-            for result in [scan_question(chapter_slug, question)]
+            for result in [scan_question(target, question)]
             if result is not None
         ]
         anomalies.extend(chapter_anomalies)
         chapters.append(
             {
-                "chapter_slug": chapter_slug,
+                "subject": target.get("subject", ""),
+                "class_code": target["class_code"],
+                "chapter_slug": target["slug"],
                 "question_count": len(questions),
                 "anomaly_count": len(chapter_anomalies),
                 "all_empty_option_count": sum("all_options_empty" in row["anomaly_types"] for row in chapter_anomalies),

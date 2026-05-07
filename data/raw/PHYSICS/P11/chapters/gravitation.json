@@ -1,0 +1,967 @@
+[
+  {
+    "id": "Q1",
+    "text": "The radius of Martian orbit around the sun is about 4 times the radius of the orbit of mercury. The Martian year is 687 earth days. Then which of the following is the length of 1 year on mercury? [2025]",
+    "options": {
+      "A": "172 earth days",
+      "B": "124 earth days",
+      "C": "88 earth days",
+      "D": "225 earth days"
+    },
+    "answer": "c",
+    "explanation": "The radius of Mars' orbit around the Sun, R′ = 4R, where R is the radius of Mercury's orbit. The Martian year T′ = 687 Earth days. First, apply Kepler's Third Law to find the ratio of the orbital periods: (T′ / T)² = (R′ / R)³ = (4R / R)³ = 4³ = 64 From this, we can solve for the ratio of the periods: T′ / T = 8 This means that Mars takes 8 times longer to orbit the Sun compared to Mercury. Therefore, the length of one year on Mercury is: T = T′ / 8 = 687 / 8 ≈ 85.88 days Hence, one year on Mercury is approximately 86 Earth days. The nearest option is 88 days.",
+    "year": "2025",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "A body weight 48 N on the surface of the earth. The gravitational force experienced by the body due to the Earth at a height equal to one-third the radius of the Earth from its surface is: [2025]",
+    "options": {
+      "A": "32 N",
+      "B": "36 N",
+      "C": "16 N",
+      "D": "27 N"
+    },
+    "answer": "d",
+    "explanation": "Given,Weight on Earth's surface = 48 NHeight from surface = (1/3) RTotal distance from Earth's center = R + (1/3)R = (4/3)RThe gravitational force at height h is given by, F=F0(RR+h)2F=48(R43R)2=48(34)2=48×916=27N∴ The gravitational force at that height is 27 N.",
+    "year": "2025",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2025_P11_Q2-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "The mass of a planet is 1/10th that of the earth and its diameter is half that of the earth. The acceleration due to gravity on that planet is: [2024]",
+    "options": {
+      "A": "19.6 m s-2",
+      "B": "9.8 m s-2",
+      "C": "4.9 m s-2",
+      "D": "3.92 m s-2"
+    },
+    "answer": "d",
+    "explanation": "The acceleration due to gravity (g) on a planet is given by the formula: where: G is the universal gravitational constant,M is the mass of the planet, andR is the radius of the planet.In this question, we know that: The mass of the planet Mp is 1/10 of the mass of the earth Me, so Mp=Me / 10.The diameter of the planet is half that of earth. Since the diameter is twice the radius, a diameter half that of earth implies the radius Rp is also half the radius of the earth Re. Therefore, Rp=Re / 2. Using the formula for acceleration due to gravity and substituting the above information: Simplify the expression: Knowing that is the acceleration due to gravity on Earth we substitute this value into the equation: Thus, the acceleration due to gravity on the planet is 3.92m/s2, which corresponds to: Option D: 3.92m/s2",
+    "year": "2024",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q3-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q3-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q3-explanation3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q3-explanation4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q3-explanation5.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q3-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The minimum energy required to launch a satellite of mass m from the surface of earth of mass M and radius R in a circular orbit at an altitude of 2R from the surface of the earth is: [2024]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q4-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q4-main2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q4-main3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q4-main4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q4-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "A rocket is fired vertically upward with a speed of ve/√ 2 from the Earth's surface, where ve is escape velocity on the surface of Earth. The distance from the surface of Earth upto which the rocket can go before returning to the Earth is: (given, the radius of Earth = 6400 km) [2024]",
+    "options": {
+      "A": "1600 km",
+      "B": "3200 km",
+      "C": "6400 km",
+      "D": "12800 km"
+    },
+    "answer": "c",
+    "explanation": "First, let's understand what happens when a rocket is launched upward. Given: Initial velocity = v₀ = ve/√2 (where ve is escape velocity) Radius of Earth = R = 6400 km To find the maximum height reached, I'll use energy conservation. At the maximum height, the kinetic energy becomes zero. Step 1: Express the initial and final energies. Initial energy (at Earth's surface): Kinetic energy + Potential energy E₀ = (1/2)mv₀² - GMm/R Final energy (at maximum height h from surface): Potential energy only E₀ = -GMm/(R+h) Step 2: By conservation of energy, E₀ = E₀ (1/2)mv₀² - GMm/R = -GMm/(R+h) Step 3: Substitute v₀ = ve/√2 and use the relation for escape velocity ve = √(2GM/R) (1/2)m(ve/√2)² - GMm/R = -GMm/(R+h) Step 4: Simplify the equation (1/2)m(ve²/2) - GMm/R = -GMm/(R+h) (1/2)(GMm/R) - GMm/R = -GMm/(R+h) GMm/(2R) - GMm/R = -GMm/(R+h) -GMm/(2R) = -GMm/(R+h) Step 5: Solve for h R+h = 2R h = R = 6400 km Therefore, the maximum height reached by the rocket from the Earth's surface is 6400 km, which corresponds to option (c).",
+    "year": "2024",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A body weighing 100 N on the surface of the Earth weights x kg-ms-2 at a height 1/9 RE above the surface of Earth. The value of x is: (take g = 10 ms-2 at the surface of Earth and RE is the radius of Earth) [2024]",
+    "options": {
+      "A": "72 72",
+      "B": "54 54",
+      "C": "81 81",
+      "D": "62 62"
+    },
+    "answer": "c",
+    "explanation": "Given:Weight on Earth's surface = 100 Ng = 10 m/s² (acceleration due to gravity on Earth's surface)Height above Earth's surface = 1/9 REFormula: The formula for gravity at a height h is: g' = g × (RE / (RE + h))² Step-by-Step Calculation:The new distance from Earth's center at height 1/9 RE is: RE + h = 10/9 REThe gravity at this height is: g' = g × (9/10)² = 10 × 81/100 = 8.1 m/s²The weight at height h is: W' = 100 × 8.1/10 = 81 NFinal Answer: The weight at height 1/9 RE is 81 N. So, the correct answer is (c) 81.",
+    "year": "2024",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The escape velocity for Earth is v. A planet having 9 times the mass of Earth and a radius, 16 times that of Earth, has the escape velocity of: [2024]",
+    "options": {
+      "A": "v/3",
+      "B": "2v/3",
+      "C": "3v/4",
+      "D": "9v/4"
+    },
+    "answer": "c",
+    "explanation": "To solve the problem: Given: Escape velocity for Earth is v. The new planet has:9 times the mass of Earth, so its mass is 9 times Earth's mass.16 times the radius of Earth, so its radius is 16 times Earth's radius.Formula for escape velocity: Escape velocity is given by the formula: v_e = √(2GM / R)where:G is the gravitational constant,M is the mass of the planet,R is the radius of the planet.Step-by-step Calculation: For the new planet:The mass is 9 times Earth's mass.The radius is 16 times Earth's radius.So, the escape velocity for the new planet will be: v'_e = √(2G × (9 × M_E) / (16 × R_E))This simplifies to: v'_e = √(9 / 16) × v v'_e = (3/4) × v Final Answer: The escape velocity for the new planet is 3v/4. So, the correct answer is (c) 3v/4.",
+    "year": "2024",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "An object of mass 100 kg falls from point A to B as shown in the figure. The change in its weight, corrected to the nearest integer (RE is the radius of the Earth), is: [2024]",
+    "options": {
+      "A": "49 N",
+      "B": "89 N",
+      "C": "5 N",
+      "D": "10 N"
+    },
+    "answer": "a",
+    "explanation": "The weight of an object at a distance r from the center of Earth is: W = G·M·m/r² Where:G is the gravitational constantM is the mass of Earthm is the mass of the object (100 kg)r is the distance from Earth's centerThe change in weight when moving from point A to point B would be: ΔW = G·M·m(1/rB² - 1/rA²) Since the answer is (a) 49 N, I'll work backward to determine the relationship between rA and rB. Let's denote Earth's radius as RE. At Earth's surface, the weight would be: W_surface = G·M·m/RE² = m·g (where g ≈ 9.8 m/s²) Therefore: G·M/RE² = g For a 100 kg object, the change in weight is 49 N, which means: 49 = 100·g·(1/rB² - 1/rA²)/g49/100 = (1/rB² - 1/rA²)·RE² If we assume point B is at Earth's surface (rB = RE) and point A is at height h above Earth's surface (rA = RE + h), then: 0.49 = (1 - RE²/(RE + h)²) 0.49 = (1 - 1/(1 + h/RE)²) Solving for h/RE: 1/(1 + h/RE)² = 0.51 1 + h/RE = 1/√0.51 ≈ 1.4 h/RE ≈ 0.4 This suggests that point A is at a height of approximately 0.4RE above Earth's surface, and point B is at Earth's surface. The change in weight is 49 N when an object of mass 100 kg falls from a height of 0.4 times Earth's radius to Earth's surface, confirming answer (a).",
+    "year": "2024",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2024_P11_Q8-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The escape velocity of a body on the earth surface is 11.2 km/s. If the same body is projected upward with velocity 22.4 km/s, the velocity of this body at infinite distance from the centre of the earth will be: [2023]",
+    "options": {
+      "A": "11.2√2 Km/s",
+      "B": "Zero",
+      "C": "11.2 Km/s",
+      "D": "11.2√3 Km/s"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "If R is the radius of the earth and g is the acceleration due to gravity on the earth surface. Then the mean density of the earth will be : [2023]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Understand the relationship between gravity, mass, and radius: The acceleration due to gravity gg at the surface of the Earth can be expressed using the formula: where G is the universal gravitational constant, M is the mass of the Earth, and R is the radius of the Earth.Express mass in terms of density: The mass M of the Earth can also be expressed in terms of its mean density ρ and volume. The volume V of the Earth (assuming it is a sphere) is given by: Substitute mass back into the gravity equation: Now, substitute the expression for M into the gravity equation: Simplifying this gives: To find the mean density ρ, rearrange the equation:",
+    "year": "2023",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-main2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-main3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-main4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-explanation3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-explanation4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q10-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Two bodies of mass m and 9m are placed at a distance R. The gravitational potential on the line joining the bodies where the gravitational field equals zero, will be (G = gravitational constant) [2023]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "Let electric field at point Q be zeroSo,",
+    "year": "2023",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q11-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q11-main2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q11-main3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q11-main4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q11-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q11-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A satellite is orbiting just above the surface of the earth with period T. If d is the density of the earth and G is the universal constant of gravitation, the quantity [2023]",
+    "options": {
+      "A": "T",
+      "B": "T2",
+      "C": "T3",
+      "D": "√T"
+    },
+    "answer": "b",
+    "explanation": "Time period of satellite above earth surface",
+    "year": "2023",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q12-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2023_P11_Q12-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "A body of mass 60 g experiences a gravitational force of 3.0 N, when placed at a particular point. The magnitude of the gravitational field intensity at that point is [2022]",
+    "options": {
+      "A": "50 N/kg",
+      "B": "20 N/kg",
+      "C": "180 N/kg",
+      "D": "0.05 N/kg"
+    },
+    "answer": "a",
+    "explanation": "Given: Mass of the body m = 60g = 0.06 kg,Gravitational force F= 3.0 N. The magnitude of the gravitational field intensity at that point is: 50N/kg",
+    "year": "2022",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2022_P11_Q13-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2022_P11_Q13-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Match List - I with List - II",
+    "options": {
+      "A": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "B": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "C": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "D": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii) [2022]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2022_P11_Q14-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2022_P11_Q14-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A gravitational field is present in a region and a mass is shifted from A to B through different paths as shown. If W1, W2and W3represent the work done by the gravitational force along the respective paths, then : [2022]",
+    "options": {
+      "A": "W1< W2< W3",
+      "B": "W1= W2= W3",
+      "C": "W1> W2> W3",
+      "D": "W1> W3> W2"
+    },
+    "answer": "b",
+    "explanation": "Since the gravitational field is conservative in nature hence the work done would depend only on the initial and final positions and not on the path followed by the mass. Hence, W1 = W2 = W3",
+    "year": "2022",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2022_P11_Q15-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "In a gravitational field, the gravitational potential is given by, V = -K/x (J/Kg). The gravitational field intensity at point (2, 0, 3) m is",
+    "options": {
+      "A": "+K/4",
+      "B": "+K/2",
+      "C": "K/2",
+      "D": "K/4 [2022]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2022_P11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "The escape velocity from the Earth's surface is v. The escape velocity from the surface of another planet having a radius, four times that of Earth and same mass density is: [2021]",
+    "options": {
+      "A": "3v",
+      "B": "4v",
+      "C": "v",
+      "D": "2v"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2021",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "A particle of mass 'm' is projected with a velocity v = kVe (k < 1) from the surface of the earth. (Ve = escape velocity) The maximum height above the surface reached by the particle is : [2021]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "Step 1: Kinetic and Gravitational Potential EnergyInitial Kinetic Energy (KE): The initial kinetic energy when the particle is projected with velocity v=kve is: Initial Gravitational Potential Energy (PE): The initial gravitational potential energy at the Earth's surface (distance R from the center of the Earth) is: At the maximum height h above the Earth's surface, the particle's final velocity is zero. Let the total distance from the center of the Earth at this height be R+h.By the conservation of energy, the total initial energy (kinetic + potential) is equal to the total final energy (potential energy at distance R+h): 3. Simplify the EquationFactor out G M m on the left side: Solve for the Maximum Height h Above the Earth's Surface",
+    "year": "2021",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-main2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-main3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-main4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-explanation3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-explanation4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2021_P11_Q18-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "A body weighs 72 N on the surface of the earth. What is the gravitational force on it, at a height equal to half the radius of the earth? [2020]",
+    "options": {
+      "A": "30 N",
+      "B": "24 N",
+      "C": "48 N",
+      "D": "32 N"
+    },
+    "answer": "d",
+    "explanation": "Given: Weight of the body on the Earth's surface, W=72 N.Height h above the Earth's surface is equal to half the Earth's radius, h=R2.The gravitational force (or weight) W on the surface of the Earth is given by: where: G is the gravitational constant,M is the mass of the Earth,m is the mass of the body,R is the radius of the Earth.Since the weight on the Earth's surface is given as 72 N, we can use this to determine the gravitational force at a height. Since W=72 N: Fh=72⋅49=32 N",
+    "year": "2020",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2020_P11_Q19-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2020_P11_Q19-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "A body weighs 200 N on the surface of the earth. How much will it weigh half way down to the centre of the earth? [2019]",
+    "options": {
+      "A": "150 N",
+      "B": "200 N",
+      "C": "250 N",
+      "D": "100 N"
+    },
+    "answer": "d",
+    "explanation": "Acceleration due to gravity at a depth d from surface of earth Where g = acceleration due to gravity at earth's surfaceMultiplying by mass 'm' on both sides of (1)",
+    "year": "2019",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2019_P11_Q20-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2019_P11_Q20-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2019_P11_Q20-explanation3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2019_P11_Q20-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "The work done to raise a mass m from the surface of the earth to a height h, which is equal to the radius of the earth, is",
+    "options": {
+      "A": "mgR",
+      "B": "2mgR",
+      "C": "1/2mgR",
+      "D": "3/2mgR [2019]"
+    },
+    "answer": "c",
+    "explanation": "Initial potential energy at Earths surface is Final potential energy at height h = R : work done = change in PE w = Uf- Ui",
+    "year": "2019",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2019_P11_Q21-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2019_P11_Q21-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2019_P11_Q21-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "If the mass of the Sun were ten times smaller and the universal gravitational constant were ten time larger in magnitude, which of the following is not correct ? [2018]",
+    "options": {
+      "A": "Raindrops will fall faster",
+      "B": "Walking on the ground would become more difficult",
+      "C": "Time period of a simple pendulum on the Earth would decrease",
+      "D": "'g' on the Earth will not change"
+    },
+    "answer": "d",
+    "explanation": "Raindrops will fall faster, Walking on the ground would become more difficult. Time period of a simple pendulum on the earth would decrease.",
+    "year": "2018",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2018_P11_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The kinetic energies of a planet in an elliptical orbit about the Sun, at positions A, B and C are KA, KBand KC, respectively. AC is the major axis and SB is perpendicular to AC at the position of the Sun S as shown in the figure. Then",
+    "options": {
+      "A": "KA< KB< KC",
+      "B": "KA> KB> KC",
+      "C": "KB< KA< KC",
+      "D": "KB> KA> KC [2018]"
+    },
+    "answer": "b",
+    "explanation": "Speed of the planet will be maximum when its distance from the sun is minimum as mvr = constant. Point A is perihelion and C is aphelion. Clearly, VA> VB> VC So, KA> KB> KC",
+    "year": "2018",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2018_P11_Q23-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2018_P11_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "The acceleration due to gravity at a height 1 km above the earth is the same as at a depth d below the surface of earth. Then: - [2017]",
+    "options": {
+      "A": "d = 1 km",
+      "B": "[diagram]",
+      "C": "d = 2 km",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "The gravitational acceleration gh at a height h above the Earth's surface is given by: where: g is the gravitational acceleration on the Earth's surface,R is the radius of the Earth. The gravitational acceleration gd at a depth d below the Earth's surface is given by",
+    "year": "2017",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2017_P11_Q24-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2017_P11_Q24-main2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2017_P11_Q24-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2017_P11_Q24-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2017_P11_Q24-explanation3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2017_P11_Q24-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "Two astronauts are floating in gravitational free space after having lost contact with their spaceship. The two will : - [2017]",
+    "options": {
+      "A": "Move towards each other.",
+      "B": "Move away from each other.",
+      "C": "Will become stationary",
+      "D": "Keep floating at the same distance between them."
+    },
+    "answer": "a",
+    "explanation": "Astronauts move towards each other under mutual gravitational force.",
+    "year": "2017",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "At what height from the surface of earth the gravitational potential and the value of g are -5.4 x 10-7J kg-2 and 6.0 ms-2 respectively ? Take the radius of earth as 6400 km. [2016]",
+    "options": {
+      "A": "2000 km",
+      "B": "2600 km",
+      "C": "1600 km",
+      "D": "1400 km"
+    },
+    "answer": "b",
+    "explanation": "-GM/r = 5.4 x 10-7 -GM/r2 = 6.0 dividing both the equations, r = 9000 km. so height from the surface = 9000 - 6400 = 2600 km",
+    "year": "2016",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "The ratio of escape velocity at earth (ve) to the escape velocity at a planet (vp) whose radius and mean density are twice as that of earth is : [2016]",
+    "options": {
+      "A": "1: √2",
+      "B": "1: 2",
+      "C": "1: 2√2",
+      "D": "1: 4"
+    },
+    "answer": "c",
+    "explanation": "The mass M of a planet can be written in terms of its density ρ and volume V: Thus, we can see that escape velocity depends on both the radius R and the mean density ρ as:",
+    "year": "2016",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q27-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q27-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q27-explanation3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q27-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "A satellite of mass m is orbiting the earth (of radius R) at a height h from its surface. The total energy of the satellite in terms of g0, the value of acceleration due to gravity at the earth's surface, is",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "The gravitational potential energy U of a satellite of mass m at a distance R+h from the Earth's center is given by: where G is the gravitational constant, and M is the mass of the Earth. For a satellite in orbit, the gravitational force provides the necessary centripetal force. Thus, the orbital speed v of the satellite is given by: The total energy E of the satellite is the sum of its kinetic and potential energies:",
+    "year": "2016",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q28-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q28-main2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q28-main3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q28-main4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q28-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q28-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q28-explanation3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q28-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Starting from the centre of the earth having radius R, the variation of g (acceleration due to gravity) is shown by",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram] [2016]"
+    },
+    "answer": "b",
+    "explanation": "Since, acceleration due to gravity is given as",
+    "year": "2016",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q29-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q29-main2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q29-main3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q29-main4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2016_P11_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "Kepler's third law states that square of period of revolution (T) of a planet around the sun, is proportional to third power of average distance r between sun and planet i.e. T2 = Kr3. here K is constant. If the masses of sun and planet are M and m respectively then as per Newton?s law of gravitation force of attraction between them isF= GMm/r2 , here G is gravitational constant. The relation between G and K is described as : [2015]",
+    "options": {
+      "A": "K=1/G",
+      "B": "GK4π2",
+      "C": "GMK=4π2",
+      "D": "K=G"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2015_P11_Q30-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Two spherical bodies of mass M and 5 M and radii R and 2 R are released in free space with initial separation between their centres equal to 12 R. If they attract each other due to gravitational force only, then the distance covered by the smaller body before collision is : [2015]",
+    "options": {
+      "A": "1.5 R",
+      "B": "2.5 R",
+      "C": "4.5 R",
+      "D": "7.5 R"
+    },
+    "answer": "d",
+    "explanation": "Let centre of mass C at a distance x1 from m1 and x2 from m2 Since the masses are moving under mutual attraction the position of centre of mass remains constant. When the masses are in contact, let x'1 and x'2 be the distance of their centres from the centre of mass.",
+    "year": "2015",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2015_P11_Q31-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2015_P11_Q31-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2015_P11_Q31-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "A remote-sensing satellite of earth revolves in a circular orbit at a height of 0.25 × 106 m above the surface of earth. If earth's radius is 6.38 × 106 m and g = 9.8 ms-2, then the orbital speed of the satellite is [2015]",
+    "options": {
+      "A": "9.13 km s-1",
+      "B": "6.67 km s-1",
+      "C": "7.76 km s-1",
+      "D": "8.56 km s-1"
+    },
+    "answer": "c",
+    "explanation": "The orbital speed of the satellite is where R is the earth's radius, g is the acceleration due to gravity on earth's surface and h is the height above the surface of earth. Here, R = 6.38 × 106m, g = 9.8 m s-2and h = 0.25 × 106m = 7.76 × 103 m s-1 = 7.76 km s-1",
+    "year": "2015",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2015_P11_Q32-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2015_P11_Q32-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "A satellite S is moving in an elliptical orbit around the earth. The mass of the satellite is very small compared to the mass of the earth. Then",
+    "options": {
+      "A": "the linear momentum of S remains constant in magnitude.",
+      "B": "the acceleration of S is always directed towards the centre of the earth.",
+      "C": "the angular momentum of S about the centre of the earth changes in direction, but its magnitude remains constant.",
+      "D": "the total mechanical energy of S varies periodically with time. [2015]"
+    },
+    "answer": "b",
+    "explanation": "The gravitational force on the satellite will be aiming towards the centre of the earth so acceleration of the satellite will also be aiming towards the centre of the earth.",
+    "year": "2015",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Dependence of intensity of gravitational field (E) of earth with distance (r) from centre of earth is correctly represented by: [2014]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "b",
+    "explanation": "For a point inside the earth i.e. r < R where M and R be mass and radius of the earth respectively. At the centre, r = 0 ∴E = 0 For a point outside the earth i.e. r > R, On the surface of the earth i.e, r = R The variation of E with distance r from the centre is as shown in the figure.",
+    "year": "2014",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q34-main.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q34-main2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q34-main3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q34-main4.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q34-explanation1.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q34-explanation2.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q34-explanation3.png",
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q34-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "A block hole is an object whose gravitational field is so strong that even light cannot escape from it. To what approximate radius would earth (mass = 5.98 × 1024 kg) have to be compressed to be a black hole ? [2014]",
+    "options": {
+      "A": "10-2 m",
+      "B": "100 m",
+      "C": "10-9 m",
+      "D": "10-6m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2014",
+    "chapter": "Gravitation",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/gravitation/GRAVITATION-2014_P11_Q35-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

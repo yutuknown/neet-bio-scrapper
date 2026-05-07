@@ -1,0 +1,90 @@
+[
+  {
+    "id": "Q1",
+    "text": "Match List I with List II Choose the correct answer from the options given below",
+    "options": {
+      "A": "A-II, B-III, C-IV, D-I",
+      "B": "A-II, B-I, C-III, D-IV",
+      "C": "A-III, B-II, C-I, D-IV",
+      "D": "A-IV, B-III, C-II, D-I [2024]"
+    },
+    "answer": "a",
+    "explanation": "To match the magnetic materials with their respective magnetic susceptibilities, we must understand the characteristics of each type of material regarding its magnetic behavior. Here are the implications of each type: Diamagnetic Materials: These materials are repelled by magnetic fields. The susceptibility (χ) of diamagnetic materials is negative but very small, near zero. Therefore, x >-z and closer to zero, reflects this property. Ferromagnetic Materials: They have a very high, positive susceptibility because these materials can be permanently magnetized. Their susceptibility (x) is much greater than one (x>>1). Paramagnetic Materials: These materials are weakly attracted by a magnetic field, and their susceptibility is positive. However, the value of x for paramagnetic materials is small but greater than zero (0 < x < ε), where ε represents a small positive value. Non-magnetic Materials: For materials that are considered non-magnetic, the susceptibility (x) is zero (x = 0), as they are neither attracted nor repelled by magnetic fields. Let's match these descriptions with the given List II in your question: Diamagnetic (A) matches with 0 > x ≥ - 1 (II). Ferromagnetic (B) corresponds to x >> 1 (III). Paramagnetic (C) should be aligned with 0 <x < ε (IV). Non-magnetic (D) clearly fits x = 0 (I). Therefore, the correct answer matches: A-II, B-III, C-IV, D-I. This aligns with Option A.",
+    "year": "2024",
+    "chapter": "Magnetism and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q1-main.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q1-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "In a uniform magnetic field of 0.049T, a magnetic needle performs 20 complete oscillations in 5 seconds as shown. The moment of inertia of the needle is 9.8 × 10-6 kgm2. If the magnitude of magnetic moment of the needle is x × 10-5Am2, then the value of 'x' is",
+    "options": {
+      "A": "5π2",
+      "B": "128π2",
+      "C": "50π2",
+      "D": "1280π2 [2024]"
+    },
+    "answer": "d",
+    "explanation": "Time period of Oscillation,",
+    "year": "2024",
+    "chapter": "Magnetism and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q2-explanation1.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q2-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "An iron bar of length L has magnetic moment M. It is bent at the middle of its length such that the two arms make an angle 60∘ with each other. The magnetic moment of this new magnet is",
+    "options": {
+      "A": "M",
+      "B": "M / 2",
+      "C": "2M",
+      "D": "M / √3 [2024]"
+    },
+    "answer": "b",
+    "explanation": "Q.1. An iron rod of susceptibility 599 is subjected to a magnetising field of 1200 A m-1. The permeability of the material of the rod is : (2020) (μ0 = 4π×10-7 T mA-1) A: 2.4π×10-5 T m A-1 B: 2.4π×10-7 T m A-1 C: 2.4π×10-4 T m A-1 D: 8.0×10-5 T m A-1 Ans: m 0 -7 0 m -7 -7 -5 -4 -1 Q.2. At a point A on the earth's surface the angle of dip σ = + 25°. At a point B on the earth's surface the angle of dip, σ = - 25°. We can interpret that : (2019) A: A and B are both located in the northern hemisphere. B: A is located in the southern hemisphere and B is located in the northern hemisphere. C: A is located in the northern hemisphere and B is located in the southern hemisphere. D: A and B are both located in the southern hemisphere. Ans: C Solution: point A is located in the Northern hemisphere and point B is located in the southern hemisphere. basically, angle of dip is the angle made by resultant earth's magnetic field from horizontal. angle of dip at equator is considered as zero.angle of dip in northern hemisphere is considered as positive.angle o dip in southern hemisphere is considered as negative. here, at point A on the earth's surface, angle of dip is +25° (i.e., positive) so, point A is located in the Northern hemisphere and point B on the earth's surface, angle of dip is -25° (i.e., negative) so, point B is located in he southern hemisphere. Q.3. A carbon resistor (47 + 4.7) kΩ is to be marked with rings of different colours for its identification. The colour code sequence will be :- (2018) A: Violet - Yellow - Orange - Silver B: Yellow - Violet - Orange - Silver C: Yellow - Green - Violet - Gold D: Green - Orange - Violet - Gold Ans: B Solution: Q.4. If θ1 and θ2 be the apparent angles of dip observed in two vertical planes at right angles to each other, then the true angle of dip θ is given by :- (2017) A: B: C: D: Ans: D Solution: Q.5. The magnetic susceptibility negative for (2016) A: paramagnetic and ferromagnetic materials B: diamagnetic material only C: paramagnetic material only D: ferromagnetic material only Ans: B Solution: μr = 1 + x so, μr is negative if and only if x is negative and x is negative only for diamagnetic materials. There is no Question for NEET 2021",
+    "year": "2024",
+    "chapter": "Magnetism and Matter",
+    "class": "P12",
+    "images": [
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation1.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation2.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation3.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation4.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation5.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation6.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation7.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation8.png",
+      "PHYSICS/P12/chapters/magnetism-and-matter/MAGNETISM_AND_MATTER-2024_P12_Q3-explanation9.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

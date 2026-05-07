@@ -7,7 +7,7 @@ REQUIRED_TOP_LEVEL_KEYS = {
     "text": str,
     "options": dict,
     "answer": str,
-    "explanation": dict,
+    "explanation": (str, dict),
     "year": str,
     "chapter": str,
     "class": str,
@@ -26,6 +26,12 @@ REQUIRED_OPTION_KEYS = ["A", "B", "C", "D"]
 REQUIRED_EXPLANATION_KEYS = ["correct", "others"]
 
 
+def expected_type_name(expected_type: Any) -> str:
+    if isinstance(expected_type, tuple):
+        return " | ".join(item.__name__ for item in expected_type)
+    return expected_type.__name__
+
+
 def validate_question(question: dict[str, Any], index: int) -> list[dict[str, Any]]:
     errors: list[dict[str, Any]] = []
 
@@ -38,7 +44,7 @@ def validate_question(question: dict[str, Any], index: int) -> list[dict[str, An
                 "index": index,
                 "field": key,
                 "type": "wrong_type",
-                "expected": expected_type.__name__,
+                "expected": expected_type_name(expected_type),
                 "actual": type(question[key]).__name__,
             })
 
@@ -57,6 +63,8 @@ def validate_question(question: dict[str, Any], index: int) -> list[dict[str, An
                 errors.append({"index": index, "field": f"explanation.{key}", "type": "missing_explanation_key"})
             elif not isinstance(explanation[key], str):
                 errors.append({"index": index, "field": f"explanation.{key}", "type": "wrong_explanation_type"})
+    elif not isinstance(explanation, str):
+        errors.append({"index": index, "field": "explanation", "type": "wrong_explanation_type", "expected": "str | dict", "actual": type(explanation).__name__})
 
     option_extraction = question.get("optionExtraction")
     if option_extraction is not None:

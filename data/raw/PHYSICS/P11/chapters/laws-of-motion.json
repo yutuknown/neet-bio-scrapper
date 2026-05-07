@@ -1,0 +1,733 @@
+[
+  {
+    "id": "Q1",
+    "text": "A ball of mass 0.5 kg is dropped from a height of 40 m. The ball hits the ground and rises to a height of 10 m. The impulse imparted to the ball during its collision with the ground is (Take g = 9.8 m/s2) [2025]",
+    "options": {
+      "A": "0",
+      "B": "84 N-s",
+      "C": "21N-s",
+      "D": "7N-s"
+    },
+    "answer": "c",
+    "explanation": "v1 = √(2gh1) = √(2 × 9.8 × 40) = √784 = 28 m/s v2 = √(2gh₂) = √(2 × 9.8 × 10) = √196 = 14 m/s Impulse = Δp = m(vf - vi) = m(v2 - (-v1)) = (1/2)(14 - (-28)) = 21 NS",
+    "year": "2025",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2025_P11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "There are two inclined surfaces of equal length (L) and same angle of inclination 45° with the horizontal. One of them is rough and the other is perfectly smooth. A given body takes 2 times as much time to slide down on rough surface than on the smooth surface. The coefficient of kinetic friction (μₖ) between the object and the rough surface is close to: [2025]",
+    "options": {
+      "A": "0.5",
+      "B": "0.75",
+      "C": "0.25",
+      "D": "0.40"
+    },
+    "answer": "b",
+    "explanation": "The equation for the rough and smooth surfaces is given by: trough = 2tsmooth Also, asmooth = g sin θ The time taken is related as: t ∝ 1/√a ⇒ tsmooth ∝ 1/√asmooth arough ∝ g sin θ - μk g cos θ We have: trough / tsmooth = 2 Substitute the values for acceleration: g sin θ / (g sin θ - μk g cos θ) = 2 ⇒ (sin θ) / (sin θ - μk cos θ) = 4 ⇒ 1 / √2 = μk × 1 / √2 ⇒1 - μk = 1 / 4 ⇒ μk = 3 / 4 = 0.75",
+    "year": "2025",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2025_P11_Q2-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A horizontal force 10 N is applied to a block A as shown in figure. The mass of blocks A and B are 2kg and 3kg respectively. The blocks slide over a frictionless surface. The force exerted by block A on block B is : [2024]",
+    "options": {
+      "A": "Zero",
+      "B": "4 N",
+      "C": "6 N",
+      "D": "10 N"
+    },
+    "answer": "c",
+    "explanation": "mtotal= mA + mB = 2 kg + 3 kg = 5kg Since both blocks move together on a frictionless surface, they will have the same acceleration. Using Newton's second law: Ftotal = mtotal ⋅ a 10N = 5kg ⋅ a Block B is being accelerated by the force exerted by block A. The force on block B can be calculated using Newton's second law again, but this time for block B alone: F on B = mB ⋅a F on B = 3kg ⋅ 2m/s2 = 6 N Thus, the force exerted by block A on block B is 6 N.",
+    "year": "2024",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2024_P11_Q3-main.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2024_P11_Q3-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "A bob is whirled in a horizontal plane by means of a string with an initial speed of ω rpm. The tension in the string is T. If speed becomes 2ω while keeping the same radius, the tension in the string becomes: [2024]",
+    "options": {
+      "A": "4T",
+      "B": "T/4",
+      "C": "√2T",
+      "D": "T"
+    },
+    "answer": "a",
+    "explanation": "The tension in the string is related to the speed of the bob in uniform circular motion by the formula: T = m × ω² × r Where:m is the mass of the bob,ω is the angular speed,r is the radius.Since the radius remains the same, the tension is directly proportional to the square of the speed. Initially, the speed is ω, and the tension is T = m × ω² × r. When the speed becomes 2ω, the new tension T' is: T' = m × (2ω)² × r = 4 × (m × ω² × r) = 4T Thus, the new tension is 4T. Final Answer: (a) 4T.",
+    "year": "2024",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "If F = αt2 - βt is the magnitude of the force acting on a particle at an instant t then the time, at which the force becomes constant, is (where α and β are constants): [2024]",
+    "options": {
+      "A": "β/α",
+      "B": "β/2α",
+      "C": "2β/α",
+      "D": "zero"
+    },
+    "answer": "b",
+    "explanation": "Type Your AnswerView Answer View AnswerSolution:We are given the equation for the force acting on a particle: F = αt² - βt Where:F is the force,α and β are constants,t is time.Step 1: Force becomes constantFor the force to become constant, the rate of change of force with respect to time (dF/dt) must be zero. This is because if the force is constant, its derivative with respect to time will be zero.Step 2: Differentiate the force expression Differentiate the given force equation with respect to time t: dF/dt = d(αt² - βt) / dt Using basic differentiation: dF/dt = 2αt - βStep 3: Set the derivative equal to zero For the force to become constant, set the derivative equal to zero: 2αt - β = 0Step 4: Solve for time t Now, solve for t: 2αt = β t = β / 2α Final Answer: (b) β / 2α.",
+    "year": "2024",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A bob is whirled in a horizontal circle by means of a string at an initial speed of 10 rpm. If the tension in the string is quadrupled while keeping the radius constant, the new speed is: [2024]",
+    "options": {
+      "A": "20 rpm",
+      "B": "40 rpm",
+      "C": "5 rpm",
+      "D": "10 rpm"
+    },
+    "answer": "a",
+    "explanation": "We are given:The initial speed of the bob is 10 rpm.The tension in the string is quadrupled while keeping the radius constant.We need to find the new speed of the bob.Step 1: Relationship between tension and speed The tension in the string for circular motion is related to the square of the speed by the formula: Tension ∝ Speed² This means that if the tension changes, the speed must change in proportion to the square root of the tension.Step 2: Applying the change in tension If the initial tension is T1 and the initial speed is 10 rpm, the new tension is quadrupled, so the new tension is 4T1. Let the new speed be v2. Since tension is proportional to the square of the speed: T2 / T1 = (v2 / v1)² Substitute T2 = 4T1 and v1 = 10 rpm: 4 = (v2 / 10)²Step 3: Solve for the new speed Taking the square root of both sides: 2 = v2 / 10 Multiply both sides by 10: v2 = 20 rpm Final Answer: (a) 20 rpm.",
+    "year": "2024",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "A box of mass 5 kg is pulled by a cord, up along a frictionless plane inclined at 30∘ with the horizontal. The tension in the cord is 30 N . 30 N . The acceleration of the box is: (take g = 10 ms- 2) [2024]",
+    "options": {
+      "A": "2ms- 2",
+      "B": "zero",
+      "C": "0.1 ms - 2",
+      "D": "1 ms- 2"
+    },
+    "answer": "d",
+    "explanation": "We are given:Mass of the box = 5 kgTension in the cord = 30 NThe incline angle = 30°Gravitational acceleration (g) = 10 m/s²The plane is frictionless.We need to find the acceleration of the box.Step 1: Forces acting on the box The forces acting on the box are:Tension in the cord = 30 NGravitational force acting on the box. The component of the gravitational force along the incline is given by:Gravitational force along the incline = m × g × sin(30°) = 5 × 10 × 1/2 = 25 NStep 2: Net force along the incline The net force acting along the incline is the difference between the tension and the gravitational force along the incline: Net force = Tension - Gravitational force = 30 N - 25 N = 5 NStep 3: Calculate the acceleration Using Newton's second law, Force = mass × acceleration: Acceleration = Net force / mass = 5 N / 5 kg = 1 m/s²Final Answer: (d) 1 m/s².",
+    "year": "2024",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "A football player is moving southward and suddenly turns eastward with the same speed to avoid an opponent. The force that acts on the player while turning is [2023]",
+    "options": {
+      "A": "Along eastward",
+      "B": "Along northward",
+      "C": "Along north-east",
+      "D": "Along south-west"
+    },
+    "answer": "c",
+    "explanation": "Concept:Centripetal Force: When an object changes direction, there is a force directed towards the center of the circular path, which is called centripetal force.The player is changing direction, meaning their velocity vector is also changing direction. In this case, the player is turning from south to east, which implies a change in velocity towards the east.Force Direction:The force responsible for this change in direction would act towards the north-east because the player is transitioning between the southward and eastward directions. The force is responsible for changing both the magnitude and direction of the velocity as the player turns.Thus, the force acts along the north-east direction.",
+    "year": "2023",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Calculate the maximum acceleration of a moving car so that a body lying on the floor of the car remains stationary. The coefficient of static friction between the body and the floor is 0.15 ( g = 10 m s-2). [2023]",
+    "options": {
+      "A": "1.2 m s-2",
+      "B": "150 m s-2",
+      "C": "1.5 m s-2",
+      "D": "50 m s-2"
+    },
+    "answer": "c",
+    "explanation": "For the body to remain stationary relative to the car, the maximum static friction force must equal the force required to accelerate the body along with the car. The friction force is what keeps the body stationary relative to the moving car. Ffriction = μ⋅N Where N is the normal force, and for a horizontal surface, N = m ⋅ g. Ffriction = μ ⋅ m ⋅ g The force required to accelerate the body is: F = m ⋅a For the maximum acceleration, the static friction force must equal the force required for acceleration: μ ⋅ m ⋅g = m⋅a ⇒ a = μ ⋅ g ⇒ a = 0.15 ⋅ 10 m/s2 ⇒ a = 1.5 m/s2 Thus, the maximum acceleration of the car is 1.5 m/s².",
+    "year": "2023",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "A bullet from a gun is fired on a rectangular wooden block with velocity u. When bullet travels 24 cm through the block along its length horizontally, velocity of bullet becomes u/3. Then it further penetrates into the block in the same direction before coming to rest exactly at the other end of the block. The total length of the block is: [2023]",
+    "options": {
+      "A": "24 cm",
+      "B": "28 cm",
+      "C": "33 cm",
+      "D": "27 cm"
+    },
+    "answer": "d",
+    "explanation": "The bullet is fired with an initial velocity u and travels through the block. After penetrating 24 cm, its velocity reduces to u/3. It then continues to penetrate until it comes to rest.We can apply the equation of motion to the first part of the bullet's journey through the block. The equation : v2 = u2+2as Where:- v = final velocity after penetrating 24 cm = u/3 u = initial velocity = u a = acceleration (deceleration in this case, so it will be negative) s = distance travelled = 24 cm = 0.24 m Substituting the known values into the equation: This simplifies to: Rearranging gives: Thus, a = - 8 u2 / 9 × 0.48 = - 8 u2 / 4.32 = - 1.85 u2Now, the bullet continues to penetrate until it comes to rest. The initial velocity for this part is u/3 and the final velocity is 0. We will again use the equation of motion: Where s′ is the additional distance travelled before coming to rest. Substituting the values:0 = u2 / 9 + 2 ( -1.85 u2) s'⇒ s' = 1/ 9 × 3.7 = 0.03 m = 3 cm The total length of the block is the sum of the distances. Total Length = 24 cm + 3 cm = 27cm",
+    "year": "2023",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2023_P11_Q10-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2023_P11_Q10-explanation2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2023_P11_Q10-explanation3.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2023_P11_Q10-explanation4.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2023_P11_Q10-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "A block of mass 2 kg is placed on inclined rough surface AC (as shown in the figure) of coefficient of friction μ. If g = 10 ms-1, the net force (in N) on the block will be: [2023]",
+    "options": {
+      "A": "10√3",
+      "B": "zero",
+      "C": "10",
+      "D": "20"
+    },
+    "answer": "b",
+    "explanation": "To find the net force on the block, let's analyze the forces acting on the block placed on the inclined rough surface. Given:Mass of the block = 2 kgGravitational acceleration (g) = 10 m/s²Coefficient of friction = μThe angle of inclination is not provided, so we will proceed based on general principles.Step 1: Identify the forcesGravitational force: The weight of the block acting vertically downward is 20 N (2 kg × 10 m/s²).Normal force: The normal force acts perpendicular to the surface, balancing the component of the gravitational force perpendicular to the incline.Frictional force: The frictional force opposes the motion of the block and is given by μ × Normal force.Component of gravitational force parallel to the incline: This force tends to move the block downward along the incline.Step 2: Net force on the block For the block to be in equilibrium or not move, the frictional force exactly cancels out the parallel component of the gravitational force. Thus, the net force on the block is zero. Final Answer: (b) zero.",
+    "year": "2023",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2023_P11_Q11-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "A 1 kg object strikes a wall with velocity 1 ms-1 at an angle of 60∘ with the wall and reflects at the same angle. If it remains in contact with the wall for 0.1 s, then the force exerted on the wall is: [2023]",
+    "options": {
+      "A": "30√3N",
+      "B": "zero",
+      "C": "10√3N",
+      "D": "20√3N"
+    },
+    "answer": "c",
+    "explanation": "We are given:Mass of the object = 1 kg,Initial velocity of the object = 1 m/s,Angle of incidence = 60°,Time of contact with the wall = 0.1 s.We need to find the force exerted on the wall.Step 1: Change in velocity The object strikes the wall at an angle of 60° and reflects at the same angle. The component of the velocity perpendicular to the wall changes direction, while the parallel component remains unchanged.The initial velocity of the object is 1 m/s at an angle of 60° to the wall.The perpendicular component of velocity is 1 × sin(60°) = √3/2 m/s.The parallel component of velocity is 1 × cos(60°) = 1/2 m/s.The perpendicular component of velocity changes direction, so the change in velocity perpendicular to the wall is 2 × (√3/2) = √3 m/s.Step 2: Change in momentum The change in momentum is the mass multiplied by the change in velocity:Change in momentum = 1 × √3 = √3 kg·m/s.Step 3: Force exerted on the wall The force exerted on the wall is the rate of change of momentum:Force = change in momentum / time = √3 / 0.1 = 10√3 N.Final Answer: (c) 10√3 N.",
+    "year": "2023",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "In the diagram shown, the normal reaction force between 2 kg and 1 kg is (Consider the surface, to be smooth) : (Given g = 10 ms-2) [2022]",
+    "options": {
+      "A": "10 N",
+      "B": "25N",
+      "C": "39 N",
+      "D": "6 N"
+    },
+    "answer": "b",
+    "explanation": "Type Your AnswerView Answer View AnswerSolution:",
+    "year": "2022",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2022_P11_Q13-main.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2022_P11_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "An electric lift with a maximum load of 2000 kg (lift + passengers) is moving up with a constant speed of 1.5 ms-1. The frictional force opposing the motion is 3000 N. The minimum power delivered by the motor to the lift in watts is : (g = 10 m s-2 ) [2022]",
+    "options": {
+      "A": "20000 W",
+      "B": "34500 W",
+      "C": "23500 W",
+      "D": "23000 W"
+    },
+    "answer": "b",
+    "explanation": "Given:Maximum load (lift + passengers) = 2000 kgConstant speed v=1.5 m/sFrictional force f = 3000 NGravitational acceleration g = 10 m/s2 The force required to lift the load at a constant speed is equal to the gravitational force acting on the lift: The total force the motor must overcome includes both the gravitational force and the frictional force: Power is given by the product of force and velocity: Substituting the values: P = 23000 N × 1.5 m/s = 34500 W Thus, the minimum power delivered by the motor to the lift is 34500 W.",
+    "year": "2022",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2022_P11_Q14-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2022_P11_Q14-explanation2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2022_P11_Q14-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "A ball of mass 0.15 kg is dropped from a height 10 m, strikes the ground and rebounds to the same height. The magnitude of impulse imparted to the ball is (g = 10 m/s2) nearly : [2021]",
+    "options": {
+      "A": "2.1 kg m/s",
+      "B": "1.4 kg m/s",
+      "C": "0 kg m/s",
+      "D": "4.2 kg m/s"
+    },
+    "answer": "d",
+    "explanation": "Given: Mass of the ball, m = 0.15kg Initial height, h = 10m Gravitational acceleration, g = 10m/s2 The ball falls from a height of 10 meters, and we can use the kinematic equation to calculate the velocity just before it hits the ground: This is the velocity just before hitting the ground (downward).Since the ball rebounds to the same height, the velocity after rebounding is also 14.14 m/s, but in the opposite direction (upward). The change in velocity Δv is the difference between the final velocity and the initial velocity, Impulse J is the change in momentum, which is given by: J = m ⋅ Δv Substituting the values: J = 0.15 kg × 28.28 m/s = 4.2 kg⋅m/s",
+    "year": "2021",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2021_P11_Q15-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2021_P11_Q15-explanation2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2021_P11_Q15-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Two bodies of mass 4 kg and 6 kg are tied to the ends of a massless string. The string passes over a pulley which is frictionless (see figure). The acceleration of the system in terms of acceleration due to gravity (g) is : [2020]",
+    "options": {
+      "A": "g/5",
+      "B": "g/10",
+      "C": "g",
+      "D": "g/2"
+    },
+    "answer": "a",
+    "explanation": "For the 4 kg mass (m1): The force acting on it is F1 = m1g.For the 6 kg mass (m2): The force acting on it is F2 = m2g.The net force acting on the system is due to the difference in the weights of the two masses. The heavier mass (6 kg) will pull the lighter one (4 kg) upwards while it descends. Fnet = m2 g - m1 g = (6g - 4g) = 2g The total mass of the system is the sum of the masses of both bodies: Mtotal = m1 + m2 = 4 kg + 6 kg = 10 kg Using Newton's second law, the net force is related to the total mass and the acceleration of the system: Fnet = Mtotal ⋅ a Substituting the values: 2g = 10a Solving for a:",
+    "year": "2020",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2020_P11_Q16-main.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2020_P11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "A block of mass 10 kg is in contact against the inner wall of a hollow cylindrical drum of radius 1 m. The coefficient of friction between the block and the inner wall of the cylinder is 0.1. The minimum angular velocity needed for the cylinder to keep the block stationary when the cylinder is vertical and rotating about its axis, will be : (g 10 m/s2) [2019]",
+    "options": {
+      "A": "√10 rad/s",
+      "B": "10/2π rad/s",
+      "C": "10 rad/s",
+      "D": "10π rad/s"
+    },
+    "answer": "c",
+    "explanation": "The gravitational force acting on the block is: Fgravity = mg = 10 kg × 10 m/s2 = 100N The frictional force must balance the gravitational force: Ffriction = μ N Where N is the normal force, which is the centrifugal force in this case. The centrifugal force acting on the block due to the rotation is: N = mω2r Where ω is the angular velocity, and r is the radius of the cylinder. For the block to remain stationary, the frictional force must balance the gravitational force: Ffriction = Fgravity Substituting the expressions: μN = mg μ(mω2r)=mg Simplifying: μω2r=g Solving for ω: Substitute the Values: Substituting g = 10m/s2, μ=0.1, and r = 1m:",
+    "year": "2019",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q17-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q17-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "A mass m is attached to a thin wire and whirled in a vertical circle. The wire is most likely to break when: [2019]",
+    "options": {
+      "A": "The mass is at the highest point",
+      "B": "The wire is horizontal",
+      "C": "The mass is at the lowest point",
+      "D": "Inclined at an angle of 60° from vertical"
+    },
+    "answer": "c",
+    "explanation": "Concept: The tension in the wire is responsible for keeping the mass moving in a circular path. At different points in the circle, the forces on the mass vary due to the direction of gravity. The wire will break when the tension in the wire is at its maximum. At the highest point:The forces acting are the tension in the wire Ttop and the weight of the mass mg, both acting downward.The net force provides the centripetal force to keep the mass moving in a circle.The tension is given by: Comparison:At the highest point, the tension is lower because gravity acts in the same direction as the centripetal force, reducing the required tension.At the lowest point, the tension is greater because the wire must support the mass's weight and provide the centripetal force. This is where the tension is maximum.Since the wire is more likely to break at the point where the tension is highest, the wire is most likely to break when the mass is at the lowest point of the vertical circle.",
+    "year": "2019",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q18-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q18-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "When an object is shot from the bottom of a long smooth inclined plane kept at an angle 60° with horizontal, it can travel a distance x1 along the plane. But when the inclination is decreased to 30° and the same object is shot with the same velocity, it can travel x2 distance. Then x1 : x2 will be: [2019]",
+    "options": {
+      "A": "1: √2",
+      "B": "√2: 1",
+      "C": "1: √3",
+      "D": "1: 2√3"
+    },
+    "answer": "c",
+    "explanation": "The distance traveled by an object on an inclined plane is influenced by the acceleration due to gravity acting along the plane. The distance can be expressed using the kinematic equation for motion along an inclined plane: where:v0 is the initial velocity, θ is the angle of inclination, g is the acceleration due to gravity.The distance x1 along the plane when the angle is 60° is given by: Simplifying the trigonometric values: Thus: The distance x2 along the plane when the angle is 30° is given by: Simplifying the trigonometric values: Thus: Now, divide x1 by x2 : Therefore: x1 : x2 = 1: √3",
+    "year": "2019",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q19-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q19-explanation2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q19-explanation3.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q19-explanation4.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q19-explanation5.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q19-explanation6.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q19-explanation7.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2019_P11_Q19-explanation8.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Which one of the following statements is incorrect?",
+    "options": {
+      "A": "Rolling friction is smaller than sliding friction",
+      "B": "Limiting value of static friction is directly proportional to normal reactions",
+      "C": "Frictional force opposes the relative motion",
+      "D": "Coefficient of sliding friction has dimensions of length [2018]"
+    },
+    "answer": "d",
+    "explanation": "(a) Rolling friction is smaller than sliding friction:This is a correct statement. Rolling friction is generally much smaller than sliding friction because the contact area in rolling is reduced, and there is less interlocking between surfaces compared to sliding.(b) Limiting value of static friction is directly proportional to normal reaction: This is also correct. The limiting value of static friction fs is given by: fs = μsN where μ s is the coefficient of static friction and N is the normal reaction force. So, static friction is directly proportional to the normal force. (c) Frictional force opposes the relative motion: This is a correct statement. The frictional force always acts in the direction opposite to the relative motion or the attempted relative motion between two surfaces. (d) Coefficient of sliding friction has dimensions of length: This is incorrect. The coefficient of friction, whether static or sliding, is a dimensionless quantity. It is simply a ratio of the frictional force to the normal force and does not have any physical dimensions.",
+    "year": "2018",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "A block of mass m is placed on a smooth inclined wedge ABC of inclination θ as shown in the figure. The wedge is given an acceleration 'a' towards the right. The relation between a and θ for the block to remain stationary on the wedge is :- [2018]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "a = g cos θ",
+      "D": "a = g tan θ"
+    },
+    "answer": "d",
+    "explanation": "Forces acting on the block:Gravitational force: The gravitational force acting on the block is mg, which acts vertically downward.Normal force: The normal force N acts perpendicular to the inclined plane. Pseudo force due to acceleration: Since the wedge is accelerating to the right with acceleration a, a pseudo force ma acts on the block towards the left (relative to the wedge), parallel to the incline.Resolving forces:The gravitational force can be resolved into two components:Parallel to the inclined plane: mg sinθPerpendicular to the inclined plane: mg cosθ The pseudo force ma acts parallel to the wedge, providing a component in the opposite direction along the incline.The net force along the incline must be zero. This means the force component along the incline due to the pseudo force must balance the force component along the incline due to gravity:ma cosθ = mg sinθ a = g tanθ Thus, the relationship between the acceleration aa of the wedge and the angle of inclination \\thetaθ is: a = g tanθ",
+    "year": "2018",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2018_P11_Q21-main.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2018_P11_Q21-main2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2018_P11_Q21-main3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Two blocks A and B of masses 3 m and m respectively are connected by a massless and inextensible string. The whole system is suspended by a massless spring as shown in figure. The magnitudes of acceleration of A and B immediately after the string is cut, are respectively : [2017]",
+    "options": {
+      "A": "[diagram]",
+      "B": "g, g",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q22-main.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q22-main2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q22-main3.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q22-main4.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q22-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q22-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "One end of string of length l is connected to a particle of mass 'm' and the other end is connected to a small peg on a smooth horizontal table. If the particle moves in circle with speed 'v', the net force on the particle (directed towards centre) will be (T represents the tension in the string) [2017]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "zero",
+      "D": "T"
+    },
+    "answer": "d",
+    "explanation": "When an object moves in a circular path, the net force directed towards the center (centripetal force) is responsible for keeping the object in circular motion.The centripetal force Fc required to keep a particle of mass 𝑚 m moving in a circle of radius l at a speed v is given by: This force is directed towards the center of the circle.Tension in the String: The tension in the string, T, provides the necessary centripetal force to keep the particle moving in a circular path.Net Force Towards the Center: The net force on the particle, which is directed towards the center, must account for both the tension in the string and the centripetal force. The tension in the string must balance the centripetal force entirely. Therefore, the tension in the string T equals the centripetal force mv2/l.Thus, the net force acting on the particle towards the center is: T = mv2/lConclusion: The net force on the particle, which is directed towards the center, is simply the tension T.",
+    "year": "2017",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q23-main.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q23-main2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2017_P11_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "A car is negotiating a curved road of radius R. The road is banked at an angle .. The coefficient of friction between the tyres of the care and the road is 1s. The maximum safe velocity on this road is: [2016]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "c",
+    "explanation": "The given situation is illustrated as: In the case of vertical equilibrium, Dividing Eqns. (i) and (ii), we get",
+    "year": "2016",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q24-main.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q24-main2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q24-main3.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q24-main4.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q24-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q24-explanation2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q24-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "What is the minimum velocity with which a body of mass m must enter a vertical loop of radius R so that it can complete the loop?[2016]",
+    "options": {
+      "A": "√5gR",
+      "B": "√gR",
+      "C": "√2gR",
+      "D": "√3gR"
+    },
+    "answer": "a",
+    "explanation": "The question is illustrated in the figure below, Let, the tension at point A be TA. Using Newton's second law, we have Energy at point C is, At point C, using Newton's second law, In order to complete a loop, Tc ≥ 0 so, From equation (i) and (ii) Using the principle of conservation of energy,",
+    "year": "2016",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q25-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q25-explanation2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q25-explanation3.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q25-explanation4.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q25-explanation5.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q25-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "A particle of mass 10 g moves along a circle of radius 6.4 cm with a constant tangential acceleration. What is the magnitude of this acceleration if the kinetic energy of the particle becomes equal to 8 x 10-4J by the end of the second revolution after the beginning of the motion ? [2016]",
+    "options": {
+      "A": "0.2 m/s2",
+      "B": "0.1 m/s2",
+      "C": "0.15 m/s2",
+      "D": "0.18 m/s2"
+    },
+    "answer": "b",
+    "explanation": "Given, mass of particle. m = 0.01 kg Radius of circle along which particle is moving , r = 6.4 cm Kinetic energy of particle, K.E. = 8 x 10-4 J Given that, KE of particle is equal to 8 x 10-4 J by the end of second revolution after the beginning of the motion of particle. It means, initial velocity (u) is 0 m/s at this moment. Now, using the Newton's 3rd equation of motion,",
+    "year": "2016",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q26-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2016_P11_Q26-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Two stones of masses m and 2m are whirled in horizontal circles, the heavier one in a radius r/2 and the lighter one in radius r. The tangential speed of lighter stone is n times that of the value of heavier stone when they experience same centripetal forces. The value of n is [NEET / AIPMT 2015]",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "c",
+    "explanation": "The centripetal force Fc acting on a body moving in a circular path is given by: where:m is the mass of the stone,v is the tangential speed,r is the radius of the circular path.For the lighter stone of mass m and radius r, the centripetal force is: For the heavier stone of mass 2m and radius r/2, the centripetal force is: Since both stones experience the same centripetal force: F1 = F2 Substituting the expressions for F1 and F2: Simplifying: Taking the square root of both sides: v1 = 2v2",
+    "year": "2015",
+    "chapter": "Laws of Motion",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2015_P11_Q27-explanation1.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2015_P11_Q27-explanation2.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2015_P11_Q27-explanation3.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2015_P11_Q27-explanation4.png",
+      "PHYSICS/P11/chapters/laws-of-motion/LAWS_OF_MOTION-2015_P11_Q27-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

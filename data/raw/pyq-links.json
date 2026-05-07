@@ -1,266 +1,222 @@
 {
-  "courseUrl": "https://edurev.in/courses/716_Biology-Class-12",
-  "courseTitle": "Class 12 Biology NCERT Solutions, MCQs & Videos 2026-2027",
-  "chapterCount": 13,
-  "pyqChapterCount": 13,
+  "courseUrl": "https://edurev.in/courses/1548_Chemistry-Class-12",
+  "courseTitle": "NEET Class 12 Chemistry NCERT Solutions, MCQs & Videos",
+  "chapterCount": 18,
+  "pyqChapterCount": 9,
   "chapters": [
     {
       "chapter": {
         "index": 1,
-        "id": "22421",
-        "title": "Sexual Reproduction in Flowering Plants",
-        "url": "https://edurev.in/chapter/22421_Sexual-Reproduction-in-Flowering-Plants",
-        "slug": "Sexual-Reproduction-in-Flowering-Plants"
+        "id": "1550",
+        "title": "Solutions",
+        "url": "https://edurev.in/topic/Solutions_1550",
+        "slug": "Solutions",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "170111",
-          "title": "NEET Previous Year Questions (2016-2025): Sexual Reproduction in Flowering Plants",
-          "url": "https://edurev.in/t/170111/NEET-Previous-Year-Questions-2016-20-Sexual-Repr",
-          "slug": "NEET-Previous-Year-Questions-2016-20-Sexual-Repr",
-          "canonicalUrl": "https://edurev.in/t/170111/NEET-Previous-Year-Questions-2016-20-Sexual-Repr",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Sexual Reproduction in Flowering Plants | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169672",
+          "title": "NEET Previous Year Questions (2014-2025): Solutions",
+          "url": "https://edurev.in/t/169672/NEET-Previous-Year-Questions-2014-20-Solutions",
+          "slug": "NEET-Previous-Year-Questions-2014-20-Solutions",
+          "canonicalUrl": "https://edurev.in/t/169672/NEET-Previous-Year-Questions-2014-20-Solutions",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Solutions | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     },
     {
       "chapter": {
         "index": 2,
-        "id": "22422",
-        "title": "Human Reproduction",
-        "url": "https://edurev.in/chapter/22422_Human-Reproduction",
-        "slug": "Human-Reproduction"
+        "id": "1551",
+        "title": "Electrochemistry",
+        "url": "https://edurev.in/topic/Electrochemistry_1551",
+        "slug": "Electrochemistry",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "170117",
-          "title": "NEET Previous Year Questions (2016-2025): Human Reproduction",
-          "url": "https://edurev.in/t/170117/NEET-Previous-Year-Questions-2016-21-Human-Repro",
-          "slug": "NEET-Previous-Year-Questions-2016-21-Human-Repro",
-          "canonicalUrl": "https://edurev.in/t/170117/NEET-Previous-Year-Questions-2016-21-Human-Repro",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Human Reproduction | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169673",
+          "title": "NEET Previous Year Questions (2014-2025): Electrochemistry",
+          "url": "https://edurev.in/t/169673/NEET-Previous-Year-Questions-2014-20-Electrochem",
+          "slug": "NEET-Previous-Year-Questions-2014-20-Electrochem",
+          "canonicalUrl": "https://edurev.in/t/169673/NEET-Previous-Year-Questions-2014-20-Electrochem",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Electrochemistry | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     },
     {
       "chapter": {
         "index": 3,
-        "id": "1777",
-        "title": "Reproductive Health",
-        "url": "https://edurev.in/chapter/1777_Reproductive-Health",
-        "slug": "Reproductive-Health"
+        "id": "1552",
+        "title": "Chemical Kinetics",
+        "url": "https://edurev.in/topic/Chemical-Kinetics_1552",
+        "slug": "Chemical-Kinetics",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "133150",
-          "title": "NEET Previous Year Questions (2016-2025): Reproductive Health",
-          "url": "https://edurev.in/t/133150/Reproductive-Health-1-From-Past-28-Years-Questions",
-          "slug": "Reproductive-Health-1-From-Past-28-Years-Questions",
-          "canonicalUrl": "https://edurev.in/t/133150/Reproductive-Health-1-From-Past-28-Years-Questions",
-          "pageTitle": "NEET Previous Year Questions (2014-2025): Reproductive Health | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
-        }
-      ]
-    },
-    {
-      "chapter": {
-        "index": 4,
-        "id": "1778",
-        "title": "Principles of Inheritance & Variation",
-        "url": "https://edurev.in/chapter/1778_Principles-of-Inheritance-Variation",
-        "slug": "Principles-of-Inheritance-Variation"
-      },
-      "pyqLinks": [
-        {
-          "documentId": "170125",
-          "title": "NEET Previous Year Questions(2016-25): Principles of Inheritance & Variation",
-          "url": "https://edurev.in/t/170125/NEET-Previous-Year-Questions-2016-22-Principles-o",
-          "slug": "NEET-Previous-Year-Questions-2016-22-Principles-o",
-          "canonicalUrl": "https://edurev.in/t/170125/NEET-Previous-Year-Questions-2016-22-Principles-o",
-          "pageTitle": "NEET Previous Year Questions(2016-25): Principles of Inheritance and Variation | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
-        }
-      ]
-    },
-    {
-      "chapter": {
-        "index": 5,
-        "id": "1779",
-        "title": "Molecular Basis of Inheritance",
-        "url": "https://edurev.in/chapter/1779_Molecular-Basis-of-Inheritance",
-        "slug": "Molecular-Basis-of-Inheritance"
-      },
-      "pyqLinks": [
-        {
-          "documentId": "170129",
-          "title": "NEET Previous Year Questions(2016-25): Molecular Basis of Inheritance",
-          "url": "https://edurev.in/t/170129/NEET-Previous-Year-Questions-2016-22-Molecular-Ba",
-          "slug": "NEET-Previous-Year-Questions-2016-22-Molecular-Ba",
-          "canonicalUrl": "https://edurev.in/t/170129/NEET-Previous-Year-Questions-2016-22-Molecular-Ba",
-          "pageTitle": "NEET Previous Year Questions(2016-25): Molecular Basis of Inheritance | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169678",
+          "title": "NEET Previous Year Questions (2014-2025): Chemical Kinetics",
+          "url": "https://edurev.in/t/169678/NEET-Previous-Year-Questions-2014-20-Chemical-Ki",
+          "slug": "NEET-Previous-Year-Questions-2014-20-Chemical-Ki",
+          "canonicalUrl": "https://edurev.in/t/169678/NEET-Previous-Year-Questions-2014-20-Chemical-Ki",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Chemical Kinetics | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     },
     {
       "chapter": {
         "index": 6,
-        "id": "1780",
-        "title": "Evolution",
-        "url": "https://edurev.in/chapter/1780_Evolution",
-        "slug": "Evolution"
+        "id": "1557",
+        "title": "Coordination Compounds",
+        "url": "https://edurev.in/topic/Coordination-Compounds_1557",
+        "slug": "Coordination-Compounds",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "133159",
-          "title": "NEET Previous Year Questions (2016-2025): Evolution",
-          "url": "https://edurev.in/t/133159/Evolution-Past-Year-Questions-Of-NEET-2014-2016-B",
-          "slug": "Evolution-Past-Year-Questions-Of-NEET-2014-2016-B",
-          "canonicalUrl": "https://edurev.in/t/133159/Evolution-Past-Year-Questions-Of-NEET-2014-2016-B",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Evolution | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169718",
+          "title": "NEET Previous Year Questions (2014-2025): Coordination Compounds",
+          "url": "https://edurev.in/t/169718/NEET-Previous-Year-Questions-2014-21-Coordinatio",
+          "slug": "NEET-Previous-Year-Questions-2014-21-Coordinatio",
+          "canonicalUrl": "https://edurev.in/t/169718/NEET-Previous-Year-Questions-2014-21-Coordinatio",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Coordination Compounds | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     },
     {
       "chapter": {
         "index": 7,
-        "id": "1781",
-        "title": "Human Health & Diseases",
-        "url": "https://edurev.in/chapter/1781_Human-Health-Diseases",
-        "slug": "Human-Health-Diseases"
+        "id": "1558",
+        "title": "Haloalkanes and Haloarenes",
+        "url": "https://edurev.in/topic/Haloalkanes-and-Haloarenes_1558",
+        "slug": "Haloalkanes-and-Haloarenes",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "170134",
-          "title": "NEET Previous Year Questions (2016-2025): Human Health & Disease",
-          "url": "https://edurev.in/t/170134/NEET-Previous-Year-Questions-2016-23-Human-Health-Disease",
-          "slug": "NEET-Previous-Year-Questions-2016-23-Human-Health-Disease",
-          "canonicalUrl": "https://edurev.in/t/170134/NEET-Previous-Year-Questions-2016-23-Human-Health-Disease",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Human Health and Disease | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169724",
+          "title": "NEET Previous Year Questions (2014-2025): Haloalkanes & Haloarenes",
+          "url": "https://edurev.in/t/169724/Previous-Year-Questions-2014-19-Haloalkanes-and-",
+          "slug": "Previous-Year-Questions-2014-19-Haloalkanes-and-",
+          "canonicalUrl": "https://edurev.in/t/169724/Previous-Year-Questions-2014-19-Haloalkanes-and-",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Haloalkanes and Haloarenes | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     },
     {
       "chapter": {
         "index": 8,
-        "id": "1783",
-        "title": "Microbes in Human Welfare",
-        "url": "https://edurev.in/chapter/1783_Microbes-in-Human-Welfare",
-        "slug": "Microbes-in-Human-Welfare"
+        "id": "1559",
+        "title": "Alcohols, Phenols and Ethers",
+        "url": "https://edurev.in/topic/Alcohols-Phenols-and-Ethers_1559",
+        "slug": "Alcohols-Phenols-and-Ethers",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "133169",
-          "title": "NEET Previous Year Questions (2016-2025): Microbes in Human Welfare",
-          "url": "https://edurev.in/t/133169/Microbes-in-Human-Welfare-Past-Year-Questions-Of-N",
-          "slug": "Microbes-in-Human-Welfare-Past-Year-Questions-Of-N",
-          "canonicalUrl": "https://edurev.in/t/133169/Microbes-in-Human-Welfare-Past-Year-Questions-Of-N",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Microbes in Human Welfare | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169726",
+          "title": "NEET Previous Year Questions (2014-2025): Alcohols, Phenols & Ethers",
+          "url": "https://edurev.in/t/169726/NEET-Previous-Year-Questions-2014-21-Alcohols-P",
+          "slug": "NEET-Previous-Year-Questions-2014-21-Alcohols-P",
+          "canonicalUrl": "https://edurev.in/t/169726/NEET-Previous-Year-Questions-2014-21-Alcohols-P",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Alcohols, Phenols and Ethers | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     },
     {
       "chapter": {
         "index": 9,
-        "id": "1784",
-        "title": "Biotechnology: Principle & Processes",
-        "url": "https://edurev.in/chapter/1784_Biotechnology-Principle-Processes",
-        "slug": "Biotechnology-Principle-Processes"
+        "id": "1560",
+        "title": "Aldehydes, Ketones and Carboxylic Acids",
+        "url": "https://edurev.in/topic/Aldehydes-Ketones-and-Carboxylic-Acids_1560",
+        "slug": "Aldehydes-Ketones-and-Carboxylic-Acids",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "133171",
-          "title": "NEET Previous Year Questions (2016-2025): Biotechnology: Principles & Processes",
-          "url": "https://edurev.in/t/133171/Biotechnology-Principles-and-Processes-1-From-Past",
-          "slug": "Biotechnology-Principles-and-Processes-1-From-Past",
-          "canonicalUrl": "https://edurev.in/t/133171/Biotechnology-Principles-and-Processes-1-From-Past",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Biotechnology: Principles and Processes | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169728",
+          "title": "NEET Previous Year Questions (2014-2025): Aldehydes, Ketones & Carboxylic Acids",
+          "url": "https://edurev.in/t/169728/NEET-Previous-Year-Questions-2014-21-Aldehydes-",
+          "slug": "NEET-Previous-Year-Questions-2014-21-Aldehydes-",
+          "canonicalUrl": "https://edurev.in/t/169728/NEET-Previous-Year-Questions-2014-21-Aldehydes-",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Aldehydes, Ketones and Carboxylic Acids | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     },
     {
       "chapter": {
         "index": 10,
-        "id": "1785",
-        "title": "Biotechnology & its Applications",
-        "url": "https://edurev.in/chapter/1785_Biotechnology-its-Applications",
-        "slug": "Biotechnology-its-Applications"
+        "id": "1561",
+        "title": "Amines",
+        "url": "https://edurev.in/topic/Amines_1561",
+        "slug": "Amines",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "133173",
-          "title": "NEET Previous Year Questions (2016-2025): Biotechnology & Its Applications",
-          "url": "https://edurev.in/t/133173/Previous-Year-Questions-2016-19-Biotechnology-an",
-          "slug": "Previous-Year-Questions-2016-19-Biotechnology-an",
-          "canonicalUrl": "https://edurev.in/t/133173/Previous-Year-Questions-2016-19-Biotechnology-an",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Biotechnology and Its Applications | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169729",
+          "title": "NEET Previous Year Questions (2014-2025): Amines",
+          "url": "https://edurev.in/t/169729/NEET-Previous-Year-Questions-2014-22-Amines",
+          "slug": "NEET-Previous-Year-Questions-2014-22-Amines",
+          "canonicalUrl": "https://edurev.in/t/169729/NEET-Previous-Year-Questions-2014-22-Amines",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Amines | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     },
     {
       "chapter": {
         "index": 11,
-        "id": "1786",
-        "title": "Organisms and Population",
-        "url": "https://edurev.in/chapter/1786_Organisms-and-Population",
-        "slug": "Organisms-and-Population"
+        "id": "1562",
+        "title": "Biomolecules",
+        "url": "https://edurev.in/topic/Biomolecules_1562",
+        "slug": "Biomolecules",
+        "classCode": "C12",
+        "subject": "chemistry"
       },
       "pyqLinks": [
         {
-          "documentId": "170147",
-          "title": "NEET Previous Year Questions (2016-2025): Organisms & Populations",
-          "url": "https://edurev.in/t/170147/NEET-Previous-Year-Questions-2016-22-Organisms-P",
-          "slug": "NEET-Previous-Year-Questions-2016-22-Organisms-P",
-          "canonicalUrl": "https://edurev.in/t/170147/NEET-Previous-Year-Questions-2016-22-Organisms-P",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Organisms and Populations | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
-        }
-      ]
-    },
-    {
-      "chapter": {
-        "index": 12,
-        "id": "1787",
-        "title": "Ecosystem",
-        "url": "https://edurev.in/chapter/1787_Ecosystem",
-        "slug": "Ecosystem"
-      },
-      "pyqLinks": [
-        {
-          "documentId": "170135",
-          "title": "NEET Previous Year Questions (2016-2025): Ecosystem",
-          "url": "https://edurev.in/t/170135/NEET-Previous-Year-Questions-2016-23-Ecosystem",
-          "slug": "NEET-Previous-Year-Questions-2016-23-Ecosystem",
-          "canonicalUrl": "https://edurev.in/t/170135/NEET-Previous-Year-Questions-2016-23-Ecosystem",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Ecosystem | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
-        }
-      ]
-    },
-    {
-      "chapter": {
-        "index": 13,
-        "id": "1788",
-        "title": "Biodiversity and its Conservation",
-        "url": "https://edurev.in/chapter/1788_Biodiversity-and-its-Conservation",
-        "slug": "Biodiversity-and-its-Conservation"
-      },
-      "pyqLinks": [
-        {
-          "documentId": "133181",
-          "title": "NEET Previous Year Questions (2016-2025): Biodiversity & Its Conservation",
-          "url": "https://edurev.in/t/133181/Previous-Year-Questions-2016-19-Biodiversity-and",
-          "slug": "Previous-Year-Questions-2016-19-Biodiversity-and",
-          "canonicalUrl": "https://edurev.in/t/133181/Previous-Year-Questions-2016-19-Biodiversity-and",
-          "pageTitle": "NEET Previous Year Questions (2016-2025): Biodiversity and Its Conservation | Biology Class 12 PDF Download",
-          "courseTitle": "Biology Class 12"
+          "documentId": "169730",
+          "title": "NEET Previous Year Questions (2014-2025): Biomolecules",
+          "url": "https://edurev.in/t/169730/NEET-Previous-Year-Questions-2014-21-Biomolecule",
+          "slug": "NEET-Previous-Year-Questions-2014-21-Biomolecule",
+          "canonicalUrl": "https://edurev.in/t/169730/NEET-Previous-Year-Questions-2014-21-Biomolecule",
+          "pageTitle": "NEET Previous Year Questions (2014-2025): Biomolecules | Chemistry Class 12 PDF Download",
+          "courseTitle": "Chemistry Class 12",
+          "classCode": "C12",
+          "subject": "chemistry"
         }
       ]
     }

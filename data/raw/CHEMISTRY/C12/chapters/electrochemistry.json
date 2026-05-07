@@ -1,0 +1,836 @@
+[
+  {
+    "id": "Q1",
+    "text": "If the molar conductivity (Λm) of a 0.050 mol L-1 of a monobasic weak acid is 90 S Cm2 mol-1, its extent (degree) of dissociation will be [Assume Λo+ = 349.6 S Cm2 mol-1 and Λo - = 50.4 S cm2 mol-1.]",
+    "options": {
+      "A": "0.225",
+      "B": "0.215",
+      "C": "0.115",
+      "D": "0.125"
+    },
+    "answer": "a",
+    "explanation": "Calculate Λm0:Λm0 = Λ+0 + Λ-0= 349.6 S cm2 mol-1 + 50.4 S cm2 mol-1= 400 S cm2 mol-1Calculate α:α = Λm / Λm0= 90 S cm2 mol-1 / 400 S cm2 mol-1= 0.225Therefore, the degree of dissociation (α) is 0.225, and the correct answer is Option A.",
+    "year": "2025",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Match List I with List II",
+    "options": {
+      "A": "A-II, B-IV, C-I, D-III",
+      "B": "A-III, B-IV, C-I, D-II",
+      "C": "A-II, B-III, C-I, D-IV",
+      "D": "A-III, B-IV, C-II, D-I"
+    },
+    "answer": "b",
+    "explanation": "Corrected Explanation:A. H₂O to O₂: The reaction is 2H₂O → O₂ + 4H⁺ + 4e⁻, requiring 4 F per mole of O₂. Matches III (4 F).B. MnO₄⁻ to Mn²⁺: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O, requiring 5 F. Matches IV (5 F).C. 1.5 moles Ca from CaCl₂: Ca²⁺ + 2e⁻ → Ca, 2 F per mole, so 1.5 × 2 = 3 F. Matches I (3 F).D. FeO to Fe₂O₃: 2FeO + ½O₂ → Fe₂O₃, Fe²⁺ to Fe³⁺ requires 1 electron per Fe, so 2 F total. Matches II (2 F).Note: The original List II had two 2 F entries (II and III), which was a typo. Corrected List II replaces one 2 F with 4 F to reflect standard electrochemistry problems.Conclusion: The correct answer is (b) A-III, B-IV, C-I, D-II.",
+    "year": "2024",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2024_C12_Q2-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Mass in grams of copper deposited by passing 9.6487 A current through a voltmeter containing copper sulphate for 100 seconds is (Given : Molar mass of Cu : 63 g mol-1,1 F = 96487C)",
+    "options": {
+      "A": "3.15 g",
+      "B": "0.315 g",
+      "C": "31.5 g",
+      "D": "0.0315 g"
+    },
+    "answer": "b",
+    "explanation": "The mass of copper deposited when passing an electric current through a copper sulphate solution can be calculated using Faraday's laws of electrolysis. The first law states that the amount of a substance deposited or liberated at an electrode during electrolysis is proportional to the amount of electricity (charge) passed through the electrolyte. To find the mass of copper deposited, we use the formula: Where: m is the mass of the substance deposited (in grams), M is the molar mass of the substance (in g/mol), I is the current (in amperes, A), t is the time electricity is passed through the solution (in seconds), n is the number of moles of electrons required to deposit or dissolve 1 mole of the substance (valence number, which is 2 for copper in copper sulphate solution as copper ions are Cu2+),F is the Faraday constant, approximately 96487C/mol of electrons. Given: Substitute these values into the formula: Hence, the mass of copper deposited is approximately 0.315 g, making Option B the correct answer.",
+    "year": "2024",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2024_C12_Q3-explanation1.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2024_C12_Q3-explanation2.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2024_C12_Q3-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "Given below are two statements: Statement I: 2 F electricity is required for the oxidation of 1 mole H₂O to O₂. ​Statement II: To get 40.0 g of Aluminium from molten Al₂O₃, the required electricity is 4.44 F. In the light of the above statements, choose the correct",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "d",
+    "explanation": "Statement I: False. The oxidation reaction is 2H₂O → O₂ + 4H⁺ + 4e⁻, requiring 4 F per mole of O₂ (2 moles H₂O). For 1 mole H₂O, the stoichiometry doesn't produce 1 mole O₂, so 2 F is incorrect.Statement II: True. Molar mass of Al = 27 g/mol, 40.0 g = 40/27 ≈ 1.4815 mol. Al³⁺ + 3e⁻ → Al requires 3 F per mole, so 1.4815 × 3 ≈ 4.44 F.Conclusion: The correct answer is (d) Statement I is false, Statement II is true.",
+    "year": "2024",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Select the one which is not an example of corrosion",
+    "options": {
+      "A": "Rusting of an iron object",
+      "B": "Production of hydrogen by electrolysis of water",
+      "C": "Tarnishing of silver",
+      "D": "Development of green coating on copper and bronze ornaments"
+    },
+    "answer": "b",
+    "explanation": "Corrosion is a chemical or electrochemical process in which a material, usually a metal, deteriorates due to reactions with environmental factors like oxygen, water, and pollutants.Rusting of an iron object (Option 1) is a classic example of corrosion, where iron reacts with oxygen and water to form iron oxide (rust).Tarnishing of silver (Option 3) is also an example of corrosion, where silver reacts with sulfur compounds in the air to form silver sulfide, leading to a tarnished appearance.Development of green coating on copper and bronze ornaments (Option 4) is another example of corrosion, where copper reacts with oxygen and moisture to form copper carbonate, which appears as a green patina (often seen on old copper roofs or coins).However, the production of hydrogen by electrolysis of water (Option 2) is not an example of corrosion. Electrolysis is a process where electrical energy is used to break down water (H₂O) into hydrogen (H₂) and oxygen (O₂), which is a controlled process, not a degradation or deterioration of a material due to environmental factors. Therefore, Option B is the correct answer.",
+    "year": "2024",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The standard cell potential of the following cell: Zn | Zn²⁺ (aq) || Fe²⁺ (aq) | Fe is 0.32 V. Calculate the standard Gibbs energy change for the reaction: Zn (s) + Fe²⁺ (aq) → Zn²⁺ (aq) + Fe (s) (Given: 1 F = 96487 C mol⁻¹)",
+    "options": {
+      "A": "61.75 kJ mol⁻¹",
+      "B": "+5.006 kJ mol⁻¹",
+      "C": "5.006 kJ mol⁻¹",
+      "D": "+61.75 kJ mol⁻¹"
+    },
+    "answer": "a",
+    "explanation": "The standard Gibbs free energy change (ΔG°) for the reaction can be calculated using the following equation: ΔG° = -nFΔE° Where:n = number of moles of electrons exchanged,F = Faraday's constant (96487 C/mol),ΔE° = standard cell potential.Step 1: Identify the valuesΔE° (standard cell potential) = 0.32 V (given).n = 2 (since the reaction involves the exchange of 2 electrons - Zn is oxidized from Zn to Zn²⁺ and Fe²⁺ is reduced to Fe).F = 96487 C/mol (given).Step 2: Calculate ΔG° Substitute the values into the equation: ΔG° = -nFΔE° ΔG° = -2 × 96487 C/mol × 0.32 V Since 1 V = 1 J/C, the unit of V is equivalent to J/C, so the result will be in J/mol. ΔG° = -2 × 96487 × 0.32 ΔG° = -61675.2 J/mol = -61.75 kJ/molFinal Answer: The standard Gibbs energy change for the reaction is -61.75 kJ/mol, so the correct answer is: (a) -61.75 kJ mol⁻¹. Q.1. The conductivity of centimolar solution of KCl at 25°C is 0.0210 ohm-1 cm-1 and the resistance of the cell containing the solution at 25°C is 60 ohm. The value of cell constant is (NEET 2023) (a) 1.34 cm-1 (b) 3.28 cm-1 (c) 1.26 cm-1 (d) 3.34 cm-1 Type Your AnswerView Answer View AnswerSolution:Ans: (c) Q.2. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R (NEET 2023) Assertion A : In equation △rG = -nFEcell' value of △rG depends on n. Reasons R: Ecell is an intensive property and △rG is an extensive property. In the light of the above statements, choose the correct answer from the options given below (a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true and R is NOT the correct explanation of A (c) A is true but R is false (d) A is false but R is true Type Your AnswerView Answer View AnswerSolution:Ans: (b) ΔrG=-nFEcell is an intensive property and ΔrG is an extensive property as it depends on number of eΘ transferred in cell reaction.",
+    "year": "2024",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2024_C12_Q6-explanation1.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2024_C12_Q6-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "The molar conductance of an electrolyte increases with dilution according to the equation: Λₘ = Λₘ⁰ - A√c Consider the following four statements",
+    "options": {
+      "A": "(A) and (B) only",
+      "B": "(A), (B), and (C) only",
+      "C": "(B) and (C) only",
+      "D": "(B) and (D) only"
+    },
+    "answer": "a",
+    "explanation": "(A): True. The equation Λₘ = Λₘ⁰ - A√c (Debye-Hückel-Onsager) applies primarily to strong electrolytes but can approximate weak electrolytes under certain conditions, especially at low concentrations.(B): True. The constant A depends on the solvent's dielectric constant and viscosity.(C): False. A depends on the electrolyte's ion charges and mobilities. BaCl₂ (2:1) and MgSO₄ (2:2) have different ionic interactions, so A differs.(D): False. BaCl₂ (2:1) and Mg(OH)₂ (2:1) have different ion mobilities, and Mg(OH)₂'s low solubility affects its behavior, so A differs.Conclusion: The correct answer is (a) A, B.",
+    "year": "2023",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The correct value of cell potential in volts for the reaction that occurs when the following two half-cells are connected is: Fe²⁺(aq) + 2e⁻ → Fe(s), E° = -0.44 V Cr₂O₇²⁻(aq) + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O, E° = +1.33 V",
+    "options": {
+      "A": "+1.77 V",
+      "B": "+2.65 V",
+      "C": "+0.01 V`",
+      "D": "+0.89 V"
+    },
+    "answer": "a",
+    "explanation": "To calculate the cell potential, we use the formula: E°cell = E°cathode - E°anodeThe cathode is where reduction occurs (gain of electrons), and the anode is where oxidation occurs (loss of electrons).Given half-reactions:Fe²⁺(aq) + 2e⁻ → Fe(s), E° = -0.44 V (This is the oxidation half-reaction, because the potential is negative, and we need to reverse it when using it as the anode).Cr₂O₇²⁻(aq) + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O, E° = +1.33 V (This is the reduction half-reaction, so it is the cathode).Step 1: Identify the cathode and anode:Cr₂O₇²⁻ is reduced to Cr³⁺, so this is the cathode (reduction).Fe²⁺ is oxidized to Fe, so this is the anode (oxidation).Step 2: Reverse the anode half-reaction: The anode reaction for Fe will be the reverse of the given reduction half-reaction, so the potential for the anode is +0.44 V (since we reverse the sign when oxidation occurs).Step 3: Calculate the cell potential: Now, use the formula: E°cell = E°cathode - E°anode E°cell = 1.33 V - (-0.44 V) E°cell = 1.33 V + 0.44 V = 1.77 V Thus, the correct cell potential is +1.77 V, and the answer is (a) +1.77 V.",
+    "year": "2023",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The molar conductance of a , given its conductivity (0.248 S m⁻¹) and concentration (0.2 mol m⁻³), is",
+    "options": {
+      "A": "0.124 S cm² mol⁻¹",
+      "B": "1.24 S m² mol⁻¹",
+      "C": "124 S cm² mol⁻¹",
+      "D": "124 S m² mol⁻¹"
+    },
+    "answer": "b",
+    "explanation": "To calculate the molar conductance (Λₘ), use the formula: Λₘ = κ / c Where:κ is the conductivity (0.248 S/m),c is the concentration (0.2 mol/m³).Substitute the values: Λₘ = 0.248 / 0.2 = 1.24 S·m²/mol.Thus, the molar conductance is 1.24 S·m²/mol, and the correct answer is (b).",
+    "year": "2023",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Two half cell reactions are given below. The standard EMF of a cell with feasible redox reaction will be",
+    "options": {
+      "A": "3.47 V",
+      "B": "+7.09 V",
+      "C": "+0.15 V",
+      "D": "+3.47 V"
+    },
+    "answer": "d",
+    "explanation": "Since E0OP of Al is more than Co2+, so at anode Al will oxidise and at cathode Co3+ will reduce.",
+    "year": "2022",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q10-main.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Standard electrode potential for the cell with cell reaction Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s) is 1.1 V. Calculate the standard Gibbs energy change for the cell reaction. (Given F = 96487 C mol-1)",
+    "options": {
+      "A": "200.27 J mol-1",
+      "B": "200.27 kJ mol-1",
+      "C": "212.27 kJ mol-1",
+      "D": "212.27 J mol-1"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q11-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "At 298 K, the standard electrode potentials of Cu2+ / Cu, Zn2+/Zn, Fe2+/Fe and Ag+/Ag are 0.34 V, - 0.76 V, - 0.44 V and 0.80 V, respectively. On the basis of standard electrode potential, predict which of the following reaction can not occur?",
+    "options": {
+      "A": "FeSO4(aq) + Zn(s) → ZnSO4(aq) + Fe(s)",
+      "B": "2CuSO4(aq) + 2Ag(s) → 2Cu(s) + Ag2SO4(aq)",
+      "C": "CuSO4(aq) + Zn(s) → ZnSO4(aq) + Cu(s)",
+      "D": "CuSO4(aq) + Fe(s) → FeSO4(aq) + Cu(s)"
+    },
+    "answer": "b",
+    "explanation": "(a) = 0.44 ( 0.76) = + 0.32 V ( will occurs) (b) = 0.34 (0.80) = -0.46 V ( will not occurs) (c) = 0.34 ( 0.76 ) = + 1.10 V ( will occurs) (d) = 0.34 ( 0.44 ) = + 0.78 V ( will occurs)",
+    "year": "2022",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q12-explanation1.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q12-explanation2.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q12-explanation3.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q12-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "Given below are half-cell reactions: Will the permanganate ion, liberate O2 from water in the presence of an acid?",
+    "options": {
+      "A": "Yes, because E°cell = + 2.733 V",
+      "B": "No, because E°cell = - 2.733 V",
+      "C": "Yes, because E°cell = + 0.287 V",
+      "D": "No, because E°cell = - 0.287 V"
+    },
+    "answer": "c",
+    "explanation": "= 1.51 - 1.223 = +0.287 V Since E°cell is positive, O2 will be released.",
+    "year": "2022",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q13-main.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q13-main2.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "Find the emf of the cell in which the following reaction takes place at 298 K Ni(s) + 2Ag+ (0.001 M) → Ni2+(0.001 M) + 2Ag(s) (Given that at 298 K)",
+    "options": {
+      "A": "0.9615 V",
+      "B": "1.05 V",
+      "C": "1.0385 V",
+      "D": "1.385 V"
+    },
+    "answer": "a",
+    "explanation": "= 1.05 - 0.0885 = 0.9615 V",
+    "year": "2022",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q14-main.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q14-explanation1.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2022_C12_Q14-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The molar conductance of NaCl, HCI, and CH3COONa at infinite dilution are 126.45, 426.16, and 91.0 S cm mol-1 respectively. The molar conductance of CH3COOH at infinite dilution is. Choose the right option for your answer",
+    "options": {
+      "A": "698.28 ohm-1 cm2 mol-1",
+      "B": "540.48 ohm-1 cm2 mol-1",
+      "C": "201.28 ohm-1 cm2 mol-1",
+      "D": "390.71 ohm-1 cm2 mol-1"
+    },
+    "answer": "d",
+    "explanation": "According to Kohlrausch law of independent migration of ions.",
+    "year": "2021",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2021_C12_Q15-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "The molar conductivity of 0.007 M acetic acid is 20 S cm2 mol-1. What is the dissociation constant of acetic acid? Choose the correct option. (2021)",
+    "options": {
+      "A": "1.75 × 10-5 mol L-1",
+      "B": "2.50 × 10-5 mol L-1",
+      "C": "1.75 × 10-4 mol L-1",
+      "D": "2.50 × 10-4 mol L-1"
+    },
+    "answer": "a",
+    "explanation": "",
+    "year": "2021",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2021_C12_Q16-main.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2021_C12_Q16-explanation1.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2021_C12_Q16-explanation2.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2021_C12_Q16-explanation3.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2021_C12_Q16-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "On electrolysis of dil. sulphuric acid using platinum (Pt) electrode, the product obtained at the anode will be",
+    "options": {
+      "A": "H2S gas",
+      "B": "SO2 gas",
+      "C": "Hydrogen gas",
+      "D": "Oxygen gas"
+    },
+    "answer": "d",
+    "explanation": "During the electrolysis of dil. sulphuric acid using Pt electrodes following reaction will take place. At cathode : At anode : At the anode oxygen gas will be released.",
+    "year": "2020",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2020_C12_Q17-explanation1.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2020_C12_Q17-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "The number of Faradays (F) required to produce 20g of calcium from molten CaCl2 (Atomic mass of Ca = 40 g mol-1) is",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "answer": "c",
+    "explanation": "1 equivalent of any substance is deposited by 1F of charge. We have 20g calcium. No. of equivalent = given mass / equivalent mass Ca2+ + 2e-- → → Ca(s) v.f. = 2 According to Faraday's 1st law Charge passed in Faradey = g. equivalent of product = 2040×220/40 x 2 = 1 F So, 1 F of charge is required.",
+    "year": "2020",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "For a cell involving one electron E°cell = 0.59 V at 298 K, the equilibrium constant for the cell reaction is",
+    "options": {
+      "A": "1.0 × 102",
+      "B": "1.0 × 105",
+      "C": "1.0 × 1010",
+      "D": "1.0 × 1030"
+    },
+    "answer": "c",
+    "explanation": "We know,",
+    "year": "2019",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2019_C12_Q19-main.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2019_C12_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "For the cell reaction at 298 K. The standard Gibbs energy of the cell reaction is :[Given that Faraday constant F = 96500 C mol-1]",
+    "options": {
+      "A": "46.32 kJ mol-1",
+      "B": "23.16 kJ mol-1",
+      "C": "46.32 kJ mol-1",
+      "D": "23.16 kJ mol-1"
+    },
+    "answer": "a",
+    "explanation": "Here, n = 2 ΔGo = -nFEo = - 2 × 96500 × 0.24 = - 46320 J mol-1 = - 46.32 KJ mol-1",
+    "year": "2019",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2019_C12_Q20-main.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2019_C12_Q20-main2.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2019_C12_Q20-main3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 3,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Consider the change in the oxidation state of Bromine corresponding to different emf values as shown in the diagram below: Then the species undergoing disproportionation is",
+    "options": {
+      "A": "BrO3-",
+      "B": "BrO4-",
+      "C": "Br2",
+      "D": "HBrO"
+    },
+    "answer": "d",
+    "explanation": "Calculate Eocell corresponding to each compound undergoing disproportionation reaction. The reaction for which Eocell comes out + ve is spontaneous. HBrO → Br2, EoHBrO/Br2 = 1.595 V HBrO → BrO3-, EoBrO3-/HBrO = 1.595 V Eocell for the disproportionation of HBrO, Eocell = EoHBrO/Br2 - EoBrO3-/HBrO = 1.595 - 1.5 = 0.095 V = + ve So, Eocell > 0So, ΔGo < 0 (Spontaneous)",
+    "year": "2018",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2018_C12_Q21-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "In the electrochemical cell : the emf of this Daniell cell is E1. When the concentration of ZnSO4 is changed to 1.0 M and that of CuSO4 changed to 0.01 M, the emf changes to E2. From the followings, which one is the relationship between E1 and E2? (Given, RT/F = 0.059)",
+    "options": {
+      "A": "E1 < E2",
+      "B": "E1 > E2",
+      "C": "E2 = 0 ≠ E1",
+      "D": "E1 = E2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2017",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2017_C12_Q22-main.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2017_C12_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The molar conductivity of a 0.5 mol/dm3 of AgNO3 with electrolytic conductivity of 5.76 × x 10-3 S cm-1 at 298 K is",
+    "options": {
+      "A": "2.88 S cm2/mol",
+      "B": "11.52 S cm2/mol",
+      "C": "0.086 S cm2/mol",
+      "D": "28.8 S cm2/mol"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2016",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2016_C12_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "If the Eocell for a given reaction has a negative value, which of the following gives the correct relationships for the values of ΔGo and Keq ?",
+    "options": {
+      "A": "ΔGo > 0; Keq < 1",
+      "B": "ΔGo > 0; Keq > 1",
+      "C": "ΔGo < 0; Keq > 1",
+      "D": "ΔGo < 0; Keq < 1"
+    },
+    "answer": "a",
+    "explanation": "We know that",
+    "year": "2016",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2016_C12_Q24-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "During the electrolysis of molten sodium chloride, the time required to produce 0.10 mol of chlorine gas using a current of 3 amperes is",
+    "options": {
+      "A": "55 minutes",
+      "B": "110 minutes",
+      "C": "220 minutes",
+      "D": "330 minutes"
+    },
+    "answer": "b",
+    "explanation": "At cathode : 2Na+ + 2e- → 2Na At anode : 2Cl- → Cl2 + 2e- ---------------------------------------------- Net reaction: 2Na+ + 2Cl- → 2Na + Cl2 From Faraday's first law of electrolysis, = 6433.33 sec = 107.22 min ≃ 110 min",
+    "year": "2016",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2016_C12_Q25-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "Zinc can be coated on iron to produce galvanized iron but the reverse is not possible. It is because",
+    "options": {
+      "A": "zinc is lighter than iron",
+      "B": "zinc has lower melting point than iron",
+      "C": "zinc has lower negative electrode potential than iron",
+      "D": "zinc has higher negative electrode potential than iron"
+    },
+    "answer": "d",
+    "explanation": "The reduction potential values are E°Zn2+/Zn = - 0.76 V E°Fe2+/Fe = - 0.44 V Thus, due to higher negative electro potential value of zinc than iron, iron cannot be coated on zinc.",
+    "year": "2016",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "The number of electrons delivered at the cathode during electrolysis by a current of 1 ampere in 60 seconds is (charge on electron = 1.60 × 10-19C)",
+    "options": {
+      "A": "6 × 1023",
+      "B": "6 × 1020",
+      "C": "3.75 × 1020",
+      "D": "7.48 × 1023"
+    },
+    "answer": "c",
+    "explanation": "Q = I × t Q = 1 × 60 = 60 C Now, 1.60 × 10-19 C ≡ 1 electron",
+    "year": "2016",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2016_C12_Q27-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "The pressure of H2 required to make the potential of H2-electrode zero in pure water at 298 K is",
+    "options": {
+      "A": "10-4 atm",
+      "B": "10-14 atm",
+      "C": "10-12 atm",
+      "D": "10-10 atm"
+    },
+    "answer": "b",
+    "explanation": "pH = 7 for water.",
+    "year": "2016",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2016_C12_Q28-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Aqueous of which of the following compounds is the best conductor of electric current ?",
+    "options": {
+      "A": "Hydrochloric acid, HCl",
+      "B": "Ammonia, NH3",
+      "C": "Fructose, C6H12O6",
+      "D": "Acetic acid, C2H4O2"
+    },
+    "answer": "a",
+    "explanation": "HCl completely dissociates to give H+ and Cl- ions, hence act as very good electrolyte. While others are non- electrolytes.",
+    "year": "2015",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "A device that converts the energy of combustion of fuels like hydrogen and methane, directly into electrical energy is known as",
+    "options": {
+      "A": "Ni-Cd cell",
+      "B": "Fuel Cell",
+      "C": "Electrolytic Cell",
+      "D": "Dynamo"
+    },
+    "answer": "b",
+    "explanation": "A device that converts energy of combustion of fuels, directly into electrical energy is known as fuel cell.",
+    "year": "2015",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "When 0.1 mol is oxidised the quantity of electricity required to completely oxidise is",
+    "options": {
+      "A": "9650 C",
+      "B": "96.50 C",
+      "C": "96500 C",
+      "D": "2 × 96500 C"
+    },
+    "answer": "a",
+    "explanation": "The oxidation reaction is",
+    "year": "2014",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2014_C12_Q31-main.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2014_C12_Q31-main2.png",
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2014_C12_Q31-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "The weight of silver (at. wt. = 108) displaced by a quantity of electricity that displaces 5600 mL of O2 at STP will be",
+    "options": {
+      "A": "54.0 g",
+      "B": "108.0 g",
+      "C": "5.4 g",
+      "D": "10.8 g"
+    },
+    "answer": "b",
+    "explanation": "According to Faraday's second law,",
+    "year": "2014",
+    "chapter": "Electrochemistry",
+    "class": "C12",
+    "images": [
+      "CHEMISTRY/C12/chapters/electrochemistry/ELECTROCHEMISTRY-2014_C12_Q32-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

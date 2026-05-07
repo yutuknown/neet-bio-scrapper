@@ -1,0 +1,906 @@
+[
+  {
+    "id": "Q1",
+    "text": "Which of the following statements about RuBisCO is true?",
+    "options": {
+      "A": "It is an enzyme involved in the photolysis of water.",
+      "B": "It catalyzes the carboxylation of RuBP,",
+      "C": "It is active only in the dark.",
+      "D": "It has higher affinity for oxygen than carbon dioxide."
+    },
+    "answer": "b",
+    "explanation": "It catalyzes the carboxylation of RuBP: RuBisCO catalyzes the carboxylation (adding CO2) of ribulose-1,5-bisphosphate (RuBP), which is the initial and crucial step in the Calvin cycle of photosynthesis.This reaction produces two molecules of 3-phosphoglycerate (3-PGA), which are then further processed in the Calvin cycle to form glucose and other carbohydrates that are essential for plant growth and energy storage. Other Options: It is active only in the dark: This statement is incorrect because RuBisCO is active during the light phase of photosynthesis.Although RuBisCO itself does not directly depend on light, its activity is regulated by factors influenced by light, such as the presence of ATP and NADPH, which are generated during the light-dependent reactions of photosynthesis. It has higher affinity for oxygen than carbon dioxide: RuBisCO can bind both oxygen and carbon dioxide, it has a higher affinity for carbon dioxide under normal physiological conditions. It is an enzyme involved in the photolysis of water: This statement is incorrect because RuBisCO is not involved in the photolysis of water. Photolysis of water occurs during the light-dependent reactions of photosynthesis and is catalyzed by the oxygen-evolving complex (OEC) in photosystem II, not RuBisCO. Other Options: RuBisCO catalyzes the carboxylation (adding CO2) of ribulose-1,5-bisphosphate (RuBP), which is the initial and crucial step in the Calvin cycle of photosynthesis.This reaction produces two molecules of 3-phosphoglycerate (3-PGA), which are then further processed in the Calvin cycle to form glucose and other carbohydrates that are essential for plant growth and energy storage. It is active only in the dark: This statement is incorrect because RuBisCO is active during the light phase of photosynthesis.Although RuBisCO itself does not directly depend on light, its activity is regulated by factors influenced by light, such as the presence of ATP and NADPH, which are generated during the light-dependent reactions of photosynthesis. It has higher affinity for oxygen than carbon dioxide: RuBisCO can bind both oxygen and carbon dioxide, it has a higher affinity for carbon dioxide under normal physiological conditions. It is an enzyme involved in the photolysis of water: This statement is incorrect because RuBisCO is not involved in the photolysis of water. Photolysis of water occurs during the light-dependent reactions of photosynthesis and is catalyzed by the oxygen-evolving complex (OEC) in photosystem II, not RuBisCO.",
+    "year": "2025",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/photosynthesis-in-higher-plants/PHOTOSYNTHESIS_IN_HIGHER_PLANTS-2025_B11_Q1-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "Match List-I with List-II: Choose the option with all correct matches",
+    "options": {
+      "A": "A-I, B-II, C-IV, D-III",
+      "B": "A-I, B-IV, C-III, D-II",
+      "C": "A-III, B-IV, C-II, D-I",
+      "D": "A-III, B-I, C-II, D-IV"
+    },
+    "answer": "d",
+    "explanation": "Chlorophyll a (A): Chlorophyll a is the primary photosynthetic pigment in plants and appears bright or blue-green in chromatogramsChlorophyll b (B): Chlorophyll b is an accessory pigment to chlorophyll a and typically absorbs light in the blue and red part of the spectrum, appearing yellow-green.Xanthophyll (C): Xanthophylls are a class of oxygen-containing carotenoid pigments. They generally appear yellow in colour.Carotenoid (D): Carotenoids are pigments that range from red to yellow-orange. They specifically appear yellow to yellow-orange in chromatograms.",
+    "year": "2025",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/photosynthesis-in-higher-plants/PHOTOSYNTHESIS_IN_HIGHER_PLANTS-2025_B11_Q2-explanation1.jpg"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "Which of the following are required for the dark reaction of photosynthesis?",
+    "options": {
+      "A": "Light",
+      "B": "Chlorophyll",
+      "C": "CO2",
+      "D": "ATP"
+    },
+    "answer": "c",
+    "explanation": "The dark reactions of photosynthesis, also known as the Calvin cycle, do not directly require light to proceed and hence are termed \"dark reactions.\" The reactions occur in the stroma of chloroplasts and primarily involve the synthesis of organic molecules from carbon dioxide (CO2). Here's an analysis of the options provided: A. Light: Not required for the dark reactions themselves; these reactions are light-independent. B. Chlorophyll: Chlorophyll is essential for the light-dependent reactions of photosynthesis, where it absorbs light energy and helps convert it into chemical energy. It is not used directly in the dark reactions. C. CO2: Carbon dioxide is a critical substrate in the dark reactions. It is fixed into organic sugars through a series of enzymatic steps in the Calvin cycle. D. ATP: Adenosine triphosphate (ATP) is a vital energy carrier generated in the light reactions. It provides the energy required for the synthesis of glucose from CO2 in the dark reactions. E. NADPH: Nicotinamide adenine dinucleotide phosphate (NADPH) is another product of the light reactions and acts as a reducing agent, donating electrons during the reduction of CO2 to form glucose in the Calvin cycle. Given this understanding, the components required for the dark reaction are CO2 for carbon fixation, ATP for energy, and NADPH for reducing power. Therefore, the parts necessary from the given list are C, D and E . So, the correct answer to this question is: Option C: C, D, and E only",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "How many molecules of ATP and NADPH are required for every molecule of CO2 fixed in the Calvin cycle?",
+    "options": {
+      "A": "2 molecules of ATP and 3 molecules of NADPH",
+      "B": "2 molecules of ATP and 2 molecules of NADPH",
+      "C": "3 molecules of ATP and 3 molecules of NADPH",
+      "D": "3 molecules of ATP and 2 molecules of NADPH"
+    },
+    "answer": "d",
+    "explanation": "The Calvin cycle, also known as the Calvin-Benson-Bassham cycle, is the set of chemical reactions that take place in chloroplasts during photosynthesis. The cycle is light-independent because it takes place after the energy has been captured from sunlight. The Calvin cycle uses ATP and NADPH as energy sources, and incorporates CO2 into organic molecules, eventually producing glucose. The cycle consists of three main stages: Carbon fixationReduction phaseRegeneration of the ribulose-1,5-bisphosphate (RuBP) In the Calvin cycle: Carbon Fixation: Each CO2 molecule is attached to a five-carbon sugar named ribulose-1,5-bisphosphate (RuBP). This reaction is catalyzed by the enzyme ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO). The product of this reaction is a six-carbon intermediate that immediately splits into two molecules of 3-phosphoglycerate (3-PGA). Reduction Phase: Each 3-PGA is phosphorylated by ATP (consuming 2 ATP molecules total for two 3-PGA molecules) to form 1,3-bisphosphoglycerate. This molecule is then reduced by NADPH (using 2 NADPH molecules in total) to form glyceraldehyde-3-phosphate (G3P). Out of every six G3P formed, one exits the cycle to contribute towards forming glucose, while the rest are recycled to regenerate RuBP. Regeneration of RuBP: For every three CO2 molecules fixed, five molecules of G3P are used to regenerate three molecules of RuBP, requiring further ATP input (3 more ATP molecules). Thus, for each incorporated CO2 molecule, 3 ATP molecules and 2 NADPH molecules are required: 3 ATP molecules (2 for the reduction of two molecules of 3-PGA into 1,3-bisphosphoglycerate and then one for the regeneration phase of RuBP). 2 NADPH molecules are used to reduce two molecules of 1,3-bisphosphoglycerate to G3P. Therefore, the correct answer to the question is Option D: 3 molecules of ATP and 2 molecules of NADPH are required for every molecule of CO2 fixed in the Calvin cycle.",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Given below are two statements: Statement I: In C3 plants, some O2 binds to RuBisCO, hence CO2 fixation is decreased. Statement II: In C4 plants, mesophyll cells show very little photorespiration while bundle sheath cells do not show photorespiration. In the light of the above statements, choose the correct",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "c",
+    "explanation": "In C3 plant, some O2 bind to RuBisCO, and hence CO2 fixation is decreased. Statement II is incorrect, In C4 plants, photorespiration does not occur. This is because they have a mechanism that increases the concentration of CO2 at the enzyme site. This takes place when the C4 acid from the mesophyll is broken down in the bundle sheath cells to release CO2 - this results in increasing the intracellular concentration of CO2 . In turn, this ensures that the RuBisCO functions as a carboxylase minimising the oxygenase activity.",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "The photochemical phase of photosynthesis include",
+    "options": {
+      "A": "Oxygen release",
+      "B": "Formation of NADPH",
+      "C": "Use of ATP",
+      "D": "Water splitting"
+    },
+    "answer": "b",
+    "explanation": "The photochemical phase of photosynthesis, also known as the light-dependent reactions, involves the following processes: A. Oxygen release: During the photochemical phase, water molecules are split into oxygen, protons, and electrons (this is known as photolysis), releasing oxygen as a byproduct.B. Formation of NADPH: In the photochemical phase, electrons from water are passed through the electron transport chain, leading to the formation of NADPH, which is used in the next phase (Calvin cycle).D. Water splitting: The splitting of water molecules (photolysis) occurs during the photochemical phase, providing the electrons needed for the electron transport chain.C. Use of ATP: While ATP is produced in the photochemical phase via photophosphorylation, its usage occurs primarily in the Calvin cycle (the light-independent phase) rather than in the light-dependent reactions themselves.E. Carboxylation: This process, which involves the fixation of CO2 into an organic molecule, occurs in the Calvin cycle (light-independent phase), not in the photochemical phase. Therefore, the correct answer is (b): A, B, and D only.",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "upper_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "Match List-I with List-II Choose the correct",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "c",
+    "explanation": "A. C4 Pathway: The C4 pathway involves the enzyme phosphoenolpyruvate carboxylase that fixes carbon into a 4-carbon molecule, phosphoenol pyruvate (III).B. Light reaction: In the light reactions of photosynthesis, water is split to release oxygen and protons, which also generates electrons, as shown in the equation 2H2O → 4H+ + O2 = 4e- (I).C. Photorespiration: This is the process where oxygen is fixed by the enzyme RuBisCO leading to the production of phosphoglycolate (IV).D. Calvin cycle: In the Calvin cycle, Ribulose 1,5-bisphosphate (RuBP) is the molecule that reacts with carbon dioxide to form an unstable 6-carbon compound (II). Thus, the correct match is: A-III: C4 Pathway involves phosphoenolpyruvate.B-I: Light reaction involves water splitting.C-IV: Photorespiration results in phosphoglycolate.D-II: Calvin cycle uses Ribulose 1,5-bisphosphate.",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/photosynthesis-in-higher-plants/PHOTOSYNTHESIS_IN_HIGHER_PLANTS-2024_B11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q8",
+    "text": "How many molecules of ATP and NADPH are required, respectively, for fixation of every CO2 molecule entering the Calvin cycle?",
+    "options": {
+      "A": "2 and 4",
+      "B": "4 and 2",
+      "C": "3 and 2",
+      "D": "2 and 3"
+    },
+    "answer": "c",
+    "explanation": "In the Calvin cycle, for the fixation of one CO2 molecule, the following are required: 3 ATP molecules: One ATP is used to convert 3-phosphoglycerate (3-PGA) into 1,3-bisphosphoglycerate.Another ATP is used to convert glycerate-3-phosphate into glyceraldehyde-3-phosphate (G3P).The third ATP is needed for the regeneration of ribulose-1,5-bisphosphate (RuBP) from G3P. 2 NADPH molecules: Two NADPH molecules are used to reduce 1,3-bisphosphoglycerate into glyceraldehyde-3-phosphate (G3P). So, for each CO2 molecule fixed in the Calvin cycle, 3 ATP and 2 NADPH molecules are required.",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "Synthesis of ATP linked to development of a proton gradient across a membrane is",
+    "options": {
+      "A": "Mass flow hypothesis",
+      "B": "Wobble hypothesis",
+      "C": "Chemiosmotic hypothesis",
+      "D": "Rivet Popper hypothesis"
+    },
+    "answer": "c",
+    "explanation": "The Chemiosmotic hypothesis, proposed by Peter Mitchell, explains how ATP is synthesized in mitochondria and chloroplasts. According to this hypothesis, the energy from electrons moving through the electron transport chain is used to pump protons (H+) across a membrane, creating a proton gradient. This proton gradient generates a proton motive force (PMF) that drives ATP synthesis as protons flow back across the membrane through ATP synthase, linking the development of the proton gradient to ATP production.",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "Which of the following are required for the light reaction of photosynthesis? A. CO2 B. O2 C. H2O D. Chlorophyll E. Light",
+    "options": {
+      "A": "A , C, D and E only",
+      "B": "C, D and E only",
+      "C": "A and B only",
+      "D": "A, C and E only"
+    },
+    "answer": "b",
+    "explanation": "For the light reaction of photosynthesis, the following are required: C. H2O (Water): Water is split in the light reaction to provide electrons, protons, and oxygen (photolysis).D. Chlorophyll: Chlorophyll absorbs light energy, which is essential for the light reaction to occur.E. Light: Light energy is needed to excite electrons in chlorophyll, initiating the light-dependent reactions. A. CO2 and B. O2 are not required for the light reaction: CO2 is used in the Calvin cycle, which is the light-independent reaction.O2 is produced as a byproduct of the light reaction, but it is not required for the light reaction to occur. Thus, the correct answer is (b): C, D, and E only.",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "Which one of the following products diffuses out chloroplast during photosynthesis?",
+    "options": {
+      "A": "ADP",
+      "B": "NADPH",
+      "C": "O2",
+      "D": "ATP"
+    },
+    "answer": "c",
+    "explanation": "During photosynthesis, the light reactions occur in the chloroplast, where water (H2O) is split, releasing oxygen (O2) as a byproduct. This oxygen is then diffused out of the chloroplast into the surrounding environment. ADP, NADPH, and ATP are involved in the light reactions, but they do not diffuse out of the chloroplast. Instead, ADP is converted to ATP in the process, and NADPH is used in the Calvin cycle for carbon fixation. Thus, the correct answer is (c): O2.",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "Observe the given figure. Identify the different stages labelled with alphabets by selecting the correct option",
+    "options": {
+      "A": "A-Carboxylation, B-Regeneration, C-Reduction",
+      "B": "A-Reduction, B-Decarboxylation, C-Regeneration",
+      "C": "A-Carboxylation, B-Reduction, C-Regeneration",
+      "D": "A-Reduction, B-Carboxylation, C-Regeneration"
+    },
+    "answer": "c",
+    "explanation": "Based on the diagram provided: A (Carboxylation): This is the step where CO2 is fixed to Ribulose-1,5-bisphosphate (RuBP), forming an unstable 6-carbon compound which immediately breaks down into two molecules of 3-phosphoglycerate (3-PGA). This process is known as carboxylation.B (Reduction): In this stage, ATP and NADPH are used to convert 3-phosphoglycerate (3-PGA) into triose phosphate (G3P). This is a reduction reaction where electrons are transferred to the molecule.C (Regeneration): This step involves the regeneration of Ribulose-1,5-bisphosphate (RuBP) from triose phosphates (G3P), which is necessary for the Calvin cycle to continue. ATP is used for this regeneration process. Thus, the correct sequence is: A: Carboxylation (CO2 is added to RuBP)B: Reduction (3-PGA is converted to G3P)C: Regeneration (RuBP is regenerated from G3P)",
+    "year": "2024",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/photosynthesis-in-higher-plants/PHOTOSYNTHESIS_IN_HIGHER_PLANTS-2024_B11_Q12-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "How many ATP and NADPH2 are required for the synthesis of one molecule of Glucose during Calvin cycle? [NEET 2023]",
+    "options": {
+      "A": "12 ATP and 12 NADPH2",
+      "B": "18 ATP and 12 NADPH2",
+      "C": "12 ATP and 16 NADPH2",
+      "D": "18 ATP and 16 NADPH2"
+    },
+    "answer": "b",
+    "explanation": "For every CO2 molecule entering the Calvin cycle, 3 molecules of ATP and 2 of NADPH2 are required. To make one molecule of glucose, 6 turns of the cycle are required. Thus, ATP and NADPH2 molecules required for synthesis of one molecule of glucose during Calvin cycle will be",
+    "year": "2023",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/photosynthesis-in-higher-plants/PHOTOSYNTHESIS_IN_HIGHER_PLANTS-2023_B11_Q13-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The reaction centre in PS II has an absorption maxima at [2023]",
+    "options": {
+      "A": "680 nm",
+      "B": "700 nm",
+      "C": "660 nm",
+      "D": "780 nm"
+    },
+    "answer": "a",
+    "explanation": "In PS-I, the reaction centre chlorophyll a has an absorption peak at 700 nm, while in PS-II, reaction centre has an absorption maxima at 680 nm.",
+    "year": "2023",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "Which of the following combinations is required for chemiosmosis?",
+    "options": {
+      "A": "Proton pump, electron gradient, NADP synthase.",
+      "B": "Membrane, proton pump, proton gradient, ATP synthase.",
+      "C": "Membrane, proton pump, proton gradient, NADP synthase.",
+      "D": "Proton pump, electron gradient, ATP synthase."
+    },
+    "answer": "b",
+    "explanation": "Chemiosmosis is the process through which ATP is generated in the light reactions of photosynthesis and cellular respiration. The following are required for chemiosmosis: Membrane: A membrane (e.g., thylakoid membrane in chloroplasts or inner mitochondrial membrane) is essential for establishing the proton gradient.Proton pump: Proteins in the membrane, such as those in the electron transport chain, actively pump protons (H+) across the membrane, creating a proton gradient.Proton gradient: This gradient of protons across the membrane is what drives the synthesis of ATP.ATP synthase: This enzyme allows protons to flow back across the membrane through a channel, and the energy released is used to synthesize ATP from ADP and inorganic phosphate. Thus, (b) is the correct combination required for chemiosmosis.",
+    "year": "2023",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Match List - I with List - II Choose the correct",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "a",
+    "explanation": "Here is the correct matching based on the pigment colors: (A) Chlorophyll a: This pigment absorbs light most efficiently and reflects blue-green light, so it corresponds to (III).(B) Chlorophyll b: This pigment assists in photosynthesis by absorbing yellow-green light, so it corresponds to (II).(C) Xanthophyll: This pigment absorbs light and reflects yellow light, so it corresponds to (IV).(D) Carotenoids: These pigments reflect yellow to yellow-orange light, so they correspond to (I). Thus, the correct match is: (A) III: Chlorophyll a reflects blue-green light.(B) II: Chlorophyll b reflects yellow-green light.(C) IV: Xanthophyll reflects yellow light.(D) I: Carotenoids reflect yellow to yellow-orange light.",
+    "year": "2023",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [
+      "BIOLOGY/B11/chapters/photosynthesis-in-higher-plants/PHOTOSYNTHESIS_IN_HIGHER_PLANTS-2023_B11_Q16-main.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "image_backed_unresolved",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 0
+    },
+    "parserWarnings": [
+      "Option content appears to be image-backed and could not be extracted as text."
+    ]
+  },
+  {
+    "id": "Q17",
+    "text": "Given below are two statements: Statement I: RuBisCO is the most abundant enzyme in the world. Statement II: Photorespiration does not occur in C4 plants. In the light of the above statements, choose the most appropriate",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "c",
+    "explanation": "Statement I: RuBisCO is indeed the most abundant enzyme on Earth. It plays a crucial role in the Calvin cycle by fixing carbon dioxide (CO2) into ribulose-1,5-bisphosphate (RuBP). Due to its widespread presence in plants, algae, and cyanobacteria, it is considered the most abundant enzyme.Statement II: Photorespiration is a process where RuBisCO fixes oxygen instead of carbon dioxide, leading to a less efficient form of photosynthesis. However, in C4 plants, the enzyme PEP carboxylase fixes carbon dioxide first, reducing the occurrence of photorespiration. Although it is minimized, photorespiration can still occur in C4 plants under certain conditions (e.g., extreme heat or high oxygen concentrations), but it is much less than in C3 plants. Thus, both statements are correct in the context: RuBisCO is the most abundant enzyme (Statement I).Photorespiration is largely minimized in C4 plants (Statement II). So, the answer is (c).",
+    "year": "2023",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "Which of the following statements is incorrect?",
+    "options": {
+      "A": "Grana lamellae have both PS I and PS II",
+      "B": "Cyclic photophosphorylation involves both PS I and PS II",
+      "C": "Both ATP and NADPH + H⁺ are synthesized during non-cyclic photophosphorylation",
+      "D": "Stroma lamellae lack PS II and NADP reductase"
+    },
+    "answer": "b",
+    "explanation": "Statement 1: Grana lamellae (the thylakoid stacks) contain both Photosystem I (PS I) and Photosystem II (PS II). This is correct because the light reactions of photosynthesis occur in these grana and involve both photosystems.Statement 2: Cyclic photophosphorylation involves only Photosystem I (PS I). In this process, electrons from PS I are cycled back through the electron transport chain, generating ATP but not NADPH. Photosystem II (PS II) is not involved in cyclic photophosphorylation.Statement 3: In non-cyclic photophosphorylation, both ATP and NADPH + H+ are produced. This process involves both PS I and PS II, where PS II generates electrons and PS I is involved in the reduction of NADP+ to NADPH.Statement 4: Stroma lamellae (the connecting membrane between thylakoid stacks) indeed lack PS II and NADP+ reductase, but they do have components like ATP synthase that are involved in ATP synthesis. Thus, the incorrect statement is Statement 2, because cyclic photophosphorylation only involves PS I, not both PS I and PS II.",
+    "year": "2023",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "When one CO2 molecule is fixed as one molecule of triose phosphate, which of the following photochemically made, high energy chemical intermediates are used in the reduction phase? [NEET 2022 Phase 2]",
+    "options": {
+      "A": "2 ATP + 2 NADPH",
+      "B": "1 ATP + 1 NADPH",
+      "C": "1 ATP + 2 NADPH",
+      "D": "2 ATP + 1 NADPH"
+    },
+    "answer": "a",
+    "explanation": "In the Calvin cycle, during the reduction phase, two molecules of ATP and two molecules of NADPH are required to convert 3-phosphoglycerate into glyceraldehyde-3-phosphate (G3P), which is the precursor for glucose and other carbohydrates.",
+    "year": "2022",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "Identify the correct statements regarding chemiosmotic hypothesis: [NEET 2022 Phase 2]",
+    "options": {
+      "A": "Splitting of the water molecule takes place on the inner side of the membrane.",
+      "B": "Protons accumulate within the lumen of the thylakoids.",
+      "C": "Primary acceptor of electron transfers the electrons to an electron carrier.",
+      "D": "NADP reductase enzyme is located on the stroma side of the membrane."
+    },
+    "answer": "c",
+    "explanation": "Primary acceptor of electron transfers its electron not to an electron carrier but to an H carrier.Protons increase in number in lumen of the thylakoid not in stroma.",
+    "year": "2022",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "Given below are two statements: [NEET 2022 Phase 1] Statement I: The primary CO2 acceptor in C4 plants is phosphoenolpyruvate and is found in the mesophyll cells. Statement II: Mesophyll cells of C4 plants lack RuBisCo enzyme. In the light of the above statements, choose the correct",
+    "options": {
+      "A": "Both Statement I and Statement II are true.",
+      "B": "Both Statement I and Statement II are false.",
+      "C": "Statement I is true but Statement II is false.",
+      "D": "Statement I is false but Statement II is true."
+    },
+    "answer": "a",
+    "explanation": "The primary CO2 acceptor is a 3-carbon molecule, phosphoenol pyruvate (PEP) and is present in the mesophyll cells. Mesophyll cells of C4 plants lack RuBisCO enzyme.",
+    "year": "2022",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "fallback",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Which one of the following is not true regarding the release of energy during ATP synthesis through chemiosmosis? It involves",
+    "options": {
+      "A": "Breakdown of proton gradient",
+      "B": "Breakdown of electron gradient",
+      "C": "Movement of protons across the membrane to the stroma",
+      "D": "Reduction of NADP to NADPH2 on the stroma side of the membrane [NEET 2022 Phase 1]"
+    },
+    "answer": "b",
+    "explanation": "Chemiosmosis requires a membrane, a proton pump, a proton gradient and ATP synthase. Energy is used to pump protons across a membrane to create a gradient or a high concentration of protons within the thylakoid lumen. The NADP reductase enzyme is located on the stroma side of the membrane. Along with the electrons that come from the acceptor of electrons of PS I, protons are necessary for reduction of NADP+ to NADPH + H+. The process does not involve breaking of electron gradient.",
+    "year": "2022",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "The first stable product of CO2 fixation in sorghum is: [NEET 2021]",
+    "options": {
+      "A": "Succinic acid",
+      "B": "Phosphoglyceric acid",
+      "C": "Pyruvic acid",
+      "D": "Oxaloacetic acid"
+    },
+    "answer": "d",
+    "explanation": "Sorghum is a C4 plant. The first stable product of CO2 fixation in Sorghum is oxaloacetic acid.The first stable product in C3 cycle is 3-phosphoglyceric acid.Pyruvic acid is the end product of glycolysis.Succinic acid is an intermediate product in krebs cycle.",
+    "year": "2021",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "Which of the following statements is incorrect? [NEET 2021]",
+    "options": {
+      "A": "Grana lamellae have both PSI and PS II.",
+      "B": "Cyclic photophosphorylation involves both PS I and PS II.",
+      "C": "Both ATP and NADPH+H+ are non-cyclic synthesized during photophosphorylation.",
+      "D": "Stroma lamellae have PS I only and lack NADP reductase."
+    },
+    "answer": "b",
+    "explanation": "Cyclic photophosphorylation involves only PS I. Cyclic photophosphorylation is a process in which an electron expelled by the excited photocentre is returned to it after passing through a series of electron carriers. The excited electron does not pass on to NADP+ but is cycled back to the PS I complex through the electron transport chain.Non-cyclic photophosphorylation involves both photosystems I and II. The electron follows a non-cyclic pathway in it. The representation of it is also called Z scheme.Both PS I and PS II are found on grana lamellae whereas stroma lamellae have PS I only and lack NADP reductase.",
+    "year": "2021",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "The oxygenation activity of RuBisCo enzyme in photorespiration leads to the formation of: [NEET 2020]",
+    "options": {
+      "A": "1 molecule of 6-C compound",
+      "B": "1 molecule of 4-C compound and 1 molecule of 2-C compound",
+      "C": "2 molecules of 3-C compound",
+      "D": "1 molecule of 3-C compound"
+    },
+    "answer": "d",
+    "explanation": "In photorespiration, O2 binds to RubisCo. As a result RuBP instead to being converted to 2 molecules of PGA bind with O2 to form one molecule each of phosphoglycerate (3 carbon compound) and phosphoglycolate (2 carbon compound).",
+    "year": "2020",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "In light reaction, plastoquinone facilitates the transfer of electrons from: [NEET 2020]",
+    "options": {
+      "A": "PS-I to NADP+",
+      "B": "PS-I to ATP synthase",
+      "C": "PS-II to Cytb6f complex",
+      "D": "Cytb6complex to PS-I"
+    },
+    "answer": "c",
+    "explanation": "After excitement, e- is passed from PS-II (P680) to primary electron acceptor (Pheophytin). From primary e- acceptor, e- is passed to plastoquinone. Plastoquinone (PQ) in turn transfer its e- to Cytb6f complex. Therefore plastoquinone facilitates the transfer of electrons from PS-II to Cytb6f complex.",
+    "year": "2020",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Which of the following is not a product of light reaction of photosynthesis? [NEET 2018]",
+    "options": {
+      "A": "ATP",
+      "B": "NADH",
+      "C": "NADPH",
+      "D": "Oxygen"
+    },
+    "answer": "b",
+    "explanation": "Both ATP and NADPH + H+ are synthesized by electron flow in light reaction, and O2 is also a product of non-cyclic photoposphorylation.",
+    "year": "2018",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "With reference to factors affecting the rate of photosynthesis, which of the following statements is not correct? [NEET 2017]",
+    "options": {
+      "A": "Increasing atmospheric CO2 concentration up to 0.05% can enhance CO2 fixation rate.",
+      "B": "C3 plants respond to higher temperature with enhanced photosynthesis while C4 plants have much -lower temperature optimum.",
+      "C": "Tomato is a greenhouse crop which can be grown in CO2-enriched atmosphere for higher yield.",
+      "D": "Light saturation for CO2 fixation occurs at 10% of full sunlight."
+    },
+    "answer": "b",
+    "explanation": "C4 plants respond to higher temperature with enhanced photosynthesis while C3 plants have lower temperature optimum.",
+    "year": "2017",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "Phosphoenol pyruvate (PEP) is the primary CO2 acceptor in [NEET 2017]",
+    "options": {
+      "A": "C4 plants",
+      "B": "C2 plants",
+      "C": "C3 and C4 plants",
+      "D": "C3 plants."
+    },
+    "answer": "a",
+    "explanation": "In the mesophyll cells cytoplasm of C4 plants like sugarcane, maize, sorghum etc. PEP is 3C compound which serves as primary CO2 acceptor.",
+    "year": "2017",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q30",
+    "text": "The process which makes major difference between C3 and C4 plants is [ NEET 2016 Phase 2]",
+    "options": {
+      "A": "Glycolysis",
+      "B": "Calvin cycle",
+      "C": "Photorespiration",
+      "D": "Respiration"
+    },
+    "answer": "c",
+    "explanation": "Photorespiration is the light dependent process of oxygenation of ribulose biphosphate (RuBP) and release of carbon dioxide by the photosynthetic organs of a plant. It leads to oxidation of considerable amount of photosynthetic products to CO2 and H2O without the production of useful energy. Photorespiration occurs only in C3 plants because at high temperature and high oxygen concentration RuBP carboxylase changes to RuBP oxygenase. Photorespiration is absent in C4 plants. Peroxisome and mitochondria are required for completing the process.",
+    "year": "2016",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q31",
+    "text": "Water vapour comes out from the plant leaf through the stomatal opening. Through the same stomatal opening, carbon dioxide diffuses into the plant during photosynthesis. Reason out the above statements using one of following options: [NEET 2016 Phase 1]",
+    "options": {
+      "A": "The above processes happen only during night time.",
+      "B": "One process occurs during day time and the other at night.",
+      "C": "Both processes cannot happen simultaneously.",
+      "D": "Both processes can happen together because the diffusion coefficient of water and CO2 is different."
+    },
+    "answer": "d",
+    "explanation": "In actively growing plants, water is continuously evaporating from the surface of leaf cells through stomatal opening exposed to air. This is called transpiration. Through the same stomatal opening carbon dioxide diffuses into the plant during photosynthesis. Simultaneously as both are the process of simple diffusion occurs in order of diffusion pressure gradient or diffusion coefficient.",
+    "year": "2016",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q32",
+    "text": "In a chloroplast, the highest number of protons are found in [NEET 2016 Phase 1]",
+    "options": {
+      "A": "Intermembrane space",
+      "B": "Antennae complex",
+      "C": "Stroma",
+      "D": "Lumen of thylakoids"
+    },
+    "answer": "d",
+    "explanation": "Proton concentration is higher in the lumen of thylakoid due to photolysis of water, H+ pumping and NADP reductase activity in stroma. During the light-dependent reaction, protons are pumped across the thylakoid membrane into the lumen making it acidic down to pH 4.",
+    "year": "2016",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q33",
+    "text": "Emerson's enhancement effect and Red drop have been instrumental in the discovery of [NEET 2016 Phase 1]",
+    "options": {
+      "A": "Photophosphorylation and cyclic electron transport",
+      "B": "Oxidative phosphorylation",
+      "C": "Photophosphorylation and non-cyclic electron transport",
+      "D": "Two photosystems operating simultaneously"
+    },
+    "answer": "d",
+    "explanation": "Emerson et al. (1957) found that if light of shorter wavelengths was provided at the same time as the longer red wavelengths, photosynthesis was even faster than the sum of the two rates with either colour alone. This synergism or enhancement became known as the Emerson enhancement effect. The two separate groups of pigments or photosystems cooperate in photosynthesis-long red wavelengths are absorbed only by one photosystem, called photosystem 1 (PS I) and the second photosystem, photosystem II (PS II), absorbs wavelengths shorter than 690 nm, and for maximum photosynthesis wavelengths absorbed by both systems must function together. The two photosystems normally cooperate to cause photosynthesis at all wavelengths shorter than 690 nm, because both photosystems absorb those wavelengths. The importance of Emerson's work is that it suggested the presence of two distinct photosystems.",
+    "year": "2016",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q34",
+    "text": "Water-soluble pigments found in plant cell vacuoles are [NEET 2016 Phase 1]",
+    "options": {
+      "A": "Xanthophylls",
+      "B": "Chlorophylls",
+      "C": "Carotenoids",
+      "D": "Anthocyanins"
+    },
+    "answer": "d",
+    "explanation": "Many leaves produce water-soluble vacuolar pigments, which are stored within cell vacuoles (microscopic water sacs within each cell). Two major classes of leaf vacuolar pigments are anthocyanins and betalains.",
+    "year": "2016",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q35",
+    "text": "A plant in your garden avoids photorespiratory losses, has improved water use efficiency, shows high rates of photosynthesis at high temperatures and has improved efficiency of nitrogen utilisation. In which of the following physiological groups would you assign this plant? [NEET 2016 Phase 1]",
+    "options": {
+      "A": "CAM",
+      "B": "Nitrogen fixer",
+      "C": "C3",
+      "D": "C4"
+    },
+    "answer": "d",
+    "explanation": "C4 plants are adapted to hot and dry climate and lack photorespiration due to Kranz anatomy and have Greater productivity of biomass.",
+    "year": "2016",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q36",
+    "text": "Chromatophores take part in: [NEET 2015 / AIPMT 2015 ]",
+    "options": {
+      "A": "Growth",
+      "B": "Movement",
+      "C": "Respiration",
+      "D": "Photosynthesis"
+    },
+    "answer": "d",
+    "explanation": "Chromatophores play an important role in the process of photo synthesis. They contain pigments and are found in blue green algae.",
+    "year": "2015",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q37",
+    "text": "In photosynthesis, the light-independent reactions take place at: [NEET 2015 / AIPMT 2015 ]",
+    "options": {
+      "A": "Photosystem-I",
+      "B": "Photosystem-II",
+      "C": "Stromal matrix",
+      "D": "Thylakoid lumen"
+    },
+    "answer": "c",
+    "explanation": "In photosynthesis, light-independent reactions are known as dark reactions. They take place in the stromal matrix of chloroplast where all the enzymes required for the reaction are present. This process does not depend directly on the presence of light but is dependent on the products of light reaction i.e., ATP and NADPH. The dark reaction occur through Calvin cycle.",
+    "year": "2015",
+    "chapter": "Photosynthesis in Higher Plants",
+    "class": "B11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]

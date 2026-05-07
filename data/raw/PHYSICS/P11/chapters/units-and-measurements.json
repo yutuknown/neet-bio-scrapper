@@ -1,0 +1,769 @@
+[
+  {
+    "id": "Q1",
+    "text": "In a vernier callipers, (N + 1) divisions of vernier scale coincide with N divisions of main scale. If 1MSD represents 0.1mm, the vernier constant (in cm) is: [2024]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "100N",
+      "D": "10(N + 1)"
+    },
+    "answer": "",
+    "explanation": "- VSD=",
+    "year": "2024",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q1-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q1-explanation2.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q1-explanation3.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q1-explanation4.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q2",
+    "text": "The quantities which have the same dimensions as those of solid angle are: [2024]",
+    "options": {
+      "A": "strain and angle",
+      "B": "stress and angle",
+      "C": "strain and arc",
+      "D": "angular speed and stress"
+    },
+    "answer": "",
+    "explanation": "=",
+    "year": "2024",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q2-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q2-explanation2.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q2-explanation3.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q2-explanation4.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q2-explanation5.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q2-explanation6.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q2-explanation7.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q3",
+    "text": "A force defined by acts on a particle at a given time t. The factor which is dimensionless, if α and β are constants, is: [2024]",
+    "options": {
+      "A": "βt / α",
+      "B": "αt / β",
+      "C": "αβt",
+      "D": "αβ / t"
+    },
+    "answer": "",
+    "explanation": "",
+    "year": "2024",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q3-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q3-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q4",
+    "text": "The percentage errors in the measurement of mass and momentum of an object are 1 % and 2 % respectively. The percentage error in the measurement of kinetic energy of the object will be: [2024]",
+    "options": {
+      "A": "1 %",
+      "B": "3 %",
+      "C": "4 %",
+      "D": "5 %"
+    },
+    "answer": "",
+    "explanation": "⇒ v = p / m Thus, the kinetic energy can be expressed as: K.E. = (p²) / (2m) Now, we calculate the percentage error in K.E. by using the formula for propagation of errors: Percentage error in K.E. = 2 × (percentage error in p) + (percentage error in m) This is because the momentum p appears squared, and mass m appears linearly. Percentage error in K.E. = 2 × 2% + 1% = 4% + 1% = 5%. Thus, the percentage error in the measurement of kinetic energy is 5%.",
+    "year": "2024",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q5",
+    "text": "Match List- I with List- II. Choose the correct answer from the options given below: [2024]",
+    "options": {
+      "A": "A-III, B-II, C-I, D-IV",
+      "B": "A-III, B-I, CII, D-IV",
+      "C": "A-I, B-II, C-IV, D-III",
+      "D": "A-IV, B-I, C-II, D-III"
+    },
+    "answer": "d",
+    "explanation": "To match the measured values with the correct number of significant figures, let's analyze each value: A. 0.001213 This number has 4 significant figures (the leading zeros do not count). Hence, the correct option is IV (4 significant figures). B. 2.1 × 1016 This number is written in scientific notation, and the coefficient (2.1) has 2 significant figures. Hence, the correct option is I (2 significant figures). C. 3.70 This number has 3 significant figures because the trailing zero after the decimal point is significant. Hence, the correct option is II (3 significant figures). D. 3000 This number can be ambiguous. Without a decimal point, the number of significant figures is usually considered to be 1 (based on standard conventions for scientific notation). Hence, the correct option is III (1 significant figure). Thus, the correct matches are: A → IV (4 significant figures)B → I (2 significant figures)C → II (3 significant figures)D → III (1 significant figure) The correct answer is (4) A-IV, B-I, C-II, D-III.",
+    "year": "2024",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2024_P11_Q5-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q6",
+    "text": "A vernier callipers has 1 mm marks on the main scale. It has 20 equal divisions on the vernier scale which match with 16 main scale divisions. The least count of this vernier calipers is: [2024]",
+    "options": {
+      "A": "0.02 mm",
+      "B": "0.05 mm",
+      "C": "0.10 mm",
+      "D": "0.20 mm"
+    },
+    "answer": "d",
+    "explanation": "To calculate the least count of the vernier calipers, we can use the following formula: Least Count (LC) = Value of one main scale division (MSD) - Value of one vernier scale division (VSD) Given: 1 main scale division (MSD) = 1 mmThere are 20 equal divisions on the vernier scale, which match with 16 divisions on the main scale. Now, let's find the value of one vernier scale division (VSD): Since 20 divisions on the vernier scale match with 16 divisions on the main scale, we can write: Value of 1 VSD = (16 MSD) / 20 = 16 mm / 20 = 0.8 mm Thus, the value of one vernier scale division (VSD) is 0.8 mm. Now, we can calculate the least count: LC = 1 MSD - 1 VSD = 1 mm - 0.8 mm = 0.2 mm Therefore, the least count of the vernier calipers is 0.2 mm. The correct answer is (d) 0.20 mm.",
+    "year": "2024",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q7",
+    "text": "A metal wire has mass (0.4 ± 0.002) g, radius (0.3 ± 0.001) mm and length (5 ± 0.02) cm. The maximum possible percentage error in the measurement of density will nearly be [2023]",
+    "options": {
+      "A": "1.2%",
+      "B": "1.3%",
+      "C": "1.6%",
+      "D": "1.4%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2023_P11_Q7-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q8",
+    "text": "The errors in the measurement which arise due to unpredictable fluctuations in temperature and voltage supply are [2023]",
+    "options": {
+      "A": "Instrumental errors",
+      "B": "Personal errors",
+      "C": "Least count errors",
+      "D": "Random errors"
+    },
+    "answer": "d",
+    "explanation": "⌃The errors which cannot be associated with any systematic or constant cause are called random errors. These errors can arise due to unpredictable fluctuations in experimental conditions. e.g., random change in pressure, temperature, voltage supply etc.",
+    "year": "2023",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "packed_upper_labels",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q9",
+    "text": "The diameter of a spherical bob, when measured with vernier callipers yielded the following values : 3.33 cm,3.32 cm,3.34 cm,3.33 cm and 3.32 cm. The mean diameter to appropriate significant figures is : [2023]",
+    "options": {
+      "A": "3.328 cm",
+      "B": "3.3 cm",
+      "C": "3.33 cm",
+      "D": "3.32 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2023_P11_Q9-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q10",
+    "text": "The mechanical quantity, which has dimensions of reciprocal of mass (M-1) is : [2023]",
+    "options": {
+      "A": "angular momentum",
+      "B": "coefficient of thermal conductivity",
+      "C": "torque",
+      "D": "gravitational constant"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2023",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2023_P11_Q10-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q11",
+    "text": "The errors in the measurement which arise due to unpredictable fluctuations in temperature and voltage supply are: [2023]",
+    "options": {
+      "A": "Random errors",
+      "B": "Instrumental errors",
+      "C": "Personal errors",
+      "D": "Least count errors"
+    },
+    "answer": "a",
+    "explanation": "Random errors are errors that occur due to unpredictable fluctuations in external factors such as temperature, voltage supply, or other environmental conditions. These errors vary in magnitude and direction, making them hard to control or predict. They can lead to slight variations in measurements every time an experiment is repeated.Instrumental errors are caused by faults in the measuring instruments themselves, such as calibration issues or wear and tear. They are not due to external fluctuations like temperature or voltage.Personal errors are caused by human mistakes during measurement or reading, such as misreading an instrument or incorrectly recording data.Least count errors are errors due to the limitations of the instrument's least count or the smallest division that can be measured. These errors are systematic and occur due to the inherent limitations of the measuring device. Therefore, errors arising from unpredictable fluctuations in temperature and voltage supply are classified as random errors. Thus, the correct answer is (a) Random errors.",
+    "year": "2023",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q12",
+    "text": "The physical quantity that has the same dimensional formula as pressure is [2022]",
+    "options": {
+      "A": "Coefficient of viscosity",
+      "B": "Force",
+      "C": "Momentum",
+      "D": "Young's modulus of elasticity"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2022_P11_Q12-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q13",
+    "text": "The percentage error in the measurement of g is : (Given that , s) [2022]",
+    "options": {
+      "A": "7%",
+      "B": "2%",
+      "C": "5%",
+      "D": "3%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2022",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2022_P11_Q13-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2022_P11_Q13-explanation2.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2022_P11_Q13-explanation3.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q14",
+    "text": "The dimensions [MLT-2A-2 ] belong to the [2022]",
+    "options": {
+      "A": "Self-inductance",
+      "B": "Magnetic permeability",
+      "C": "Electric permittivity",
+      "D": "Magnetic flux"
+    },
+    "answer": "b",
+    "explanation": "The dimensional formula of magnetic permeability is [MLT-2A-2 ]",
+    "year": "2022",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q15",
+    "text": "The area of a rectangular field (in m2 ) of length 55.3 m and breadth 25 m after rounding off the value for correct significant digits is [2022]",
+    "options": {
+      "A": "1382",
+      "B": "1382.5",
+      "C": "14 × 102",
+      "D": "138 × 101"
+    },
+    "answer": "c",
+    "explanation": "Area = Length × Breadth = 55.3 × 25 m2 = 1382.5 m2 = 14 × 102 m2 (Rounding off of two significant figures)",
+    "year": "2022",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q16",
+    "text": "Match List-I with List-II Choose the correct answer from the options given below [2022]",
+    "options": {
+      "A": "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+      "B": "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)",
+      "C": "(a) - (iv), (b) - (ii), (c) - (i), (d) - (iii)",
+      "D": "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)"
+    },
+    "answer": "a",
+    "explanation": "So, the correct answer is option (a). (a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+    "year": "2022",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2022_P11_Q16-main.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2022_P11_Q16-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 1,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q17",
+    "text": "Plane angle and solid angle have [2022]",
+    "options": {
+      "A": "Dimensions but no units",
+      "B": "No units and no dimensions",
+      "C": "Both units and dimensions",
+      "D": "Units but no dimensions"
+    },
+    "answer": "d",
+    "explanation": "⌃",
+    "year": "2022",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2022_P11_Q17-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "packed_upper_labels",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q18",
+    "text": "A Screw Guage gives the following readings when used to measure the diameter of a wire. Main scale reading = 0.0 mm Circular scale reading = 52 divisions Given that: 1 mm on the main scale corresponds to 100 divisions of the circular scale. The diameter of the wire from the above data is: [2021]",
+    "options": {
+      "A": "0.026 cm",
+      "B": "0.005 cm",
+      "C": "0.52 cm",
+      "D": "0.052 cm"
+    },
+    "answer": "d",
+    "explanation": "Diameter of wire,",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q18-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q19",
+    "text": "If force [F], acceleration [A] and time [T] are chosen as the fundamental physical quantities. Find the dimensions of energy. [2021]",
+    "options": {
+      "A": "[F][A][T-1]",
+      "B": "[F][A-1][T]",
+      "C": "[F][A][T]",
+      "D": "[F][A][T2]"
+    },
+    "answer": "d",
+    "explanation": "",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q19-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q20",
+    "text": "If E and G respectively denote energy and gravitational constant, then E/G has the dimensions of : [2021]",
+    "options": {
+      "A": "[M] [L0] [T0]",
+      "B": "[M2] [L-2] [T-1]",
+      "C": "[M2] [L-1] [T0]",
+      "D": "[M] [L-1] [T-1]"
+    },
+    "answer": "c",
+    "explanation": "E = energy = [ML2T-2] G = Gravitational constant = [M-1L3T-2] So, E/G = [E]/[G] = ML2T-2/M-1L3T-2 = [M2L-1T0]2020",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q21",
+    "text": "A screw gauge has least count of 0.01 mm and there are 50 divisions in its circular scale. [2020] The pitch of the screw gauge is",
+    "options": {
+      "A": "0.25 mm",
+      "B": "0.5 mm",
+      "C": "1.0 mm",
+      "D": "0.01 mm"
+    },
+    "answer": "b",
+    "explanation": "Least count of screw gauge =",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q21-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q21-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q22",
+    "text": "Taking into account of the significant figures, what is the value of 9.99 m-0.0099 m? [2020]",
+    "options": {
+      "A": "9.980 m",
+      "B": "9.9 m",
+      "C": "9.9801 m",
+      "D": "9.98 m"
+    },
+    "answer": "d",
+    "explanation": "As per rule least no. of place in decimal portion of any number 9.98.",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q22-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q23",
+    "text": "Dimensions of stress are : [2020]",
+    "options": {
+      "A": "[ML2T-2]",
+      "B": "[ML0T-2]",
+      "C": "[ML-1T-2]",
+      "D": "[MLT-2]"
+    },
+    "answer": "c",
+    "explanation": "2019",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q23-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q24",
+    "text": "In an experiment, the percentage of error occurred in the measurement of physical quantities A, B, C and D are 1%, 2%, 3% and 4% respectively. Then the maximum percentage of error in the measurement X, where will be [2019]",
+    "options": {
+      "A": "[diagram]",
+      "B": "16 %",
+      "C": "10 %",
+      "D": "10 %"
+    },
+    "answer": "b",
+    "explanation": "Given = 2% + 1%+ 1%+ 12%= 16%2018",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q24-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q24-explanation2.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q24-explanation3.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q24-explanation4.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q24-explanation5.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q24-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 2,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q25",
+    "text": "A student measured the diameter of a small steel ball using a screw gauge of least count 0.001 cm. The main scale reading is 5 mm and zero of circular scale division coincides with 25 divisions above the reference level. If screw gauge has a zero error of - 0.004 cm, the correct diameter of the ball is :- [2018]",
+    "options": {
+      "A": "0.521 cm",
+      "B": "0.525 cm",
+      "C": "0.053 cm",
+      "D": "0.529 cm"
+    },
+    "answer": "d",
+    "explanation": "Solution: Reading of screw gauge = MSR + VSR × LC + zero error = 0.5 cm + 25 × 0.001 cm + 0.004 cm = 0.529 cm2017",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q26",
+    "text": "A physical quantity of the dimensions of length that can be formed out of is velocity of light, G is universal constant of gravitation and e is charge] :- [2017]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "d",
+    "explanation": "2016",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q26-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q26-explanation2.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q26-explanation3.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q26-explanation4.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q26-explanation5.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q26-explanation6.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 5,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q27",
+    "text": "Planck's constant (h), speed of light in vacuum (c) and Newton's gravitational constant (G) are three fundamental constants. Which of the following combinations of these has the dimension of length ? [2016]",
+    "options": {
+      "A": "[diagram]",
+      "B": "[diagram]",
+      "C": "[diagram]",
+      "D": "[diagram]"
+    },
+    "answer": "a",
+    "explanation": "According to question, L ∝ hp cq Gr [M0LT0] = [ML2T-1]p [LT-1]q [M-1L3T-2]r Equating power both sides, we get p - r = 0 ......(1) 2p + q + 3r = 1 ......(2) - p - q - 2r = 0 ......(3) Solving equation (1), (2), (3), we get 2015",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q27-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q27-explanation2.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q27-explanation3.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q27-explanation4.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q27-explanation5.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 4,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q28",
+    "text": "If dimensions of critical velocity vc of a liquid flowing through a tube are expressed as where η,ρ and r are the coefficient of viscosity of liquid, density of liquid and radius of the tube respectively, then the values of x, y and z are given by: [2015]",
+    "options": {
+      "A": "1, -1, -1",
+      "B": "1, 1, 1",
+      "C": "1, -1, -1",
+      "D": "1, -1, 1"
+    },
+    "answer": "c",
+    "explanation": "Put dimensions of various quantities,[M0LT-1] = [ML-1T-1]x [ML-3T0]y [M0LT0]z = [Mx + y L- x - 3y + z T- x]Equating power both sides, we getx + y = 0;- x - 3y + z = 1;- x = - 1On solving, we getx = 1, y = -1, z = -1 :",
+    "year": "2021",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q28-explanation1.png",
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2021_P11_Q28-explanation2.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "lower_markers",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  },
+  {
+    "id": "Q29",
+    "text": "If force (F), velocity (V) and time(T) are taken as fundamental units, then the dimensions of mass are: [2014]",
+    "options": {
+      "A": "[F V-1 T-1]",
+      "B": "[F V-1 T]",
+      "C": "[F V T-1]",
+      "D": "[F V T-2]"
+    },
+    "answer": "b",
+    "explanation": "",
+    "year": "2015",
+    "chapter": "Units and Measurements",
+    "class": "P11",
+    "images": [
+      "PHYSICS/P11/chapters/units-and-measurements/UNITS_AND_MEASUREMENTS-2015_P11_Q29-explanation1.png"
+    ],
+    "tables": [],
+    "optionExtraction": {
+      "source": "inline_lower_option_lines",
+      "status": "parsed",
+      "imageTokenCount": 0,
+      "nonEmptyOptionCount": 4
+    },
+    "parserWarnings": []
+  }
+]
