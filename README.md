@@ -137,12 +137,32 @@ npm run dashboard:serve
 
 The audit subsystem evaluates structural and semantic accuracy. Risk bands (`High`, `Medium`, `Low`) are mathematically determined in `audit/score_chapter.py`:
 
+<div align="center">
+  <img src="docs/assets/audit_scoring.svg" alt="Audit Scoring Engine" width="90%" />
+</div>
+
+<br/>
+
 - **Structural Accuracy**: Ensures perfect JSON schema validation.
 - **Completeness**: Compares expected expected marker counts from source HTML to what was structurally extracted.
 - **Semantic Accuracy**: Calculates block alignment between original text chunks and the segmented JSON arrays.
 - **Anomaly Score**: A blended penalty applying weights to Schema Gaps (`40%`), Empty Explanations (`25%`), Duplicate Options (`20%`), and High Image Densities (`15%`).
 
 For a deep dive, see [docs/architecture.md](docs/architecture.md).
+
+---
+
+## 📦 Publishing & Deployment
+
+Once the scraped data is audited and verified locally via the Vite dashboard, it is ready to be published to the production environment.
+
+<div align="center">
+  <img src="docs/assets/publishing_flow.svg" alt="Publishing Flow" width="90%" />
+</div>
+
+<br/>
+
+For full publishing guidelines, see [docs/publishing.md](docs/publishing.md).
 
 ---
 
