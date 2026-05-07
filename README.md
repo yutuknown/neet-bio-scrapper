@@ -13,7 +13,16 @@
 
 <br/>
 
-A **production-grade scraper pipeline** designed to accurately extract, audit, and visualize NEET Previous Year Questions (PYQs) from EduRev across **Biology, Physics, and Chemistry**. It produces highly deterministic JSON outputs, perfectly maps diagrammatic assets, mathematically audits for structural anomalies, and ships a static review dashboard.
+A **production-grade data pipeline** originally built as a Biology scraper, now fully evolved into a comprehensive engine to accurately extract, audit, and visualize NEET Previous Year Questions (PYQs) across **Biology, Physics, and Chemistry**. It produces highly deterministic JSON outputs, maps complex diagrammatic assets, mathematically audits for structural anomalies, and ships a static review dashboard for QA.
+
+---
+
+## 🚀 What's New in v2.0.0
+
+* **Multi-Subject Expansion**: Evolved from a single `Biology` pipeline to robust, dedicated controllers and runners for `Physics` and `Chemistry`.
+* **Deep Audit Subsystem**: Replaced basic checks with a complex Python scoring engine (`score_chapter.py`) that mathematically calculates Risk Bands based on structural schema validity and semantic block alignment.
+* **Decoupled Architecture**: Cleanly separated `scraper/core` from `scraper/subjects` and `scraper/runners` for enterprise-grade scalability.
+* **Premium Visual Documentation**: Upgraded all architectural diagrams and flows with inline-styled, perfectly aligned glassmorphic SVGs for native GitHub rendering.
 
 ---
 
